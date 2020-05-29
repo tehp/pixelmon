@@ -1,0 +1,692 @@
+{
+  "minecraft:chest": {
+    "culling": false,
+    "occluding": false,
+    "flammable": false
+  },
+  "pixelmon:silicon_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:amethyst_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:sapphire_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:ruby_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:crystal_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:bauxite_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:dawn_dusk_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:fossil": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:fire_stone_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:leaf_stone_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_oran": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:yellow_apricorn_tree": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:black_apricorn_tree": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:pink_apricorn_tree": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_salac": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_wiki": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_babiri": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:green_apricorn_tree": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_mago": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_starf": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_grepa": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:thunder_stone_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:water_stone_ore": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:blue_apricorn_tree": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:red_apricorn_tree": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_aguav": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_coba": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:white_apricorn_tree": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_lum": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:poke_chest": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_micle": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_passho": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_chople": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_chilan": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:moss_rock": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_kelpsy": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_leppa": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_jaboca": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_lansat": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_apicot": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_chesto": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_ganlon": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:healer": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_persim": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_rawst": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_hondew": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_iapapa": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_qualot": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_charti": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_kasib": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_rowap": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_colbur": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_wacan": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_enigma": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_tanga": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_pomeg": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_sitrus": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_aspear": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_pecha": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_figy": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_rindo": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_shuca": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_cheri": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_petaya": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_yache": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_haban": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:master_chest": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_roseli": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_kebia": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:ultra_chest": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_tamato": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:pc": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_custap": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_occa": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:berrytree_liechi": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:bolder": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:smooth_diorite": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:blue_clock": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:blue_vending_machine": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:blue_rug": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:trash_can": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:oak_sign": {
+    "culling": false,
+    "occluding": false,
+    "flammable": false
+  },
+  "variedcommodities:banner": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:oak_wall_sign": {
+    "culling": false,
+    "occluding": false,
+    "flammable": false
+  },
+  "minecraft:smooth_andesite": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:end_table": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:red_chair": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:pixelmon_spawner": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:plateholder": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:placeholder": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:gracideablock": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:mower": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:couch_wood": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:hidden_wooden_door": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:lamp": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:pedestal": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:big_sign": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:barrel": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:temple_slab": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:temple_double_slab": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:mechanical_anvil": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:picket_fence": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:temple_pillar": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:lamp_unlit": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "customnpcs:npcbuilderblock": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "customnpcs:npcborder": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:warp_plate": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:poke_gift": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:anvil": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:gym_sign": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:shelf": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:beam": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:sign": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:tombstone": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:candle": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:skull": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:wall_banner": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:wall_banner": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:tall_lamp": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:crate": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:box": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "customnpcs:npcmailbox": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:campfire": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:elevator": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:piston_extension": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "customnpcs:npcredstoneblock": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:hidden_cube": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:black_shulker_box": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:red_nether_brick": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:barrier": {
+    "culling": false,
+    "occluding": false,
+    "flammable": false
+  },
+  "minecraft:trapped_chest": {
+    "culling": false,
+    "occluding": false,
+    "flammable": false
+  },
+  "variedcommodities:chair": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:book": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:trade_machine": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:crystal_block": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:fossil_machine": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:fossil_cleaner": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  }
+}

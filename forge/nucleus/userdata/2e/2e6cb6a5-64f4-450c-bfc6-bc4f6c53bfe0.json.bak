@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "lastKnownName": "tehpp",
+  "lastLogin": 1590620563791,
+  "lastLogout": 1590624277019,
+  "lastIP": "/70.68.240.223",
+  "firstJoin": 1590339259092,
+  "startedFirstJoin": false,
+  "isFrozen": false,
+  "fly": true,
+  "jailOnNextLogin": false,
+  "vanish": false,
+  "invulnerable": false,
+  "lastLocation": {
+    "x": -623.154898850059,
+    "y": 91.0,
+    "z": -1368.3813447184746,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
+  },
+  "user-prefs": {
+    "nucleus:view-staff-chat": true,
+    "nucleus:social-spy": true,
+    "nucleus:command-spy": true
+  },
+  "homes": {
+    "home": {
+      "x": -592.6070546734879,
+      "y": 73,
+      "z": -1359.5335479349417,
+      "rotx": 16.748645782470703,
+      "roty": 269.4735412597656,
+      "rotz": 0,
+      "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
+    }
+  },
+  "nickname-text": "{\"text\":\"tehp\"}",
+  "warnings": [],
+  "mail": [],
+  "notes": [],
+  "powertools": {}
+}

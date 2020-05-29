@@ -1,0 +1,43 @@
+[00:06:58] [pool-3-thread-660/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:07:28] [pool-3-thread-664/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:07:58] [pool-3-thread-660/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[00:16:58] [pool-3-thread-669/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:17:28] [pool-3-thread-664/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:17:58] [pool-3-thread-664/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[00:26:58] [pool-3-thread-668/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:27:28] [pool-3-thread-669/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:27:58] [pool-3-thread-668/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[00:36:58] [pool-3-thread-669/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:37:28] [pool-3-thread-671/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:37:58] [pool-3-thread-669/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[00:46:58] [pool-3-thread-671/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:47:28] [pool-3-thread-672/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:47:58] [pool-3-thread-671/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[00:56:58] [pool-3-thread-672/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[00:57:28] [pool-3-thread-674/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[00:57:58] [pool-3-thread-675/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[01:06:58] [pool-3-thread-671/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:07:28] [pool-3-thread-677/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:07:58] [pool-3-thread-677/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[01:16:58] [pool-3-thread-681/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:17:28] [pool-3-thread-680/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:17:58] [pool-3-thread-679/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[01:26:58] [pool-3-thread-683/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:27:28] [pool-3-thread-681/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:27:58] [pool-3-thread-679/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[01:36:58] [pool-3-thread-686/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:37:28] [pool-3-thread-686/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:37:58] [pool-3-thread-681/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[01:46:58] [pool-3-thread-686/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:47:28] [pool-3-thread-686/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:47:58] [pool-3-thread-692/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[01:56:58] [pool-3-thread-694/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[01:57:28] [pool-3-thread-691/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[01:57:58] [pool-3-thread-694/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[02:03:32] [qtp1243300063-18228/WARN] [webapi]: Illegal character 0x0 in state=METHOD for buffer HeapByteBuffer@486980be[p=4,l=209,c=8192,r=205]={238\x00<<<ll|'|'|SGFjS2VkX0...Rsb29rAA==|'|'|>>>Type, Accept, X-W...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[02:06:58] [pool-3-thread-695/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[02:07:28] [pool-3-thread-694/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[02:07:58] [pool-3-thread-694/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.
+[02:16:58] [pool-3-thread-691/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 1 minutes 0 seconds.
+[02:17:28] [pool-3-thread-691/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] Ground items will be cleared in 30 seconds.
+[02:17:58] [pool-3-thread-691/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [CatClearLag] 0 items have been cleared.

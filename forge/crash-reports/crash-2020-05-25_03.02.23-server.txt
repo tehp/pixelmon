@@ -1,0 +1,88 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  SpongeCoremod (spongeforge-1.12.2-2838-7.2.1.jar)
+Contact their authors BEFORE contacting forge
+
+// Why is it breaking :(
+
+Time: 5/25/20 3:02 AM
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Exception in server tick loop
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:784)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.handler$zje000$onCrashReport(MinecraftServer.java:4687)
+
+-- Sponge PhaseTracker --
+Details:
+	Phase Stack: [Empty stack]
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.handler$zje000$onCrashReport(MinecraftServer.java:4687)
+	at net.minecraft.server.MinecraftServer.func_71230_b(MinecraftServer.java:889)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71230_b(DedicatedServer.java:371)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:558)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.15.0-66-generic
+	Java Version: 1.8.0_252, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 1246995008 bytes (1189 MB) / 1908932608 bytes (1820 MB) up to 1908932608 bytes (1820 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx2G
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 21 mods loaded, 21 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	Mods:
+
+	| State  | ID                | Version           | Source                                 | Signature                                |
+	|:------ |:----------------- |:----------------- |:-------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft         | 1.12.2            | minecraft.jar                          | None                                     |
+	| LCHIJA | mcp               | 9.42              | minecraft.jar                          | None                                     |
+	| LCHIJA | FML               | 8.0.99.99         | forge.jar                              | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge             | 14.23.5.2854      | forge.jar                              | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | spongeapi         | 7.2.0-f12f8e774   | spongeforge-1.12.2-2838-7.2.1.jar      | None                                     |
+	| LCHIJA | sponge            | 1.12.2-7.2.1      | spongeforge-1.12.2-2838-7.2.1.jar      | None                                     |
+	| LCHIJA | spongeforge       | 1.12.2-2838-7.2.1 | spongeforge-1.12.2-2838-7.2.1.jar      | None                                     |
+	| LCHIJA | customnpcs        | 1.12              | CustomNPCs_1.12.2-(01Oct19).jar        | None                                     |
+	| LCHIJA | pixelmon          | 7.2.2             | Pixelmon-1.12.2-7.2.2-universal.jar    | None                                     |
+	| LCHIJA | pixelextras       | 2.5.7             | PixelExtras-1.12.2-2.5.7-universal.jar | None                                     |
+	| LCHIJA | variedcommodities | 1.12.2            | VariedCommodities_1.12.2(21nov19).jar  | None                                     |
+
+
+	Plugins:
+
+	| State  | ID             | Version         | Source                                             | Signature |
+	|:------ |:-------------- |:--------------- |:-------------------------------------------------- |:--------- |
+	| LCHIJA | pjc            | 0.3.0           | projectcore-7.2.0-0.3.0.jar                        | None      |
+	| LCHIJA | pjw            | 0.13.1          | projectworlds-7.2.0-0.13.1.jar                     | None      |
+	| LCHIJA | bluemap        | 0.7.0-mc1.12    | BlueMap-0.7.0-mc1.12-sponge.jar                    | None      |
+	| LCHIJA | placeholderapi | 4.4             | PlaceholderAPI-4.4.jar                             | None      |
+	| LCHIJA | simpletablist  | 1.2.1           | simpletablist-1.2.1.jar                            | None      |
+	| LCHIJA | worldedit      | 6.1.10-SNAPSHOT | worldedit-sponge-api7.1.0-6.1.10-SNAPSHOT-dist.jar | None      |
+	| LCHIJA | nucleus        | 1.12.1-S7.1     | Nucleus-1.12.1-S7.1-MC1.12.2-plugin.jar            | None      |
+	| LCHIJA | economylite    | 2.15.1          | EconomyLite-7.1.0-2.15.1.jar                       | None      |
+	| LCHIJA | autocommands   | 1.0.0-SNAPSHOT  | AutoCommands-1.0.0-SNAPSHOT.jar                    | None      |
+	| LCHIJA | luckperms      | 5.1.17          | LuckPerms-Sponge-5.1.17.jar                        | None      |
+
+	Loaded coremods (and transformers): 
+SpongeCoremod (spongeforge-1.12.2-2838-7.2.1.jar)
+  org.spongepowered.common.launch.transformer.SpongeSuperclassTransformer
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Definitely; Server brand changed to 'fml,forge,sponge'
+	Type: Dedicated Server (map_server.txt)

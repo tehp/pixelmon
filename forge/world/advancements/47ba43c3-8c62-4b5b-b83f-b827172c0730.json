@@ -1,0 +1,24 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-05-25 22:11:52 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2020-05-25 21:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2020-05-25 21:26:46 +0000",
+      "swampland": "2020-05-25 21:27:28 +0000",
+      "forest_hills": "2020-05-25 21:49:51 +0000",
+      "plains": "2020-05-25 21:20:12 +0000",
+      "river": "2020-05-25 21:27:09 +0000"
+    },
+    "done": false
+  }
+}

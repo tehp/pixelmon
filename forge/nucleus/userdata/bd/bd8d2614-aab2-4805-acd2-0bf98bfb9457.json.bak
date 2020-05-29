@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "vanish": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "fly": false,
+  "invulnerable": false,
+  "lastKnownName": "JKeem",
+  "lastLogin": 1590545958659,
+  "lastLogout": 1590554702516,
+  "lastIP": "/70.68.235.88",
+  "firstJoin": 1590341524108,
+  "startedFirstJoin": false,
+  "user-prefs": {
+    "nucleus:view-staff-chat": true
+  },
+  "lastLocation": {
+    "x": -639.2973732409383,
+    "y": 66.0,
+    "z": -1391.310494344398,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
+  },
+  "nickname-text": "{\"color\":\"green\",\"text\":\"AboveQuestionMark\"}",
+  "powertools": {
+    "minecraft:stone_axe": [
+      "/paste"
+    ],
+    "minecraft:wooden_axe": [
+      "/paste"
+    ]
+  },
+  "homes": {
+    "shaymintown": {
+      "x": -1211.5134222482566,
+      "y": 63.0,
+      "z": -1665.751192982263,
+      "rotx": 33.026275634765625,
+      "roty": 51.965423583984375,
+      "rotz": 0.0,
+      "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
+    }
+  },
+  "warnings": [],
+  "mail": [],
+  "notes": [],
+  "ignoreList": []
+}

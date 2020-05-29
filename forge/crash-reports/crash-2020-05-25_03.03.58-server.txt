@@ -1,0 +1,133 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  SpongeCoremod (spongeforge-1.12.2-2838-7.2.1.jar)
+Contact their authors BEFORE contacting forge
+
+// Quite honestly, I wouldn't worry myself about that.
+
+Time: 5/25/20 3:03 AM
+Description: Exception generating new chunk
+
+org.spongepowered.api.util.PositionOutOfBoundsException: Position is out of bounds: expected in range (464, 0, -16) to (479, 0, -1) but got (464, 0, 16)
+	at org.spongepowered.common.util.gen.AbstractBiomeBuffer.checkRange(AbstractBiomeBuffer.java:60)
+	at org.spongepowered.common.util.gen.ObjectArrayMutableBiomeBuffer.setBiome(ObjectArrayMutableBiomeBuffer.java:105)
+	at com.gmail.trentech.pjw.extra.OceanBiomeGenerator.generateBiomes(OceanBiomeGenerator.java:20)
+	at org.spongepowered.common.world.gen.SpongeChunkGenerator.func_185932_a(SpongeChunkGenerator.java:244)
+	at net.minecraft.world.gen.ChunkProviderServer.redirect$bap000$impl$generateChunkWithSponge(ChunkProviderServer.java:2071)
+	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:143)
+	at net.minecraft.server.management.PlayerChunkMapEntry.redirect$bai000$forgeImpl$UpdateLoadedChunk(PlayerChunkMapEntry.java:1576)
+	at net.minecraft.server.management.PlayerChunkMapEntry.func_187268_a(PlayerChunkMapEntry.java:126)
+	at net.minecraft.server.management.PlayerChunkMap.func_72693_b(SourceFile:147)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:227)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at org.spongepowered.common.util.gen.AbstractBiomeBuffer.checkRange(AbstractBiomeBuffer.java:60)
+	at org.spongepowered.common.util.gen.ObjectArrayMutableBiomeBuffer.setBiome(ObjectArrayMutableBiomeBuffer.java:105)
+	at com.gmail.trentech.pjw.extra.OceanBiomeGenerator.generateBiomes(OceanBiomeGenerator.java:20)
+	at org.spongepowered.common.world.gen.SpongeChunkGenerator.func_185932_a(SpongeChunkGenerator.java:244)
+	at net.minecraft.world.gen.ChunkProviderServer.redirect$bap000$impl$generateChunkWithSponge(ChunkProviderServer.java:2071)
+
+-- Chunk to be generated --
+Details:
+	Location: 29,-1
+	Position hash: -4294967267
+	Generator: net.minecraft.world.gen.ChunkGeneratorOverworld@45e0401b
+
+-- Current PhaseState --
+Details:
+	Generation{Terrain:TERRAIN_GENERATION}: java.io.PrintStream@3c0c46a6
+Stacktrace:
+	at net.minecraft.world.gen.ChunkProviderServer.func_186025_d(ChunkProviderServer.java:143)
+	at net.minecraft.server.management.PlayerChunkMapEntry.redirect$bai000$forgeImpl$UpdateLoadedChunk(PlayerChunkMapEntry.java:1576)
+	at net.minecraft.server.management.PlayerChunkMapEntry.func_187268_a(PlayerChunkMapEntry.java:126)
+	at net.minecraft.server.management.PlayerChunkMap.func_72693_b(SourceFile:147)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:227)
+
+-- Affected level --
+Details:
+	Level name: builds
+	All players: 1 total; [EntityPlayerMP['Aboveexpert'/265, l='builds', x=317.14, y=113.15, z=136.05]]
+	Chunk stats: ServerChunkCache: 822 Drop: 0
+	Level seed: 8733795233991885067
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: {}
+	Level spawn location: World: (222,64,193), Chunk: (at 14,4,1 in 13,12; contains blocks 208,0,192 to 223,255,207), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 7417 game time, 7417 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 116360 (now: false), thunder time: 42255 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+
+-- Sponge PhaseTracker --
+Details:
+	Phase Stack: [Empty stack]
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.handler$zje000$onCrashReport(MinecraftServer.java:4687)
+	at net.minecraft.server.MinecraftServer.func_71230_b(MinecraftServer.java:889)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71230_b(DedicatedServer.java:371)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:554)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.15.0-66-generic
+	Java Version: 1.8.0_252, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 1004326520 bytes (957 MB) / 1923088384 bytes (1834 MB) up to 1923088384 bytes (1834 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx2G
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 21 mods loaded, 21 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	Mods:
+
+	| State  | ID                | Version           | Source                                 | Signature                                |
+	|:------ |:----------------- |:----------------- |:-------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft         | 1.12.2            | minecraft.jar                          | None                                     |
+	| LCHIJA | mcp               | 9.42              | minecraft.jar                          | None                                     |
+	| LCHIJA | FML               | 8.0.99.99         | forge.jar                              | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge             | 14.23.5.2854      | forge.jar                              | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | spongeapi         | 7.2.0-f12f8e774   | spongeforge-1.12.2-2838-7.2.1.jar      | None                                     |
+	| LCHIJA | sponge            | 1.12.2-7.2.1      | spongeforge-1.12.2-2838-7.2.1.jar      | None                                     |
+	| LCHIJA | spongeforge       | 1.12.2-2838-7.2.1 | spongeforge-1.12.2-2838-7.2.1.jar      | None                                     |
+	| LCHIJA | customnpcs        | 1.12              | CustomNPCs_1.12.2-(01Oct19).jar        | None                                     |
+	| LCHIJA | pixelmon          | 7.2.2             | Pixelmon-1.12.2-7.2.2-universal.jar    | None                                     |
+	| LCHIJA | pixelextras       | 2.5.7             | PixelExtras-1.12.2-2.5.7-universal.jar | None                                     |
+	| LCHIJA | variedcommodities | 1.12.2            | VariedCommodities_1.12.2(21nov19).jar  | None                                     |
+
+
+	Plugins:
+
+	| State  | ID             | Version         | Source                                             | Signature |
+	|:------ |:-------------- |:--------------- |:-------------------------------------------------- |:--------- |
+	| LCHIJA | pjc            | 0.3.0           | projectcore-7.2.0-0.3.0.jar                        | None      |
+	| LCHIJA | pjw            | 0.13.1          | projectworlds-7.2.0-0.13.1.jar                     | None      |
+	| LCHIJA | bluemap        | 0.7.0-mc1.12    | BlueMap-0.7.0-mc1.12-sponge.jar                    | None      |
+	| LCHIJA | placeholderapi | 4.4             | PlaceholderAPI-4.4.jar                             | None      |
+	| LCHIJA | simpletablist  | 1.2.1           | simpletablist-1.2.1.jar                            | None      |
+	| LCHIJA | worldedit      | 6.1.10-SNAPSHOT | worldedit-sponge-api7.1.0-6.1.10-SNAPSHOT-dist.jar | None      |
+	| LCHIJA | nucleus        | 1.12.1-S7.1     | Nucleus-1.12.1-S7.1-MC1.12.2-plugin.jar            | None      |
+	| LCHIJA | economylite    | 2.15.1          | EconomyLite-7.1.0-2.15.1.jar                       | None      |
+	| LCHIJA | autocommands   | 1.0.0-SNAPSHOT  | AutoCommands-1.0.0-SNAPSHOT.jar                    | None      |
+	| LCHIJA | luckperms      | 5.1.17          | LuckPerms-Sponge-5.1.17.jar                        | None      |
+
+	Loaded coremods (and transformers): 
+SpongeCoremod (spongeforge-1.12.2-2838-7.2.1.jar)
+  org.spongepowered.common.launch.transformer.SpongeSuperclassTransformer
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 20; [EntityPlayerMP['Aboveexpert'/265, l='builds', x=317.14, y=113.15, z=136.05], EntityPlayerMP['IkDik'/269, l='world', x=-1113.63, y=114.98, z=-990.73]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge,sponge'
+	Type: Dedicated Server (map_server.txt)

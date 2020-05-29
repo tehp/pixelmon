@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "invulnerable": false,
+  "fly": false,
+  "lastKnownName": "snakes866",
+  "lastLogin": 1590466593649,
+  "lastLogout": 1590474139991,
+  "lastIP": "/70.68.76.101",
+  "firstJoin": 1590356075471,
+  "startedFirstJoin": false,
+  "jailOnNextLogin": false,
+  "isFrozen": false,
+  "vanish": false,
+  "lastLocation": {
+    "x": -710.9429068717742,
+    "y": 88.0,
+    "z": -1390.123345655939,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
+  },
+  "warnings": [
+    {
+      "warner": "5ac3d986-f006-4828-a504-ef9f0a2669b5",
+      "reason": "shum",
+      "date": 1590361374348,
+      "expired": false
+    }
+  ],
+  "homes": {
+    "home": {
+      "x": -547.9784182998523,
+      "y": 72.0,
+      "z": -1453.2673037551888,
+      "rotx": 1.2413289546966553,
+      "roty": -206.0803680419922,
+      "rotz": 0.0,
+      "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
+    }
+  },
+  "mail": [],
+  "notes": [],
+  "powertools": {}
+}

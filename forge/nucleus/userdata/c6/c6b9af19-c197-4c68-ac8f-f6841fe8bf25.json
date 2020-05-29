@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "invulnerable": false,
+  "lastKnownName": "cjfergy",
+  "lastLogin": 1590443449330,
+  "lastLogout": 1590445261034,
+  "lastIP": "/70.69.228.192",
+  "firstJoin": 1590443449330,
+  "startedFirstJoin": false,
+  "mail": [],
+  "isFrozen": false,
+  "vanish": false,
+  "fly": false,
+  "jailOnNextLogin": false,
+  "notes": [],
+  "warnings": [],
+  "lastLocation": {
+    "x": -602.3339975304676,
+    "y": 70.0,
+    "z": -1334.863671030495,
+    "rotx": 0.0,
+    "roty": 0.0,
+    "rotz": 0.0,
+    "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
+  }
+}
