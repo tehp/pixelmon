@@ -688,5 +688,10 @@
     "culling": true,
     "occluding": true,
     "flammable": false
+  },
+  "variedcommodities:weapon_rack": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
   }
 }

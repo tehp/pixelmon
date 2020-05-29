@@ -1007,6 +1007,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/fossil_machine": {
+    "criteria": {
+      "has_display": "2020-05-29 19:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2020-05-25 20:12:29 +0000"

@@ -351,5 +351,11 @@
   "variedcommodities:crystal_block:0": "variedcommodities:crystal_block[]",
   "pixelmon:fossil_machine:3": "pixelmon:fossil_machine[]",
   "pixelmon:fossil_cleaner:11": "pixelmon:fossil_cleaner[]",
-  "pixelmon:fossil_machine:11": "pixelmon:fossil_machine[]"
+  "pixelmon:fossil_machine:11": "pixelmon:fossil_machine[]",
+  "variedcommodities:couch_wood:5": "variedcommodities:couch_wood[]",
+  "variedcommodities:shelf:5": "variedcommodities:shelf[]",
+  "variedcommodities:weapon_rack:0": "variedcommodities:weapon_rack[]",
+  "variedcommodities:weapon_rack:7": "variedcommodities:weapon_rack[]",
+  "variedcommodities:weapon_rack:5": "variedcommodities:weapon_rack[]",
+  "variedcommodities:weapon_rack:12": "variedcommodities:weapon_rack[]"
 }
