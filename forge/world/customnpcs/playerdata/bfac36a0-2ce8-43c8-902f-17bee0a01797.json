@@ -28,6 +28,10 @@
     "PlayerName": "IkDik",
     "QuestData": {
         "CompletedQuests": [
+            {
+                "Quest": 2,
+                "Date": 10692500L
+            }
         ],
         "ActiveQuests": [
         ]
@@ -35,5 +39,50 @@
     "UUID": "bfac36a0-2ce8-43c8-902f-17bee0a01797",
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        },
+        {
+            "Dialog": 15
+        },
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 17
+        },
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 22
+        }
     ]
 }

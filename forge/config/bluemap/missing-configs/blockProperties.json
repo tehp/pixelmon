@@ -693,5 +693,110 @@
     "culling": true,
     "occluding": true,
     "flammable": false
+  },
+  "minecraft:smooth_granite": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:unown_block2": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:braille_block": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:ruins_wall": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:temple_block": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:dusty_ruins_wall": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:temple_brick": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:temple_brick_slab": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:temple_brick_double_slab": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:purpur_double_slab": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:purpur_slab": {
+    "culling": false,
+    "occluding": false,
+    "flammable": false
+  },
+  "pixelmon:clothed_table": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:yellow_vending_machine": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:sapphire_block": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:amethyst_block": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:ruby_block": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:crystal_block": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "minecraft:red_shulker_box": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:red_rug": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:couch_wool": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "variedcommodities:carpentry_bench": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
   }
 }

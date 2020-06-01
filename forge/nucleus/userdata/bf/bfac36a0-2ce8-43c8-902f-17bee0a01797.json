@@ -59,8 +59,8 @@
   "jailOnNextLogin": false,
   "invulnerable": false,
   "lastKnownName": "IkDik",
-  "lastLogin": 1590469557269,
-  "lastLogout": 1590480924796,
+  "lastLogin": 1590875554840,
+  "lastLogout": 1590885333991,
   "lastIP": "/205.250.155.247",
   "firstJoin": 1590363757353,
   "startedFirstJoin": false,
@@ -68,16 +68,12 @@
   "vanish": false,
   "isFrozen": false,
   "lastLocation": {
-    "x": -824.2153082844499,
-    "y": 117.2760428903025,
-    "z": -1488.0817337781357,
-    "rotx": 0.0,
-    "roty": 0.0,
-    "rotz": 0.0,
+    "x": -634.6682134816779,
+    "y": 109.26252035977673,
+    "z": -1375.0395936440848,
+    "rotx": 0,
+    "roty": 0,
+    "rotz": 0,
     "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
-  },
-  "mail": [],
-  "notes": [],
-  "warnings": [],
-  "powertools": {}
+  }
 }

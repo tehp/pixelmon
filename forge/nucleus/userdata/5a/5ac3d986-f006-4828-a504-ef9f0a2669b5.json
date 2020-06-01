@@ -3,55 +3,56 @@
   "homes": {
     "home": {
       "x": -153.84083243158133,
-      "y": 74,
+      "y": 74.0,
       "z": 236.25382645290682,
       "rotx": 6.730093002319336,
       "roty": 112.54196166992188,
-      "rotz": 0,
+      "rotz": 0.0,
       "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
     },
     "maybespawn": {
       "x": -547.9784182998523,
-      "y": 72,
+      "y": 72.0,
       "z": -1453.2673037551888,
       "rotx": 1.9091265201568604,
       "roty": -181.45533752441406,
-      "rotz": 0,
+      "rotz": 0.0,
       "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
     },
     "flower": {
       "x": -1147.5014661623204,
-      "y": 83,
+      "y": 83.0,
       "z": -1685.5889650371623,
       "rotx": 10.1355562210083,
       "roty": 270.4884033203125,
-      "rotz": 0,
+      "rotz": 0.0,
       "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
     }
   },
   "lastKnownName": "Aboveexpert",
-  "lastLogin": 1590785763330,
-  "lastLogout": 1590783175720,
+  "lastLogin": 1590984714720,
+  "lastLogout": 1590984701385,
   "lastIP": "/23.16.19.188",
   "firstJoin": 1590339241294,
   "startedFirstJoin": false,
   "isFrozen": false,
   "user-prefs": {
-    "nucleus:view-staff-chat": true,
-    "nucleus:command-spy": true
+    "nucleus:view-staff-chat": false,
+    "nucleus:command-spy": true,
+    "nucleus:message-receiving-enabled": true
   },
   "jailOnNextLogin": false,
   "vanish": false,
-  "nickname-text": "{\"color\":\"aqua\",\"text\":\"Nick\"}",
+  "nickname-text": "{\"color\":\"dark_aqua\",\"text\":\"Nick\"}",
   "invulnerable": false,
   "lastLocation": {
-    "x": 552.0983894225637,
-    "y": 74.23749204649648,
-    "z": 216.1432266698226,
+    "x": -629.2771943075122,
+    "y": 69.61819951443675,
+    "z": -1354.4538059210774,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
-    "world": "ea2c3b9d-0d70-4185-b367-f13cfca5463b"
+    "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
   },
   "warnings": [
     {
@@ -91,6 +92,7 @@
       "/fixwater 30"
     ]
   },
+  "notes": [],
   "mail": [],
-  "notes": []
+  "ignoreList": []
 }

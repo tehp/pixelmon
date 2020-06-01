@@ -1,0 +1,34 @@
+{
+  "id": "Corsola",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Corsola"
+      },
+      "stringLocationTypes": [
+        "Seafloor",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:luminous_moss",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "ocean",
+          "beaches",
+          "coral_reef"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

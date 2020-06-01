@@ -1,0 +1,29 @@
+{
+  "id": "Ponyta",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ponyta"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "plains",
+          "savannas"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

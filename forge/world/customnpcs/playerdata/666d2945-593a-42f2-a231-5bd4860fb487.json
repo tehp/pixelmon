@@ -27,5 +27,14 @@
     "UUID": "666d2945-593a-42f2-a231-5bd4860fb487",
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        }
     ]
 }

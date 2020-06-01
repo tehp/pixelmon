@@ -1,0 +1,153 @@
+{
+    "CompleterNpc": "Grimmel",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "IgnoreNBT": 0b,
+    "Title": "Kill 1 pokemon",
+    "Text": "yoink a mudbray soul",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1590967457150L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 1b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "customnpcs:npcsoulstonefilled",
+                "Count": 1b,
+                "tag": {
+                    "Entity": {
+                        "HurtByTimestamp": 0,
+                        "ForgeData": {
+                        },
+                        "Attributes": [
+                            {
+                                "Base": 10.0d,
+                                "Name": "generic.maxHealth"
+                            },
+                            {
+                                "Base": 0.0d,
+                                "Name": "generic.knockbackResistance"
+                            },
+                            {
+                                "Base": 0.20000000298023224d,
+                                "Name": "generic.movementSpeed"
+                            },
+                            {
+                                "Base": 0.0d,
+                                "Name": "generic.armor"
+                            },
+                            {
+                                "Base": 0.0d,
+                                "Name": "generic.armorToughness"
+                            },
+                            {
+                                "Base": 1.0d,
+                                "Name": "forge.swimSpeed"
+                            },
+                            {
+                                "Base": 16.0d,
+                                "Name": "generic.followRange"
+                            }
+                        ],
+                        "Invulnerable": 0b,
+                        "FallFlying": 0b,
+                        "ForcedAge": 0,
+                        "PortalCooldown": 0,
+                        "AbsorptionAmount": 0.0f,
+                        "FallDistance": 0.0f,
+                        "ModRev": 1,
+                        "InLove": 0,
+                        "DeathTime": 0s,
+                        "ForgeCaps": {
+                        },
+                        "HandDropChances": [
+                            0.085f,
+                            0.085f
+                        ],
+                        "PersistenceRequired": 0b,
+                        "id": "minecraft:cow",
+                        "Age": 0,
+                        "Motion": [
+                            0.0d,
+                            -0.0784000015258789d,
+                            0.0d
+                        ],
+                        "Leashed": 0b,
+                        "Health": 10.0f,
+                        "LeftHanded": 0b,
+                        "Air": 300s,
+                        "OnGround": 1b,
+                        "Dimension": 0,
+                        "Rotation": [
+                            5.540012f,
+                            0.0f
+                        ],
+                        "UpdateBlocked": 0b,
+                        "HandItems": [
+                            {
+                            },
+                            {
+                            }
+                        ],
+                        "ArmorDropChances": [
+                            0.085f,
+                            0.085f,
+                            0.085f,
+                            0.085f
+                        ],
+                        "Fire": -1s,
+                        "ArmorItems": [
+                            {
+                            },
+                            {
+                            },
+                            {
+                            },
+                            {
+                            }
+                        ],
+                        "CanPickUpLoot": 0b,
+                        "HurtTime": 0s
+                    },
+                    "Name": "entity.Cow.name"
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "good work",
+    "NextQuestTitle": ""
+}

@@ -31,7 +31,7 @@ Breeding {
 # Options for the elevator.
 Elevator {
     # Maximum search range up/down for a pairing elevator.
-    elevatorSearchRange=10
+    elevatorSearchRange=15
 }
 # Settings for enabling External Files
 ExternalFiles {
@@ -44,11 +44,11 @@ ExternalFiles {
     # Load external configuration files used for moves from the "pixelmon/moves" folder. If set to true and the "pixelmon/moves" folder does not exist, Pixelmon will create the folder and dump the existing files there.
     useExternalJSONFilesMoves=false
     # Load external configuration files used for NPCs from the "pixelmon/npcs" folder. If set to true and the "pixelmon/npcs" folder does not exist, Pixelmon will create the folder and dump the existing files there.
-    useExternalJSONFilesNPCs=false
+    useExternalJSONFilesNPCs=true
     # Load external configuration files used for battle rules from the "pixelmon/rules" folder. If set to true and the "pixelmon/rules" folder does not exist, Pixelmon will create the folder and dump the existing files there.
     useExternalJSONFilesRules=false
     # Load external configuration files used for spawning from the "pixelmon/spawning" folder. If set to true and the "pixelmon/spawning" folder does not exist, Pixelmon will create the folder and dump the existing files there.
-    useExternalJSONFilesSpawning=false
+    useExternalJSONFilesSpawning=true
     # Load external configuration files used for stats from the "pixelmon/stats" folder. If set to true and the "pixelmon/stats" folder does not exist, Pixelmon will create the folder and dump the existing files there.
     useExternalJSONFilesStats=false
     # Load external configuration files used for structures from the "pixelmon/structures" folder. If set to true and the "pixelmon/structures" folder does not exist, Pixelmon will create the folder and dump the existing files there.
@@ -177,7 +177,7 @@ General {
     # Set Legendary shrines to one use (false) or multiple use (true).
     reusableBirdShrines=false
     # Allow Legendary bird shrines to spawn randomly in world.
-    spawnBirdShrines=true
+    spawnBirdShrines=false
     # Allow random generation of structures such as Pokémon Centers, shrines, and other buildings if true.
     spawnStructures=false
     # If true, must be opped to use spawners. If false, must be in Creative mode.
@@ -310,7 +310,7 @@ Riding {
     # Requires flying and water Pokémon mounts to have HM moves Fly or Surf (respectively) to use those abilities when ridden.
     requireHM=false
     # Multipier for the speed that mounted Pokémon travel at.
-    ridingSpeedMultiplier=1
+    ridingSpeedMultiplier=1.5
 }
 # Settings that control what Pokémon spawns and how many of them spawn.
 Spawning {
@@ -336,7 +336,7 @@ Spawning {
     # Range in blocks that Clear/Tidal Bells will seek out other bells.
     bellInclusionRange=10
     # Chance that a bell, at dawn, will start to ring. 1 = 100%.
-    bellSuccessChance=0.01
+    bellSuccessChance=1.0
     # The rate of boss Pokémon in the wild (1/x) not including mega bosses.
     bossRate=256
     # Chance that a mega boss spawn attempt will succeed (0-1)
@@ -407,9 +407,9 @@ Spawning {
     # Sets whether or not Pokémon levels are determined by distance from the World's spawn point.
     spawnLevelsByDistance=false
     # Whether or not wild Pokémon will have levels closer to the player's Pokémon.
-    spawnLevelsCloserToPlayerLevels=true
+    spawnLevelsCloserToPlayerLevels=false
     # Poke Marts will spawn with shopkeepers in Minecraft's towns.
-    spawnPokeMarts=true
+    spawnPokeMarts=false
     # A multiplier that speeds up legendary and mega boss spawning based on player count. ticks = spawnTicks / (1 + (number of players - 1) * spawnTicksPlayerMultiplier)
     spawnTicksPlayerMultiplier=0.009999999776482582
     # Whether End Cities should be generated in new Ultra Space chunks.

@@ -1,0 +1,77 @@
+{
+    "data": {
+        "trainerType": "Gardener",
+        "minLevel": 25,
+        "maxLevel": 45,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 4,
+        "winnings": 48
+    },
+    "pokemon": [
+        {
+            "name": "Bulbasaur"
+        },
+        {
+            "name": "Ivysaur"
+        },
+        {
+            "name": "Venusaur"
+        },
+        {
+            "name": "Oddish"
+        },
+        {
+            "name": "Gloom"
+        },
+        {
+            "name": "Vileplume"
+        },
+        {
+            "name": "Bellossom"
+        },
+        {
+            "name": "Bellsprout"
+        },
+        {
+            "name": "Weepinbell"
+        },
+        {
+			"name": "Victreebel"
+		},
+		{
+			"name": "Roselia"
+		},
+        {
+            "name": "Roserade"
+        }
+    ],
+    "names": [
+        {
+            "name": "Edgar"
+        },
+        {
+            "name": "Robert"
+        },
+        {
+            "name": "Geoff"
+        },
+        {
+            "name": "Gregory"
+        },
+        {
+            "name": "George"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "I've cared for my Pokemon as I do my plants, lets see how they do!",
+            "win": "Looks like they had gained the nourishment needed to win",
+            "lose": "Looks like they need more time to grow"
+        },
+        {
+            "opening": "Time to trim back the weeds!",
+            "win": "No weeds will get past me.",
+            "lose": "Looks like they overpowered me this time."
+        }
+    ]
+}
