@@ -1429,4 +1429,376 @@ Running the server as root/admin is not recommended. Please use a port above 102
 > [K[18:28:34] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;1mSpawned Entei at: world x:-563, y:84, z:-1301[39;0m[39;0m
 > [K[18:29:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere 45%stone,30%1:5,25%gravel 6
 > [K[18:29:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask grass,dirt
-> 
+> [K[18:30:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[18:30:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[18:32:00] [pool-3-thread-134/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:32:29] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:32:30] [pool-3-thread-134/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:33:00] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:33:02] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m2 items have been cleared.[39;0m[39;0m
+> [K[18:33:31] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m114 pokémon have been cleared.[39;0m[39;0m
+> [K[18:36:01] [pool-3-thread-134/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[18:42:00] [pool-3-thread-136/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:42:30] [pool-3-thread-139/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:42:47] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:43:02] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[18:43:15] [User Authenticator #3/INFO] [minecraft/NetHandlerLoginServer]: UUID of player snakes866 is 1720825f-9860-4cb5-8a7e-d05bcfa51b3d
+> [K[18:43:16] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+> [K[18:43:16] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[18:43:16] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, simpledexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[18:43:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[18:43:17] [Server thread/INFO] [minecraft/PlayerList]: snakes866 [/70.68.76.101:55978] logged in with entity id [55825] in world (minecraft:overworld/0) at (-633.3253900914983, 91.0, -1368.9281146694368).
+> [K[18:43:17] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1msnakes866[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[18:43:18] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:43:26] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mwaddup[39;0m[39;0m
+> [K[18:43:49] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m148 pokémon have been cleared.[39;0m[39;0m
+> [K[18:44:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0myo[39;0m[39;0m
+> [K[18:44:11] [pool-3-thread-139/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[18:44:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp editor
+> [K[18:45:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mare we writing the spawn rules before or after the town is done?[39;0m[39;0m
+> [K[18:45:32] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mWe could always justhave them written and then put them in once spawn is finished[39;0m[39;0m
+> [K[18:45:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mI havent really been prioritizing them though[39;0m[39;0m
+> [K[18:45:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mthought so[39;0m[39;0m
+> [K[18:46:09] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mits def not a priority for a while[39;0m[39;0m
+> [K[18:46:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /rules 
+> [K[18:46:34] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+> [K[18:46:34] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3msnakes866[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3msnakes866 butchered 165 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[18:49:39] [pool-3-thread-136/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[18:50:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits qZdrY5uSVB
+> [K[18:50:38] [pool-3-thread-138/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[18:50:39] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mdefault[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:50:39] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add gts.command.gts true[39;0m[39;0m
+> [K[18:50:39] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mdefault[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:50:39] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add gts.command.sell.item true[39;0m[39;0m
+> [K[18:50:39] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mdefault[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:50:39] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add gts.command.sell.pokemon true[39;0m[39;0m
+> [K[18:50:39] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mdefault[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:50:39] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add gts.command.sell true[39;0m[39;0m
+> [K[18:50:39] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mdefault[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:50:39] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add gts.command.ignore true[39;0m[39;0m
+> [K[18:50:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts 
+> [K[18:50:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts add
+> [K[18:51:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts sell
+> [K[18:51:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts 
+> [K[18:51:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts sell
+> [K[18:52:00] [pool-3-thread-138/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:52:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts 
+> [K[18:52:30] [pool-3-thread-144/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:53:02] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[18:53:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:53:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits Fn4FEImmcI
+> [K[18:53:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1madmin[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:53:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add gts.command.admin.clear true[39;0m[39;0m
+> [K[18:53:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1madmin[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:53:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add gts.command.admin.logs true[39;0m[39;0m
+> [K[18:53:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts admin clear
+> [K[18:53:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts 
+> [K[18:53:26] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0m.[39;0m[39;0m
+> [K[18:53:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0m.[39;0m[39;0m
+> [K[18:53:36] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:53:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts admin logs
+> [K[18:54:07] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m174 pokémon have been cleared.[39;0m[39;0m
+> [K[18:54:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts sell pokemon
+> [K[18:54:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts sell pokemon 4 100
+> [K[18:56:08] [Server thread/INFO] [nucleus]: snakes866 ran the command: /timeset 1
+> [K[18:56:09] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;34;1mPlayer Aboveexpert started fighting a trainer in world "world", at X:-666 Y:66 Z:-1370[39;0m
+> [K[18:56:12] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;22mPlayer Aboveexpert defeated a trainer in world "world", at X:-666 Y:66 Z:-1370[39;0m
+> [K[18:56:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /bal 
+> [K[18:56:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /econ remove Aboveexpert 100000
+> [K[18:56:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /bal 
+> [K[18:59:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits nK2TDkLw87
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1madmin[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add pixelauction.command.log true[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1madmin[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add pixelauction.command.loggive true[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1madmin[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add pixelauction.command.restore true[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mdefault[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add pixelauction.command.auction true[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mdefault[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add pixelauction.command.bid true[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mdefault[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add pixelauction.command.hide true[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mdefault[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add pixelauction.command.cancel true[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mop[39;0m[0;30;1m)[39;0m[39;0m
+> [K[18:59:12] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add pixelauction.command.reload true[39;0m[39;0m
+> [K[18:59:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pauc 4 100 100
+> [K[18:59:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pauc 4 10000 100
+> [K[18:59:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pauc 4 10000 100
+> [K[19:00:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pacancel 
+> [K[19:02:00] [pool-3-thread-144/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> 
+Forge: do you wish to see to see all 1859 possibilities (310 lines)?M[66D[K
+[KM[19:02:30] [pool-3-thread-138/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> 
+Forge: do you wish to see to see all 1859 possibilities (310 lines)?M[66D
+[KM[2C[K[19:03:02] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[19:03:08] [pool-3-thread-144/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[19:03:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mrestart incoming riley[39;0m[39;0m
+> [K[19:03:11] [pool-3-thread-144/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> 
+[?1l>[?1000l[?2004l[19:03:19] [Server thread/INFO] [luckperms]: Starting shutdown process...
+[19:03:19] [Server thread/INFO] [luckperms]: Closing storage...
+[19:03:19] [Server thread/INFO] [luckperms]: Goodbye!
+[19:03:19] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+[19:03:19] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+[19:03:19] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: Aboveexpert lost connection: Server closed
+[19:03:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m left the game[39;0m[39;0m
+[19:03:19] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+[19:03:19] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'world'/0
+[19:03:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'DIM-1'/-1
+[19:03:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'DIM1'/1
+[19:03:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'build'/2
+[19:03:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ultra'/72
+[19:03:20] [Server thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d unloaded
+[19:03:20] [Server thread/INFO] [Sponge]: Unloading world [world] (minecraft:overworld/0)
+[19:03:20] [Server thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e unloaded
+[19:03:20] [Server thread/INFO] [Sponge]: Unloading world [DIM-1] (minecraft:nether/-1)
+[19:03:20] [Server thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc unloaded
+[19:03:20] [Server thread/INFO] [Sponge]: Unloading world [DIM1] (minecraft:the_end/1)
+[19:03:20] [Server thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b unloaded
+[19:03:20] [Server thread/INFO] [Sponge]: Unloading world [build] (minecraft:overworld/2)
+[19:03:20] [Server thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 unloaded
+[19:03:20] [Server thread/INFO] [Sponge]: Unloading world [ultra] (pixelmon:ultra_space/72)
+[19:03:20] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+[19:03:20] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+[19:03:20] [Server thread/INFO] [nucleus]: Nucleus is performing server shutdown tasks.
+[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /*                                    Cause Stack Frame Corruption!                                     */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /* Found 
+ frames left on the stack. Clearing them all.                                                 */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /*                                                                                                      */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m/********************************************************************************************************/
+/*                                    Cause Stack Frame Corruption!                                     */
+/********************************************************************************************************/
+/* Found 
+ frames left on the stack. Clearing them all.                                                 */
+/*                                                                                                      */
+/* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+/********************************************************************************************************/
+[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                         Could not pass  GameStoppingEvent$Impl                                         */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Could not pass the event GameStoppingEvent$Impl to an Event Listener!                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                           */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                         */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                      */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                    */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                   */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                       */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                       */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Owning Mod/Plugin: webapi                                                                                              */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Exception:                                                                                                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     java.lang.IllegalStateException:                                                                                   */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     Cause Stack Frame Corruption!                                                                                      */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     Attempted to pop a frame that was                                                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     not on the stack.                                                                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:327)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:320)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:320)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:320)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager$CauseStackFrameImpl.close(SpongeCauseStackManager.java:528) */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:382)                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)                     */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postState(SpongeImpl.java:267)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postShutdownEvents(SpongeImpl.java:272)                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.dedicated.DedicatedServer.handler$zna000$postGameStoppingEvent(DedicatedServer.java:1813)     */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.dedicated.DedicatedServer.func_71240_o(DedicatedServer.java)                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.run(MinecraftServer.java:589)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     java.lang.Thread.run(Thread.java:748)                                                                              */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /*                                    Cause Stack Frame Corruption!                                     */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /* Found 
+ frames left on the stack. Clearing them all.                                                 */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /*                                                                                                      */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m/********************************************************************************************************/
+/*                                    Cause Stack Frame Corruption!                                     */
+/********************************************************************************************************/
+/* Found 
+ frames left on the stack. Clearing them all.                                                 */
+/*                                                                                                      */
+/* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+/********************************************************************************************************/
+[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                         Could not pass  GameStoppingEvent$Impl                                         */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Could not pass the event GameStoppingEvent$Impl to an Event Listener!                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                           */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                         */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                      */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                    */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                   */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                       */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                       */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Owning Mod/Plugin: vshop                                                                                               */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Exception:                                                                                                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     java.lang.IllegalStateException:                                                                                   */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     Cause Stack Frame Corruption!                                                                                      */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     Attempted to pop a frame that was                                                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     not on the stack.                                                                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:327)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:320)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:320)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager$CauseStackFrameImpl.close(SpongeCauseStackManager.java:528) */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:382)                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)                     */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postState(SpongeImpl.java:267)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postShutdownEvents(SpongeImpl.java:272)                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.dedicated.DedicatedServer.handler$zna000$postGameStoppingEvent(DedicatedServer.java:1813)     */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.dedicated.DedicatedServer.func_71240_o(DedicatedServer.java)                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.run(MinecraftServer.java:589)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     java.lang.Thread.run(Thread.java:748)                                                                              */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /*                                    Cause Stack Frame Corruption!                                     */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /* Found 
+ frames left on the stack. Clearing them all.                                                 */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /*                                                                                                      */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m/********************************************************************************************************/
+/*                                    Cause Stack Frame Corruption!                                     */
+/********************************************************************************************************/
+/* Found 
+ frames left on the stack. Clearing them all.                                                 */
+/*                                                                                                      */
+/* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+/********************************************************************************************************/
+[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                         Could not pass  GameStoppingEvent$Impl                                         */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Could not pass the event GameStoppingEvent$Impl to an Event Listener!                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                           */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                         */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                      */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                    */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                   */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                       */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                       */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Owning Mod/Plugin: placeholderapi                                                                                      */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Exception:                                                                                                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     java.lang.IllegalStateException:                                                                                   */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     Cause Stack Frame Corruption!                                                                                      */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     Attempted to pop a frame that was                                                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     not on the stack.                                                                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:327)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:320)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:320)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager$CauseStackFrameImpl.close(SpongeCauseStackManager.java:528) */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:382)                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)                     */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postState(SpongeImpl.java:267)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postShutdownEvents(SpongeImpl.java:272)                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.dedicated.DedicatedServer.handler$zna000$postGameStoppingEvent(DedicatedServer.java:1813)     */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.dedicated.DedicatedServer.func_71240_o(DedicatedServer.java)                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.run(MinecraftServer.java:589)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     java.lang.Thread.run(Thread.java:748)                                                                              */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]:   Add -Dsponge.debugcauseframes to your startup flags to enable further debugging output.
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /*                                    Cause Stack Frame Corruption!                                     */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /* Found 
+ frames left on the stack. Clearing them all.                                                 */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /*                                                                                                      */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+[39;0m[31;1m[19:03:20] [Server thread/ERROR] [Sponge]: /********************************************************************************************************/
+[39;0m/********************************************************************************************************/
+/*                                    Cause Stack Frame Corruption!                                     */
+/********************************************************************************************************/
+/* Found 
+ frames left on the stack. Clearing them all.                                                 */
+/*                                                                                                      */
+/* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+/********************************************************************************************************/
+[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                         Could not pass  GameStoppingEvent$Impl                                         */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Could not pass the event GameStoppingEvent$Impl to an Event Listener!                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                           */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                         */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                      */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                    */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                   */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                       */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                       */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*                                                                                                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Owning Mod/Plugin: placeholderapi                                                                                      */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /* Exception:                                                                                                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     java.lang.IllegalStateException:                                                                                   */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     Cause Stack Frame Corruption!                                                                                      */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     Attempted to pop a frame that was                                                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     not on the stack.                                                                                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager.popCauseFrame(SpongeCauseStackManager.java:327)             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeCauseStackManager$CauseStackFrameImpl.close(SpongeCauseStackManager.java:528) */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:382)                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)                     */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                             */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postState(SpongeImpl.java:267)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postShutdownEvents(SpongeImpl.java:272)                                        */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.dedicated.DedicatedServer.handler$zna000$postGameStoppingEvent(DedicatedServer.java:1813)     */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.dedicated.DedicatedServer.func_71240_o(DedicatedServer.java)                                  */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.run(MinecraftServer.java:589)                                                 */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /*     java.lang.Thread.run(Thread.java:748)                                                                              */
+[39;0m[33;1m[19:03:20] [Server thread/WARN] [Sponge]: /**************************************************************************************************************************/
+[39;0m/********************************************************************************************************/
+/*                                    Cause Stack Frame Corruption!                                     */
+/********************************************************************************************************/
+/* Found 
+ frames left on the stack. Clearing them all.                                                 */
+/*                                                                                                      */
+/* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+/********************************************************************************************************/
+/********************************************************************************************************/
+/*                                    Cause Stack Frame Corruption!                                     */
+/********************************************************************************************************/
+/* Found 
+ frames left on the stack. Clearing them all.                                                 */
+/*                                                                                                      */
+/* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+/********************************************************************************************************/
+/********************************************************************************************************/
+/*                                    Cause Stack Frame Corruption!                                     */
+/********************************************************************************************************/
+/* Found 
+ frames left on the stack. Clearing them all.                                                 */
+/*                                                                                                      */
+/* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
+/********************************************************************************************************/

@@ -1502,3 +1502,15 @@ Caused by: java.lang.IllegalStateException: The file is locked: nio:/opt/pixelmo
 org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
 2020-06-02 07:22:46 jdbc[3]: exception
 org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2020-06-02 19:05:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2020-06-02 19:05:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2020-06-02 19:15:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2020-06-02 19:15:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2020-06-02 19:25:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2020-06-02 19:25:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
