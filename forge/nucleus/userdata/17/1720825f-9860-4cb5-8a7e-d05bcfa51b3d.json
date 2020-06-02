@@ -3,8 +3,8 @@
   "invulnerable": false,
   "fly": false,
   "lastKnownName": "snakes866",
-  "lastLogin": 1590974639833,
-  "lastLogout": 1590907657827,
+  "lastLogin": 1591050791587,
+  "lastLogout": 1590991298276,
   "lastIP": "/70.68.76.101",
   "firstJoin": 1590356075471,
   "startedFirstJoin": false,
@@ -12,9 +12,9 @@
   "isFrozen": false,
   "vanish": false,
   "lastLocation": {
-    "x": -631.7768104076825,
-    "y": 68.375,
-    "z": -1343.735967731163,
+    "x": -630.3377134738178,
+    "y": 89.0,
+    "z": -1300.4972867895392,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
@@ -39,7 +39,7 @@
       "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
     }
   },
-  "notes": [],
   "mail": [],
+  "notes": [],
   "powertools": {}
 }
