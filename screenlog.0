@@ -3298,4 +3298,331 @@ Running the server as root/admin is not recommended. Please use a port above 102
 > [K[21:29:44] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:56282] logged in with entity id [8164] in world (minecraft:overworld/0) at (-643.9230638775189, 66.0, -1365.4395940643128).
 > [K[21:29:44] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
 > [K[21:29:54] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:33:10] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:33:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:34:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m135 pokémon have been cleared.[39;0m[39;0m
+> [K[21:34:18] [pool-3-thread-37/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[21:34:19] [pool-3-thread-57/INFO] [minecraft/DedicatedServer]: [0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas been kicked for being AFK too long.[39;0m[39;0m
+> [K[21:34:19] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: Aboveexpert lost connection: You have been kicked for being AFK for too long.
+> [K[21:34:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[21:34:22] [User Authenticator #4/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[21:34:23] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+> [K[21:34:23] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[21:34:23] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelmonbroadcasts, simpledexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[21:34:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[21:34:23] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:56311] logged in with entity id [8418] in world (minecraft:overworld/0) at (-612.915634214156, 70.3677203183808, -1351.885123808989).
+> [K[21:34:23] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.title
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:34:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:34:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+> [K[21:34:42] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mU[39;0m[0;30;1m] ([39;0m[0;36;1maboveexpert[39;0m[0;30;1m)[39;0m[39;0m
+> [K[21:34:42] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mpromote promotion[39;0m[39;0m
+> [K[21:34:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+> [K[21:34:43] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mU[39;0m[0;30;1m] ([39;0m[0;36;1maboveexpert[39;0m[0;30;1m)[39;0m[39;0m
+> [K[21:34:43] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mpromote promotion[39;0m[39;0m
+> [K[21:34:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+> [K[21:34:43] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mU[39;0m[0;30;1m] ([39;0m[0;36;1maboveexpert[39;0m[0;30;1m)[39;0m[39;0m
+> [K[21:34:43] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mpromote promotion[39;0m[39;0m
+> [K[21:34:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+> [K[21:34:43] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mU[39;0m[0;30;1m] ([39;0m[0;36;1maboveexpert[39;0m[0;30;1m)[39;0m[39;0m
+> [K[21:34:43] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mpromote promotion[39;0m[39;0m
+> [K[21:37:47] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-638 Y:96 Z:-1430[39;0m
+> [K[21:38:53] [pool-3-thread-60/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:39:23] [pool-3-thread-37/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:39:54] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:40:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+> [K[21:40:24] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3mAboveexpert butchered 6 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[21:40:27] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Drilbur has spawned in world "world", at X:-369 Y:50 Z:-1200[39;0m
+> [K[21:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: This server is running [0;32;22mWondertrade[39;0m by [0;32;22mGhostWolf![39;0m[39;0m
+> [K[21:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: [39;0mFor a tutorial see: [0;34;1mhttps://www.youtube.com/ghostwolfgames[39;0m[39;0m
+> [K[21:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: Current [0;32;22mWondertrade[39;0m pool contains: [0;32;22m100[39;0m Pixelmon[39;0m[39;0m
+> [K[21:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: [0;32;22mTry your luck at getting it with [39;0m/wondertrade[39;0m[39;0m
+> [K[21:41:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /sponge plugin langswitch reload
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.title
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[21:42:25] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[21:42:33] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[21:42:34] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.one
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.one
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.one
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.one
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[21:42:37] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[21:43:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:43:56] [qtp1136425879-4073/INFO] [webapi]: nick logged in from 23.16.19.188
+> [K[21:43:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:44:30] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m143 pokémon have been cleared.[39;0m[39;0m
+> [K[21:45:47] [pool-3-thread-59/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[21:46:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /sponge plugins reload
+> [K[21:46:11] [Server thread/INFO] [simpledexrewards]: Reloading Config
+> [K[21:46:11] [Server thread/INFO] [simpledexrewards]: Config Loaded Successfully!
+> [K[21:46:11] [Server thread/INFO] [placeholderapi]: Reloaded PlaceholderAPI
+> [K[21:46:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (blacklist.items)... Adding it![39;0m[39;0m
+> [K[21:46:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.new-listing.webhooks)... Adding it![39;0m[39;0m
+> [K[21:46:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.sell-listing.webhooks)... Adding it![39;0m[39;0m
+> [K[21:46:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.listing-expire.webhooks)... Adding it![39;0m[39;0m
+> [K[21:46:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.listing-remove.webhooks)... Adding it![39;0m[39;0m
+> [K[21:46:11] [Server thread/INFO] [langswitch]: Reloading config...
+> [K[21:46:11] [Server thread/INFO] [langswitch]: Setting default locale to en_
+> [K[21:46:11] [Server thread/INFO] [langswitch]: Reloading translation files...
+> [K[21:46:11] [Server thread/INFO] [langswitch]: Loading translations for vshop in en...
+> [K[21:46:11] [Server thread/INFO] [webapi]: Reloading Web-API v5.4.5-S7.1.0...
+> [K[21:46:11] [Server thread/INFO] [webapi]: Stopped ServerConnector@61189051{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+> [K[21:46:11] [Server thread/INFO] [webapi]: Stopped ServerConnector@7baa72ee{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+> [K[21:46:11] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.ServletContextHandler@570febcf{/api/v5,null,UNAVAILABLE}
+> [K[21:46:11] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@25ed2da2{/admin,null,UNAVAILABLE}
+> [K[21:46:11] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@cc90891{/,null,UNAVAILABLE}
+> [K[21:46:11] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@6ed4d3fb{/docs,null,UNAVAILABLE}
+> [K[21:46:11] [Server thread/INFO] [webapi]: Loading configuration...
+> [K[21:46:11] [Server thread/INFO] [webapi]: Loading keys & permissions...
+> [K[21:46:11] [Server thread/INFO] [webapi]: Loading serializers...
+> [K[21:46:11] [Server thread/INFO] [webapi]: Done loading serializers
+> [K[21:46:11] [Server thread/INFO] [webapi]: Registering servlets...
+> [K[21:46:11] [Server thread/INFO] [webapi]: Loading users...
+> [K[21:46:11] [Server thread/INFO] [webapi]: Initializing web hooks...
+> [K[21:46:11] [Server thread/INFO] [webapi]: Loading filters...
+> [K[21:46:11] [Server thread/INFO] [webapi]: Done loading filters
+> [K[21:46:11] [Server thread/INFO] [webapi]:   - http://localhost/test
+> [K[21:46:11] [Server thread/INFO] [webapi]:     -> Disabled
+> [K[21:46:11] [Server thread/INFO] [webapi]:   - http://localhost/test/{player}
+> [K[21:46:11] [Server thread/INFO] [webapi]:     -> Disabled
+> [K[21:46:11] [Server thread/INFO] [webapi]: Registering commands...
+> [K[21:46:11] [Server thread/INFO] [webapi]: Starting Web Server...
+> [K[33;1m[21:46:11] [Server thread/WARN] [webapi]: You are using an HTTP port < 1024 which is not recommended! 
+This might cause errors when not running the server as root/admin. 
+Running the server as root/admin is not recommended. Please use a port above 1024 for HTTP.
+[39;0m> [K[33;1m[21:46:11] [Server thread/WARN] [webapi]: v.w.s.o.e.j.s.h.ContextHandler@7aff4574{/,null,UNAVAILABLE} contextPath ends with /
+[39;0m> [K[21:46:12] [pool-3-thread-64/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[21:46:13] [Server thread/INFO] [webapi]: jetty-9.4.z-SNAPSHOT, build timestamp: 2017-11-21T21:27:37Z, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+> [K[21:46:13] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@61e02ae{/docs,null,AVAILABLE}
+> [K[21:46:13] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@44f53ed1{/,null,AVAILABLE}
+> [K[21:46:13] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@7aff4574{/admin,null,AVAILABLE}
+> [K[21:46:16] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.ServletContextHandler@2b28054f{/api/v5,null,AVAILABLE}
+> [K[21:46:16] [Server thread/INFO] [webapi]: Started ServerConnector@7e75cffc{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+> [K[21:46:16] [Server thread/INFO] [webapi]: x509=X509@69a3d9bc(selfsigned,h=[],w=[]) for SslContextFactory@7272e5b3[provider=null,keyStore=jar:file:/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar!/assets/webapi/keystore.jks,trustStore=null]
+> [K[21:46:16] [Server thread/INFO] [webapi]: Started ServerConnector@228ad7ff{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+> [K[21:46:16] [Server thread/INFO] [webapi]: Started @7646189ms
+> [K[21:46:16] [Server thread/INFO] [webapi]: AdminPanel: https://0.0.0.0:8081/admin/
+> [K[21:46:16] [Server thread/INFO] [webapi]: API Docs: https://0.0.0.0:8081/docs
+> [K[21:46:16] [Server thread/INFO] [webapi]: Reloaded Web-API
+> [K[21:46:16] [Server thread/INFO] [simpletablist]: Reloading...
+> [K[21:46:16] [Server thread/INFO] [griefdefender]: Loading configuration...
+> [K[21:46:16] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+> [K[21:46:16] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+> [K[21:46:16] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+> [K[21:46:16] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+> [K[33;1m[21:46:16] [pool-3-thread-59/WARN] [webapi]: ------- Web-API Update -------
+[39;0m> [K[33;1m[21:46:16] [pool-3-thread-59/WARN] [webapi]: Latest: 5.4.6
+[39;0m> [K[33;1m[21:46:16] [pool-3-thread-59/WARN] [webapi]: Current: 5.4.5
+[39;0m> [K[33;1m[21:46:16] [pool-3-thread-59/WARN] [webapi]: ---------- Changes -----------
+[39;0m> [K[33;1m[21:46:16] [pool-3-thread-59/WARN] [webapi]: - Fix issue with hook events
+[39;0m> [K[33;1m[21:46:16] [pool-3-thread-59/WARN] [webapi]: ------------------------------
+[39;0m> [K[21:46:16] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+> [K[21:46:16] [Server thread/INFO] [nucleus]: Nucleus language set to "en-GB"
+> [K[21:46:17] [Server thread/INFO] [griefdefender]: Loading configuration...
+> [K[21:46:17] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+> [K[21:46:17] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+> [K[21:46:17] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+> [K[21:46:17] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+> [K[21:46:17] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+> [K[33;1m[21:46:17] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6073ms behind, skipping 121 tick(s)
+[39;0m> [K[21:48:17] [User Authenticator #5/INFO] [minecraft/NetHandlerLoginServer]: UUID of player snakes866 is 1720825f-9860-4cb5-8a7e-d05bcfa51b3d
+> [K[21:48:17] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+> [K[21:48:17] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[21:48:17] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, simpledexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[21:48:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[21:48:18] [Server thread/INFO] [minecraft/PlayerList]: snakes866 [/70.68.76.101:61968] logged in with entity id [9320] in world (minecraft:overworld/0) at (-671.228921193289, 84.0, -1324.2649208092744).
+> [K[21:48:18] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1msnakes866[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[21:48:30] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: snakes866 lost connection: Disconnected
+> [K[21:48:30] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1msnakes866[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[21:49:43] [User Authenticator #6/INFO] [minecraft/NetHandlerLoginServer]: UUID of player snakes866 is 1720825f-9860-4cb5-8a7e-d05bcfa51b3d
+> [K[21:49:44] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+> [K[21:49:44] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[21:49:44] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, simpledexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[21:49:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[21:49:44] [Server thread/INFO] [minecraft/PlayerList]: snakes866 [/70.68.76.101:62050] logged in with entity id [9369] in world (minecraft:overworld/0) at (-668.28366100204, 83.5, -1337.0012953720204).
+> [K[21:49:45] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1msnakes866[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[21:50:02] [Server thread/INFO] [nucleus]: snakes866 ran the command: /timeset 1
+> [K[21:53:50] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Charizard has spawned in world "world", at X:-566 Y:77 Z:-1340[39;0m
+> [K[21:53:54] [pool-3-thread-62/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[21:55:11] [pool-3-thread-62/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:55:32] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:55:41] [pool-3-thread-62/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:56:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:56:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:56:34] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m156 pokémon have been cleared.[39;0m[39;0m
+> [K[22:00:24] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-651 Y:87 Z:-1355[39;0m
+> [K[22:01:17] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time set1
+> [K[22:01:20] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time set 1
+> [K[22:01:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts add
+> [K[22:01:51] [pool-3-thread-65/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[22:02:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts edit
+> [K[22:02:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp editor
+> [K[22:03:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts logs
+> [K[22:04:22] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mi think it looks sick[39;0m[39;0m
+> [K[22:04:30] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mmerci[39;0m[39;0m
+> [K[22:04:31] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mI love it[39;0m[39;0m
+> [K[22:04:40] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mcan you change the birch planks to spruce on the inside[39;0m[39;0m
+> [K[22:04:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0midk about the water[39;0m[39;0m
+> [K[22:04:52] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mim not a huge fan of the water[39;0m[39;0m
+> [K[22:04:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mi think it looks a bit out of place[39;0m[39;0m
+> [K[22:05:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:05:11] [pool-3-thread-59/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:05:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 5:2 5:1
+> [K[22:05:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:05:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 5:2 5:1
+> [K[22:05:41] [pool-3-thread-64/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:05:51] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:05:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 98
+> [K[22:06:10] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mahh[39;0m[39;0m
+> [K[22:06:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:06:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mbery noice[39;0m[39;0m
+> [K[22:06:22] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:06:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mok[39;0m[39;0m
+> [K[22:06:42] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mit's come a long way from being a mcdonalds playplace[39;0m[39;0m
+> [K[22:06:42] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0msweet[39;0m[39;0m
+> [K[22:06:53] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m154 pokémon have been cleared.[39;0m[39;0m
+> [K[22:06:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mits come even further from the marker above[39;0m[39;0m
+> [K[22:07:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits YrKSgGqb6N
+> [K[22:07:00] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mmod[39;0m[0;30;1m)[39;0m[39;0m
+> [K[22:07:00] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add gts.admin.command.edit true[39;0m[39;0m
+> [K[22:07:00] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mG[39;0m[0;30;1m] ([39;0m[0;36;1mmod[39;0m[0;30;1m)[39;0m[39;0m
+> [K[22:07:00] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mwebeditor add gts.admin.command.logs true[39;0m[39;0m
+> [K[22:07:04] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mlmao true[39;0m[39;0m
+> [K[22:07:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts edit
+> [K[22:07:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts add
+> [K[22:07:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts sell
+> [K[22:07:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts 
+> [K[22:07:23] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mwhat colour should the stairs be?[39;0m[39;0m
+> [K[22:07:30] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mdefs want the slabs[39;0m[39;0m
+> [K[22:08:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+> [K[22:09:12] [Server thread/INFO] [nucleus]: snakes866 ran the command: /tp abovee
+> [K[22:09:14] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mim not sure what they should be[39;0m[39;0m
+> [K[22:09:26] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mmaybe spruce but idk[39;0m[39;0m
+> [K[22:09:35] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mdefs not spruce[39;0m[39;0m
+> [K[22:09:36] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mi liek the slabs though[39;0m[39;0m
+> [K[22:11:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 162:13
+> [K[22:11:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace woold 17:14
+> [K[22:11:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:11:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace woold 17:13
+> [K[22:12:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace !air,!44,!98 162:13
+> [K[22:12:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:12:53] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+> [K[22:12:53] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3msnakes866[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3msnakes866 butchered 175 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[22:13:10] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mi think no on the logs[39;0m[39;0m
+> [K[22:13:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17 162:13
+> [K[22:13:20] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mactually idk[39;0m[39;0m
+> [K[22:13:35] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mi think it's between the dark oak logs and the quartz for me[39;0m[39;0m
+> [K[22:13:40] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Roggenrola has spawned in world "world", at X:-692 Y:64 Z:-1297[39;0m
+> [K[22:15:11] [pool-3-thread-59/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:15:41] [pool-3-thread-67/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:16:10] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:16:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:16:40] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:17:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m176 pokémon have been cleared.[39;0m[39;0m
+> [K[22:17:39] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Carbink has spawned in world "world", at X:-629 Y:86 Z:-1249[39;0m
+> [K[22:19:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts sell pokemon 2 100
+> [K[22:25:11] [pool-3-thread-71/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:25:41] [pool-3-thread-67/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:26:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:26:26] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mblack+white pattern[39;0m[39;0m
+> [K[22:26:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:26:29] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mterrible[39;0m[39;0m
+> [K[22:26:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mYeah i dont really like that patternn[39;0m[39;0m
+> [K[22:26:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:27:30] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m175 pokémon have been cleared.[39;0m[39;0m
+> [K[22:27:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mi think its the log[39;0m[39;0m
 > 

@@ -30,8 +30,8 @@
     }
   },
   "lastKnownName": "Aboveexpert",
-  "lastLogin": 1591126852551,
-  "lastLogout": 1591127186032,
+  "lastLogin": 1591133663569,
+  "lastLogout": 1591133659115,
   "lastIP": "/23.16.19.188",
   "firstJoin": 1590339241294,
   "startedFirstJoin": false,
@@ -46,9 +46,9 @@
   "nickname-text": "{\"color\":\"dark_aqua\",\"text\":\"Nick\"}",
   "invulnerable": false,
   "lastLocation": {
-    "x": -643.9230638775189,
-    "y": 66.0,
-    "z": -1365.4395940643128,
+    "x": -612.915634214156,
+    "y": 70.3677203183808,
+    "z": -1351.885123808989,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
