@@ -1498,3 +1498,7 @@ Caused by: java.lang.IllegalStateException: The file is locked: nio:/opt/pixelmo
 	at org.h2.mvstore.FileStore.open(FileStore.java:173)
 	at org.h2.mvstore.MVStore.<init>(MVStore.java:347)
 	... 77 more
+2020-06-02 07:22:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2020-06-02 07:22:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
