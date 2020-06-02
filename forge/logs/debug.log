@@ -20276,3 +20276,287 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [17:29:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
 [17:29:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [17:29:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:30:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:30:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:30:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[17:30:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:31:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:31:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[17:31:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 88 pokémon have been cleared.
+[17:31:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:31:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:32:00] [pool-3-thread-115/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[17:32:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:32:30] [pool-3-thread-115/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[17:32:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:32:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[17:33:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:33:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:33:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:34:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:34:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:34:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:34:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:35:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:35:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:35:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:36:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:36:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:36:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:37:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:37:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:37:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:37:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:38:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:38:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:38:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:39:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:39:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:39:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:40:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:40:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:40:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:40:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:40:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[17:41:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[17:41:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:41:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 88 pokémon have been cleared.
+[17:42:00] [pool-3-thread-117/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[17:42:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:42:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:42:30] [pool-3-thread-117/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[17:42:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:43:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[17:43:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:43:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:43:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:43:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:44:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:44:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:44:37] [HikariPool-1 connection closer/DEBUG] [com.zaxxer.hikari.pool.PoolBase]: HikariPool-1 - Closing connection conn100: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=: (connection has passed maxLifetime)
+[17:44:37] [HikariPool-1 connection adder/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Added connection conn105: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=
+[17:44:41] [HikariPool-1 connection closer/DEBUG] [com.zaxxer.hikari.pool.PoolBase]: HikariPool-1 - Closing connection conn101: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=: (connection has passed maxLifetime)
+[17:44:41] [HikariPool-1 connection adder/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Added connection conn106: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=
+[17:44:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:45:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:45:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:45:46] [HikariPool-1 connection adder/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Added connection conn107: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=
+[17:45:46] [HikariPool-1 connection closer/DEBUG] [com.zaxxer.hikari.pool.PoolBase]: HikariPool-1 - Closing connection conn102: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=: (connection has passed maxLifetime)
+[17:45:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:46:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:46:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:46:36] [HikariPool-1 connection closer/DEBUG] [com.zaxxer.hikari.pool.PoolBase]: HikariPool-1 - Closing connection conn103: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=: (connection has passed maxLifetime)
+[17:46:36] [HikariPool-1 connection adder/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Added connection conn108: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=
+[17:46:45] [HikariPool-1 connection closer/DEBUG] [com.zaxxer.hikari.pool.PoolBase]: HikariPool-1 - Closing connection conn104: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=: (connection has passed maxLifetime)
+[17:46:45] [HikariPool-1 connection adder/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Added connection conn109: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=
+[17:46:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:46:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:47:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:47:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:47:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:48:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:48:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:48:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:49:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:49:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:49:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:49:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:50:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:50:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:50:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:51:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[17:51:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:51:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:51:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[17:51:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:52:00] [pool-3-thread-131/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[17:52:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:52:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 89 pokémon have been cleared.
+[17:52:30] [pool-3-thread-130/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[17:52:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:52:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:53:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[17:53:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:53:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:53:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:54:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:54:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:54:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:55:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:55:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:55:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:55:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:56:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:56:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:56:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:57:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:57:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:57:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:58:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:58:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:58:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:58:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:59:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[17:59:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:59:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:00:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:00:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:00:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:01:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:01:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:01:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[18:01:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:01:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:02:00] [pool-3-thread-117/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[18:02:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[18:02:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:02:30] [pool-3-thread-134/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[18:02:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:02:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 90 pokémon have been cleared.
+[18:02:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[18:03:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:03:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:03:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:04:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:04:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:04:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:04:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:05:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:05:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:05:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:06:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:06:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:06:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:07:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:07:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:07:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:07:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:08:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:08:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:08:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:09:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:09:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:09:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:10:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:10:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:10:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:10:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:11:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:11:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:11:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:11:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[18:12:00] [pool-3-thread-133/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[18:12:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:12:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:12:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[18:12:30] [pool-3-thread-117/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[18:12:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:12:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 90 pokémon have been cleared.
+[18:13:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[18:13:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:13:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:13:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:13:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:13:56] [HikariPool-1 connection closer/DEBUG] [com.zaxxer.hikari.pool.PoolBase]: HikariPool-1 - Closing connection conn105: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=: (connection has passed maxLifetime)
+[18:13:56] [HikariPool-1 connection adder/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Added connection conn110: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=
+[18:14:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:14:16] [HikariPool-1 connection closer/DEBUG] [com.zaxxer.hikari.pool.PoolBase]: HikariPool-1 - Closing connection conn106: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=: (connection has passed maxLifetime)
+[18:14:16] [HikariPool-1 connection adder/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Added connection conn111: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=
+[18:14:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:14:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:15:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:15:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:15:46] [HikariPool-1 connection closer/DEBUG] [com.zaxxer.hikari.pool.PoolBase]: HikariPool-1 - Closing connection conn107: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=: (connection has passed maxLifetime)
+[18:15:46] [HikariPool-1 connection adder/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Added connection conn112: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=
+[18:15:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:15:58] [HikariPool-1 connection closer/DEBUG] [com.zaxxer.hikari.pool.PoolBase]: HikariPool-1 - Closing connection conn108: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=: (connection has passed maxLifetime)
+[18:15:58] [HikariPool-1 connection adder/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Added connection conn113: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=
+[18:16:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:16:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:16:36] [HikariPool-1 connection closer/DEBUG] [com.zaxxer.hikari.pool.PoolBase]: HikariPool-1 - Closing connection conn109: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=: (connection has passed maxLifetime)
+[18:16:36] [HikariPool-1 connection adder/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Added connection conn114: url=jdbc:h2:/opt/pixelmon/forge/./config/economylite/data user=
+[18:16:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:16:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:17:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:17:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:17:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:18:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:18:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:18:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:19:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:19:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:19:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:19:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:20:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:20:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:20:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:21:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:21:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:21:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:22:00] [pool-3-thread-133/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[18:22:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:22:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[18:22:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:22:30] [pool-3-thread-133/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[18:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[18:22:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:22:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:23:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[18:23:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 95 pokémon have been cleared.
+[18:23:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:23:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:23:38] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This server is running Wondertrade by GhostWolf!
+[18:23:38] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: For a tutorial see: https://www.youtube.com/ghostwolfgames
+[18:23:38] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Current Wondertrade pool contains: 100 Pixelmon
+[18:23:38] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Try your luck at getting it with /wondertrade
+[18:23:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:24:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:24:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:24:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:25:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:25:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:25:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:25:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:26:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:26:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:26:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:27:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:27:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:27:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:27:59] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[18:27:59] [Server thread/TRACE] [FML]: Handshake channel activating
+[18:27:59] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[18:27:59] [Server thread/DEBUG] [FML]:   Next: HELLO
+[18:27:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[18:27:59] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[18:27:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:12 mods->FMLHandshakeServerState$2:HELLO
+[18:27:59] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[18:27:59] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelmonbroadcasts, simpledexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[18:27:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[18:27:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[18:27:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[18:27:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[18:27:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[18:27:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[18:27:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[18:27:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:27:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:54627] logged in with entity id [54689] in world (minecraft:overworld/0) at (-595.6802742588546, 94.35764898327602, -1309.5605533729008).
+[18:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[18:28:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:28:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:28:34] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Entei has spawned in world "world", at X:-563 Y:84 Z:-1301
+[18:28:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Entei has spawned in a Extreme Hills biome!
+[18:28:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Entei at: world x:-563, y:84, z:-1301
+[18:28:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:28:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:29:16] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:29:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:29:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere 45%stone,30%1:5,25%gravel 6
+[18:29:46] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[18:29:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask grass,dirt
