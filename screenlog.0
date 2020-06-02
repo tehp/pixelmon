@@ -1802,3 +1802,1443 @@ Forge: do you wish to see to see all 1859 possibilities (310 lines)?M[66D
 /*                                                                                                      */
 /* Please add -Dsponge.debugcauseframes=true to your startup flags to enable further debugging output.  */
 /********************************************************************************************************/
+[19:31:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:31:55] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:31:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:31:55] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[19:31:55] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_252, running on Linux:amd64:4.15.0-101-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[19:31:55] [main/INFO] [FML]: Searching /opt/pixelmon/forge/./mods for mods
+[19:31:55] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Mirage-1.3.15.jar
+[19:31:55] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2838-7.2.1.jar
+[19:31:55] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2838-7.2.3-RC4035.jar
+[19:31:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:31:55] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:31:55] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar Service=LaunchWrapper Env=SERVER
+[33;1m[19:31:55] [main/WARN] [FML]: The coremod SpongeCoremod (org.spongepowered.mod.SpongeCoremod) is not signed!
+[39;0m[19:31:55] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[33;1m[19:31:55] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[39;0m[33;1m[19:31:55] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[39;0m[19:31:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:31:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:31:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:31:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:31:58] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:31:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:31:58] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:31:58] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@205b132e
+[19:31:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:31:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:31:58] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:31:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:31:58] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[33;1m[19:32:00] [main/WARN] [mixin]: @Mixin target net/minecraft/block/state/BlockStateContainer$StateImplementation is public in mixins.common.api.json:mcp.block.state.StateImplementationMixin_API and should be specified in value
+[39;0m[33;1m[19:32:03] [main/WARN] [mixin]: @Mixin target net/minecraft/server/management/PlayerProfileCache$ProfileEntry is public in mixins.common.core.json:server.management.PlayerProfileCache_ProfileEntryAccessor and should be specified in value
+[39;0m[33;1m[19:32:05] [main/WARN] [mixin]: Static binding violation: PRIVATE @Overwrite method func_189509_E in mixins.common.core.json:world.WorldMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[39;0m[19:32:07] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:32:16] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Class path contains multiple SLF4J bindings.
+[19:32:16] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Found binding in [jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+[19:32:16] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Found binding in [jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.3-RC4035.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+[19:32:16] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+[19:32:16] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+[19:32:16] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.12.2
+[19:32:16] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[19:32:16] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:32:17] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[?1h=[?2004h> [K[19:32:17] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+> [K[19:32:17] [Server thread/INFO] [Sponge]: Found mcmod.info at jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar!/mcmod.info
+> [K[19:32:17] [Server thread/INFO] [Sponge]: Creating injector in stage 'PRODUCTION'
+> [K[19:32:24] [Server thread/INFO] [FML]: Searching /opt/pixelmon/forge/./mods for mods
+> [K[19:32:24] [Server thread/INFO] [FML]: Searching %s for plugins
+> [K[33;1m[19:32:25] [Server thread/WARN] [Sponge]: Plugin 'daycare' seems to be missing a valid mcmod.info metadata file. This is not a problem when testing plugins, however it is recommended to include one in public plugins.
+Please see https://docs.spongepowered.org/master/en/plugin/plugin-meta.html for details.
+[39;0m> [K[33;1m[19:32:25] [Server thread/WARN] [Sponge]: Plugin 'simpledexrewards' seems to be missing a valid mcmod.info metadata file. This is not a problem when testing plugins, however it is recommended to include one in public plugins.
+Please see https://docs.spongepowered.org/master/en/plugin/plugin-meta.html for details.
+[39;0m> [K[33;1m[19:32:26] [Server thread/WARN] [Sponge]: Plugin 'catclearlag' seems to be missing a valid mcmod.info metadata file. This is not a problem when testing plugins, however it is recommended to include one in public plugins.
+Please see https://docs.spongepowered.org/master/en/plugin/plugin-meta.html for details.
+[39;0m> [K[19:32:27] [Server thread/INFO] [FML]: Forge Mod Loader has identified 38 mods to load
+> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for spongeforge: assets/spongeforge/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for daycare: assets/daycare/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for pixelmoneconomybridge: assets/pixelmoneconomybridge/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for gts: assets/gts/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for impactor: assets/impactor/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for mirage: assets/mirage/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for pixelauction: assets/pixelauction/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for pixelextras: assets/pixelextras/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for pixelmonbroadcasts: assets/pixelmonbroadcasts/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for simpledexrewards: assets/simpledexrewards/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for wondertrade: assets/wondertrade/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for pjw: assets/pjw/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for bluemap: assets/bluemap/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for simpletablist: assets/simpletablist/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for pjc: assets/pjc/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for placeholderapi: assets/placeholderapi/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for vshop: assets/vshop/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for langswitch: assets/langswitch/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for boop: assets/boop/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for nucleus: assets/nucleus/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for griefdefender: assets/griefdefender/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for pixelgenocide: assets/pixelgenocide/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for catclearlag: assets/catclearlag/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for economylite: assets/economylite/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for autocommands: assets/autocommands/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for megamenus: assets/megamenus/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for luckperms: assets/luckperms/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [FML]: Missing English translation for webapi: assets/webapi/lang/en_us.lang
+[39;0m> [K[33;1m[19:32:27] [Server thread/WARN] [Sponge]: The mod placeholderapi was designed for spongeapi 5.1.0 but version 7.2.0-f12f8e774 is in use. It may not work properly.
+[39;0m> [K[19:32:28] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, spongeforge, customnpcs, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelextras, pixelmon, pixelmonbroadcasts, simpledexrewards, variedcommodities, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[19:32:28] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, spongeforge, customnpcs, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelextras, pixelmon, pixelmonbroadcasts, simpledexrewards, variedcommodities, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at SERVER
+> [K[33;1m[19:32:28] [Server thread/WARN] [Sponge]: There's no certificate fingerprint available
+[39;0m> [K[19:32:30] [Server thread/INFO] [STDOUT]: [valandur.webapi.WebAPI:<clinit>:95]: Static initialized
+> [K[33;1m[19:32:30] [Server thread/WARN] [pjw]: shum: Requires importing. /world import shum <type> <generator>
+[39;0m> [K[19:32:31] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+> [K[19:32:31] [Server thread/INFO] [FML]: Found 1555 ObjectHolder annotations
+> [K[19:32:31] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+> [K[19:32:31] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+> [K[19:32:31] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+> [K[19:32:31] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Starting version check at https://files.minecraftforge.net/maven/org/spongepowered/spongeforge/promotions_slim.json
+> [K[19:32:32] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Found status: OUTDATED Target: 7.1.2
+> [K[19:32:32] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+> [K[19:32:32] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+> [K[19:32:32] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+> [K[19:32:32] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: OUTDATED Target: 7.3.1
+> [K[19:32:32] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;1mStarting [39;0m[0;37;1mNucleus[39;0m[0;37;1m version [39;0m[0;37;1m1.12.1-S7.1[39;0m[0;37;1m, running on Sponge API [39;0m[0;37;1m7.2.0-f12f8e774[39;0m[0;37;1m.[39;0m[39;0m
+> [K[19:32:32] [Server thread/INFO] [nucleus]: Nucleus is now starting. Entering pre-init phase.
+> [K[19:32:33] [Server thread/INFO] [nucleus]: Starting QuickStart Module Loader version 0.11.0 subsystem.
+> [K[19:32:33] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;1m       [39;0m[0;36;22m __    [39;0m[39;0m
+> [K[19:32:33] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;1m  |    [39;0m[0;36;22m|__)   [39;0m[0;32;22mLuckPerms [39;0m[0;36;1mv5.1.17[39;0m[39;0m
+> [K[19:32:33] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;1m  |___ [39;0m[0;36;22m|      [39;0m[0;30;1mRunning on Sponge - SpongeForge[39;0m[39;0m
+> [K[19:32:33] [Server thread/INFO] [minecraft/DedicatedServer]: 
+> [K[19:32:33] [Server thread/INFO] [luckperms]: Loading configuration...
+> [K[19:32:34] [Server thread/INFO] [luckperms]: Loading storage provider... [H2]
+> [K[19:32:37] [Server thread/INFO] [luckperms]: Loading internal permission managers...
+> [K[19:32:37] [Server thread/INFO] [luckperms]: Registering PermissionService...
+> [K[19:32:37] [Server thread/INFO] [luckperms]: Performing initial data load...
+> [K[19:32:37] [Server thread/INFO] [luckperms]: Successfully enabled. (took 4779ms)
+> [K[19:32:37] [Server thread/INFO] [Pixelmon Broadcasts]: 
+> [K[19:32:37] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m=============== P I X E L M O N  B R O A D C A S T S ===============[39;0m
+> [K[19:32:38] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m--> [0;32;1mLoading and validating Pixelmon Broadcasts settings...[39;0m
+> [K[19:32:38] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m--> [0;32;1mRegistering listeners with Pixelmon...[39;0m
+> [K[19:32:38] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m--> [0;32;1mRegistering commands with Sponge...[39;0m
+> [K[19:32:38] [Server thread/INFO] [Pixelmon Broadcasts]:     [0;32;1mRegistered main command as [0;32;22m/pixelmonbroadcasts[0;32;1m, alias [0;32;22m/pbroadcasts[39;0m
+> [K[19:32:38] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m--> [0;32;1mPre-init completed. All systems nominal.[39;0m
+> [K[19:32:38] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m====================================================================[39;0m
+> [K[19:32:38] [Server thread/INFO] [Pixelmon Broadcasts]: 
+> [K[19:32:38] [Server thread/INFO] [economylite]: EconomyLite 2.15.1 is initializing!
+> [K[19:32:38] [Server thread/INFO] [economylite]: Using currency: Coin
+> [K[19:32:38] [Server thread/INFO] [economylite]: The SQL module is disabled!
+> [K[19:32:38] [Server thread/INFO] [economylite]: The Loan module is disabled!
+> [K[19:32:38] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+> [K[19:32:39] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+> [K[19:32:39] [Server thread/INFO] [webapi]: 
+bStats metrics is present in 1 plugins on this server.
+Presently, none of them are allowed to send data.
+Presently, the following 1 plugins are not allowed to send data:
+[Web-API]
+To change the enabled/disabled state of any bStats use in a plugin, visit the Sponge config!
+> [K[19:32:39] [Server thread/INFO] [minecraft/DedicatedServer]: 
+> [K[19:32:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;22m     _________________[39;0m[39;0m
+> [K[19:32:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;22m    / ____/_  __/ ___/       [39;0m[0;32;1mGTS 5.0.3[39;0m[39;0m
+> [K[19:32:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;22m   / / __  / /  \__ \        [39;0m[0;32;1mRunning on: [39;0m[0;33;1mSpongeForge 1.12.2-2838-7.2.1[39;0m[39;0m
+> [K[19:32:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;22m  / /_/ / / /  ___/ /        [39;0m[0;32;1mAuthor: [39;0m[0;36;22mNickImpact[39;0m[39;0m
+> [K[19:32:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;22m  \____/ /_/  /____/[39;0m[39;0m
+> [K[19:32:39] [Server thread/INFO] [minecraft/DedicatedServer]: 
+> [K[19:32:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mInitializing GTS...[39;0m[39;0m
+> [K[19:32:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mRegistering Service with Sponge...[39;0m[39;0m
+> [K[19:32:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mLoading default entry types...[39;0m[39;0m
+> [K[19:32:40] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mLoaded element type: SpongeItemEntry[39;0m[39;0m
+> [K[19:32:40] [Server thread/INFO] [bluemap]: 
+bStats metrics is present in 1 plugins on this server.
+Presently, none of them are allowed to send data.
+Presently, the following 1 plugins are not allowed to send data:
+[BlueMap]
+To change the enabled/disabled state of any bStats use in a plugin, visit the Sponge config!
+> [K[19:32:43] [Server thread/INFO] [catclearlag]: Setting up config...
+> [K[19:32:43] [Server thread/INFO] [simpledexrewards]: PokÃ©Dex Rewards by CraftSteamG.
+> [K[19:32:43] [Server thread/INFO] [simpledexrewards]: Loading Data
+> [K[19:32:43] [Server thread/INFO] [simpledexrewards]: Loading Config
+> [K[19:32:43] [Server thread/INFO] [simpledexrewards]: Config Loaded Successfully!
+> [K[19:32:43] [Server thread/INFO] [griefdefender]: Loading libraries...
+> [K[19:32:44] [Server thread/INFO] [griefdefender]: GriefDefender boot start.
+> [K[19:32:44] [Server thread/INFO] [griefdefender]: Finished loading configuration.
+> [K[19:32:44] [Server thread/INFO] [griefdefender]: Registering GriefDefender API...
+> [K[19:32:45] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 7.2.2
+> [K[19:32:47] [Server thread/INFO] [Pixelmon]: Checking for migrations..
+> [K[19:32:47] [Server thread/INFO] [Pixelmon]: Loading Advancements
+> [K[19:32:49] [Server thread/INFO] [STDOUT]: [com.wondertrademod.wondertrade.Utilities:loadDefaultCooldowns:106]: 2120447d-bb7a-49f3-83a0-aad8d4f2b7c5
+> [K[19:32:49] [Server thread/INFO] [STDOUT]: [com.wondertrademod.wondertrade.Wondertrade:preInit:53]: [Wondertrade] Successfully loaded configuration File.
+> [K[33;1m[19:32:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:32:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:32:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:32:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:32:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:32:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:32:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:32:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:32:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[19:32:50] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:32:50] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[19:32:51] [Server thread/INFO] [Pixelmon]: Loading TM/HMs.
+> [K[19:32:51] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:32:51] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[33;1m[19:32:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `sponge` for name `human`, expected `spongeforge`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[19:32:51] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:32:51] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[19:32:51] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:32:51] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[19:32:51] [Server thread/INFO] [FML]: Injecting itemstacks
+> [K[19:32:51] [Server thread/INFO] [FML]: Itemstack injection complete
+> [K[19:32:51] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties
+> [K[19:32:51] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL
+> [K[19:32:51] [Server thread/INFO] [minecraft/DedicatedServer]: Generating keypair
+> [K[19:32:51] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on *:25565
+> [K[19:32:52] [Server thread/INFO] [minecraft/NetworkSystem]: Using epoll channel type
+> [K[19:32:52] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:32:52] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[19:32:52] [Server thread/INFO] [nucleus]: Nucleus is now entering the init phase.
+> [K[19:32:52] [Server thread/INFO] [langswitch]: Setting default locale to en_
+> [K[19:32:52] [pool-3-thread-10/INFO] [langswitch]: Loading translations for vshop in en...
+> [K[19:32:52] [Server thread/INFO] [langswitch]: The LanguageService is now available!
+> [K[19:32:52] [pool-3-thread-10/INFO] [langswitch]: No translation file for English was found!
+> [K[19:32:53] [Server thread/INFO] [webapi]: Web-API v5.4.5-S7.1.0 is starting...
+> [K[19:32:53] [Server thread/INFO] [webapi]: Setting up jetty logger...
+> [K[19:32:53] [Server thread/INFO] [webapi]: Loading configuration...
+> [K[19:32:53] [Server thread/INFO] [webapi]: Loading keys & permissions...
+> [K[19:32:53] [Server thread/INFO] [webapi]: Loading serializers...
+> [K[19:32:53] [Server thread/INFO] [webapi]: Done loading serializers
+> [K[19:32:53] [Server thread/INFO] [webapi]: Registering servlets...
+> [K[19:32:53] [Server thread/INFO] [webapi]: Loading users...
+> [K[19:32:53] [Server thread/INFO] [webapi]: Initializing web hooks...
+> [K[19:32:53] [Server thread/INFO] [webapi]: Loading filters...
+> [K[19:32:53] [Server thread/INFO] [webapi]: Done loading filters
+> [K[19:32:54] [Server thread/INFO] [webapi]:   - http://localhost/test
+> [K[19:32:54] [Server thread/INFO] [webapi]:     -> Disabled
+> [K[19:32:54] [Server thread/INFO] [webapi]:   - http://localhost/test/{player}
+> [K[19:32:54] [Server thread/INFO] [webapi]:     -> Disabled
+> [K[19:32:54] [Server thread/INFO] [webapi]: Registering commands...
+> [K[19:32:54] [Server thread/INFO] [webapi]: Web-API ready
+> [K[19:32:54] [Server thread/INFO] [vshop]: Registering commands...
+> [K[19:32:54] [Server thread/INFO] [langswitch]: Missing translation cmd.description.short
+> [K[19:32:54] [Server thread/INFO] [langswitch]: Missing translation cmd.description.long
+> [K[19:32:54] [Server thread/INFO] [langswitch]: Localisation cmd.description.long does not use the following placeholder: \n
+> [K[19:32:54] [Server thread/INFO] [vshop]: Loading configs...
+> [K[19:32:54] [Server thread/INFO] [catclearlag]: Starting plugin...
+> [K[19:32:54] [Server thread/INFO] [catclearlag]: Registering commands...
+> [K[19:32:54] [Server thread/INFO] [Mirage]: Loading global configuration ..
+> [K[19:32:54] [Server thread/INFO] [Mirage]: Optimizing exposition check performances ..
+> [K[19:32:54] [Server thread/INFO] [Mirage]: Reading default pack ..
+> [K[19:32:54] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:overworld ..
+> [K[19:32:54] [Server thread/INFO] [Mirage]: Loading resources for dimension type: pixelmon:ultra_space ..
+> [K[19:32:54] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:nether ..
+> [K[19:32:54] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:the_end ..
+> [K[19:32:54] [Server thread/INFO] [PixelGenocide]: PixelGenocide by happyzleaf loaded! (https://happyzleaf.com/)
+> [K[19:32:55] [Server thread/INFO] [nucleus]: Nucleus is now entering the post-init phase.
+> [K[19:32:55] [Server thread/INFO] [nucleus]: Nucleus is now loading and enabling modules. This may take a few seconds.
+> [K[19:32:55] [Server thread/INFO] [nucleus]: Starting phase: PREENABLE
+> [K[19:32:55] [Server thread/INFO] [nucleus]: Starting phase: ENABLE
+> [K[19:32:58] [Server thread/INFO] [nucleus]: Starting phase: POSTENABLE
+> [K[19:32:58] [Server thread/INFO] [nucleus]: Nucleus language set to "en-GB"
+> [K[19:32:58] [Server thread/INFO] [nucleus]: Nucleus has completed loading modules.
+> [K[19:32:58] [Server thread/INFO] [nucleus]: Nucleus has completed server initialisation tasks. Waiting for game server to start to complete the final tasks.
+> [19:32:58][FINE/CustomNPCs][noppes.npcs.LogWriter:71] Tue Jun 02 19:32:58 UTC 2020
+[19:32:58][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Script Engines Available:
+[19:32:58][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:96] ECMAScript: .js
+[K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: CustomNPC Permissions available:
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.blocks
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.villager
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.bank
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.dialog
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.faction
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.linked
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.naturalspawn
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.playerdata
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.quest
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.recipe
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.transport
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.advanced
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.ai
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.clone
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.create
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.delete
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.display
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.freeze
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.gui
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.inventory
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.reset
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.stats
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.scenes
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.soulstone.all
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.create
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.mob
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.mounter
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.nbtbook
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.pather
+> [K[19:33:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.scripter
+> [K[19:33:00] [Server thread/INFO] [Pixelmon]: Registering shop items.
+> [K[19:33:00] [Server thread/INFO] [Pixelmon]: Registering NPCs.
+> [K[19:33:00] [Server thread/INFO] [Pixelmon]: Registered NPC trades.
+> [K[19:33:01] [Server thread/INFO] [Pixelmon]: Registering structures.
+> [K[19:33:01] [Server thread/INFO] [Pixelmon]: Registering all drops.
+> [K[19:33:02] [Server thread/INFO] [Pixelmon]: Registering battle rules.
+> [K[19:33:02] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
+> [K[19:33:03] [Server thread/INFO] [FML]: Injecting itemstacks
+> [K[19:33:03] [Server thread/INFO] [FML]: Itemstack injection complete
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;32;1mEnabling GTS...[39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mLoading configuration...[39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (blacklist.items)... Adding it![39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.new-listing.webhooks)... Adding it![39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.sell-listing.webhooks)... Adding it![39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.listing-expire.webhooks)... Adding it![39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.listing-remove.webhooks)... Adding it![39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mInitializing additional dependencies...[39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mInitializing internal handlers...[39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mSetting up discord notifier...[39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mInitializing the Listing Manager...[39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mRegistering tokens with Nucleus...[39;0m[39;0m
+> [K[19:33:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mRegistering commands with ACF...[39;0m[39;0m
+> [K[19:33:04] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mInitializing and reading storage...[39;0m[39;0m
+> [K[19:33:04] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mLoading storage provider... [H2][39;0m[39;0m
+> [K[19:33:04] [Thread-12/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mSuccessfully read in [39;0m[0;36;1m1 listings![39;0m[39;0m
+> [K[19:33:04] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mDeploying running tasks...[39;0m[39;0m
+> [K[19:33:04] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;32;1mStartup complete![39;0m[39;0m
+> [K[19:33:04] [Server thread/INFO] [worldedit]: WorldEdit for Sponge (version 6.1.10-SNAPSHOT) is loaded
+> [K[19:33:05] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
+> [K[19:33:07] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 38 mods
+> [K[19:33:08] [Server thread/INFO] [griefdefender]: Loading configuration...
+> [K[19:33:09] [Server thread/INFO] [griefdefender]: GriefDefender economy integration enabled.
+> [19:33:10][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:42] Loading Linked Npcs
+[19:33:10][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:62] Done loading Linked Npcs
+[K[19:33:10] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"
+> [K[19:33:10] [Server thread/INFO] [Sponge]: Checking for worlds that need to be migrated...
+> [K[19:33:10] [Server thread/INFO] [Sponge]: No worlds were found in need of migration.
+> [K[33;1m[19:33:10] [Server thread/WARN] [Sponge]: World [ultra] (72) is attempting to be registered as an existing dimension but it's dimension id has already been registered for folder [null]. This means the world has been copied outside of Sponge. This is not a supported configuration.
+[39;0m> [K[19:33:10] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+> [K[19:33:11] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:33:11] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[19:33:12] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 712 advancements
+> [K[19:33:12] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancement trees
+> [K[19:33:12] [Server thread/INFO] [Mirage]: Loading configuration for world world ..
+> [K[19:33:13] [Server thread/INFO] [griefdefender]: [world] 0 total claims loaded.
+> [K[19:33:13] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+> [K[19:33:13] [Server thread/INFO] [vshop]: Loading shops from world_ac6bd4c2-5b9a-465b-bc52-f3a6b549594d.conf
+> [K[33;1m[19:33:13] [Server thread/WARN] [vshop]: Could not backup world_ac6bd4c2-5b9a-465b-bc52-f3a6b549594d.conf!
+[39;0m> [K[19:33:13] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for world world (minecraft:overworld/0)
+> [K[19:33:14] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 0%
+> [K[19:33:15] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 14%
+> [K[19:33:15] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+> [K[19:33:16] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+> [K[33;1m[19:33:16] [Server thread/WARN] [minecraft/EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[39;0m> [K[33;1m[19:33:16] [Server thread/WARN] [minecraft/EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[39;0m> [K[33;1m[19:33:16] [Server thread/WARN] [minecraft/EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[39;0m> [K[33;1m[19:33:16] [Server thread/WARN] [minecraft/EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[39;0m> [K[33;1m[19:33:16] [Server thread/WARN] [Pixelmon]: Ignore the above warning messages ^ This is intended and working fine.
+[39;0m> [K[19:33:16] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 26%
+> [K[19:33:17] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 46%
+> [K[19:33:18] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 78%
+> [K[19:33:19] [Server thread/INFO] [Sponge]: Loading world [world] (minecraft:overworld/0)
+> [K[19:33:20] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 712 advancements
+> [K[19:33:20] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancement trees
+> [K[19:33:20] [Server thread/INFO] [Mirage]: Loading configuration for world DIM-1 ..
+> [K[19:33:20] [Server thread/INFO] [griefdefender]: [DIM-1] 0 total claims loaded.
+> [K[19:33:20] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+> [K[19:33:20] [Server thread/INFO] [vshop]: Loading shops from world_8bdd4867-8a67-4a91-ae90-5c5370f2ae6e.conf
+> [K[33;1m[19:33:20] [Server thread/WARN] [vshop]: Could not backup world_8bdd4867-8a67-4a91-ae90-5c5370f2ae6e.conf!
+[39;0m> [K[19:33:20] [Server thread/INFO] [Sponge]: Loading world [DIM-1] (minecraft:nether/-1)
+> [K[19:33:20] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 712 advancements
+> [K[19:33:20] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancement trees
+> [K[19:33:20] [Server thread/INFO] [Mirage]: Loading configuration for world DIM1 ..
+> [K[19:33:20] [Server thread/INFO] [griefdefender]: [DIM1] 0 total claims loaded.
+> [K[19:33:20] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+> [K[19:33:20] [Server thread/INFO] [vshop]: Loading shops from world_96b87889-638e-45a6-8d08-e3b60d0f7fdc.conf
+> [K[33;1m[19:33:20] [Server thread/WARN] [vshop]: Could not backup world_96b87889-638e-45a6-8d08-e3b60d0f7fdc.conf!
+[39;0m> [K[19:33:20] [Server thread/INFO] [Sponge]: Loading world [DIM1] (minecraft:the_end/1)
+> [K[19:33:21] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 712 advancements
+> [K[19:33:21] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancement trees
+> [K[19:33:21] [Server thread/INFO] [Mirage]: Loading configuration for world build ..
+> [K[19:33:21] [Server thread/INFO] [griefdefender]: [build] 0 total claims loaded.
+> [K[19:33:21] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+> [K[19:33:21] [Server thread/INFO] [vshop]: Loading shops from world_ea2c3b9d-0d70-4185-b367-f13cfca5463b.conf
+> [K[33;1m[19:33:21] [Server thread/WARN] [vshop]: Could not backup world_ea2c3b9d-0d70-4185-b367-f13cfca5463b.conf!
+[39;0m> [K[19:33:21] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for world build (minecraft:overworld/2)
+> [K[19:33:22] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 61%
+> [K[19:33:22] [Server thread/INFO] [Sponge]: Loading world [build] (minecraft:overworld/2)
+> [K[19:33:23] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 712 advancements
+> [K[19:33:23] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancement trees
+> [K[19:33:23] [Server thread/INFO] [Mirage]: Loading configuration for world ultra ..
+> [K[19:33:23] [Server thread/INFO] [griefdefender]: [ultra] 0 total claims loaded.
+> [K[19:33:23] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+> [K[19:33:23] [Server thread/INFO] [vshop]: Loading shops from world_d60e07df-b64d-4e82-96a7-4bdd9a5d4d50.conf
+> [K[33;1m[19:33:23] [Server thread/WARN] [vshop]: Could not backup world_d60e07df-b64d-4e82-96a7-4bdd9a5d4d50.conf!
+[39;0m> [K[19:33:23] [Server thread/INFO] [Sponge]: Loading world [ultra] (pixelmon:ultra_space/72)
+> [K[19:33:23] [Server thread/INFO] [minecraft/DedicatedServer]: Done (15.790s)! For help, type "help" or "?"
+> [K[19:33:23] [Server thread/INFO] [nucleus]: Nucleus is performing final tasks before server startup completes.
+> [K[19:33:23] [Server thread/INFO] [nucleus]: Nucleus has started.
+> [K[19:33:23] [pool-3-thread-4/INFO] [bluemap]: Loading...
+> [K[33;1m[19:33:23] [Server thread/WARN] [Sponge]: No entity type is registered for class net.minecraftforge.common.util.FakePlayer
+[39;0m> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m        /\[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m       /  \[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m      / || \[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m     /  ||  \[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m    /   ||   \[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m   /    ||    \[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m  /            \[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m /      **      \[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m------------------[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m===================================================================[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mThe command "/[39;0m[0;33;1mworld[39;0m[0;33;1m" could not be registered as it has already been claimed by [39;0m[0;33;1mProjectWorlds[39;0m[0;33;1m - the fallback "/[39;0m[0;33;1mnucleus[39;0m[0;33;1m:[39;0m[0;33;1mworld[39;0m[0;33;1m" is available.[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m===================================================================[39;0m[39;0m
+> [K[19:33:25] [Server thread/INFO] [griefdefender]: Loaded successfully.
+> [K[19:33:25] [Server thread/INFO] [webapi]: Starting Web Server...
+> [K[19:33:25] [Server thread/INFO] [webapi]: Logging initialized @93768ms to valandur.webapi.util.JettyLogger
+> [K[33;1m[19:33:26] [Server thread/WARN] [webapi]: You are using an HTTP port < 1024 which is not recommended! 
+This might cause errors when not running the server as root/admin. 
+Running the server as root/admin is not recommended. Please use a port above 1024 for HTTP.
+[39;0m> [K[33;1m[19:33:26] [Server thread/WARN] [FML]: =============================================================
+[39;0m> [K[33;1m[19:33:26] [Server thread/WARN] [FML]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[39;0m> [K[33;1m[19:33:26] [Server thread/WARN] [FML]: Offender: valandur/webapi/shadow/org/eclipse/jetty/util/security/Password.main([Ljava/lang/String;)V
+[39;0m> [K[33;1m[19:33:26] [Server thread/WARN] [FML]: Use FMLCommonHandler.exitJava instead
+[39;0m> [K[33;1m[19:33:26] [Server thread/WARN] [FML]: =============================================================
+[39;0m> [K[33;1m[19:33:26] [Server thread/WARN] [webapi]: v.w.s.o.e.j.s.h.ContextHandler@7702c20e{/,null,UNAVAILABLE} contextPath ends with /
+[39;0m> [K[19:33:29] [Thread-22/INFO] [bluemap]: WebServer started.
+> [K[19:33:29] [pool-3-thread-4/INFO] [bluemap]: Loaded!
+> [K[19:33:33] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+> [K[19:33:34] [Server thread/INFO] [webapi]: jetty-9.4.z-SNAPSHOT, build timestamp: 2017-11-21T21:27:37Z, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+> [K[19:33:34] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@562226b{/docs,null,AVAILABLE}
+> [K[19:33:34] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@111513a6{/,null,AVAILABLE}
+> [K[19:33:34] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@7702c20e{/admin,null,AVAILABLE}
+> [K[19:33:35] [Netty Epoll Server IO #0/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+> [K[19:33:37] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+> [K[19:33:41] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.ServletContextHandler@36fbc8d7{/api/v5,null,AVAILABLE}
+> [K[19:33:41] [Server thread/INFO] [webapi]: Started ServerConnector@18529711{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+> [K[19:33:41] [Server thread/INFO] [webapi]: x509=X509@753ce906(selfsigned,h=[],w=[]) for SslContextFactory@6808e1d8[provider=null,keyStore=jar:file:/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar!/assets/webapi/keystore.jks,trustStore=null]
+> [K[19:33:41] [Server thread/INFO] [webapi]: Started ServerConnector@15fd1cf8{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+> [K[19:33:41] [Server thread/INFO] [webapi]: Started @109539ms
+> [K[19:33:41] [Server thread/INFO] [webapi]: AdminPanel: https://0.0.0.0:8081/admin/
+> [K[19:33:41] [Server thread/INFO] [webapi]: API Docs: https://0.0.0.0:8081/docs
+> [K[19:33:41] [Server thread/INFO] [simpletablist]: PlaceholderAPI has been found, hooking in!
+> [K[19:33:41] [Server thread/INFO] [simpletablist]: Enabling...
+> [K[33;1m[19:33:42] [pool-3-thread-24/WARN] [webapi]: ------- Web-API Update -------
+[39;0m> [K[33;1m[19:33:42] [pool-3-thread-24/WARN] [webapi]: Latest: 5.4.6
+[39;0m> [K[33;1m[19:33:42] [pool-3-thread-24/WARN] [webapi]: Current: 5.4.5
+[39;0m> [K[33;1m[19:33:42] [pool-3-thread-24/WARN] [webapi]: ---------- Changes -----------
+[39;0m> [K[33;1m[19:33:42] [pool-3-thread-24/WARN] [webapi]: - Fix issue with hook events
+[39;0m> [K[33;1m[19:33:42] [pool-3-thread-24/WARN] [webapi]: ------------------------------
+[39;0m> [K[19:33:42] [Server thread/INFO] [simpletablist]: No new version detected!
+> [K[19:33:42] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m=============== P I X E L M O N  B R O A D C A S T S ===============[39;0m
+> [K[19:33:42] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m--> [0;33;1mPixelmon's "[0;33;22mdisplayLegendaryGlobalMessage[0;33;1m" setting is enabled.[39;0m
+> [K[19:33:42] [Server thread/INFO] [Pixelmon Broadcasts]:     [0;33;1mThis setting will now be disabled as it conflicts with this mod.[39;0m
+> [K[19:33:42] [Server thread/INFO] [Pixelmon Broadcasts]:     [0;33;1mIf you remove this mod, revert this in Pixelmon's config![39;0m
+> [K[19:33:42] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m====================================================================[39;0m
+> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*                                                    Could not pass  FMLServerStartedEvent                                                    */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /* Could not pass the event FMLServerStartedEvent to an Event Listener!                                                                        */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                                                */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                                              */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                                           */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                                         */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                                        */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                                            */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                                            */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /* Owning Mod/Plugin: pixelmonbroadcasts                                                                                                       */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /* Exception:                                                                                                                                  */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     java.lang.NoSuchMethodError:                                                                                                            */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.pixelmonmod.pixelmon.config.Pixe                                                                                                    */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     monConfig.reload(Z)V                                                                                                                    */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     rs.expand.pixelmonbroadcasts.PixelmonBroadcasts.onServerStartedEvent(PixelmonBroadcasts.java:239)                                       */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.listener.GameStartedServerEventListener_PixelmonBroadcasts_onServerStartedEvent29.handle(Unknown Source) */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)                                                    */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:381)                                                  */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)                                          */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                                                  */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)                                                                      */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.SpongeMod.onStateEvent(SpongeMod.java:377)                                                                        */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)                                                                             */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)                                                           */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)                                                   */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     java.lang.reflect.Method.invoke(Method.java:498)                                                                                        */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)                                                        */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)                                */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)                                                                         */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)                                          */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)                                                                 */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)                                           */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.EventBus.post(EventBus.java:217)                                                                             */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)                                           */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)                                             */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)                                                                             */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)                                                           */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)                                                   */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     java.lang.reflect.Method.invoke(Method.java:498)                                                                                        */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)                                                        */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)                                */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)                                                                         */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)                                          */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)                                                                 */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)                                           */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.EventBus.post(EventBus.java:217)                                                                             */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.redirect$zza000$forgeImpl$PostEvent(LoadController.java:568)                               */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)                                            */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.Loader.serverStarted(Loader.java:804)                                                                     */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.FMLCommonHandler.handleServerStarted(FMLCommonHandler.java:302)                                           */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.run(MinecraftServer.java:488)                                                                      */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /*     java.lang.Thread.run(Thread.java:748)                                                                                                   */
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
+[39;0m> [K[19:33:42] [Server thread/INFO] [worldedit]: Using com.sk89q.worldedit.sponge.adapter.impl.Sponge_1_12_Impl as the Sponge adapter
+> [K[19:33:42] [Server thread/INFO] [megamenus]: Searching for updates...
+> [K[33;1m[19:33:42] [Server thread/WARN] [megamenus]: The automatic Version Checker for Mega Menus(megamenus) is disabled!
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [megamenus]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
+[39;0m> [K[19:33:42] [Server thread/INFO] [vshop]: Starting timers...
+> [K[19:33:42] [Server thread/INFO] [vshop]: Searching for updates...
+> [K[33;1m[19:33:42] [Server thread/WARN] [vshop]: The automatic Version Checker for VillagerShops(vshop) is disabled!
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [vshop]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
+[39;0m> [K[19:33:42] [Server thread/INFO] [vshop]: User-Agent: VillagerShops/2.5 (Plugin by DosMike) SpongeAPI/7.2.0-f12f8e774 SpongeForge/1.12.2-2838-7.2.1 Minecraft/1.12.2
+> [K[33;1m[19:33:42] [Server thread/WARN] [vshop]: There are currently no translations on the server
+[39;0m> [K[19:33:42] [pool-3-thread-24/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] VillagerShops is missing translations![39;0m[39;0m
+> [K[19:33:42] [pool-3-thread-24/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] Enable auto download in the settings.conf or download them from github[39;0m[39;0m
+> [K[19:33:42] [Server thread/INFO] [vshop]: VillagerShops is now ready!
+> [K[19:33:42] [Server thread/INFO] [Mirage]: Mirage 1.3.15 was loaded successfully.
+> [K[19:33:42] [Server thread/INFO] [langswitch]: Searching for updates...
+> [K[33;1m[19:33:42] [Server thread/WARN] [langswitch]: The automatic Version Checker for LangSwitch(langswitch) is disabled!
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [langswitch]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
+[39;0m> [19:33:42][FINE/CustomNPCs][noppes.npcs.controllers.DialogController:44] Loading Dialogs
+[19:33:42][FINE/CustomNPCs][noppes.npcs.controllers.DialogController:46] Done loading Dialogs
+[K[19:33:57] [User Authenticator #1/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[19:33:57] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+> [K[19:33:57] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[19:33:57] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelmonbroadcasts, simpledexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[19:33:57] [pool-3-thread-1/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] VillagerShops is missing translations![39;0m[39;0m
+> [K[19:33:57] [pool-3-thread-1/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] Enable auto download in the settings.conf or download them from github[39;0m[39;0m
+> [K[19:33:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[19:33:58] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:55635] logged in with entity id [225] in world (minecraft:overworld/0) at (-652.3512143337864, 76.3680512059544, -1379.9981176854667).
+> [K[19:33:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[33;1m[19:34:01] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2295ms behind, skipping 45 tick(s)
+[39;0m> [K[19:34:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /re -a
+> [K[19:34:12] [pool-3-thread-10/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] VillagerShops is missing translations![39;0m[39;0m
+> [K[19:34:12] [pool-3-thread-10/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] Enable auto download in the settings.conf or download them from github[39;0m[39;0m
+> [K[19:34:27] [pool-3-thread-22/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] VillagerShops is missing translations![39;0m[39;0m
+> [K[19:34:27] [pool-3-thread-22/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] Enable auto download in the settings.conf or download them from github[39;0m[39;0m
+> [K[19:34:42] [pool-3-thread-23/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] VillagerShops is missing translations![39;0m[39;0m
+> [K[19:34:42] [pool-3-thread-23/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] Enable auto download in the settings.conf or download them from github[39;0m[39;0m
+> [K[19:34:57] [pool-3-thread-3/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] VillagerShops is missing translations![39;0m[39;0m
+> [K[19:34:57] [pool-3-thread-3/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] Enable auto download in the settings.conf or download them from github[39;0m[39;0m
+> [K[19:35:12] [pool-3-thread-3/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] VillagerShops is missing translations![39;0m[39;0m
+> [K[19:35:12] [pool-3-thread-3/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] Enable auto download in the settings.conf or download them from github[39;0m[39;0m
+> [K[19:35:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /sponge plugins reload
+> [K[19:35:19] [Server thread/INFO] [placeholderapi]: Reloaded PlaceholderAPI
+> [K[19:35:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (blacklist.items)... Adding it![39;0m[39;0m
+> [K[19:35:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.new-listing.webhooks)... Adding it![39;0m[39;0m
+> [K[19:35:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.sell-listing.webhooks)... Adding it![39;0m[39;0m
+> [K[19:35:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.listing-expire.webhooks)... Adding it![39;0m[39;0m
+> [K[19:35:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.listing-remove.webhooks)... Adding it![39;0m[39;0m
+> [K[19:35:19] [Server thread/INFO] [simpledexrewards]: Reloading Config
+> [K[19:35:19] [Server thread/INFO] [simpledexrewards]: Config Loaded Successfully!
+> [K[19:35:19] [Server thread/INFO] [simpletablist]: Reloading...
+> [K[19:35:19] [Server thread/INFO] [nucleus]: Nucleus language set to "en-GB"
+> [K[19:35:19] [Server thread/INFO] [langswitch]: Reloading config...
+> [K[19:35:19] [Server thread/INFO] [langswitch]: Setting default locale to en_
+> [K[19:35:19] [Server thread/INFO] [langswitch]: Reloading translation files...
+> [K[19:35:19] [Server thread/INFO] [langswitch]: Loading translations for vshop in en...
+> [K[19:35:19] [Server thread/INFO] [langswitch]: No translation file for English was found!
+> [K[19:35:19] [Server thread/INFO] [griefdefender]: Loading configuration...
+> [K[19:35:19] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+> [K[19:35:19] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+> [K[19:35:19] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+> [K[19:35:19] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+> [K[19:35:19] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+> [K[19:35:19] [Server thread/INFO] [webapi]: Reloading Web-API v5.4.5-S7.1.0...
+> [K[19:35:19] [Server thread/INFO] [webapi]: Stopped ServerConnector@18529711{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+> [K[19:35:19] [Server thread/INFO] [webapi]: Stopped ServerConnector@15fd1cf8{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+> [K[19:35:19] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.ServletContextHandler@36fbc8d7{/api/v5,null,UNAVAILABLE}
+> [K[19:35:19] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@7702c20e{/admin,null,UNAVAILABLE}
+> [K[19:35:19] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@111513a6{/,null,UNAVAILABLE}
+> [K[19:35:19] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@562226b{/docs,null,UNAVAILABLE}
+> [K[19:35:19] [Server thread/INFO] [webapi]: Loading configuration...
+> [K[19:35:19] [Server thread/INFO] [webapi]: Loading keys & permissions...
+> [K[19:35:19] [Server thread/INFO] [webapi]: Loading serializers...
+> [K[19:35:19] [Server thread/INFO] [webapi]: Done loading serializers
+> [K[19:35:19] [Server thread/INFO] [webapi]: Registering servlets...
+> [K[19:35:19] [Server thread/INFO] [webapi]: Loading users...
+> [K[19:35:19] [Server thread/INFO] [webapi]: Initializing web hooks...
+> [K[19:35:19] [Server thread/INFO] [webapi]: Loading filters...
+> [K[19:35:19] [Server thread/INFO] [webapi]: Done loading filters
+> [K[19:35:19] [Server thread/INFO] [webapi]:   - http://localhost/test
+> [K[19:35:19] [Server thread/INFO] [webapi]:     -> Disabled
+> [K[19:35:19] [Server thread/INFO] [webapi]:   - http://localhost/test/{player}
+> [K[19:35:19] [Server thread/INFO] [webapi]:     -> Disabled
+> [K[19:35:19] [Server thread/INFO] [webapi]: Registering commands...
+> [K[19:35:19] [Server thread/INFO] [webapi]: Starting Web Server...
+> [K[33;1m[19:35:19] [Server thread/WARN] [webapi]: You are using an HTTP port < 1024 which is not recommended! 
+This might cause errors when not running the server as root/admin. 
+Running the server as root/admin is not recommended. Please use a port above 1024 for HTTP.
+[39;0m> [K[33;1m[19:35:19] [Server thread/WARN] [webapi]: v.w.s.o.e.j.s.h.ContextHandler@b130102{/,null,UNAVAILABLE} contextPath ends with /
+[39;0m> [K[19:35:21] [Server thread/INFO] [webapi]: jetty-9.4.z-SNAPSHOT, build timestamp: 2017-11-21T21:27:37Z, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+> [K[19:35:21] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@10f39cbf{/docs,null,AVAILABLE}
+> [K[19:35:21] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@6b205353{/,null,AVAILABLE}
+> [K[19:35:21] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@b130102{/admin,null,AVAILABLE}
+> [K[19:35:24] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.ServletContextHandler@28587b4b{/api/v5,null,AVAILABLE}
+> [K[19:35:24] [Server thread/INFO] [webapi]: Started ServerConnector@4f8a2370{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+> [K[19:35:24] [Server thread/INFO] [webapi]: x509=X509@54551cc5(selfsigned,h=[],w=[]) for SslContextFactory@441df3d4[provider=null,keyStore=jar:file:/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar!/assets/webapi/keystore.jks,trustStore=null]
+> [K[19:35:24] [Server thread/INFO] [webapi]: Started ServerConnector@2395b434{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+> [K[19:35:24] [Server thread/INFO] [webapi]: Started @212947ms
+> [K[19:35:24] [Server thread/INFO] [webapi]: AdminPanel: https://0.0.0.0:8081/admin/
+> [K[19:35:24] [Server thread/INFO] [webapi]: API Docs: https://0.0.0.0:8081/docs
+> [K[19:35:24] [Server thread/INFO] [webapi]: Reloaded Web-API
+> [K[19:35:24] [Server thread/INFO] [griefdefender]: Loading configuration...
+> [K[19:35:25] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+> [K[19:35:25] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+> [K[19:35:25] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+> [K[33;1m[19:35:25] [pool-3-thread-1/WARN] [webapi]: ------- Web-API Update -------
+[39;0m> [K[33;1m[19:35:25] [pool-3-thread-1/WARN] [webapi]: Latest: 5.4.6
+[39;0m> [K[33;1m[19:35:25] [pool-3-thread-1/WARN] [webapi]: Current: 5.4.5
+[39;0m> [K[33;1m[19:35:25] [pool-3-thread-1/WARN] [webapi]: ---------- Changes -----------
+[39;0m> [K[33;1m[19:35:25] [pool-3-thread-1/WARN] [webapi]: - Fix issue with hook events
+[39;0m> [K[33;1m[19:35:25] [pool-3-thread-1/WARN] [webapi]: ------------------------------
+[39;0m> [K[19:35:25] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+> [K[19:35:25] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+> [K[33;1m[19:35:25] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6328ms behind, skipping 126 tick(s)
+[39;0m> [K[19:35:27] [pool-3-thread-17/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] VillagerShops is missing translations![39;0m[39;0m
+> [K[19:35:27] [pool-3-thread-17/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] Enable auto download in the settings.conf or download them from github[39;0m[39;0m
+> [K[19:35:42] [pool-3-thread-2/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] VillagerShops is missing translations![39;0m[39;0m
+> [K[19:35:42] [pool-3-thread-2/INFO] [minecraft/DedicatedServer]: [0;31;1m[vshop] Enable auto download in the settings.conf or download them from github[39;0m[39;0m
+> [K[19:35:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /stop 
+> [K[19:35:50] [Server thread/INFO] [luckperms]: Starting shutdown process...
+> [K[19:35:50] [Server thread/INFO] [luckperms]: Closing storage...
+> [K[19:35:50] [Server thread/INFO] [luckperms]: Goodbye!
+> [K[19:35:50] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+> [K[19:35:50] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+> [K[19:35:50] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+> [K[19:35:50] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'world'/0
+> [K[19:35:50] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'DIM-1'/-1
+> [K[19:35:50] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'DIM1'/1
+> [K[19:35:50] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'build'/2
+> [K[19:35:50] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ultra'/72
+> [K[19:35:50] [Server thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d unloaded
+> [K[19:35:50] [Server thread/INFO] [Sponge]: Unloading world [world] (minecraft:overworld/0)
+> [K[19:35:50] [Server thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e unloaded
+> [K[19:35:50] [Server thread/INFO] [Sponge]: Unloading world [DIM-1] (minecraft:nether/-1)
+> [K[19:35:50] [Server thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc unloaded
+> [K[19:35:50] [Server thread/INFO] [Sponge]: Unloading world [DIM1] (minecraft:the_end/1)
+> [K[19:35:50] [Server thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b unloaded
+> [K[19:35:50] [Server thread/INFO] [Sponge]: Unloading world [build] (minecraft:overworld/2)
+> [K[19:35:50] [Server thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 unloaded
+> [K[19:35:50] [Server thread/INFO] [Sponge]: Unloading world [ultra] (pixelmon:ultra_space/72)
+> [K[19:35:51] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+> [K[19:35:51] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+> [K[19:35:51] [Server thread/INFO] [nucleus]: Nucleus is performing server shutdown tasks.
+> [K[19:35:51] [Server thread/INFO] [webapi]: Stopped ServerConnector@4f8a2370{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+> [K[19:35:51] [Server thread/INFO] [webapi]: Stopped ServerConnector@2395b434{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+> [K[19:35:51] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.ServletContextHandler@28587b4b{/api/v5,null,UNAVAILABLE}
+> [K[19:35:51] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@b130102{/admin,null,UNAVAILABLE}
+> [K[19:35:51] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@6b205353{/,null,UNAVAILABLE}
+> [K[19:35:51] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@10f39cbf{/docs,null,UNAVAILABLE}
+> [19:38:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:38:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:38:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:38:54] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[19:38:54] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_252, running on Linux:amd64:4.15.0-101-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[19:38:54] [main/INFO] [FML]: Searching /opt/pixelmon/forge/./mods for mods
+[19:38:54] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Mirage-1.3.15.jar
+[19:38:54] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2838-7.2.1.jar
+[19:38:54] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2838-7.2.3-RC4035.jar
+[19:38:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:38:54] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:38:54] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar Service=LaunchWrapper Env=SERVER
+[33;1m[19:38:54] [main/WARN] [FML]: The coremod SpongeCoremod (org.spongepowered.mod.SpongeCoremod) is not signed!
+[39;0m[19:38:54] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[33;1m[19:38:54] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[39;0m[33;1m[19:38:54] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[39;0m[19:38:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:38:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:38:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:38:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:38:56] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:38:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:38:56] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:38:56] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@205b132e
+[19:38:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:38:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:38:57] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:38:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:38:57] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[33;1m[19:38:59] [main/WARN] [mixin]: @Mixin target net/minecraft/block/state/BlockStateContainer$StateImplementation is public in mixins.common.api.json:mcp.block.state.StateImplementationMixin_API and should be specified in value
+[39;0m[33;1m[19:39:01] [main/WARN] [mixin]: @Mixin target net/minecraft/server/management/PlayerProfileCache$ProfileEntry is public in mixins.common.core.json:server.management.PlayerProfileCache_ProfileEntryAccessor and should be specified in value
+[39;0m[33;1m[19:39:03] [main/WARN] [mixin]: Static binding violation: PRIVATE @Overwrite method func_189509_E in mixins.common.core.json:world.WorldMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[39;0m[19:39:06] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:39:16] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Class path contains multiple SLF4J bindings.
+[19:39:16] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Found binding in [jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+[19:39:16] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Found binding in [jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.3-RC4035.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+[19:39:16] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+[19:39:16] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+[19:39:16] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.12.2
+[19:39:16] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[19:39:16] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[?1h=[?2004h> [K[19:39:17] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+> [K[19:39:17] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+> [K[19:39:17] [Server thread/INFO] [Sponge]: Found mcmod.info at jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar!/mcmod.info
+> [K[19:39:17] [Server thread/INFO] [Sponge]: Creating injector in stage 'PRODUCTION'
+> [K[19:39:24] [Server thread/INFO] [FML]: Searching /opt/pixelmon/forge/./mods for mods
+> [K[19:39:24] [Server thread/INFO] [FML]: Searching %s for plugins
+> [K[33;1m[19:39:25] [Server thread/WARN] [Sponge]: Plugin 'daycare' seems to be missing a valid mcmod.info metadata file. This is not a problem when testing plugins, however it is recommended to include one in public plugins.
+Please see https://docs.spongepowered.org/master/en/plugin/plugin-meta.html for details.
+[39;0m> [K[33;1m[19:39:26] [Server thread/WARN] [Sponge]: Plugin 'simpledexrewards' seems to be missing a valid mcmod.info metadata file. This is not a problem when testing plugins, however it is recommended to include one in public plugins.
+Please see https://docs.spongepowered.org/master/en/plugin/plugin-meta.html for details.
+[39;0m> [K[33;1m[19:39:27] [Server thread/WARN] [Sponge]: Plugin 'catclearlag' seems to be missing a valid mcmod.info metadata file. This is not a problem when testing plugins, however it is recommended to include one in public plugins.
+Please see https://docs.spongepowered.org/master/en/plugin/plugin-meta.html for details.
+[39;0m> [K[19:39:28] [Server thread/INFO] [FML]: Forge Mod Loader has identified 38 mods to load
+> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for spongeforge: assets/spongeforge/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for daycare: assets/daycare/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for pixelmoneconomybridge: assets/pixelmoneconomybridge/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for gts: assets/gts/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for impactor: assets/impactor/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for mirage: assets/mirage/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for pixelauction: assets/pixelauction/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for pixelextras: assets/pixelextras/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for pixelmonbroadcasts: assets/pixelmonbroadcasts/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for simpledexrewards: assets/simpledexrewards/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for wondertrade: assets/wondertrade/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for pjw: assets/pjw/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for bluemap: assets/bluemap/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for simpletablist: assets/simpletablist/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for pjc: assets/pjc/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for placeholderapi: assets/placeholderapi/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for vshop: assets/vshop/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for langswitch: assets/langswitch/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for boop: assets/boop/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for nucleus: assets/nucleus/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for griefdefender: assets/griefdefender/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for pixelgenocide: assets/pixelgenocide/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for catclearlag: assets/catclearlag/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for economylite: assets/economylite/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for autocommands: assets/autocommands/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for megamenus: assets/megamenus/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for luckperms: assets/luckperms/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [FML]: Missing English translation for webapi: assets/webapi/lang/en_us.lang
+[39;0m> [K[33;1m[19:39:28] [Server thread/WARN] [Sponge]: The mod placeholderapi was designed for spongeapi 5.1.0 but version 7.2.0-f12f8e774 is in use. It may not work properly.
+[39;0m> [K[19:39:28] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, spongeforge, customnpcs, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelextras, pixelmon, pixelmonbroadcasts, simpledexrewards, variedcommodities, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[19:39:28] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, spongeforge, customnpcs, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelextras, pixelmon, pixelmonbroadcasts, simpledexrewards, variedcommodities, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at SERVER
+> [K[33;1m[19:39:29] [Server thread/WARN] [Sponge]: There's no certificate fingerprint available
+[39;0m> [K[19:39:31] [Server thread/INFO] [STDOUT]: [valandur.webapi.WebAPI:<clinit>:95]: Static initialized
+> [K[33;1m[19:39:31] [Server thread/WARN] [pjw]: shum: Requires importing. /world import shum <type> <generator>
+[39;0m> [K[19:39:31] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+> [K[19:39:31] [Server thread/INFO] [FML]: Found 1555 ObjectHolder annotations
+> [K[19:39:31] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+> [K[19:39:31] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+> [K[19:39:31] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+> [K[19:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+> [K[19:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+> [K[19:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Starting version check at https://files.minecraftforge.net/maven/org/spongepowered/spongeforge/promotions_slim.json
+> [K[19:39:32] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Found status: OUTDATED Target: 7.1.2
+> [K[19:39:32] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+> [K[19:39:32] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: OUTDATED Target: 7.3.1
+> [K[19:39:33] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;1m       [39;0m[0;36;22m __    [39;0m[39;0m
+> [K[19:39:33] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;1m  |    [39;0m[0;36;22m|__)   [39;0m[0;32;22mLuckPerms [39;0m[0;36;1mv5.1.17[39;0m[39;0m
+> [K[19:39:33] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;1m  |___ [39;0m[0;36;22m|      [39;0m[0;30;1mRunning on Sponge - SpongeForge[39;0m[39;0m
+> [K[19:39:33] [Server thread/INFO] [minecraft/DedicatedServer]: 
+> [K[19:39:33] [Server thread/INFO] [luckperms]: Loading configuration...
+> [K[19:39:33] [Server thread/INFO] [luckperms]: Loading storage provider... [H2]
+> [K[19:39:36] [Server thread/INFO] [luckperms]: Loading internal permission managers...
+> [K[19:39:36] [Server thread/INFO] [luckperms]: Registering PermissionService...
+> [K[19:39:36] [Server thread/INFO] [luckperms]: Performing initial data load...
+> [K[19:39:37] [Server thread/INFO] [luckperms]: Successfully enabled. (took 4151ms)
+> [K[19:39:37] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;1mStarting [39;0m[0;37;1mNucleus[39;0m[0;37;1m version [39;0m[0;37;1m1.12.1-S7.1[39;0m[0;37;1m, running on Sponge API [39;0m[0;37;1m7.2.0-f12f8e774[39;0m[0;37;1m.[39;0m[39;0m
+> [K[19:39:37] [Server thread/INFO] [nucleus]: Nucleus is now starting. Entering pre-init phase.
+> [K[19:39:37] [Server thread/INFO] [nucleus]: Starting QuickStart Module Loader version 0.11.0 subsystem.
+> [K[19:39:39] [Server thread/INFO] [Pixelmon Broadcasts]: 
+> [K[19:39:39] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m=============== P I X E L M O N  B R O A D C A S T S ===============[39;0m
+> [K[19:39:39] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m--> [0;32;1mLoading and validating Pixelmon Broadcasts settings...[39;0m
+> [K[19:39:39] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m--> [0;32;1mRegistering listeners with Pixelmon...[39;0m
+> [K[19:39:39] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m--> [0;32;1mRegistering commands with Sponge...[39;0m
+> [K[19:39:39] [Server thread/INFO] [Pixelmon Broadcasts]:     [0;32;1mRegistered main command as [0;32;22m/pixelmonbroadcasts[0;32;1m, alias [0;32;22m/pbroadcasts[39;0m
+> [K[19:39:39] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m--> [0;32;1mPre-init completed. All systems nominal.[39;0m
+> [K[19:39:39] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m====================================================================[39;0m
+> [K[19:39:39] [Server thread/INFO] [Pixelmon Broadcasts]: 
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: 
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;22m     _________________[39;0m[39;0m
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;22m    / ____/_  __/ ___/       [39;0m[0;32;1mGTS 5.0.3[39;0m[39;0m
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;22m   / / __  / /  \__ \        [39;0m[0;32;1mRunning on: [39;0m[0;33;1mSpongeForge 1.12.2-2838-7.2.1[39;0m[39;0m
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;22m  / /_/ / / /  ___/ /        [39;0m[0;32;1mAuthor: [39;0m[0;36;22mNickImpact[39;0m[39;0m
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;36;22m  \____/ /_/  /____/[39;0m[39;0m
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: 
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mInitializing GTS...[39;0m[39;0m
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mRegistering Service with Sponge...[39;0m[39;0m
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mLoading default entry types...[39;0m[39;0m
+> [K[19:39:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mLoaded element type: SpongeItemEntry[39;0m[39;0m
+> [K[19:39:39] [Server thread/INFO] [economylite]: EconomyLite 2.15.1 is initializing!
+> [K[19:39:39] [Server thread/INFO] [economylite]: Using currency: Coin
+> [K[19:39:39] [Server thread/INFO] [economylite]: The SQL module is disabled!
+> [K[19:39:39] [Server thread/INFO] [economylite]: The Loan module is disabled!
+> [K[19:39:39] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+> [K[19:39:40] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+> [K[19:39:42] [Server thread/INFO] [bluemap]: 
+bStats metrics is present in 1 plugins on this server.
+Presently, none of them are allowed to send data.
+Presently, the following 1 plugins are not allowed to send data:
+[BlueMap]
+To change the enabled/disabled state of any bStats use in a plugin, visit the Sponge config!
+> [K[19:39:42] [Server thread/INFO] [webapi]: 
+bStats metrics is present in 1 plugins on this server.
+Presently, none of them are allowed to send data.
+Presently, the following 1 plugins are not allowed to send data:
+[Web-API]
+To change the enabled/disabled state of any bStats use in a plugin, visit the Sponge config!
+> [K[19:39:42] [Server thread/INFO] [simpledexrewards]: PokÃ©Dex Rewards by CraftSteamG.
+> [K[19:39:42] [Server thread/INFO] [simpledexrewards]: Loading Data
+> [K[19:39:42] [Server thread/INFO] [simpledexrewards]: Loading Config
+> [K[19:39:42] [Server thread/INFO] [simpledexrewards]: Config Loaded Successfully!
+> [K[19:39:43] [Server thread/INFO] [catclearlag]: Setting up config...
+> [K[19:39:43] [Server thread/INFO] [griefdefender]: Loading libraries...
+> [K[19:39:44] [Server thread/INFO] [griefdefender]: GriefDefender boot start.
+> [K[19:39:44] [Server thread/INFO] [griefdefender]: Finished loading configuration.
+> [K[19:39:44] [Server thread/INFO] [griefdefender]: Registering GriefDefender API...
+> [K[19:39:45] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 7.2.2
+> [K[19:39:47] [Server thread/INFO] [Pixelmon]: Checking for migrations..
+> [K[19:39:47] [Server thread/INFO] [Pixelmon]: Loading Advancements
+> [K[19:39:49] [Server thread/INFO] [STDOUT]: [com.wondertrademod.wondertrade.Utilities:loadDefaultCooldowns:106]: 2120447d-bb7a-49f3-83a0-aad8d4f2b7c5
+> [K[19:39:49] [Server thread/INFO] [STDOUT]: [com.wondertrademod.wondertrade.Wondertrade:preInit:53]: [Wondertrade] Successfully loaded configuration File.
+> [K[33;1m[19:39:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:39:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:39:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:39:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:39:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:39:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:39:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:39:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[33;1m[19:39:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[19:39:50] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:39:50] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[19:39:51] [Server thread/INFO] [Pixelmon]: Loading TM/HMs.
+> [K[19:39:51] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:39:51] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[33;1m[19:39:51] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `sponge` for name `human`, expected `spongeforge`. This could be a intended override, but in most cases indicates a broken mod.
+[39;0m> [K[19:39:51] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:39:51] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[19:39:51] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:39:51] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[19:39:51] [Server thread/INFO] [FML]: Injecting itemstacks
+> [K[19:39:51] [Server thread/INFO] [FML]: Itemstack injection complete
+> [K[19:39:51] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties
+> [K[19:39:51] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL
+> [K[19:39:51] [Server thread/INFO] [minecraft/DedicatedServer]: Generating keypair
+> [K[19:39:51] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on *:25565
+> [K[19:39:51] [Server thread/INFO] [minecraft/NetworkSystem]: Using epoll channel type
+> [K[19:39:52] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:39:52] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[19:39:52] [Server thread/INFO] [nucleus]: Nucleus is now entering the init phase.
+> [K[19:39:52] [Server thread/INFO] [langswitch]: Setting default locale to en_
+> [K[19:39:52] [pool-3-thread-10/INFO] [langswitch]: Loading translations for vshop in en...
+> [K[19:39:52] [Server thread/INFO] [langswitch]: The LanguageService is now available!
+> [K[19:39:52] [pool-3-thread-10/INFO] [langswitch]: No translation file for English was found!
+> [K[19:39:52] [Server thread/INFO] [webapi]: Web-API v5.4.5-S7.1.0 is starting...
+> [K[19:39:52] [Server thread/INFO] [webapi]: Setting up jetty logger...
+> [K[19:39:52] [Server thread/INFO] [webapi]: Loading configuration...
+> [K[19:39:53] [Server thread/INFO] [webapi]: Loading keys & permissions...
+> [K[19:39:53] [Server thread/INFO] [webapi]: Loading serializers...
+> [K[19:39:53] [Server thread/INFO] [webapi]: Done loading serializers
+> [K[19:39:53] [Server thread/INFO] [webapi]: Registering servlets...
+> [K[19:39:53] [Server thread/INFO] [webapi]: Loading users...
+> [K[19:39:53] [Server thread/INFO] [webapi]: Initializing web hooks...
+> [K[19:39:53] [Server thread/INFO] [webapi]: Loading filters...
+> [K[19:39:53] [Server thread/INFO] [webapi]: Done loading filters
+> [K[19:39:53] [Server thread/INFO] [webapi]:   - http://localhost/test
+> [K[19:39:53] [Server thread/INFO] [webapi]:     -> Disabled
+> [K[19:39:53] [Server thread/INFO] [webapi]:   - http://localhost/test/{player}
+> [K[19:39:53] [Server thread/INFO] [webapi]:     -> Disabled
+> [K[19:39:53] [Server thread/INFO] [webapi]: Registering commands...
+> [K[19:39:53] [Server thread/INFO] [webapi]: Web-API ready
+> [K[19:39:53] [Server thread/INFO] [Mirage]: Loading global configuration ..
+> [K[19:39:53] [Server thread/INFO] [Mirage]: Optimizing exposition check performances ..
+> [K[19:39:53] [Server thread/INFO] [Mirage]: Reading default pack ..
+> [K[19:39:53] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:overworld ..
+> [K[19:39:53] [Server thread/INFO] [Mirage]: Loading resources for dimension type: pixelmon:ultra_space ..
+> [K[19:39:53] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:nether ..
+> [K[19:39:53] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:the_end ..
+> [K[19:39:53] [Server thread/INFO] [catclearlag]: Starting plugin...
+> [K[19:39:53] [Server thread/INFO] [catclearlag]: Registering commands...
+> [K[19:39:54] [Server thread/INFO] [vshop]: Registering commands...
+> [K[19:39:54] [Server thread/INFO] [langswitch]: Missing translation cmd.description.short
+> [K[19:39:54] [Server thread/INFO] [langswitch]: Missing translation cmd.description.long
+> [K[19:39:54] [Server thread/INFO] [langswitch]: Localisation cmd.description.long does not use the following placeholder: \n
+> [K[19:39:54] [Server thread/INFO] [vshop]: Loading configs...
+> [K[19:39:54] [Server thread/INFO] [PixelGenocide]: PixelGenocide by happyzleaf loaded! (https://happyzleaf.com/)
+> [K[19:39:54] [Server thread/INFO] [nucleus]: Nucleus is now entering the post-init phase.
+> [K[19:39:54] [Server thread/INFO] [nucleus]: Nucleus is now loading and enabling modules. This may take a few seconds.
+> [K[19:39:55] [Server thread/INFO] [nucleus]: Starting phase: PREENABLE
+> [K[19:39:55] [Server thread/INFO] [nucleus]: Starting phase: ENABLE
+> [K[19:39:57] [Server thread/INFO] [nucleus]: Starting phase: POSTENABLE
+> [K[19:39:57] [Server thread/INFO] [nucleus]: Nucleus language set to "en-GB"
+> [K[19:39:57] [Server thread/INFO] [nucleus]: Nucleus has completed loading modules.
+> [K[19:39:58] [Server thread/INFO] [nucleus]: Nucleus has completed server initialisation tasks. Waiting for game server to start to complete the final tasks.
+> [19:39:58][FINE/CustomNPCs][noppes.npcs.LogWriter:71] Tue Jun 02 19:39:58 UTC 2020
+[19:39:58][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Script Engines Available:
+[19:39:58][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:96] ECMAScript: .js
+[K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: CustomNPC Permissions available:
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.blocks
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.villager
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.bank
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.dialog
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.faction
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.linked
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.naturalspawn
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.playerdata
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.quest
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.recipe
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.transport
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.advanced
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.ai
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.clone
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.create
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.delete
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.display
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.freeze
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.gui
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.inventory
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.reset
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.stats
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.scenes
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.soulstone.all
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.create
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.mob
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.mounter
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.nbtbook
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.pather
+> [K[19:40:00] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.scripter
+> [K[19:40:00] [Server thread/INFO] [Pixelmon]: Registering shop items.
+> [K[19:40:00] [Server thread/INFO] [Pixelmon]: Registering NPCs.
+> [K[19:40:00] [Server thread/INFO] [Pixelmon]: Registered NPC trades.
+> [K[19:40:00] [Server thread/INFO] [Pixelmon]: Registering structures.
+> [K[19:40:01] [Server thread/INFO] [Pixelmon]: Registering all drops.
+> [K[19:40:02] [Server thread/INFO] [Pixelmon]: Registering battle rules.
+> [K[19:40:02] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
+> [K[19:40:03] [Server thread/INFO] [FML]: Injecting itemstacks
+> [K[19:40:03] [Server thread/INFO] [FML]: Itemstack injection complete
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;32;1mEnabling GTS...[39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mLoading configuration...[39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (blacklist.items)... Adding it![39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.new-listing.webhooks)... Adding it![39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.sell-listing.webhooks)... Adding it![39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.listing-expire.webhooks)... Adding it![39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.listing-remove.webhooks)... Adding it![39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mInitializing additional dependencies...[39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mInitializing internal handlers...[39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mSetting up discord notifier...[39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mInitializing the Listing Manager...[39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mRegistering tokens with Nucleus...[39;0m[39;0m
+> [K[19:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mRegistering commands with ACF...[39;0m[39;0m
+> [K[19:40:04] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mInitializing and reading storage...[39;0m[39;0m
+> [K[19:40:04] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mLoading storage provider... [H2][39;0m[39;0m
+> [K[19:40:05] [Thread-12/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mSuccessfully read in [39;0m[0;36;1m1 listings![39;0m[39;0m
+> [K[19:40:05] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;37;22mDeploying running tasks...[39;0m[39;0m
+> [K[19:40:05] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m » [39;0m[0;32;1mStartup complete![39;0m[39;0m
+> [K[19:40:05] [Server thread/INFO] [worldedit]: WorldEdit for Sponge (version 6.1.10-SNAPSHOT) is loaded
+> [K[19:40:05] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
+> [K[19:40:07] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+> [K[19:40:09] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 38 mods
+> [K[19:40:10] [Server thread/INFO] [griefdefender]: Loading configuration...
+> [K[19:40:11] [Server thread/INFO] [griefdefender]: GriefDefender economy integration enabled.
+> [19:40:12][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:42] Loading Linked Npcs
+[19:40:12][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:62] Done loading Linked Npcs
+[K[19:40:12] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"
+> [K[19:40:12] [Server thread/INFO] [Sponge]: Checking for worlds that need to be migrated...
+> [K[19:40:12] [Server thread/INFO] [Sponge]: No worlds were found in need of migration.
+> [K[33;1m[19:40:12] [Server thread/WARN] [Sponge]: World [ultra] (72) is attempting to be registered as an existing dimension but it's dimension id has already been registered for folder [null]. This means the world has been copied outside of Sponge. This is not a supported configuration.
+[39;0m> [K[19:40:12] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+> [K[19:40:13] [Server thread/INFO] [FML]: Applying holder lookups
+> [K[19:40:13] [Server thread/INFO] [FML]: Holder lookups applied
+> [K[19:40:14] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 712 advancements
+> [K[19:40:14] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancement trees
+> [K[19:40:14] [Server thread/INFO] [Mirage]: Loading configuration for world world ..
+> [K[19:40:15] [Server thread/INFO] [griefdefender]: [world] 0 total claims loaded.
+> [K[19:40:15] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+> [K[19:40:15] [Server thread/INFO] [vshop]: Loading shops from world_ac6bd4c2-5b9a-465b-bc52-f3a6b549594d.conf
+> [K[33;1m[19:40:15] [Server thread/WARN] [vshop]: Could not backup world_ac6bd4c2-5b9a-465b-bc52-f3a6b549594d.conf!
+[39;0m> [K[19:40:15] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for world world (minecraft:overworld/0)
+> [K[19:40:16] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 0%
+> [K[19:40:17] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 14%
+> [K[33;1m[19:40:17] [Server thread/WARN] [minecraft/EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[39;0m> [K[33;1m[19:40:17] [Server thread/WARN] [minecraft/EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[39;0m> [K[33;1m[19:40:17] [Server thread/WARN] [minecraft/EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[39;0m> [K[33;1m[19:40:17] [Server thread/WARN] [minecraft/EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[39;0m> [K[33;1m[19:40:17] [Server thread/WARN] [Pixelmon]: Ignore the above warning messages ^ This is intended and working fine.
+[39;0m> [K[19:40:18] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+> [K[19:40:18] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 28%
+> [K[19:40:19] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 48%
+> [K[19:40:20] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 70%
+> [K[19:40:21] [Server thread/INFO] [Sponge]: Loading world [world] (minecraft:overworld/0)
+> [K[19:40:21] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 712 advancements
+> [K[19:40:21] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancement trees
+> [K[19:40:21] [Server thread/INFO] [Mirage]: Loading configuration for world DIM-1 ..
+> [K[19:40:21] [Server thread/INFO] [griefdefender]: [DIM-1] 0 total claims loaded.
+> [K[19:40:21] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+> [K[19:40:21] [Server thread/INFO] [vshop]: Loading shops from world_8bdd4867-8a67-4a91-ae90-5c5370f2ae6e.conf
+> [K[33;1m[19:40:21] [Server thread/WARN] [vshop]: Could not backup world_8bdd4867-8a67-4a91-ae90-5c5370f2ae6e.conf!
+[39;0m> [K[19:40:21] [Server thread/INFO] [Sponge]: Loading world [DIM-1] (minecraft:nether/-1)
+> [K[19:40:22] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 712 advancements
+> [K[19:40:22] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancement trees
+> [K[19:40:22] [Server thread/INFO] [Mirage]: Loading configuration for world DIM1 ..
+> [K[19:40:22] [Server thread/INFO] [griefdefender]: [DIM1] 0 total claims loaded.
+> [K[19:40:22] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+> [K[19:40:22] [Server thread/INFO] [vshop]: Loading shops from world_96b87889-638e-45a6-8d08-e3b60d0f7fdc.conf
+> [K[33;1m[19:40:22] [Server thread/WARN] [vshop]: Could not backup world_96b87889-638e-45a6-8d08-e3b60d0f7fdc.conf!
+[39;0m> [K[19:40:22] [Server thread/INFO] [Sponge]: Loading world [DIM1] (minecraft:the_end/1)
+> [K[19:40:22] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 712 advancements
+> [K[19:40:22] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancement trees
+> [K[19:40:22] [Server thread/INFO] [Mirage]: Loading configuration for world build ..
+> [K[19:40:22] [Server thread/INFO] [griefdefender]: [build] 0 total claims loaded.
+> [K[19:40:22] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+> [K[19:40:22] [Server thread/INFO] [vshop]: Loading shops from world_ea2c3b9d-0d70-4185-b367-f13cfca5463b.conf
+> [K[33;1m[19:40:22] [Server thread/WARN] [vshop]: Could not backup world_ea2c3b9d-0d70-4185-b367-f13cfca5463b.conf!
+[39;0m> [K[19:40:22] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for world build (minecraft:overworld/2)
+> [K[19:40:23] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 39%
+> [K[19:40:24] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 86%
+> [K[19:40:25] [Server thread/INFO] [Sponge]: Loading world [build] (minecraft:overworld/2)
+> [K[19:40:25] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 712 advancements
+> [K[19:40:25] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 120 advancement trees
+> [K[19:40:25] [Server thread/INFO] [Mirage]: Loading configuration for world ultra ..
+> [K[19:40:25] [Server thread/INFO] [griefdefender]: [ultra] 0 total claims loaded.
+> [K[19:40:25] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+> [K[19:40:25] [Server thread/INFO] [vshop]: Loading shops from world_d60e07df-b64d-4e82-96a7-4bdd9a5d4d50.conf
+> [K[33;1m[19:40:25] [Server thread/WARN] [vshop]: Could not backup world_d60e07df-b64d-4e82-96a7-4bdd9a5d4d50.conf!
+[39;0m> [K[19:40:25] [Server thread/INFO] [Sponge]: Loading world [ultra] (pixelmon:ultra_space/72)
+> [K[19:40:25] [Server thread/INFO] [minecraft/DedicatedServer]: Done (16.253s)! For help, type "help" or "?"
+> [K[19:40:25] [Server thread/INFO] [nucleus]: Nucleus is performing final tasks before server startup completes.
+> [K[19:40:25] [Server thread/INFO] [nucleus]: Nucleus has started.
+> [K[19:40:25] [pool-3-thread-24/INFO] [bluemap]: Loading...
+> [K[33;1m[19:40:25] [Server thread/WARN] [Sponge]: No entity type is registered for class net.minecraftforge.common.util.FakePlayer
+[39;0m> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m        /\[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m       /  \[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m      / || \[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m     /  ||  \[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m    /   ||   \[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m   /    ||    \[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m  /            \[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m /      **      \[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m------------------[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m===================================================================[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mThe command "/[39;0m[0;33;1mworld[39;0m[0;33;1m" could not be registered as it has already been claimed by [39;0m[0;33;1mProjectWorlds[39;0m[0;33;1m - the fallback "/[39;0m[0;33;1mnucleus[39;0m[0;33;1m:[39;0m[0;33;1mworld[39;0m[0;33;1m" is available.[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1m===================================================================[39;0m[39;0m
+> [K[19:40:28] [Server thread/INFO] [megamenus]: Searching for updates...
+> [K[33;1m[19:40:28] [Server thread/WARN] [megamenus]: The automatic Version Checker for Mega Menus(megamenus) is disabled!
+[39;0m> [K[33;1m[19:40:28] [Server thread/WARN] [megamenus]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
+[39;0m> [K[19:40:28] [Server thread/INFO] [langswitch]: Searching for updates...
+> [K[33;1m[19:40:28] [Server thread/WARN] [langswitch]: The automatic Version Checker for LangSwitch(langswitch) is disabled!
+[39;0m> [K[33;1m[19:40:28] [Server thread/WARN] [langswitch]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
+[39;0m> [K[19:40:28] [Server thread/INFO] [webapi]: Starting Web Server...
+> [K[19:40:28] [Server thread/INFO] [webapi]: Logging initialized @97919ms to valandur.webapi.util.JettyLogger
+> [K[33;1m[19:40:28] [Server thread/WARN] [webapi]: You are using an HTTP port < 1024 which is not recommended! 
+This might cause errors when not running the server as root/admin. 
+Running the server as root/admin is not recommended. Please use a port above 1024 for HTTP.
+[39;0m> [K[33;1m[19:40:29] [Server thread/WARN] [FML]: =============================================================
+[39;0m> [K[33;1m[19:40:29] [Server thread/WARN] [FML]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[39;0m> [K[33;1m[19:40:29] [Server thread/WARN] [FML]: Offender: valandur/webapi/shadow/org/eclipse/jetty/util/security/Password.main([Ljava/lang/String;)V
+[39;0m> [K[33;1m[19:40:29] [Server thread/WARN] [FML]: Use FMLCommonHandler.exitJava instead
+[39;0m> [K[33;1m[19:40:29] [Server thread/WARN] [FML]: =============================================================
+[39;0m> [K[33;1m[19:40:29] [Server thread/WARN] [webapi]: v.w.s.o.e.j.s.h.ContextHandler@25ed2da2{/,null,UNAVAILABLE} contextPath ends with /
+[39;0m> [K[19:40:30] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+> [K[19:40:32] [Thread-23/INFO] [bluemap]: WebServer started.
+> [K[19:40:32] [pool-3-thread-24/INFO] [bluemap]: Loaded!
+> [K[19:40:37] [Server thread/INFO] [webapi]: jetty-9.4.z-SNAPSHOT, build timestamp: 2017-11-21T21:27:37Z, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+> [K[19:40:37] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@6ed4d3fb{/docs,null,AVAILABLE}
+> [K[19:40:37] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@cc90891{/,null,AVAILABLE}
+> [K[19:40:37] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@25ed2da2{/admin,null,AVAILABLE}
+> [K[19:40:43] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.ServletContextHandler@570febcf{/api/v5,null,AVAILABLE}
+> [K[19:40:43] [Server thread/INFO] [webapi]: Started ServerConnector@61189051{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+> [K[19:40:44] [Server thread/INFO] [webapi]: x509=X509@5c8b8164(selfsigned,h=[],w=[]) for SslContextFactory@6fbd43e[provider=null,keyStore=jar:file:/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar!/assets/webapi/keystore.jks,trustStore=null]
+> [K[19:40:44] [Server thread/INFO] [webapi]: Started ServerConnector@7baa72ee{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+> [K[19:40:44] [Server thread/INFO] [webapi]: Started @114115ms
+> [K[19:40:44] [Server thread/INFO] [webapi]: AdminPanel: https://0.0.0.0:8081/admin/
+> [K[19:40:44] [Server thread/INFO] [webapi]: API Docs: https://0.0.0.0:8081/docs
+> [K[19:40:44] [Server thread/INFO] [griefdefender]: Loaded successfully.
+> [K[19:40:44] [Server thread/INFO] [simpletablist]: PlaceholderAPI has been found, hooking in!
+> [K[19:40:44] [Server thread/INFO] [simpletablist]: Enabling...
+> [K[33;1m[19:40:45] [pool-3-thread-25/WARN] [webapi]: ------- Web-API Update -------
+[39;0m> [K[33;1m[19:40:45] [pool-3-thread-25/WARN] [webapi]: Latest: 5.4.6
+[39;0m> [K[33;1m[19:40:45] [pool-3-thread-25/WARN] [webapi]: Current: 5.4.5
+[39;0m> [K[33;1m[19:40:45] [pool-3-thread-25/WARN] [webapi]: ---------- Changes -----------
+[39;0m> [K[33;1m[19:40:45] [pool-3-thread-25/WARN] [webapi]: - Fix issue with hook events
+[39;0m> [K[33;1m[19:40:45] [pool-3-thread-25/WARN] [webapi]: ------------------------------
+[39;0m> [K[19:40:45] [Server thread/INFO] [simpletablist]: No new version detected!
+> [K[19:40:45] [Server thread/INFO] [vshop]: Starting timers...
+> [K[19:40:45] [Server thread/INFO] [vshop]: Searching for updates...
+> [K[33;1m[19:40:45] [Server thread/WARN] [vshop]: The automatic Version Checker for VillagerShops(vshop) is disabled!
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [vshop]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
+[39;0m> [K[19:40:45] [Server thread/INFO] [vshop]: User-Agent: VillagerShops/2.5 (Plugin by DosMike) SpongeAPI/7.2.0-f12f8e774 SpongeForge/1.12.2-2838-7.2.1 Minecraft/1.12.2
+> [K[33;1m[19:40:45] [Server thread/WARN] [vshop]: There are currently no translations on the server
+[39;0m> [K[19:40:45] [Server thread/INFO] [vshop]: Starting download job...
+> [K[19:40:45] [Server thread/INFO] [vshop]: VillagerShops is now ready!
+> [K[19:40:45] [Server thread/INFO] [worldedit]: Using com.sk89q.worldedit.sponge.adapter.impl.Sponge_1_12_Impl as the Sponge adapter
+> [K[19:40:45] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m=============== P I X E L M O N  B R O A D C A S T S ===============[39;0m
+> [K[19:40:45] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m--> [0;33;1mPixelmon's "[0;33;22mdisplayLegendaryGlobalMessage[0;33;1m" setting is enabled.[39;0m
+> [K[19:40:45] [Server thread/INFO] [Pixelmon Broadcasts]:     [0;33;1mThis setting will now be disabled as it conflicts with this mod.[39;0m
+> [K[19:40:45] [Server thread/INFO] [Pixelmon Broadcasts]:     [0;33;1mIf you remove this mod, revert this in Pixelmon's config![39;0m
+> [K[19:40:45] [Server thread/INFO] [Pixelmon Broadcasts]: [0;37;1m====================================================================[39;0m
+> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*                                                    Could not pass  FMLServerStartedEvent                                                    */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /* Could not pass the event FMLServerStartedEvent to an Event Listener!                                                                        */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                                                */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                                              */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                                           */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                                         */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                                        */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                                            */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                                            */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /* Owning Mod/Plugin: pixelmonbroadcasts                                                                                                       */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /* Exception:                                                                                                                                  */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     java.lang.NoSuchMethodError:                                                                                                            */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.pixelmonmod.pixelmon.config.Pixe                                                                                                    */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     monConfig.reload(Z)V                                                                                                                    */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     rs.expand.pixelmonbroadcasts.PixelmonBroadcasts.onServerStartedEvent(PixelmonBroadcasts.java:239)                                       */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.listener.GameStartedServerEventListener_PixelmonBroadcasts_onServerStartedEvent29.handle(Unknown Source) */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)                                                    */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:381)                                                  */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)                                          */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                                                  */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)                                                                      */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.SpongeMod.onStateEvent(SpongeMod.java:377)                                                                        */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)                                                                             */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)                                                           */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)                                                   */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     java.lang.reflect.Method.invoke(Method.java:498)                                                                                        */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)                                                        */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)                                */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)                                                                         */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)                                          */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)                                                                 */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)                                           */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.EventBus.post(EventBus.java:217)                                                                             */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)                                           */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)                                             */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)                                                                             */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)                                                           */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)                                                   */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     java.lang.reflect.Method.invoke(Method.java:498)                                                                                        */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)                                                        */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)                                */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)                                                                         */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)                                          */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)                                                                 */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)                                           */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.EventBus.post(EventBus.java:217)                                                                             */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.redirect$zza000$forgeImpl$PostEvent(LoadController.java:568)                               */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)                                            */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.Loader.serverStarted(Loader.java:804)                                                                     */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.FMLCommonHandler.handleServerStarted(FMLCommonHandler.java:302)                                           */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.run(MinecraftServer.java:488)                                                                      */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /*     java.lang.Thread.run(Thread.java:748)                                                                                                   */
+[39;0m> [K[33;1m[19:40:45] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
+[39;0m> [K[19:40:45] [Server thread/INFO] [Mirage]: Mirage 1.3.15 was loaded successfully.
+> [19:40:46][FINE/CustomNPCs][noppes.npcs.controllers.DialogController:44] Loading Dialogs
+[19:40:46][FINE/CustomNPCs][noppes.npcs.controllers.DialogController:46] Done loading Dialogs
+[K[19:40:46] [pool-3-thread-25/INFO] [vshop]: Downloading https://raw.githubusercontent.com/DosMike/VillagerShops/master/release/config/vshop/Lang/zh_CN.lang...
+> [K[19:40:46] [pool-3-thread-25/INFO] [vshop]: Downloading https://raw.githubusercontent.com/DosMike/VillagerShops/master/release/config/vshop/Lang/fr_FR.lang...
+> [K[19:40:46] [pool-3-thread-25/INFO] [vshop]: Downloading https://raw.githubusercontent.com/DosMike/VillagerShops/master/release/config/vshop/Lang/en.lang...
+> [K[19:40:46] [pool-3-thread-25/INFO] [vshop]: Downloading https://raw.githubusercontent.com/DosMike/VillagerShops/master/release/config/vshop/Lang/de.lang...
+> [K[19:40:46] [pool-3-thread-25/INFO] [vshop]: Translation download finished
+> [K[33;1m[19:40:46] [pool-3-thread-25/WARN] [vshop]: The translations will load after restarting the server
+[39;0m> [K[19:40:46] [pool-3-thread-25/INFO] [minecraft/DedicatedServer]: [0;33;1m[vshop] The translations will load after restarting the server[39;0m[39;0m
+> [K[19:40:50] [User Authenticator #1/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[19:40:51] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+> [K[19:40:51] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[19:40:51] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelmonbroadcasts, simpledexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[19:40:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[19:40:52] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:55952] logged in with entity id [17] in world (minecraft:overworld/0) at (-649.0377098452893, 74.90054075530585, -1378.654915560833).
+> [K[19:40:52] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[19:42:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /vshop create minecraft:pig
+> [K[19:42:06] [Server thread/INFO] [langswitch]: Missing translation cmd.create.success
+> [K[19:42:16] [Server thread/INFO] [vshop]: Saving VillagerShops...
+> [K[19:42:16] [Server thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d saved
+> [K[19:42:16] [Server thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e saved
+> [K[19:42:16] [Server thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc saved
+> [K[19:42:16] [Server thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b saved
+> [K[19:42:16] [Server thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 saved
+> [K[19:42:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /vshop edit
+> [K[19:42:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /vshop ledger
+> [K[19:42:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /vshop list
+> [K[19:42:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /vshop id
+> [K[19:42:47] [Server thread/INFO] [langswitch]: Missing translation cmd.identify.adminshop
+> [K[19:42:47] [Server thread/INFO] [langswitch]: Missing translation cmd.identify.shiftclick
+> [K[19:42:47] [Server thread/INFO] [langswitch]: Missing translation cmd.identify.response
+> [K[19:43:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /vshop add
+> [K[19:43:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /vshop add 100 1 coins
+> [K[19:43:34] [Server thread/INFO] [langswitch]: Missing translation cmd.add.success
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.title
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:43:36] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:43:46] [Server thread/INFO] [vshop]: Saving VillagerShops...
+> [K[19:43:46] [Server thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d saved
+> [K[19:43:46] [Server thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e saved
+> [K[19:43:46] [Server thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc saved
+> [K[19:43:46] [Server thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b saved
+> [K[19:43:46] [Server thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 saved
+> [K[19:43:54] [Server thread/INFO] [langswitch]: Missing translation shop.buy.message
+> [K[19:44:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /bal 
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.title
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:44:01] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:44:03] [Server thread/INFO] [langswitch]: Missing translation shop.sell.message
+> [K[19:44:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /bal 
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.title
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:44:09] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:45:11] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:45:12] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.one
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.one
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.one
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.one
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:45:13] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.name
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore1
+> [K[19:45:14] [Server thread/INFO] [langswitch]: Missing translation shop.removemode.lore2
+> [K[19:45:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+> [K[19:45:27] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mU[39;0m[0;30;1m] ([39;0m[0;36;1maboveexpert[39;0m[0;30;1m)[39;0m[39;0m
+> [K[19:45:27] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mdemote promotion[39;0m[39;0m
+> [K[19:45:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+> [K[19:45:27] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mU[39;0m[0;30;1m] ([39;0m[0;36;1maboveexpert[39;0m[0;30;1m)[39;0m[39;0m
+> [K[19:45:27] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mdemote promotion[39;0m[39;0m
+> [K[19:45:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+> [K[19:45:28] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mU[39;0m[0;30;1m] ([39;0m[0;36;1maboveexpert[39;0m[0;30;1m)[39;0m[39;0m
+> [K[19:45:28] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mdemote promotion[39;0m[39;0m
+> [K[19:45:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+> [K[19:45:28] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;30;1m([39;0m[0;33;1mAboveexpert[39;0m[0;30;1m) [[39;0m[0;32;1mU[39;0m[0;30;1m] ([39;0m[0;36;1maboveexpert[39;0m[0;30;1m)[39;0m[39;0m
+> [K[19:45:28] [pool-5-thread-1/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;36;1m[21mL[39;0m[0;36;22m[21mP[39;0m[0;37;22m] [39;0m[0;36;22mLOG [39;0m[0;36;22m[21m> [39;0m[0;37;1mdemote promotion[39;0m[39;0m
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.title
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:29] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.one
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.one
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.one
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.one
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:32] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:33] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:34] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.item.buy.stack
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.item.sell.stack
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.name
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.full
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.half
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.quarter
+> [K[19:45:35] [Server thread/INFO] [langswitch]: Missing translation shop.quantity.items.single
+> [K[19:46:10] [User Authenticator #2/INFO] [minecraft/NetHandlerLoginServer]: UUID of player snakes866 is 1720825f-9860-4cb5-8a7e-d05bcfa51b3d
+> [K[19:46:10] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+> [K[19:46:10] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[19:46:10] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, simpledexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[19:46:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[19:46:11] [Server thread/INFO] [minecraft/PlayerList]: snakes866 [/70.68.76.101:58285] logged in with entity id [323] in world (minecraft:overworld/0) at (-608.6317817638378, 72.96507570042402, -1315.477771534675).
+> [K[19:46:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1msnakes866[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[19:46:26] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+> [K[19:46:26] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[19:48:53] [pool-3-thread-10/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:49:23] [pool-3-thread-23/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:49:53] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[19:50:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[19:50:34] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[19:51:05] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m122 pokémon have been cleared.[39;0m[39;0m
+> [K[19:51:08] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time set night
+> [K[19:58:26] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time set 1
+> [K[19:58:53] [pool-3-thread-26/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:59:23] [pool-3-thread-31/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:59:53] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[20:00:22] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[20:00:53] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[20:00:59] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA legendary Entei has spawned in world "world", at X:-658 Y:94 Z:-1252[39;0m
+> [K[20:00:59] [Server thread/INFO] [minecraft/DedicatedServer]: [[39;0m[0;35;1mPixelmon[39;0m[0;32;1m[39;0m] [39;0m[0;32;1mEntei[39;0m[0;32;1m has spawned in a [39;0m[0;32;1mExtreme Hills[39;0m[0;32;1m biome![39;0m[39;0m
+> [K[20:00:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;1mSpawned Entei at: world x:-658, y:94, z:-1252[39;0m[39;0m
+> [K[20:01:20] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time set night
+> [K[20:01:24] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m114 pokémon have been cleared.[39;0m[39;0m
+> [K[20:02:14] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Zubat has spawned in world "world", at X:-575 Y:97 Z:-1307[39;0m
+> [K[20:05:18] [Server thread/INFO] [nucleus]: snakes866 ran the command: /spawn 
+> [K[20:05:30] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Drifloon has spawned in world "world", at X:-621 Y:80 Z:-1321[39;0m
+> [K[20:07:05] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time set 1
+> [K[20:08:53] [pool-3-thread-31/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:09:23] [pool-3-thread-32/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:09:53] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[20:10:40] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[20:11:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[20:11:42] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m135 pokémon have been cleared.[39;0m[39;0m
+> [K[20:16:48] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Staravia has spawned in world "world", at X:-641 Y:102 Z:-1288[39;0m
+> [K[20:18:00] [Server thread/INFO] [nucleus]: snakes866 ran the command: /timeset 1
+> [K[20:18:53] [pool-3-thread-26/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:19:23] [pool-3-thread-33/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:19:53] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[20:20:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[20:21:30] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[20:22:01] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m133 pokémon have been cleared.[39;0m[39;0m
+> [K[20:22:28] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Whismur has spawned in world "world", at X:-655 Y:66 Z:-1322[39;0m
+> [K[20:23:56] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Aerodactyl has spawned in world "world", at X:-607 Y:77 Z:-1316[39;0m
+> [K[20:28:46] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-649 Y:87 Z:-1346[39;0m
+> [K[20:28:53] [pool-3-thread-39/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:29:23] [pool-3-thread-37/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:29:53] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> 
