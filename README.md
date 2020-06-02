@@ -1,2 +1,2 @@
 # pixelmon
-Pixelmon server backups
+Pixelmon server automated backups
