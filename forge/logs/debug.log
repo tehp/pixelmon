@@ -17688,3 +17688,24 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [05:00:40] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time set 1
 [05:00:57] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
 [05:01:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:01:27] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[05:01:57] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[05:02:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:02:27] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[05:02:28] [Server thread/DEBUG] [mixin]: Mixing forge.fluids.BlockFluidBaseMixin_Forge from mixins.forge.core.json into net.minecraftforge.fluids.BlockFluidBase
+[05:02:28] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraftforge/fluids/IFluidBlock to metadata cache
+[05:02:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:02:57] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[05:03:27] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[05:03:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:03:53] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+[05:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [snakes866: snakes866 butchered 146 pixelmon!]
+[05:03:57] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[05:04:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:04:27] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[05:04:52] [pool-3-thread-5/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *tehp has gone AFK.
+[05:04:57] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[05:05:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:05:27] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)
+[05:05:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:05:57] [HikariPool-1 housekeeper/DEBUG] [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Pool stats (total=5, active=0, idle=5, waiting=0)

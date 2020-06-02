@@ -1,5 +1,6 @@
 #!/bin/bash
+dt=$(date '+%d/%m/%Y %H:%M:%S');
 cd /opt/pixelmon
 git add .
-git commit -m "Automated backup"
+git commit --author="tehpBOT <>" -m "[auto] `date`"
 git push

@@ -622,3 +622,6 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [05:00:32] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time s et 1
 [05:00:34] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time s et 1
 [05:00:40] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time set 1
+[05:03:53] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+[05:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [snakes866: snakes866 butchered 146 pixelmon!]
+[05:04:52] [pool-3-thread-5/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *tehp has gone AFK.
