@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "pixelmon:balls/master_ball_capture": {
+    "criteria": {
+      "master_ball_capture": "2020-06-02 23:22:46 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/brown_rug": {
     "criteria": {
       "has_wool": "2020-05-24 21:39:31 +0000"
@@ -614,6 +620,12 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2020-05-29 22:51:51 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:specs/shiny_spec_trigger": {
+    "criteria": {
+      "shiny_spec_trigger": "2020-06-02 23:22:46 +0000"
     },
     "done": true
   },
@@ -995,6 +1007,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/suicune_capture_trigger": {
+    "criteria": {
+      "suicune_capture": "2020-06-02 23:24:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-05-29 22:51:01 +0000"
@@ -1184,6 +1202,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-05-26 05:57:57 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_type_trigger": {
+    "criteria": {
+      "capture_any": "2020-06-02 23:22:46 +0000"
     },
     "done": true
   },
@@ -1484,6 +1508,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-05-30 01:52:07 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/legendary_capture_trigger": {
+    "criteria": {
+      "legendary_capture": "2020-06-02 23:24:03 +0000"
     },
     "done": true
   },

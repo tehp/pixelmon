@@ -1179,3 +1179,291 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [22:26:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
 [22:27:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 175 pokémon have been cleared.
 [22:27:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: i think its the log
+[22:32:11] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Golbat has spawned in world "world", at X:-720 Y:53 Z:-1402
+[22:33:22] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Zubat has spawned in world "world", at X:-680 Y:80 Z:-1372
+[22:35:11] [pool-3-thread-67/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:35:41] [pool-3-thread-74/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:36:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:36:33] [Server thread/INFO] [nucleus]: snakes866 ran the command: /timeset 1
+[22:36:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[22:37:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[22:37:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 181 pokémon have been cleared.
+[22:38:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pc 
+[22:38:47] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a trainer in world "world", at X:-665 Y:66 Z:-1368
+[22:38:49] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert was knocked out by a trainer in world "world", at X:-665 Y:66 Z:-1368
+[22:39:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+[22:39:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully healed Aboveexpert's Pokémon!]
+[22:40:37] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This server is running Wondertrade by GhostWolf!
+[22:40:37] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: For a tutorial see: https://www.youtube.com/ghostwolfgames
+[22:40:37] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Current Wondertrade pool contains: 100 Pixelmon
+[22:40:37] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Try your luck at getting it with /wondertrade
+[22:44:45] [pool-3-thread-78/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[22:45:11] [pool-3-thread-74/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:45:41] [pool-3-thread-77/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:46:44] [pool-3-thread-74/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[22:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[22:47:09] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-647 Y:85 Z:-1350
+[22:47:15] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert caught a Mudbray in world "world", at X:-668 Y:66 Z:-1368
+[22:47:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[22:48:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 192 pokémon have been cleared.
+[22:49:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle
+[22:49:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showNormalBlackout
+[22:49:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showShinyBlackout
+[22:49:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showLegendaryBlackout
+[22:49:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showUltraBeastBlackout
+[22:49:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showBossBlackout
+[22:49:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showBossTrainerBlackout
+[22:49:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showNormalCatch
+[22:49:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showUltraBeastCatch
+[22:49:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showUltraBeastCatch
+[22:49:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showShinyChallenge
+[22:49:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showBossChallenge
+[22:49:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showBossTrainerChallenge
+[22:49:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showPVPChallenge
+[22:50:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showShinyForfeit
+[22:50:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showLegendaryForfeit
+[22:50:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showUltraBeastForfeit
+[22:50:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showBossForfeit
+[22:50:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showBossTrainerForfeit
+[22:50:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showShinySpawn
+[22:50:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showWormholeSpawn
+[22:50:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showBossSpawn
+[22:50:43] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+[22:50:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [snakes866: snakes866 butchered 193 pixelmon!]
+[22:51:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showEvolve
+[22:51:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showTrade
+[22:51:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showShinyVictory
+[22:51:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showLegendaryVictory
+[22:51:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showUltraBeastVictory
+[22:51:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showBossVictory
+[22:51:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showBossTrainerVictory
+[22:52:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showPVPVictory
+[22:52:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showPVPDraw
+[22:52:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showNormalHatch
+[22:52:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showLegendaryHatch
+[22:52:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showLegendaryHatch
+[22:52:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showLegendaryHatch
+[22:52:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showLegendaryHatch
+[22:52:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle
+[22:52:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokespawn entei
+[22:52:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully spawned Entei.]
+[22:52:40] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a legendary Entei in world "world", at X:-671 Y:66 Z:-1391
+[22:52:50] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert caught a legendary Entei in world "world", at X:-671 Y:66 Z:-1383
+[22:52:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert has made the advancement [Fire beast]
+[22:53:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokespawn spinarak s
+[22:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully spawned Spinarak.]
+[22:53:09] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a shiny Spinarak in world "world", at X:-672 Y:66 Z:-1382
+[22:53:18] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert caught a shiny Spinarak in world "world", at X:-672 Y:66 Z:-1378
+[22:53:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert has made the advancement [Oooh, shiny!]
+[22:53:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pc 
+[22:53:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokespawn groudon s
+[22:53:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully spawned Groudon.]
+[22:53:38] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a shiny legendary Groudon in world "world", at X:-676 Y:66 Z:-1382
+[22:53:50] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert caught a shiny legendary Groudon in world "world", at X:-673 Y:66 Z:-1378
+[22:53:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert has made the advancement [Ground smasher!]
+[22:53:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pc 
+[22:54:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokespawn kartana
+[22:54:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully spawned Kartana.]
+[22:54:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokespawn kartana s
+[22:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully spawned Kartana.]
+[22:54:37] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a Kartana Ultra Beast in world "world", at X:-642 Y:66 Z:-1354
+[22:54:52] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert caught a Kartana Ultra Beast in world "world", at X:-640 Y:66 Z:-1351
+[22:54:58] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a shiny Kartana Ultra Beast in world "world", at X:-635 Y:66 Z:-1347
+[22:55:10] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert caught a shiny Kartana Ultra Beast in world "world", at X:-638 Y:66 Z:-1348
+[22:55:11] [pool-3-thread-83/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:55:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote
+[22:55:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[22:55:35] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[22:55:35] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[22:55:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[22:55:35] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[22:55:35] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[22:55:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[22:55:36] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[22:55:36] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[22:55:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[22:55:36] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[22:55:36] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[22:55:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[22:55:36] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[22:55:36] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[22:55:41] [pool-3-thread-74/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:55:49] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Steelix has spawned in world "world", at X:-577 Y:80 Z:-1310
+[22:55:49] [Server thread/WARN] [Sponge]: Entity being removed for bounding box restrictions
+[22:55:49] [Server thread/WARN] [Sponge]: BB Size: 1,210 > 1,000 avg edge: 9.104
+[22:55:49] [Server thread/WARN] [Sponge]: Motion: (0, 0, 0)
+[22:55:49] [Server thread/WARN] [Sponge]: Calculated bounding box: box[-581.076000213623, 80.0, -1314.076000213623 -> -571.923999786377, 89.00800037384033, -1304.923999786377]
+[22:55:49] [Server thread/WARN] [Sponge]: Entity bounding box: null
+[22:55:49] [Server thread/WARN] [Sponge]: Entity: EntityPixelmon['Steelix'/13599, l='world', x=-576.50, y=80.00, z=-1309.50]
+[22:55:49] [Server thread/WARN] [Sponge]: Entity NBT: {EVSpeed:0s,BonusSpAttack:0,Attributes:[{Base:12.0d,Name:"generic.maxHealth"},{Base:0.0d,Name:"generic.knockbackResistance"},{Base:0.55d,Name:"generic.movementSpeed"},{Base:0.0d,Name:"generic.armor"},{Base:0.0d,Name:"generic.armorToughness"},{Base:1.0d,Name:"forge.swimSpeed"},{Base:16.0d,Name:"generic.followRange"}],Moveset:[{MoveID:449s,MovePP:15b},{MoveID:450s,MovePP:15b},{MoveID:2s,MovePP:35b},{MoveID:140s,MovePP:30b}],Invulnerable:0b,Gender:0b,Name:"Steelix",BonusDefence:0,BonusSpeed:0,IVDefence:8b,IVSpDef:28b,CaughtBall:0b,ForgeCaps:{},PersistenceRequired:0b,BonusPersistent:0b,BonusAttack:0,DoesLevel:1b,BonusSpDefence:0,Variant:0b,OwnerUUID:"",EVSpecialAttack:0s,BonusAccuracy:0,Pos:[-576.5d,80.0d,-1309.5d],IVSpeed:5b,pixelmonType:0b,Level:1,EVDefence:0s,IVAttack:29b,Growth:4b,PersistentData:{},EVSpecialDefence:0s,StatsSpecialDefence:7s,isInRanch:0b,Friendship:70s,StatsDefence:8s,EVAttack:0s,StatsSpecialAttack:6s,IVHP:17b,AbilitySlot:1b,EVHP:0s,ndex:208s,BonusCapture:0b,Nature:18b,Motion:[0.0d,0.0d,0.0d],StatsHP:12s,UUIDLeast:-5726534699326859092L,Health:12,Aggression:2b,SpecFlags:[],OnGround:0b,Dimension:0,Rotation:[2.9581082f,0.0f],BonusEvasion:0,StatsSpeed:5s,IsShiny:1b,StatsAttack:7s,UUIDMost:-2802083029887399446L,IVSpAtt:3b,EXP:0}
+[22:55:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle
+[22:56:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showShinyVictory
+[22:56:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showShinyVictory
+[22:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 2 items have been cleared.
+[22:56:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp editor
+[22:57:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[22:57:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[22:57:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: .
+[22:58:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showEvolve
+[22:58:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle showEvolve
+[22:58:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 176 pokémon have been cleared.
+[22:59:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits ty0FzCMyvp
+[22:59:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[22:59:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pixelmonbroadcasts.command.staff.toggle false
+[22:59:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[22:59:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pixelmonbroadcasts.command.toggle false
+[22:59:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle
+[23:01:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert permission unset pixelmonbroadcasts
+[23:01:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp group default permission unset pixelmonbroadcasts
+[23:03:44] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Rayquaza has spawned in world "world", at X:-619 Y:74 Z:-1345
+[23:04:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits Ji4HnTwyNf
+[23:04:56] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:04:56] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pixelmonbroadcasts.command false
+[23:04:56] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:04:56] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove pixelmonbroadcasts.command.staff.toggle false
+[23:04:56] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:04:56] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove pixelmonbroadcasts.command.toggle false
+[23:04:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: .
+[23:05:01] [Server thread/INFO] [nucleus]: snakes866 ran the command: / 
+[23:05:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: .
+[23:05:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle
+[23:05:11] [pool-3-thread-89/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[23:05:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits Gzf8t5zkBh
+[23:05:34] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:05:34] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pixelmonbroadcasts false
+[23:05:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle
+[23:05:41] [pool-3-thread-77/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[23:05:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits SqaLwvw2Ho
+[23:05:48] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:05:48] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove pixelmonbroadcasts.command false
+[23:05:48] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:05:48] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove pixelmonbroadcasts false
+[23:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[23:07:27] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekil 
+[23:07:31] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+[23:07:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [snakes866: snakes866 butchered 182 pixelmon!]
+[23:07:32] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Geodude has spawned in world "world", at X:-623 Y:70 Z:-1319
+[23:07:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[23:08:03] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Zubat has spawned in world "world", at X:-628 Y:108 Z:-1407
+[23:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[23:08:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 145 pokémon have been cleared.
+[23:10:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+[23:10:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[23:10:40] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[23:10:40] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[23:10:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[23:10:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[23:10:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[23:10:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[23:10:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[23:10:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[23:10:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[23:10:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[23:10:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[23:10:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[23:10:42] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[23:10:42] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[23:10:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gamemod e0
+[23:10:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gamemode 0
+[23:10:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[23:10:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[23:10:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[23:10:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[23:10:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[23:10:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[23:10:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[23:10:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[23:10:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[23:10:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[23:10:55] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[23:10:55] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[23:10:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[23:10:55] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[23:10:55] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[23:11:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle
+[23:12:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts reload
+[23:13:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp group default permission check pixelmonbroadcasts
+[23:13:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp group default permission set pixelmonbroadcasts false
+[23:13:39] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:13:39] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > permission set pixelmonbroadcasts false
+[23:13:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle
+[23:14:28] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Geodude has spawned in world "world", at X:-595 Y:80 Z:-1262
+[23:14:30] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Zubat has spawned in world "world", at X:-698 Y:93 Z:-1405
+[23:15:11] [pool-3-thread-95/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[23:15:41] [pool-3-thread-95/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[23:16:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[23:17:00] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Venusaur has spawned in world "world", at X:-592 Y:80 Z:-1262
+[23:17:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[23:18:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[23:19:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 187 pokémon have been cleared.
+[23:20:04] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+[23:20:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [snakes866: snakes866 butchered 164 pixelmon!]
+[23:20:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp editor
+[23:21:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits qVDZsid9xj
+[23:21:36] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:21:36] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove pixelmonbroadcasts.notify true
+[23:21:36] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:21:36] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove pixelmonbroadcasts false
+[23:21:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle
+[23:21:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: you here?
+[23:22:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: ye
+[23:22:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tpa snakes866
+[23:22:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: oh
+[23:22:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: can you do /pokespawn spinarak s
+[23:22:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: then catch it?
+[23:22:35] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokespawn spinarak s
+[23:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [snakes866: snakes866 successfully spawned Spinarak.]
+[23:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: you know me well
+[23:22:45] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player snakes866 caught a shiny Spinarak in world "world", at X:-629 Y:80 Z:-1288
+[23:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: snakes866 has made the advancement [It's a Mystery!]
+[23:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: snakes866 has made the advancement [Not getting away this time!]
+[23:22:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: snakes866 has made the advancement [Oooh, shiny!]
+[23:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: rofl
+[23:22:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: hm
+[23:22:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: i caught it
+[23:23:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: okay try doing /pokespawn suicune
+[23:23:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: and then battle it
+[23:23:07] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokespawn suicune
+[23:23:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [snakes866: snakes866 successfully spawned Suicune.]
+[23:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: and then catch it in battle
+[23:23:11] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player snakes866 started fighting a legendary Suicune in world "world", at X:-628 Y:80 Z:-1289
+[23:23:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: um
+[23:23:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: i tp'd or something
+[23:23:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: and idk how to catch it in battl
+[23:23:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: battle*
+[23:23:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: same way you do in the games
+[23:23:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: bag then master ball
+[23:24:02] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player snakes866 caught a legendary Suicune in world "world", at X:-626 Y:80 Z:-1288
+[23:24:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: snakes866 has made the advancement [Legend… wait for it… dary!!!]
+[23:24:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: snakes866 has made the advancement [Water Beast]
+[23:24:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: caught it
+[23:24:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: kk
+[23:24:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: ty
+[23:24:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: but when i battled my screen moved
+[23:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: i think it put me in the basement
+[23:24:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: yeah it tried to give you a third person battle perspective
+[23:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: but you were backed against a wall
+[23:24:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: ah i see
+[23:24:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: so the camera probably just went into the wall
+[23:24:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: damn i got the dream team rn
+[23:25:11] [pool-3-thread-95/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[23:25:41] [pool-3-thread-96/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[23:26:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[23:27:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits eqtYDzdms6
+[23:27:00] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:27:00] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pixelmonbroadcasts.notify.catch.legendary true
+[23:27:00] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:27:00] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pixelmonbroadcasts.notify.catch.shiny true
+[23:27:00] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:27:00] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pixelmonbroadcasts.notify.catch.ultrabeast true
+[23:27:00] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:27:00] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pixelmonbroadcasts.notify.catch.shinyultrabeast true
+[23:27:00] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[23:27:00] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pixelmonbroadcasts.notify.catch.shinylegendary true
+[23:27:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pixelmonbroadcasts toggle
+[23:27:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: snakes866 lost connection: Disconnected
+[23:27:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: snakes866 left the game
+[23:28:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[23:28:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[23:29:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 136 pokémon have been cleared.

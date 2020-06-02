@@ -432,6 +432,12 @@
     },
     "done": true
   },
+  "pixelmon:specs/shiny_spec_trigger": {
+    "criteria": {
+      "shiny_spec_trigger": "2020-06-02 22:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2020-05-24 16:30:51 +0000"
@@ -597,6 +603,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2020-05-29 20:48:42 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/entei_capture_trigger": {
+    "criteria": {
+      "entei_capture": "2020-06-02 22:52:51 +0000"
     },
     "done": true
   },
@@ -2020,6 +2032,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-05-29 20:48:42 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/groudon_capture_trigger": {
+    "criteria": {
+      "groudon_capture": "2020-06-02 22:53:51 +0000"
     },
     "done": true
   },
