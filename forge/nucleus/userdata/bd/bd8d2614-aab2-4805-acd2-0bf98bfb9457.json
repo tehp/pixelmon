@@ -6,8 +6,8 @@
   "fly": false,
   "invulnerable": false,
   "lastKnownName": "JKeem",
-  "lastLogin": 1590816169533,
-  "lastLogout": 1590818066724,
+  "lastLogin": 1591069332283,
+  "lastLogout": 1591071167561,
   "lastIP": "/70.68.235.88",
   "firstJoin": 1590341524108,
   "startedFirstJoin": false,
@@ -15,9 +15,9 @@
     "nucleus:view-staff-chat": true
   },
   "lastLocation": {
-    "x": -684.6999999880791,
-    "y": 67.5,
-    "z": -1398.6704051871493,
+    "x": -630.0853959450278,
+    "y": 66.5,
+    "z": -1405.9601357987517,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
@@ -35,15 +35,15 @@
   "homes": {
     "shaymintown": {
       "x": -1211.5134222482566,
-      "y": 63.0,
+      "y": 63,
       "z": -1665.751192982263,
       "rotx": 33.026275634765625,
       "roty": 51.965423583984375,
-      "rotz": 0.0,
+      "rotz": 0,
       "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
     }
   },
+  "warnings": [],
   "mail": [],
-  "notes": [],
-  "warnings": []
+  "notes": []
 }
