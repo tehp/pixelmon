@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "pixelmon:balls/master_ball_capture": {
+    "criteria": {
+      "master_ball_capture": "2020-06-02 23:37:02 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/brown_rug": {
     "criteria": {
       "has_wool": "2020-05-24 19:10:07 +0000"
@@ -665,6 +671,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/suicune_capture_trigger": {
+    "criteria": {
+      "suicune_capture": "2020-06-02 23:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-05-24 20:58:55 +0000"
@@ -788,6 +800,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-05-29 23:52:47 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_type_trigger": {
+    "criteria": {
+      "capture_any": "2020-06-02 23:37:02 +0000"
     },
     "done": true
   },
@@ -1004,6 +1022,12 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2020-05-24 20:19:24 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/legendary_capture_trigger": {
+    "criteria": {
+      "legendary_capture": "2020-06-02 23:37:02 +0000"
     },
     "done": true
   },
