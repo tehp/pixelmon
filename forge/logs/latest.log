@@ -1438,3 +1438,41 @@ Caused by: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custo
 [21:28:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
 [21:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
 [21:29:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 84 pokémon have been cleared.
+[21:30:24] [qtp61007574-43432/WARN] [webapi]: Illegal character 0xCD in state=METHOD for buffer HeapByteBuffer@7858e84e[p=2,l=16,c=8192,r=14]={9\xCd<<<\xC3V\x8c&\x12Dz/\xB7\xC0t\x96C\xE2>>>\nDate: Wed, 03 Ju...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[21:35:11] [pool-3-thread-388/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:35:41] [pool-3-thread-377/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:36:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[21:39:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[21:39:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 92 pokémon have been cleared.
+[21:40:37] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: This server is running Wondertrade by GhostWolf!
+[21:40:37] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: For a tutorial see: https://www.youtube.com/ghostwolfgames
+[21:40:37] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Current Wondertrade pool contains: 100 Pixelmon
+[21:40:37] [Timer-4/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Try your luck at getting it with /wondertrade
+[21:45:11] [pool-3-thread-391/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:45:41] [pool-3-thread-388/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:46:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:48:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[21:49:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[21:50:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 86 pokémon have been cleared.
+[21:55:11] [pool-3-thread-389/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:55:41] [pool-3-thread-389/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:56:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:59:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[21:59:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[22:00:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 84 pokémon have been cleared.
+[22:05:11] [pool-3-thread-396/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:05:41] [pool-3-thread-391/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:06:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:09:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[22:10:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[22:10:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 90 pokémon have been cleared.
+[22:15:11] [pool-3-thread-391/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:15:41] [pool-3-thread-400/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:19:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[22:20:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[22:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 84 pokémon have been cleared.
+[22:25:11] [pool-3-thread-403/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:25:41] [pool-3-thread-401/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:26:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
