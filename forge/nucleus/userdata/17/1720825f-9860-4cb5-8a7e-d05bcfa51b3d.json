@@ -4,7 +4,7 @@
   "fly": false,
   "lastKnownName": "snakes866",
   "lastLogin": 1591164395877,
-  "lastLogout": 1591164253996,
+  "lastLogout": 1591165917450,
   "lastIP": "/70.68.76.101",
   "firstJoin": 1590356075471,
   "startedFirstJoin": false,
@@ -12,13 +12,13 @@
   "isFrozen": false,
   "vanish": false,
   "lastLocation": {
-    "x": -508.7186772975311,
-    "y": 89.64155404629682,
-    "z": -1688.8218651991035,
+    "x": 586.8707288036359,
+    "y": 71.09494043768017,
+    "z": 31.9166116610796,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
-    "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
+    "world": "ea2c3b9d-0d70-4185-b367-f13cfca5463b"
   },
   "warnings": [
     {
