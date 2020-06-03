@@ -840,6 +840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2020-06-03 05:15:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2020-05-26 00:09:39 +0000"
@@ -1451,6 +1457,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/cyan_folding_chair": {
+    "criteria": {
+      "has_wool": "2020-06-03 05:15:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-05-24 16:30:51 +0000"
@@ -1635,6 +1647,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-05-31 23:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2020-06-03 05:15:33 +0000"
     },
     "done": true
   },
@@ -2165,6 +2183,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2020-05-25 21:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2020-06-03 05:15:33 +0000"
     },
     "done": true
   },
