@@ -798,5 +798,15 @@
     "culling": true,
     "occluding": true,
     "flammable": false
+  },
+  "variedcommodities:stool": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
+  },
+  "pixelmon:green_clock": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
   }
 }

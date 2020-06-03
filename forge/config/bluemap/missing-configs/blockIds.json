@@ -404,5 +404,8 @@
   "variedcommodities:couch_wood:3": "variedcommodities:couch_wood[]",
   "variedcommodities:couch_wood:2": "variedcommodities:couch_wood[]",
   "variedcommodities:placeholder:6": "variedcommodities:placeholder[]",
-  "variedcommodities:carpentry_bench:2": "variedcommodities:carpentry_bench[]"
+  "variedcommodities:carpentry_bench:2": "variedcommodities:carpentry_bench[]",
+  "variedcommodities:couch_wool:2": "variedcommodities:couch_wool[]",
+  "variedcommodities:stool:1": "variedcommodities:stool[]",
+  "pixelmon:green_clock:1": "pixelmon:green_clock[]"
 }

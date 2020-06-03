@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2020-06-03 05:48:54 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/brown_vending_machine": {
     "criteria": {
       "has_lemonade": "2020-05-30 03:22:20 +0000"
@@ -1259,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2020-06-03 05:48:54 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/pink_vending_machine": {
     "criteria": {
       "has_lemonade": "2020-05-30 03:22:20 +0000"
@@ -1274,6 +1286,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-05-25 03:43:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2020-06-03 05:48:54 +0000"
     },
     "done": true
   },
@@ -1749,6 +1767,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2020-05-30 23:11:42 +0000"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/blue_folding_chair": {
+    "criteria": {
+      "has_wool": "2020-06-03 05:48:54 +0000"
     },
     "done": true
   },

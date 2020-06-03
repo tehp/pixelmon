@@ -4482,4 +4482,437 @@ Running the server as root/admin is not recommended. Please use a port above 102
 > [K[05:29:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome extremehills
 > [K[05:29:21] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
 > [K[05:29:52] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[05:30:23] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m110 pokémon have been cleared.[39;0m[39;0m
+> [K[05:30:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome extremehills
+> [K[05:30:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome extremehills
+> [K[05:30:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome extremehills
+> [K[05:30:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome extremehills
+> [K[05:30:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome extremehills
+> [K[05:31:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome extremehills
+> [K[05:31:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome extremehills
+> [K[05:31:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome extremehills
+> [K[05:31:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[05:31:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace !air air
+> [K[05:34:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /vshop add 200 10
+> [K[05:34:30] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA legendary Entei has spawned in world "world", at X:-495 Y:106 Z:-1493[39;0m
+> [K[05:34:30] [Server thread/INFO] [minecraft/DedicatedServer]: [[39;0m[0;35;1mPixelmon[39;0m[0;32;1m[39;0m] [39;0m[0;32;1mEntei[39;0m[0;32;1m has spawned in a [39;0m[0;32;1mExtreme Hills[39;0m[0;32;1m biome![39;0m[39;0m
+> [K[05:34:30] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;1mSpawned Entei at: world x:-495, y:106, z:-1493[39;0m[39;0m
+> [K[05:34:50] [Server thread/INFO] [vshop]: Saving VillagerShops...
+> [K[05:34:50] [Server thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d saved
+> [K[05:34:50] [Server thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e saved
+> [K[05:34:50] [Server thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc saved
+> [K[05:34:50] [Server thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b saved
+> [K[05:34:50] [Server thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 saved
+> [K[05:35:11] [pool-3-thread-181/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:35:41] [pool-3-thread-192/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:36:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m12 items have been cleared.[39;0m[39;0m
+> [K[05:37:26] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time set 1
+> [K[05:38:49] [Server thread/INFO] [nucleus]: snakes866 ran the command: /brush sphere stone 3
+> [K[05:39:09] [Server thread/INFO] [nucleus]: snakes866 ran the command: /brush smooth
+> [K[05:39:43] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[05:40:14] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[05:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: This server is running [0;32;22mWondertrade[39;0m by [0;32;22mGhostWolf![39;0m[39;0m
+> [K[05:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: [39;0mFor a tutorial see: [0;34;1mhttps://www.youtube.com/ghostwolfgames[39;0m[39;0m
+> [K[05:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: Current [0;32;22mWondertrade[39;0m pool contains: [0;32;22m100[39;0m Pixelmon[39;0m[39;0m
+> [K[05:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: [0;32;22mTry your luck at getting it with [39;0m/wondertrade[39;0m[39;0m
+> [K[05:40:45] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m135 pokémon have been cleared.[39;0m[39;0m
+> [K[05:40:52] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Torkoal has spawned in world "world", at X:-511 Y:96 Z:-1474[39;0m
+> [K[05:42:29] [Server thread/INFO] [nucleus]: snakes866 ran the command: /brush sphere stone 3
+> [K[05:42:38] [Server thread/INFO] [nucleus]: snakes866 ran the command: /brush smooth
+> [K[05:45:11] [pool-3-thread-192/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:45:41] [pool-3-thread-186/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:46:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[05:46:55] [pool-3-thread-196/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[05:47:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+> [K[05:47:39] [pool-3-thread-186/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[05:50:01] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[05:50:32] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[05:50:49] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Banette has spawned in world "world", at X:-516 Y:96 Z:-1481[39;0m
+> [K[05:51:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m127 pokémon have been cleared.[39;0m[39;0m
+> [K[05:52:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /top 
+> [K[05:53:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /top 
+> [K[05:55:11] [pool-3-thread-192/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:55:41] [pool-3-thread-192/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:55:53] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-481 Y:91 Z:-1399[39;0m
+> [K[05:56:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m78 items have been cleared.[39;0m[39;0m
+> [K[05:56:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /reach 
+> [K[05:58:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp snakes866
+> [K[05:58:40] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Staraptor has spawned in world "world", at X:-489 Y:111 Z:-1451[39;0m
+> [K[05:59:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[05:59:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+> [K[06:00:20] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[06:00:50] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[06:01:21] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m103 pokémon have been cleared.[39;0m[39;0m
+> [K[31;1m[06:02:54] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.AttachCapabilitiesEvent@3fe96cd:
+java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at noppes.npcs.api.wrapper.WrapperEntityData.getData(WrapperEntityData.java:68) ~[WrapperEntityData.class:?]
+        at noppes.npcs.api.wrapper.WrapperEntityData.register(WrapperEntityData.java:59) ~[WrapperEntityData.class:?]
+        at noppes.npcs.ServerEventsHandler.attachEntity(ServerEventsHandler.java:250) ~[ServerEventsHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_45_ServerEventsHandler_attachEntity_AttachCapabilitiesEvent.invoke(.dynamic) ~[?:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.forgeBridge$post(EventBus.java:753) [EventBus.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:703) [EventBus.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:691) [ForgeEventFactory.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:661) [ForgeEventFactory.class:?]
+        at net.minecraft.entity.Entity.<init>(Entity.java:219) [vg.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:38) [aca.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:44) [aca.class:?]
+        at com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting.<init>(EntityPixelmonPainting.java:27) [EntityPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.createEntity(ItemPixelmonPainting.java:58) [ItemPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.func_180614_a(ItemPixelmonPainting.java:42) [ItemPixelmonPainting.class:?]
+        at net.minecraft.item.ItemStack.func_179546_a(ItemStack.java:187) [aip.class:?]
+        at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:1457) [or.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.redirect$zii000$impl$checkState(NetHandlerPlayServer.java:2954) [pa.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) [pa.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) [ma.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) [ma.class:?]
+        at org.spongepowered.common.event.tracking.phase.packet.PacketPhaseUtil.onProcessPacket(PacketPhaseUtil.java:219) [PacketPhaseUtil.class:1.12.2-2838-7.2.1]
+        at net.minecraft.network.PacketThreadUtil$1.redirect$zla000$impl$redirectToPhaseTracker(SourceFile:540) [hv$1.class:?]
+        at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+        at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:308) [SpongeImplHooks.class:1.12.2-2838-7.2.1]
+        at net.minecraft.server.MinecraftServer.redirect$zje000$onRun(MinecraftServer.java:4682) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+        at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+        at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[39;0m> [K[31;1m[06:02:54] [Server thread/ERROR] [FML]: Index: 3 Listeners:
+[39;0m> [K[31;1m[06:02:54] [Server thread/ERROR] [FML]: 0: NORMAL
+[39;0m> [K[31;1m[06:02:54] [Server thread/ERROR] [FML]: 1: ASM: noppes.npcs.ServerEventsHandler@2621300f attachItem(Lnet/minecraftforge/event/AttachCapabilitiesEvent;)V
+[39;0m> [K[31;1m[06:02:54] [Server thread/ERROR] [FML]: 2: LOW
+[39;0m> [K[31;1m[06:02:54] [Server thread/ERROR] [FML]: 3: ASM: noppes.npcs.ServerEventsHandler@2621300f attachEntity(Lnet/minecraftforge/event/AttachCapabilitiesEvent;)V
+[39;0m> [K[31;1m[06:02:54] [Server thread/FATAL] [minecraft/MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_252]
+        at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+        at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:308) [SpongeImplHooks.class:1.12.2-2838-7.2.1]
+        at net.minecraft.server.MinecraftServer.redirect$zje000$onRun(MinecraftServer.java:4682) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+        at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+        at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+Caused by: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at noppes.npcs.api.wrapper.WrapperEntityData.getData(WrapperEntityData.java:68) ~[WrapperEntityData.class:?]
+        at noppes.npcs.api.wrapper.WrapperEntityData.register(WrapperEntityData.java:59) ~[WrapperEntityData.class:?]
+        at noppes.npcs.ServerEventsHandler.attachEntity(ServerEventsHandler.java:250) ~[ServerEventsHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_45_ServerEventsHandler_attachEntity_AttachCapabilitiesEvent.invoke(.dynamic) ~[?:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.forgeBridge$post(EventBus.java:753) ~[EventBus.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:703) ~[EventBus.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:691) ~[ForgeEventFactory.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:661) ~[ForgeEventFactory.class:?]
+        at net.minecraft.entity.Entity.<init>(Entity.java:219) ~[vg.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:38) ~[aca.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:44) ~[aca.class:?]
+        at com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting.<init>(EntityPixelmonPainting.java:27) ~[EntityPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.createEntity(ItemPixelmonPainting.java:58) ~[ItemPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.func_180614_a(ItemPixelmonPainting.java:42) ~[ItemPixelmonPainting.class:?]
+        at net.minecraft.item.ItemStack.func_179546_a(ItemStack.java:187) ~[aip.class:?]
+        at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:1457) ~[or.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.redirect$zii000$impl$checkState(NetHandlerPlayServer.java:2954) ~[pa.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+        at org.spongepowered.common.event.tracking.phase.packet.PacketPhaseUtil.onProcessPacket(PacketPhaseUtil.java:219) ~[PacketPhaseUtil.class:1.12.2-2838-7.2.1]
+        at net.minecraft.network.PacketThreadUtil$1.redirect$zla000$impl$redirectToPhaseTracker(SourceFile:540) ~[hv$1.class:?]
+        at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_252]
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+        ... 7 more
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.AttachCapabilitiesEvent@5dfab143:
+java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at noppes.npcs.api.wrapper.WrapperEntityData.getData(WrapperEntityData.java:68) ~[WrapperEntityData.class:?]
+        at noppes.npcs.api.wrapper.WrapperEntityData.register(WrapperEntityData.java:59) ~[WrapperEntityData.class:?]
+        at noppes.npcs.ServerEventsHandler.attachEntity(ServerEventsHandler.java:250) ~[ServerEventsHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_45_ServerEventsHandler_attachEntity_AttachCapabilitiesEvent.invoke(.dynamic) ~[?:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.forgeBridge$post(EventBus.java:753) [EventBus.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:703) [EventBus.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:691) [ForgeEventFactory.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:661) [ForgeEventFactory.class:?]
+        at net.minecraft.entity.Entity.<init>(Entity.java:219) [vg.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:38) [aca.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:44) [aca.class:?]
+        at com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting.<init>(EntityPixelmonPainting.java:27) [EntityPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.createEntity(ItemPixelmonPainting.java:58) [ItemPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.func_180614_a(ItemPixelmonPainting.java:42) [ItemPixelmonPainting.class:?]
+        at net.minecraft.item.ItemStack.func_179546_a(ItemStack.java:187) [aip.class:?]
+        at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:1457) [or.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.redirect$zii000$impl$checkState(NetHandlerPlayServer.java:2954) [pa.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) [pa.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) [ma.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) [ma.class:?]
+        at org.spongepowered.common.event.tracking.phase.packet.PacketPhaseUtil.onProcessPacket(PacketPhaseUtil.java:219) [PacketPhaseUtil.class:1.12.2-2838-7.2.1]
+        at net.minecraft.network.PacketThreadUtil$1.redirect$zla000$impl$redirectToPhaseTracker(SourceFile:540) [hv$1.class:?]
+        at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+        at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:308) [SpongeImplHooks.class:1.12.2-2838-7.2.1]
+        at net.minecraft.server.MinecraftServer.redirect$zje000$onRun(MinecraftServer.java:4682) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+        at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+        at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: Index: 3 Listeners:
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: 0: NORMAL
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: 1: ASM: noppes.npcs.ServerEventsHandler@2621300f attachItem(Lnet/minecraftforge/event/AttachCapabilitiesEvent;)V
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: 2: LOW
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: 3: ASM: noppes.npcs.ServerEventsHandler@2621300f attachEntity(Lnet/minecraftforge/event/AttachCapabilitiesEvent;)V
+[39;0m> [K[31;1m[06:02:55] [Server thread/FATAL] [minecraft/MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_252]
+        at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+        at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:308) [SpongeImplHooks.class:1.12.2-2838-7.2.1]
+        at net.minecraft.server.MinecraftServer.redirect$zje000$onRun(MinecraftServer.java:4682) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+        at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+        at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+Caused by: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at noppes.npcs.api.wrapper.WrapperEntityData.getData(WrapperEntityData.java:68) ~[WrapperEntityData.class:?]
+        at noppes.npcs.api.wrapper.WrapperEntityData.register(WrapperEntityData.java:59) ~[WrapperEntityData.class:?]
+        at noppes.npcs.ServerEventsHandler.attachEntity(ServerEventsHandler.java:250) ~[ServerEventsHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_45_ServerEventsHandler_attachEntity_AttachCapabilitiesEvent.invoke(.dynamic) ~[?:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.forgeBridge$post(EventBus.java:753) ~[EventBus.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:703) ~[EventBus.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:691) ~[ForgeEventFactory.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:661) ~[ForgeEventFactory.class:?]
+        at net.minecraft.entity.Entity.<init>(Entity.java:219) ~[vg.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:38) ~[aca.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:44) ~[aca.class:?]
+        at com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting.<init>(EntityPixelmonPainting.java:27) ~[EntityPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.createEntity(ItemPixelmonPainting.java:58) ~[ItemPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.func_180614_a(ItemPixelmonPainting.java:42) ~[ItemPixelmonPainting.class:?]
+        at net.minecraft.item.ItemStack.func_179546_a(ItemStack.java:187) ~[aip.class:?]
+        at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:1457) ~[or.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.redirect$zii000$impl$checkState(NetHandlerPlayServer.java:2954) ~[pa.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+        at org.spongepowered.common.event.tracking.phase.packet.PacketPhaseUtil.onProcessPacket(PacketPhaseUtil.java:219) ~[PacketPhaseUtil.class:1.12.2-2838-7.2.1]
+        at net.minecraft.network.PacketThreadUtil$1.redirect$zla000$impl$redirectToPhaseTracker(SourceFile:540) ~[hv$1.class:?]
+        at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_252]
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+        ... 7 more
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.AttachCapabilitiesEvent@23bf189d:
+java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at noppes.npcs.api.wrapper.WrapperEntityData.getData(WrapperEntityData.java:68) ~[WrapperEntityData.class:?]
+        at noppes.npcs.api.wrapper.WrapperEntityData.register(WrapperEntityData.java:59) ~[WrapperEntityData.class:?]
+        at noppes.npcs.ServerEventsHandler.attachEntity(ServerEventsHandler.java:250) ~[ServerEventsHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_45_ServerEventsHandler_attachEntity_AttachCapabilitiesEvent.invoke(.dynamic) ~[?:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.forgeBridge$post(EventBus.java:753) [EventBus.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:703) [EventBus.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:691) [ForgeEventFactory.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:661) [ForgeEventFactory.class:?]
+        at net.minecraft.entity.Entity.<init>(Entity.java:219) [vg.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:38) [aca.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:44) [aca.class:?]
+        at com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting.<init>(EntityPixelmonPainting.java:27) [EntityPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.createEntity(ItemPixelmonPainting.java:58) [ItemPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.func_180614_a(ItemPixelmonPainting.java:42) [ItemPixelmonPainting.class:?]
+        at net.minecraft.item.ItemStack.func_179546_a(ItemStack.java:187) [aip.class:?]
+        at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:1457) [or.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.redirect$zii000$impl$checkState(NetHandlerPlayServer.java:2954) [pa.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) [pa.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) [ma.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) [ma.class:?]
+        at org.spongepowered.common.event.tracking.phase.packet.PacketPhaseUtil.onProcessPacket(PacketPhaseUtil.java:219) [PacketPhaseUtil.class:1.12.2-2838-7.2.1]
+        at net.minecraft.network.PacketThreadUtil$1.redirect$zla000$impl$redirectToPhaseTracker(SourceFile:540) [hv$1.class:?]
+        at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+        at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:308) [SpongeImplHooks.class:1.12.2-2838-7.2.1]
+        at net.minecraft.server.MinecraftServer.redirect$zje000$onRun(MinecraftServer.java:4682) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+        at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+        at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: Index: 3 Listeners:
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: 0: NORMAL
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: 1: ASM: noppes.npcs.ServerEventsHandler@2621300f attachItem(Lnet/minecraftforge/event/AttachCapabilitiesEvent;)V
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: 2: LOW
+[39;0m> [K[31;1m[06:02:55] [Server thread/ERROR] [FML]: 3: ASM: noppes.npcs.ServerEventsHandler@2621300f attachEntity(Lnet/minecraftforge/event/AttachCapabilitiesEvent;)V
+[39;0m> [K[31;1m[06:02:55] [Server thread/FATAL] [minecraft/MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_252]
+        at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+        at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:308) [SpongeImplHooks.class:1.12.2-2838-7.2.1]
+        at net.minecraft.server.MinecraftServer.redirect$zje000$onRun(MinecraftServer.java:4682) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+        at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+        at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+Caused by: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at noppes.npcs.api.wrapper.WrapperEntityData.getData(WrapperEntityData.java:68) ~[WrapperEntityData.class:?]
+        at noppes.npcs.api.wrapper.WrapperEntityData.register(WrapperEntityData.java:59) ~[WrapperEntityData.class:?]
+        at noppes.npcs.ServerEventsHandler.attachEntity(ServerEventsHandler.java:250) ~[ServerEventsHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_45_ServerEventsHandler_attachEntity_AttachCapabilitiesEvent.invoke(.dynamic) ~[?:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.forgeBridge$post(EventBus.java:753) ~[EventBus.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:703) ~[EventBus.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:691) ~[ForgeEventFactory.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:661) ~[ForgeEventFactory.class:?]
+        at net.minecraft.entity.Entity.<init>(Entity.java:219) ~[vg.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:38) ~[aca.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:44) ~[aca.class:?]
+        at com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting.<init>(EntityPixelmonPainting.java:27) ~[EntityPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.createEntity(ItemPixelmonPainting.java:58) ~[ItemPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.func_180614_a(ItemPixelmonPainting.java:42) ~[ItemPixelmonPainting.class:?]
+        at net.minecraft.item.ItemStack.func_179546_a(ItemStack.java:187) ~[aip.class:?]
+        at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:1457) ~[or.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.redirect$zii000$impl$checkState(NetHandlerPlayServer.java:2954) ~[pa.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+        at org.spongepowered.common.event.tracking.phase.packet.PacketPhaseUtil.onProcessPacket(PacketPhaseUtil.java:219) ~[PacketPhaseUtil.class:1.12.2-2838-7.2.1]
+        at net.minecraft.network.PacketThreadUtil$1.redirect$zla000$impl$redirectToPhaseTracker(SourceFile:540) ~[hv$1.class:?]
+        at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_252]
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+        ... 7 more
+[39;0m> [K[31;1m[06:02:56] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.AttachCapabilitiesEvent@3d1fd42:
+java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at noppes.npcs.api.wrapper.WrapperEntityData.getData(WrapperEntityData.java:68) ~[WrapperEntityData.class:?]
+        at noppes.npcs.api.wrapper.WrapperEntityData.register(WrapperEntityData.java:59) ~[WrapperEntityData.class:?]
+        at noppes.npcs.ServerEventsHandler.attachEntity(ServerEventsHandler.java:250) ~[ServerEventsHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_45_ServerEventsHandler_attachEntity_AttachCapabilitiesEvent.invoke(.dynamic) ~[?:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.forgeBridge$post(EventBus.java:753) [EventBus.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:703) [EventBus.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:691) [ForgeEventFactory.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:661) [ForgeEventFactory.class:?]
+        at net.minecraft.entity.Entity.<init>(Entity.java:219) [vg.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:38) [aca.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:44) [aca.class:?]
+        at com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting.<init>(EntityPixelmonPainting.java:27) [EntityPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.createEntity(ItemPixelmonPainting.java:58) [ItemPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.func_180614_a(ItemPixelmonPainting.java:42) [ItemPixelmonPainting.class:?]
+        at net.minecraft.item.ItemStack.func_179546_a(ItemStack.java:187) [aip.class:?]
+        at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:1457) [or.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.redirect$zii000$impl$checkState(NetHandlerPlayServer.java:2954) [pa.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) [pa.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) [ma.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) [ma.class:?]
+        at org.spongepowered.common.event.tracking.phase.packet.PacketPhaseUtil.onProcessPacket(PacketPhaseUtil.java:219) [PacketPhaseUtil.class:1.12.2-2838-7.2.1]
+        at net.minecraft.network.PacketThreadUtil$1.redirect$zla000$impl$redirectToPhaseTracker(SourceFile:540) [hv$1.class:?]
+        at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+        at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:308) [SpongeImplHooks.class:1.12.2-2838-7.2.1]
+        at net.minecraft.server.MinecraftServer.redirect$zje000$onRun(MinecraftServer.java:4682) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+        at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+        at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[39;0m> [K[31;1m[06:02:56] [Server thread/ERROR] [FML]: Index: 3 Listeners:
+[39;0m> [K[31;1m[06:02:56] [Server thread/ERROR] [FML]: 0: NORMAL
+[39;0m> [K[31;1m[06:02:56] [Server thread/ERROR] [FML]: 1: ASM: noppes.npcs.ServerEventsHandler@2621300f attachItem(Lnet/minecraftforge/event/AttachCapabilitiesEvent;)V
+[39;0m> [K[31;1m[06:02:56] [Server thread/ERROR] [FML]: 2: LOW
+[39;0m> [K[31;1m[06:02:56] [Server thread/ERROR] [FML]: 3: ASM: noppes.npcs.ServerEventsHandler@2621300f attachEntity(Lnet/minecraftforge/event/AttachCapabilitiesEvent;)V
+[39;0m> [K[31;1m[06:02:56] [Server thread/FATAL] [minecraft/MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_252]
+        at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+        at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:308) [SpongeImplHooks.class:1.12.2-2838-7.2.1]
+        at net.minecraft.server.MinecraftServer.redirect$zje000$onRun(MinecraftServer.java:4682) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+        at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+        at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+Caused by: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting cannot be cast to net.minecraft.entity.passive.EntityTameable
+        at noppes.npcs.api.wrapper.WrapperEntityData.getData(WrapperEntityData.java:68) ~[WrapperEntityData.class:?]
+        at noppes.npcs.api.wrapper.WrapperEntityData.register(WrapperEntityData.java:59) ~[WrapperEntityData.class:?]
+        at noppes.npcs.ServerEventsHandler.attachEntity(ServerEventsHandler.java:250) ~[ServerEventsHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_45_ServerEventsHandler_attachEntity_AttachCapabilitiesEvent.invoke(.dynamic) ~[?:?]
+        at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.forgeBridge$post(EventBus.java:753) ~[EventBus.class:?]
+        at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:703) ~[EventBus.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:691) ~[ForgeEventFactory.class:?]
+        at net.minecraftforge.event.ForgeEventFactory.gatherCapabilities(ForgeEventFactory.java:661) ~[ForgeEventFactory.class:?]
+        at net.minecraft.entity.Entity.<init>(Entity.java:219) ~[vg.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:38) ~[aca.class:?]
+        at net.minecraft.entity.EntityHanging.<init>(EntityHanging.java:44) ~[aca.class:?]
+        at com.pixelmonmod.pixelmon.entities.custom.EntityPixelmonPainting.<init>(EntityPixelmonPainting.java:27) ~[EntityPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.createEntity(ItemPixelmonPainting.java:58) ~[ItemPixelmonPainting.class:?]
+        at com.pixelmonmod.pixelmon.items.ItemPixelmonPainting.func_180614_a(ItemPixelmonPainting.java:42) ~[ItemPixelmonPainting.class:?]
+        at net.minecraft.item.ItemStack.func_179546_a(ItemStack.java:187) ~[aip.class:?]
+        at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:1457) ~[or.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.redirect$zii000$impl$checkState(NetHandlerPlayServer.java:2954) ~[pa.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:741) ~[pa.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[ma.class:?]
+        at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[ma.class:?]
+        at org.spongepowered.common.event.tracking.phase.packet.PacketPhaseUtil.onProcessPacket(PacketPhaseUtil.java:219) ~[PacketPhaseUtil.class:1.12.2-2838-7.2.1]
+        at net.minecraft.network.PacketThreadUtil$1.redirect$zla000$impl$redirectToPhaseTracker(SourceFile:540) ~[hv$1.class:?]
+        at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_252]
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+        ... 7 more
+[39;0m> [K[06:03:41] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Mawile has spawned in world "world", at X:-495 Y:102 Z:-1486[39;0m
+> [K[06:04:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+> [K[06:04:13] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: snakes866 lost connection: Disconnected
+> [K[06:04:14] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1msnakes866[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[06:04:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+> [K[06:04:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+> [K[06:04:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /top 
+> [K[06:05:11] [pool-3-thread-199/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:05:41] [pool-3-thread-187/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:06:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m9 items have been cleared.[39;0m[39;0m
+> [K[06:06:34] [User Authenticator #11/INFO] [minecraft/NetHandlerLoginServer]: UUID of player snakes866 is 1720825f-9860-4cb5-8a7e-d05bcfa51b3d
+> [K[06:06:35] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+> [K[06:06:35] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[06:06:35] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, simpledexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[06:06:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[06:06:35] [Server thread/INFO] [minecraft/PlayerList]: snakes866 [/70.68.76.101:63037] logged in with entity id [51375] in world (minecraft:overworld/0) at (-508.7186772975311, 89.64155404629682, -1688.8218651991035).
+> [K[06:06:35] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1msnakes866[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[06:10:38] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[06:11:09] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[06:11:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp snakes866
+> [K[06:11:40] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m62 pokémon have been cleared.[39;0m[39;0m
+> [K[33;1m[06:11:57] [Server thread/WARN] [minecraft/WorldServer]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
+[39;0m> [K[06:13:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[06:13:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+> [K[06:15:11] [pool-3-thread-202/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:15:41] [pool-3-thread-205/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:15:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[06:15:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[06:16:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[06:16:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m26 items have been cleared.[39;0m[39;0m
+> [K[06:16:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[06:16:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //clifp 
+> [K[06:16:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //flip 
+> [K[06:16:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[06:20:57] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[06:21:12] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Ledyba has spawned in world "world", at X:-559 Y:92 Z:-1686[39;0m
+> [K[06:21:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[06:22:00] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m72 pokémon have been cleared.[39;0m[39;0m
+> [K[33;1m[06:25:07] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2713ms behind, skipping 54 tick(s)
+[39;0m> [K[06:25:11] [pool-3-thread-214/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:25:41] [pool-3-thread-214/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:26:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m6 items have been cleared.[39;0m[39;0m
+> [K[06:27:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+> [K[06:28:48] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Weedle has spawned in world "world", at X:-562 Y:78 Z:-1765[39;0m
 > 

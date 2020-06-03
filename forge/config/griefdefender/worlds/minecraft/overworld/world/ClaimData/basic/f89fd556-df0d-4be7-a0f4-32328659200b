@@ -1,0 +1,33 @@
+GriefDefender {
+    accessor-groups=[]
+    accessors=[]
+    builder-groups=[]
+    builders=[]
+    claim-expiration=true
+    claim-type=basic
+    container-groups=[]
+    containers=[]
+    cuboid=false
+    date-created="2020-06-03T05:53:59.061Z"
+    date-last-active="2020-06-03T06:06:35.830Z"
+    deny-messages=true
+    economyData {
+        bankTransactionLog=[]
+        for-sale=false
+        sale-price=0.0
+        tax-balance=0.0
+    }
+    flag-overrides=true
+    greater-boundary-corner="-507;255;-1449"
+    inherit-parent=true
+    isExpired=false
+    lesser-boundary-corner="-515;0;-1457"
+    manager-groups=[]
+    managers=[]
+    owner-uuid="1720825f-9860-4cb5-8a7e-d05bcfa51b3d"
+    pvp=UNDEFINED
+    requires-claim-blocks=true
+    resizable=true
+    sizeRestrictions=false
+    world-uuid=ac6bd4c2-5b9a-465b-bc52-f3a6b549594d
+}
