@@ -6494,4 +6494,4 @@ Caused by: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custo
 > [K[19:32:21] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@7aff4574{/admin,null,UNAVAILABLE}
 > [K[19:32:21] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@44f53ed1{/,null,UNAVAILABLE}
 > [K[19:32:21] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@61e02ae{/docs,null,UNAVAILABLE}
-> 
+> Cannot exec './forge.sh': Permission denied

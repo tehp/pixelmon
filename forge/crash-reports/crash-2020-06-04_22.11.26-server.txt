@@ -1,0 +1,846 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  SpongeCoremod (spongeforge-1.12.2-2838-7.2.1.jar)
+Contact their authors BEFORE contacting forge
+
+// You're mean.
+
+Time: 6/4/20 10:11 PM
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.78 seconds (should be max 0.05)
+	at net.minecraftforge.items.VanillaInventoryCodeHooks.getItemHandler(VanillaInventoryCodeHooks.java:267)
+	at net.minecraftforge.items.VanillaInventoryCodeHooks.getItemHandler(VanillaInventoryCodeHooks.java:227)
+	at net.minecraftforge.items.VanillaInventoryCodeHooks.insertHook(VanillaInventoryCodeHooks.java:123)
+	at net.minecraft.tileentity.TileEntityHopper.func_145883_k(TileEntityHopper.java:194)
+	at net.minecraft.tileentity.TileEntityHopper.func_145887_i(TileEntityHopper.java:137)
+	at net.minecraft.tileentity.TileEntityHopper.func_73660_a(TileEntityHopper.java:122)
+	at org.spongepowered.common.event.tracking.TrackingUtil.tickTileEntity(TrackingUtil.java:237)
+	at net.minecraft.world.WorldServer.updateTileEntity(WorldServer.java:4726)
+	at net.minecraft.world.WorldServer.redirect$zlj000$onUpdateTileEntities(WorldServer.java:4710)
+	at net.minecraft.world.World.func_72939_s(World.java:1838)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:3928)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at net.minecraftforge.items.VanillaInventoryCodeHooks.getItemHandler(VanillaInventoryCodeHooks.java:267)
+	at net.minecraftforge.items.VanillaInventoryCodeHooks.getItemHandler(VanillaInventoryCodeHooks.java:227)
+	at net.minecraftforge.items.VanillaInventoryCodeHooks.insertHook(VanillaInventoryCodeHooks.java:123)
+	at net.minecraft.tileentity.TileEntityHopper.func_145883_k(TileEntityHopper.java:194)
+	at net.minecraft.tileentity.TileEntityHopper.func_145887_i(TileEntityHopper.java:137)
+	at net.minecraft.tileentity.TileEntityHopper.func_73660_a(TileEntityHopper.java:122)
+	at org.spongepowered.common.event.tracking.TrackingUtil.tickTileEntity(TrackingUtil.java:237)
+	at net.minecraft.world.WorldServer.updateTileEntity(WorldServer.java:4726)
+	at net.minecraft.world.WorldServer.redirect$zlj000$onUpdateTileEntities(WorldServer.java:4710)
+	at net.minecraft.world.World.func_72939_s(World.java:1838)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:3928)
+
+-- Sponge PhaseTracker --
+Details:
+	Phase Stack: /***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*   - Phase: Plugin{ScheduledTask}                                                                                                                                                                                                                                                                                                                                                                        */
+/*     Context:                                                                                                                                                                                                                                                                                                                                                                                            */
+/*     - Source: ScheduledTask{name=webapi-S-2286, delay=0, interval=0, owner=Plugin{id=webapi, name=Web-API, version=5.4.5-S7.1.0, description=Access Minecraft through a RESTful web server and an admin panel, url=https://github.com/Valandur/Web-API, authors=[Valandur], source=/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar}, id=a391795b-de81-447c-96f1-3e1d6567070b, isAsync=false} */
+/*     - PluginContainer: Plugin{id=webapi, name=Web-API, version=5.4.5-S7.1.0, description=Access Minecraft through a RESTful web server and an admin panel, url=https://github.com/Valandur/Web-API, authors=[Valandur], source=/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar}                                                                                                              */
+/*   - Phase: Plugin{ScheduledTask}                                                                                                                                                                                                                                                                                                                                                                        */
+/*     Context:                                                                                                                                                                                                                                                                                                                                                                                            */
+/*     - Source: ScheduledTask{name=webapi-S-2286, delay=0, interval=0, owner=Plugin{id=webapi, name=Web-API, version=5.4.5-S7.1.0, description=Access Minecraft through a RESTful web server and an admin panel, url=https://github.com/Valandur/Web-API, authors=[Valandur], source=/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar}, id=a391795b-de81-447c-96f1-3e1d6567070b, isAsync=false} */
+/*   - Phase: Plugin{ServerTick:PreServerTickState}                                                                                                                                                                                                                                                                                                                                                        */
+/*     Context:                                                                                                                                                                                                                                                                                                                                                                                            */
+/*     - Source: Wrapped{spongeforge}                                                                                                                                                                                                                                                                                                                                                                      */
+/*     - Listener: net.minecraftforge.fml.common.gameevent.TickEvent$ServerTickEvent@6a5a99ee                                                                                                                                                                                                                                                                                                              */
+/***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.handler$zje000$onCrashReport(MinecraftServer.java:4687)
+	at net.minecraft.server.MinecraftServer.func_71230_b(MinecraftServer.java:889)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71230_b(DedicatedServer.java:371)
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- Thread Dump --
+Details:
+	Threads: "ForkJoinPool-1-worker-0" Id=4173 TIMED_WAITING on java.util.concurrent.ForkJoinPool@6bc7f908
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@6bc7f908
+	at java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1824)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1693)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+
+"pool-3-thread-97" Id=4156 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-96" Id=4149 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-95" Id=4098 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-92" Id=4092 WAITING on java.util.concurrent.CompletableFuture$Signaller@243d103b
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.CompletableFuture$Signaller@243d103b
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.CompletableFuture$Signaller.block(CompletableFuture.java:1707)
+	at java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3323)
+	at java.util.concurrent.CompletableFuture.waitingGet(CompletableFuture.java:1742)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1908)
+	at valandur.webapi.WebAPI.runOnMain(WebAPI.java:557)
+	at valandur.webapi.cache.CacheService.getPlayer(CacheService.java:386)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.ThreadPoolExecutor$Worker@18f2e713
+
+
+"pool-3-thread-91" Id=4091 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-90" Id=4090 RUNNABLE
+	at java.lang.Runtime.freeMemory(Native Method)
+	at valandur.webapi.server.ServerService.recordStats(ServerService.java:98)
+	at valandur.webapi.server.ServerService$$Lambda$1213/1997438874.run(Unknown Source)
+	at org.spongepowered.api.scheduler.Task$Builder.lambda$execute$0(Task.java:139)
+	at org.spongepowered.api.scheduler.Task$Builder$$Lambda$550/2059622523.accept(Unknown Source)
+	at org.spongepowered.common.scheduler.SchedulerBase.lambda$startTask$0(SchedulerBase.java:197)
+	at org.spongepowered.common.scheduler.SchedulerBase$$Lambda$691/944989571.run(Unknown Source)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.ThreadPoolExecutor$Worker@730df6f
+
+
+"pool-3-thread-88" Id=4049 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-87" Id=4048 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-86" Id=4047 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"qtp2092549877-4040" Id=4040 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@70e6a20d
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@70e6a20d
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2163)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.reservedWait(ReservedThreadExecutor.java:308)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:373)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:708)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:626)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"qtp2092549877-4039" Id=4039 RUNNABLE (in native)
+	at sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+	at sun.nio.ch.EPollArrayWrapper.poll(EPollArrayWrapper.java:269)
+	at sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:93)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked sun.nio.ch.Util$3@1553760b
+	-  locked java.util.Collections$UnmodifiableSet@8629a8b
+	-  locked sun.nio.ch.EPollSelectorImpl@4412ef74
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:101)
+	at valandur.webapi.shadow.org.eclipse.jetty.io.ManagedSelector$SelectorProducer.select(ManagedSelector.java:375)
+	at valandur.webapi.shadow.org.eclipse.jetty.io.ManagedSelector$SelectorProducer.produce(ManagedSelector.java:304)
+	...
+
+
+"Scheduler-968156080" Id=4038 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@121cb31
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@121cb31
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-85" Id=3935 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-83" Id=3933 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-81" Id=3781 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-78" Id=3513 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-3-thread-72" Id=2731 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@65001a00
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362)
+	at java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-5-thread-1" Id=1853 BLOCKED on me.lucko.luckperms.common.verbose.VerboseHandler@613f9278 owned by "pool-3-thread-92" Id=4092
+	at me.lucko.luckperms.common.verbose.VerboseHandler.flush(VerboseHandler.java:157)
+	-  blocked on me.lucko.luckperms.common.verbose.VerboseHandler@613f9278
+	at me.lucko.luckperms.common.verbose.VerboseHandler.unregisterListener(VerboseHandler.java:137)
+	at me.lucko.luckperms.common.commands.misc.VerboseCommand.execute(VerboseCommand.java:110)
+	at me.lucko.luckperms.common.command.abstraction.SingleCommand.execute(SingleCommand.java:50)
+	at me.lucko.luckperms.common.command.abstraction.SingleCommand.execute(SingleCommand.java:42)
+	at me.lucko.luckperms.common.command.CommandManager.execute(CommandManager.java:203)
+	at me.lucko.luckperms.common.command.CommandManager.lambda$executeCommand$1(CommandManager.java:144)
+	at me.lucko.luckperms.common.command.CommandManager$$Lambda$2853/30865282.get(Unknown Source)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.ThreadPoolExecutor$Worker@7fd43515
+
+
+"Sponge - Async Light Thread" Id=193 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@fcc0630
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@fcc0630
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Sponge - Async Light Thread" Id=192 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@fcc0630
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@fcc0630
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"pool-19-thread-1" Id=181 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@13667380
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@13667380
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"Chunk I/O Executor Thread-1" Id=178 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@405c57d7
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@405c57d7
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Netty Epoll Server IO #3" Id=173 RUNNABLE
+	at java.math.BigInteger.oddModPow(BigInteger.java:2941)
+	at java.math.BigInteger.modPow(BigInteger.java:2603)
+	at sun.security.rsa.RSACore.crtCrypt(RSACore.java:183)
+	at sun.security.rsa.RSACore.rsa(RSACore.java:122)
+	at com.sun.crypto.provider.RSACipher.doFinal(RSACipher.java:364)
+	at com.sun.crypto.provider.RSACipher.engineDoFinal(RSACipher.java:391)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2168)
+	at net.minecraft.util.CryptManager.func_75885_a(SourceFile:117)
+	...
+
+
+"File IO Thread" Id=155 RUNNABLE
+	at java.util.zip.Deflater.deflateBytes(Native Method)
+	at java.util.zip.Deflater.deflate(Deflater.java:444)
+	-  locked java.util.zip.ZStreamRef@4f2b64ae
+	at java.util.zip.Deflater.deflate(Deflater.java:366)
+	at java.util.zip.DeflaterOutputStream.deflate(DeflaterOutputStream.java:251)
+	at java.util.zip.DeflaterOutputStream.write(DeflaterOutputStream.java:211)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.write(BufferedOutputStream.java:126)
+	-  locked java.io.BufferedOutputStream@20b916fd
+	at java.io.DataOutputStream.write(DataOutputStream.java:107)
+	-  locked java.io.DataOutputStream@639b19
+	...
+
+
+"Netty Epoll Server IO #2" Id=152 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:117)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:223)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:247)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"threadDeathWatcher-2-1" Id=150 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at io.netty.util.ThreadDeathWatcher$Watcher.run(ThreadDeathWatcher.java:152)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Netty Epoll Server IO #1" Id=149 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:117)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:223)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:247)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Scheduler-187439028" Id=144 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2223962d
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@2223962d
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"pool-16-thread-1" Id=141 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@363998d3
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@363998d3
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"qtp2092549877-135" Id=135 RUNNABLE (in native)
+	at sun.nio.ch.EPollArrayWrapper.epollWait(Native Method)
+	at sun.nio.ch.EPollArrayWrapper.poll(EPollArrayWrapper.java:269)
+	at sun.nio.ch.EPollSelectorImpl.doSelect(EPollSelectorImpl.java:93)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:86)
+	-  locked sun.nio.ch.Util$3@5edf7e17
+	-  locked java.util.Collections$UnmodifiableSet@42789d86
+	-  locked sun.nio.ch.EPollSelectorImpl@7c54f91a
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:97)
+	at sun.nio.ch.SelectorImpl.select(SelectorImpl.java:101)
+	at valandur.webapi.shadow.org.eclipse.jetty.io.ManagedSelector$SelectorProducer.select(ManagedSelector.java:375)
+	at valandur.webapi.shadow.org.eclipse.jetty.io.ManagedSelector$SelectorProducer.produce(ManagedSelector.java:304)
+	...
+
+
+"qtp2092549877-133" Id=133 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6d11943
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6d11943
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.BlockingArrayQueue.poll(BlockingArrayQueue.java:392)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool.idleJobPoll(QueuedThreadPool.java:600)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool.access$800(QueuedThreadPool.java:49)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:663)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"qtp2092549877-132-acceptor-0@1e42790a-ServerConnector@5743eccf{SSL,[ssl, http/1.1]}{0.0.0.0:8081}" Id=132 RUNNABLE (in native)
+	at sun.nio.ch.ServerSocketChannelImpl.accept0(Native Method)
+	at sun.nio.ch.ServerSocketChannelImpl.accept(ServerSocketChannelImpl.java:419)
+	at sun.nio.ch.ServerSocketChannelImpl.accept(ServerSocketChannelImpl.java:247)
+	-  locked java.lang.Object@235be048
+	at valandur.webapi.shadow.org.eclipse.jetty.server.ServerConnector.accept(ServerConnector.java:379)
+	at valandur.webapi.shadow.org.eclipse.jetty.server.AbstractConnector$Acceptor.run(AbstractConnector.java:638)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:708)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:626)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"qtp2092549877-130-acceptor-0@78a7cda4-ServerConnector@7dbc58c3{HTTP/1.1,[http/1.1]}{0.0.0.0:80}" Id=130 RUNNABLE (in native)
+	at sun.nio.ch.ServerSocketChannelImpl.accept0(Native Method)
+	at sun.nio.ch.ServerSocketChannelImpl.accept(ServerSocketChannelImpl.java:419)
+	at sun.nio.ch.ServerSocketChannelImpl.accept(ServerSocketChannelImpl.java:247)
+	-  locked java.lang.Object@2549dd08
+	at valandur.webapi.shadow.org.eclipse.jetty.server.ServerConnector.accept(ServerConnector.java:379)
+	at valandur.webapi.shadow.org.eclipse.jetty.server.AbstractConnector$Acceptor.run(AbstractConnector.java:638)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:708)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:626)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"qtp2092549877-129" Id=129 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6d11943
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6d11943
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.BlockingArrayQueue.poll(BlockingArrayQueue.java:392)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool.idleJobPoll(QueuedThreadPool.java:600)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool.access$800(QueuedThreadPool.java:49)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:663)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"qtp2092549877-128" Id=128 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@7e8e7c92
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@7e8e7c92
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2163)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.reservedWait(ReservedThreadExecutor.java:308)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:373)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:708)
+	at valandur.webapi.shadow.org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:626)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Thread-20" Id=127 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at de.bluecolored.bluemap.common.plugin.Plugin.lambda$load$1(Plugin.java:312)
+	at de.bluecolored.bluemap.common.plugin.Plugin$$Lambda$2001/1611344796.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Thread-19" Id=126 RUNNABLE (in native)
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:560)
+	at java.net.ServerSocket.accept(ServerSocket.java:528)
+	at de.bluecolored.bluemap.core.webserver.WebServer.run(WebServer.java:81)
+
+
+"Thread-18" Id=125 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at de.bluecolored.bluemap.common.plugin.Plugin.lambda$load$0(Plugin.java:259)
+	at de.bluecolored.bluemap.common.plugin.Plugin$$Lambda$2000/1150215305.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Thread-17" Id=124 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at de.bluecolored.bluemap.common.RenderManager.renderThread(RenderManager.java:175)
+	at de.bluecolored.bluemap.common.RenderManager$$Lambda$1999/1946688273.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"World Spawner" Id=123 TIMED_WAITING on java.util.TaskQueue@709b7901
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@709b7901
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"Java2D Disposer" Id=122 WAITING on java.lang.ref.ReferenceQueue$Lock@c3e9efa
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@c3e9efa
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:165)
+	at sun.java2d.Disposer.run(Disposer.java:148)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Server Watchdog" Id=120 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:454)
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:45)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"pool-7-thread-1" Id=76 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6774a3e8
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6774a3e8
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Timer-2" Id=75 TIMED_WAITING on java.util.TaskQueue@6a933978
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@6a933978
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"MVStore background writer nio:/opt/pixelmon/forge/gts/gts-h2.mv.db" Id=73 TIMED_WAITING on java.lang.Object@41eb165a
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@41eb165a
+	at org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3116)
+
+
+"MVStore background writer nio:/opt/pixelmon/forge/daycare/daycare-h2.mv.db" Id=69 TIMED_WAITING on java.lang.Object@39da99d3
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@39da99d3
+	at org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3116)
+
+
+"ExpiringMap-Expirer" Id=67 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@7bf306e3
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@7bf306e3
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1081)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"Netty Epoll Server IO #0" Id=63 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at io.netty.channel.epoll.Native.epollWait(Native.java:117)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:223)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:247)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Timer-1" Id=62 TIMED_WAITING on java.util.TaskQueue@858b81c
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@858b81c
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"HikariPool-1 housekeeper" Id=60 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1118268b
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@1118268b
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	...
+
+
+"MVStore background writer nio:/opt/pixelmon/forge/config/economylite/data.mv.db" Id=58 TIMED_WAITING on java.lang.Object@7c61317a
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@7c61317a
+	at org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:2715)
+
+
+"Timer-0" Id=56 TIMED_WAITING on java.util.TaskQueue@1fc6e40b
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@1fc6e40b
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"MVStore background writer nio:/opt/pixelmon/forge/luckperms/luckperms-h2.mv.db" Id=41 TIMED_WAITING on java.lang.Object@529327b7
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.Object@529327b7
+	at org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:3116)
+
+
+"Thread-4" Id=39 RUNNABLE (in native)
+	at sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at sun.nio.fs.LinuxWatchService.access$600(LinuxWatchService.java:47)
+	at sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"pool-3-thread-7" Id=33 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@26f6f10
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@26f6f10
+	at java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+	at java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:492)
+	at java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:680)
+	at sun.nio.fs.AbstractWatchService.take(AbstractWatchService.java:118)
+	at me.lucko.luckperms.common.storage.implementation.file.watcher.AbstractFileWatcher.runEventProcessingLoop(AbstractFileWatcher.java:128)
+	at me.lucko.luckperms.common.storage.implementation.file.watcher.FileWatcher.lambda$new$0(FileWatcher.java:61)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.ThreadPoolExecutor$Worker@5c32a611
+
+
+"Sponge Async Scheduler Thread" Id=22 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@77f064c6
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@77f064c6
+	at java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2163)
+	at org.spongepowered.common.scheduler.AsyncScheduler.preTick(AsyncScheduler.java:121)
+	at org.spongepowered.common.scheduler.SchedulerBase.runTick(SchedulerBase.java:109)
+	at org.spongepowered.common.scheduler.AsyncScheduler.mainLoop(AsyncScheduler.java:68)
+	at org.spongepowered.common.scheduler.AsyncScheduler$$Lambda$277/1213745790.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"JLine terminal non blocking reader thread" Id=21 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at org.jline.utils.InputStreamReader.read(InputStreamReader.java:270)
+	-  locked java.io.FileInputStream@5f3e308f
+	at org.jline.utils.InputStreamReader.read(InputStreamReader.java:200)
+	-  locked java.io.FileInputStream@5f3e308f
+	at org.jline.utils.NonBlockingReader.run(NonBlockingReader.java:276)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+"Server console handler" Id=20 TIMED_WAITING on org.jline.utils.NonBlockingReader@14db0a40
+	at java.lang.Object.wait(Native Method)
+	-  waiting on org.jline.utils.NonBlockingReader@14db0a40
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:174)
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:113)
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:132)
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:109)
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:60)
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:724)
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:526)
+	...
+
+
+"DestroyJavaVM" Id=19 RUNNABLE
+
+
+"Server thread" Id=17 RUNNABLE
+	at net.minecraftforge.items.VanillaInventoryCodeHooks.getItemHandler(VanillaInventoryCodeHooks.java:267)
+	at net.minecraftforge.items.VanillaInventoryCodeHooks.getItemHandler(VanillaInventoryCodeHooks.java:227)
+	at net.minecraftforge.items.VanillaInventoryCodeHooks.insertHook(VanillaInventoryCodeHooks.java:123)
+	at net.minecraft.tileentity.TileEntityHopper.func_145883_k(TileEntityHopper.java:194)
+	at net.minecraft.tileentity.TileEntityHopper.func_145887_i(TileEntityHopper.java:137)
+	at net.minecraft.tileentity.TileEntityHopper.func_73660_a(TileEntityHopper.java:122)
+	at org.spongepowered.common.event.tracking.TrackingUtil.tickTileEntity(TrackingUtil.java:237)
+	at net.minecraft.world.WorldServer.updateTileEntity(WorldServer.java:4726)
+	...
+
+
+"Server Infinisleeper" Id=16 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:82)
+
+
+"Snooper Timer" Id=15 TIMED_WAITING on java.util.TaskQueue@6db5f024
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@6db5f024
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@19977f00
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@19977f00
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:165)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:216)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@37839ef5
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@37839ef5
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+
+
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.15.0-101-generic
+	Java Version: 1.8.0_252, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 232909296 bytes (222 MB) / 1916272640 bytes (1827 MB) up to 1916272640 bytes (1827 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx2G
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 39 mods loaded, 39 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	Mods:
+
+	| State  | ID                | Version           | Source                                 | Signature                                |
+	|:------ |:----------------- |:----------------- |:-------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft         | 1.12.2            | minecraft.jar                          | None                                     |
+	| LCHIJA | mcp               | 9.42              | minecraft.jar                          | None                                     |
+	| LCHIJA | FML               | 8.0.99.99         | forge.jar                              | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge             | 14.23.5.2854      | forge.jar                              | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | spongeapi         | 7.2.0-f12f8e774   | spongeforge-1.12.2-2838-7.2.1.jar      | None                                     |
+	| LCHIJA | sponge            | 1.12.2-7.2.1      | spongeforge-1.12.2-2838-7.2.1.jar      | None                                     |
+	| LCHIJA | spongeforge       | 1.12.2-2838-7.2.1 | spongeforge-1.12.2-2838-7.2.1.jar      | None                                     |
+	| LCHIJA | customnpcs        | 1.12              | CustomNPCs_1.12.2-(01Oct19).jar        | None                                     |
+	| LCHIJA | pixelmon          | 7.2.2             | Pixelmon-1.12.2-7.2.2-universal.jar    | None                                     |
+	| LCHIJA | pixelextras       | 2.5.7             | PixelExtras-1.12.2-2.5.7-universal.jar | None                                     |
+	| LCHIJA | variedcommodities | 1.12.2            | VariedCommodities_1.12.2(21nov19).jar  | None                                     |
+	| LCHIJA | wondertrade       | 4.6.2             | WonderTrade-1.12.2-4.6.2-universal.jar | None                                     |
+
+
+	Plugins:
+
+	| State  | ID                    | Version         | Source                                             | Signature |
+	|:------ |:--------------------- |:--------------- |:-------------------------------------------------- |:--------- |
+	| LCHIJA | impactor              | 2.0.0           | Impactor-Sponge-7.1.5-2.1.1-SNAPSHOT.jar           | None      |
+	| LCHIJA | nucleus               | 1.12.1-S7.1     | Nucleus-1.12.1-S7.1-MC1.12.2-plugin.jar            | None      |
+	| LCHIJA | daycare               | 2.0.1           | Daycare-Sponge-Reforged-7.3.1-S7.1.0-2.2.1.jar     | None      |
+	| LCHIJA | pixelmoneconomybridge | 2.0.7           | EcoBridge-1.12.2-2.0.7.jar                         | None      |
+	| LCHIJA | gts                   | 5.2.3           | GTS-Sponge-1.12.2-5.2.3.jar                        | None      |
+	| LCHIJA | gts_reforged          | @version@       | GTS-Sponge-Reforged-7.3.1-5.2.3.jar                | None      |
+	| LCHIJA | mirage                | 1.3.15          | Mirage-1.3.15.jar                                  | None      |
+	| LCHIJA | pixelauction          | 1.2.2           | PixelAuction-1.12.2-1.2.2-server.jar               | None      |
+	| LCHIJA | pixelmonbroadcasts    | 0.4.1           | PixelmonBroadcasts-1.12.2-0.4.1.jar                | None      |
+	| LCHIJA | pokedexrewards        | 0.8.2-t2        | PokedexRewards-0.8.2-t2.jar                        | None      |
+	| LCHIJA | pjc                   | 0.3.0           | projectcore-7.2.0-0.3.0.jar                        | None      |
+	| LCHIJA | pjw                   | 0.13.1          | projectworlds-7.2.0-0.13.1.jar                     | None      |
+	| LCHIJA | bluemap               | 0.7.0-mc1.12    | BlueMap-0.7.0-mc1.12-sponge.jar                    | None      |
+	| LCHIJA | placeholderapi        | 4.4             | PlaceholderAPI-4.4.jar                             | None      |
+	| LCHIJA | simpletablist         | 1.2.1           | simpletablist-1.2.1.jar                            | None      |
+	| LCHIJA | worldedit             | 6.1.10-SNAPSHOT | worldedit-sponge-api7.1.0-6.1.10-SNAPSHOT-dist.jar | None      |
+	| LCHIJA | langswitch            | 1.6.1           | LangSwitch-1.6.1.jar                               | None      |
+	| LCHIJA | megamenus             | 0.7             | MegaMenus-0.7.jar                                  | None      |
+	| LCHIJA | vshop                 | 2.5             | VillagerShops-2.5.jar                              | None      |
+	| LCHIJA | boop                  | 1.6.2           | Boop-1.6.2.jar                                     | None      |
+	| LCHIJA | griefdefender         | 1.2.4           | griefdefender-sponge-1.2.4-B15.jar                 | None      |
+	| LCHIJA | pixelgenocide         | 1.1.1           | PixelGenocide-1.1.1.jar                            | None      |
+	| LCHIJA | catclearlag           | 0.9.0           | CatClearLag-0.9.5.1.jar                            | None      |
+	| LCHIJA | economylite           | 2.15.1          | EconomyLite-7.1.0-2.15.1.jar                       | None      |
+	| LCHIJA | autocommands          | 1.0.0-SNAPSHOT  | AutoCommands-1.0.0-SNAPSHOT.jar                    | None      |
+	| LCHIJA | luckperms             | 5.1.17          | LuckPerms-Sponge-5.1.17.jar                        | None      |
+	| LCHIJA | webapi                | 5.4.5-S7.1.0    | webapi-5.4.5-S7.1.0.jar                            | None      |
+
+	Loaded coremods (and transformers): 
+SpongeCoremod (spongeforge-1.12.2-2838-7.2.1.jar)
+  org.spongepowered.common.launch.transformer.SpongeSuperclassTransformer
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Definitely; Server brand changed to 'fml,forge,sponge'
+	Type: Dedicated Server (map_server.txt)
