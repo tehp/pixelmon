@@ -6374,4 +6374,124 @@ Caused by: java.lang.ClassCastException: com.pixelmonmod.pixelmon.entities.custo
 > [K[18:29:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 > [K[18:29:40] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:49628] logged in with entity id [230703] in build (minecraft:overworld/2) at (537.8507685876252, 84.5, -8.12126592504129).
 > [K[18:29:40] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[18:35:11] [pool-3-thread-646/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:35:41] [pool-3-thread-648/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:36:08] [qtp61007574-76720/INFO] [webapi]: ERROR: null
+> [K[18:36:08] [qtp61007574-76720/INFO] [webapi]: ERROR: null
+> [K[18:36:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m14 items have been cleared.[39;0m[39;0m
+> [K[18:36:48] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:37:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:37:50] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m91 pokémon have been cleared.[39;0m[39;0m
+> [K[18:38:37] [pool-3-thread-647/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[18:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: This server is running [0;32;22mWondertrade[39;0m by [0;32;22mGhostWolf![39;0m[39;0m
+> [K[18:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: [39;0mFor a tutorial see: [0;34;1mhttps://www.youtube.com/ghostwolfgames[39;0m[39;0m
+> [K[18:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: Current [0;32;22mWondertrade[39;0m pool contains: [0;32;22m100[39;0m Pixelmon[39;0m[39;0m
+> [K[18:40:37] [Timer-4/INFO] [minecraft/DedicatedServer]: [0;32;22mTry your luck at getting it with [39;0m/wondertrade[39;0m[39;0m
+> [K[18:45:11] [pool-3-thread-650/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:45:41] [pool-3-thread-645/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:46:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[18:47:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:47:37] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:47:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex c
+> [K[18:47:48] [pool-3-thread-652/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[18:47:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex c diamonds
+> [K[18:48:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex check
+> [K[18:48:08] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m87 pokémon have been cleared.[39;0m[39;0m
+> [K[18:53:09] [pool-3-thread-650/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[18:55:11] [pool-3-thread-650/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:55:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex r
+> [K[18:55:38] [pool-3-thread-650/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[18:55:41] [pool-3-thread-655/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:55:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex check
+> [K[18:55:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex list
+> [K[18:55:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+> [K[18:56:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m52 items have been cleared.[39;0m[39;0m
+> [K[18:57:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:57:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[18:58:26] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m91 pokémon have been cleared.[39;0m[39;0m
+> [K[19:01:00] [pool-3-thread-651/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[19:03:07] [pool-3-thread-652/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[19:03:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[19:03:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17 17:12
+> [K[19:04:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[19:05:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[19:05:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[19:05:11] [pool-3-thread-658/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:05:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set grass
+> [K[19:05:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[19:05:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[19:05:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace !air air
+> [K[33;1m[19:05:40] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2851ms behind, skipping 57 tick(s)
+[39;0m> [K[19:05:41] [pool-3-thread-661/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:05:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+> [K[19:06:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m37 items have been cleared.[39;0m[39;0m
+> [K[19:07:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[19:08:17] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[19:08:47] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m89 pokémon have been cleared.[39;0m[39;0m
+> [K[19:11:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[19:11:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[19:11:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 108 114
+> [K[19:11:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[19:12:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls 98
+> [K[19:14:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 44:4 44:6
+> [K[19:14:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[19:14:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[19:14:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 44:4 44:6
+> [K[19:14:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /spawn 
+> [K[19:14:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport world
+> [K[19:14:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+> [K[19:15:11] [pool-3-thread-660/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:15:41] [pool-3-thread-662/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:16:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 159:14
+> [K[19:16:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[19:16:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[19:16:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set quartzblock
+> [K[19:16:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[19:18:04] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[19:18:17] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Castform has spawned in world "world", at X:-583 Y:84 Z:-1427[39;0m
+> [K[19:18:35] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[19:19:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m133 pokémon have been cleared.[39;0m[39;0m
+> [K[19:21:59] [pool-3-thread-659/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[19:24:47] [pool-3-thread-662/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[19:25:11] [pool-3-thread-663/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:25:41] [pool-3-thread-662/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:26:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m1 items have been cleared.[39;0m[39;0m
+> [K[19:28:23] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[19:28:54] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[19:29:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m144 pokémon have been cleared.[39;0m[39;0m
+> [K[19:30:00] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Zubat has spawned in world "world", at X:-639 Y:99 Z:-1426[39;0m
+> [K[19:30:17] [pool-3-thread-660/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[19:32:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /stop 
+> [K[19:32:20] [Server thread/INFO] [luckperms]: Starting shutdown process...
+> [K[19:32:20] [Server thread/INFO] [luckperms]: Closing storage...
+> [K[19:32:20] [Server thread/INFO] [luckperms]: Goodbye!
+> [K[19:32:20] [Server thread/INFO] [minecraft/MinecraftServer]: Stopping server
+> [K[19:32:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving players
+> [K[19:32:20] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: Aboveexpert lost connection: Server closed
+> [K[19:32:20] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[19:32:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving worlds
+> [K[19:32:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'world'/0
+> [K[19:32:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'DIM-1'/-1
+> [K[19:32:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'DIM1'/1
+> [K[19:32:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'build'/2
+> [K[19:32:20] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'ultra'/72
+> [K[19:32:20] [Server thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d unloaded
+> [K[19:32:20] [Server thread/INFO] [Sponge]: Unloading world [world] (minecraft:overworld/0)
+> [K[19:32:20] [Server thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e unloaded
+> [K[19:32:20] [Server thread/INFO] [Sponge]: Unloading world [DIM-1] (minecraft:nether/-1)
+> [K[19:32:20] [Server thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc unloaded
+> [K[19:32:20] [Server thread/INFO] [Sponge]: Unloading world [DIM1] (minecraft:the_end/1)
+> [K[19:32:20] [Server thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b unloaded
+> [K[19:32:20] [Server thread/INFO] [Sponge]: Unloading world [build] (minecraft:overworld/2)
+> [K[19:32:20] [Server thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 unloaded
+> [K[19:32:20] [Server thread/INFO] [Sponge]: Unloading world [ultra] (pixelmon:ultra_space/72)
+> [K[19:32:21] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+> [K[19:32:21] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+> [K[19:32:21] [Server thread/INFO] [nucleus]: Nucleus is performing server shutdown tasks.
+> [K[19:32:21] [Server thread/INFO] [webapi]: Stopped ServerConnector@7e75cffc{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+> [K[19:32:21] [Server thread/INFO] [webapi]: Stopped ServerConnector@228ad7ff{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+> [K[19:32:21] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.ServletContextHandler@2b28054f{/api/v5,null,UNAVAILABLE}
+> [K[19:32:21] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@7aff4574{/admin,null,UNAVAILABLE}
+> [K[19:32:21] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@44f53ed1{/,null,UNAVAILABLE}
+> [K[19:32:21] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@61e02ae{/docs,null,UNAVAILABLE}
 > 
