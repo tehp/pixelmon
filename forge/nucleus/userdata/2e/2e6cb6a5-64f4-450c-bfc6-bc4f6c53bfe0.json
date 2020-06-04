@@ -1,8 +1,8 @@
 {
   "version": 2,
   "lastKnownName": "tehpp",
-  "lastLogin": 1591140923343,
-  "lastLogout": 1591141118491,
+  "lastLogin": 1591310510196,
+  "lastLogout": 1591310847707,
   "lastIP": "/70.68.240.223",
   "firstJoin": 1590339259092,
   "startedFirstJoin": false,
@@ -12,9 +12,9 @@
   "vanish": false,
   "invulnerable": false,
   "lastLocation": {
-    "x": -642.1410196514512,
-    "y": 66.0,
-    "z": -1370.2918137417603,
+    "x": -624.9376981677458,
+    "y": 90.5,
+    "z": -1368.7830063710674,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
@@ -37,8 +37,8 @@
     }
   },
   "nickname-text": "{\"text\":\"tehp\"}",
-  "notes": [],
-  "warnings": [],
+  "mail": [],
   "powertools": {},
-  "mail": []
+  "notes": [],
+  "warnings": []
 }
