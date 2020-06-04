@@ -923,3 +923,133 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [20:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
 [20:24:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 146 pokémon have been cleared.
 [20:29:06] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Tyranitar has spawned in world "world", at X:-659 Y:66 Z:-1345
+[20:31:59] [pool-3-thread-54/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:32:29] [pool-3-thread-34/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:32:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:33:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[20:34:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[20:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 142 pokémon have been cleared.
+[20:35:13] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Geodude has spawned in world "world", at X:-644 Y:66 Z:-1317
+[20:41:59] [pool-3-thread-60/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:42:29] [pool-3-thread-55/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:42:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[20:44:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[20:45:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 138 pokémon have been cleared.
+[20:49:56] [pool-3-thread-62/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[20:51:59] [pool-3-thread-59/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:52:29] [pool-3-thread-58/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:52:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:54:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[20:54:58] [pool-3-thread-64/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[20:55:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[20:55:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 140 pokémon have been cleared.
+[20:56:03] [pool-3-thread-63/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[20:56:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp editor
+[20:56:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex c
+[20:58:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokegive Aboveexpert treecko
+[20:58:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert gave Aboveexpert a Treecko!]
+[20:58:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts sell pokemon 2 100
+[20:58:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts 
+[20:58:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts add
+[20:58:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts add
+[20:58:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts add
+[20:58:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pauc 2 50 100
+[20:58:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pauc 2 50 100
+[20:59:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts admin clear
+[21:01:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts admin clear
+[21:01:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: .
+[21:01:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts ignore
+[21:01:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts ignore
+[21:01:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts ignore ignore
+[21:01:59] [pool-3-thread-54/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:02:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts ignore false
+[21:02:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts ignore ignore
+[21:02:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts help
+[21:02:29] [pool-3-thread-66/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:02:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:03:49] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Golbat has spawned in world "world", at X:-728 Y:120 Z:-1396
+[21:04:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[21:04:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /help help ignore
+[21:05:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[21:05:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 118 pokémon have been cleared.
+[21:06:41] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Drilbur has spawned in world "world", at X:-510 Y:66 Z:-1372
+[21:06:47] [qtp2092549877-133/WARN] [webapi]: Illegal character 0x3 in state=START for buffer HeapByteBuffer@48ad435d[p=1,l=47,c=8192,r=46]={\x03<<<\x00\x00/*\xE0\x00\x00\x00\x00\x00Cookie:...nistr\r\n\x01\x00\x08\x00\x03\x00\x00\x00>>>21:06:43 GMT\r\nAcc...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[21:09:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits u0invTRbwV
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (admin)
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pdrewards.admin.gst true
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pdrewards.base.remaining true
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pdrewards.base.convert true
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pdrewards.base.count true
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pdrewards.base.claim true
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove pokedexrewards.list.base true
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove pokedexrewards.remaining.base true
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[21:09:15] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove pokedexrewards.claim.base true
+[21:09:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /st 2
+[21:09:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /wt 2
+[21:09:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /daycare 
+[21:09:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /wt 2 treecko
+[21:11:59] [pool-3-thread-66/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:12:29] [pool-3-thread-68/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:12:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+[21:12:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:13:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex c
+[21:13:13] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Mudbray has spawned in world "world", at X:-716 Y:68 Z:-1313
+[21:13:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits ATr9fsVYta
+[21:13:52] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[21:13:52] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pdrewards.base true
+[21:13:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex c
+[21:14:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex cl
+[21:14:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex convert
+[21:14:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex convert 2
+[21:14:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex admin gst
+[21:14:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokedexadmin getshinytoken
+[21:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[21:15:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits vf29JfRvIq
+[21:15:10] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (admin)
+[21:15:10] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pdrewards.admin.reload true
+[21:15:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokedexadmin getshinytoken
+[21:15:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[21:15:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits OL3uIHGo4H
+[21:15:56] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (admin)
+[21:15:56] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add pdrewards.admin true
+[21:15:56] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (admin)
+[21:15:56] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove pdrewards.admin.reload true
+[21:15:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokedexadmin getshinytoken
+[21:16:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex convert 3
+[21:16:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 123 pokémon have been cleared.
+[21:16:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /dex convert 2
+[21:16:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pc 
+[21:16:51] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-610 Y:90 Z:-1350
+[21:21:36] [pool-3-thread-68/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[21:21:59] [pool-3-thread-58/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:22:29] [pool-3-thread-68/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:22:54] [pool-3-thread-67/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[21:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:23:51] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Golbat has spawned in world "world", at X:-619 Y:81 Z:-1318
+[21:25:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[21:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[21:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 133 pokémon have been cleared.
+[21:28:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[21:28:01] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[21:28:01] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[21:28:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[21:28:01] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[21:28:01] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[21:28:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[21:28:02] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[21:28:02] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[21:28:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[21:28:02] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[21:28:02] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[21:28:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[21:28:02] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[21:28:02] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[21:28:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gts admin
