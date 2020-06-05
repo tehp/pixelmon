@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-06-05 06:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2020-05-24 20:56:25 +0000"
@@ -950,6 +956,12 @@
   "pixelmon:recipes/decorative/black_umbrella": {
     "criteria": {
       "has_wool": "2020-05-24 19:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-06-05 06:18:49 +0000"
     },
     "done": true
   },

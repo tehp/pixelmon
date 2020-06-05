@@ -1,0 +1,7 @@
+# Book data for -o
+book {
+    bookName="-o"
+    bookPages=[
+        "yeah, you guessed it, nick is a shum."
+    ]
+}

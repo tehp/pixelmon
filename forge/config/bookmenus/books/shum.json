@@ -1,0 +1,7 @@
+# Book data for shum
+book {
+    bookName=shum
+    bookPages=[
+        "[insert text]"
+    ]
+}
