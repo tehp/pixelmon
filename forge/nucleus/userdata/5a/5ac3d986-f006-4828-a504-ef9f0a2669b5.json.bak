@@ -30,8 +30,8 @@
     }
   },
   "lastKnownName": "Aboveexpert",
-  "lastLogin": 1591310382597,
-  "lastLogout": 1591320150820,
+  "lastLogin": 1591338142186,
+  "lastLogout": 1591340674591,
   "lastIP": "/23.16.19.188",
   "firstJoin": 1590339241294,
   "startedFirstJoin": false,
@@ -46,9 +46,9 @@
   "nickname-text": "{\"color\":\"dark_aqua\",\"text\":\"Nick\"}",
   "invulnerable": false,
   "lastLocation": {
-    "x": -634.1392808769045,
-    "y": 85.61700208964066,
-    "z": -1342.199969609731,
+    "x": -601.7553424856126,
+    "y": 67.2531999805212,
+    "z": -1363.6767706868059,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
@@ -92,6 +92,6 @@
       "/fixwater 30"
     ]
   },
-  "mail": [],
-  "notes": []
+  "notes": [],
+  "mail": []
 }

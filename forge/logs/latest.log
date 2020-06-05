@@ -1,684 +1,521 @@
-[06:15:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:15:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:15:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[06:15:38] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
-[06:15:38] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_252, running on Linux:amd64:4.15.0-101-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[06:15:38] [main/INFO] [FML]: Searching /opt/pixelmon/forge/./mods for mods
-[06:15:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Mirage-1.3.15.jar
-[06:15:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2838-7.2.1.jar
-[06:15:38] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2838-7.2.3-RC4035.jar
-[06:15:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:15:38] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[06:15:38] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar Service=LaunchWrapper Env=SERVER
-[06:15:38] [main/WARN] [FML]: The coremod SpongeCoremod (org.spongepowered.mod.SpongeCoremod) is not signed!
-[06:15:38] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[06:15:38] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[06:15:38] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[06:15:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[06:15:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:15:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[06:15:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:15:41] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[06:15:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[06:15:41] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[06:15:41] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@7c3ebc6b
-[06:15:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[06:15:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[06:15:41] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[06:15:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[06:15:41] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[06:15:43] [main/WARN] [mixin]: @Mixin target net/minecraft/block/state/BlockStateContainer$StateImplementation is public in mixins.common.api.json:mcp.block.state.StateImplementationMixin_API and should be specified in value
-[06:15:46] [main/WARN] [mixin]: @Mixin target net/minecraft/server/management/PlayerProfileCache$ProfileEntry is public in mixins.common.core.json:server.management.PlayerProfileCache_ProfileEntryAccessor and should be specified in value
-[06:15:48] [main/WARN] [mixin]: Static binding violation: PRIVATE @Overwrite method func_189509_E in mixins.common.core.json:world.WorldMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[06:15:50] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[06:15:58] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Class path contains multiple SLF4J bindings.
-[06:15:58] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Found binding in [jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
-[06:15:58] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Found binding in [jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.3-RC4035.jar!/org/slf4j/impl/StaticLoggerBinder.class]
-[06:15:58] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
-[06:15:58] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
-[06:15:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[06:15:59] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
-[06:15:59] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[06:15:59] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[06:15:59] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[06:15:59] [Server thread/INFO] [Sponge]: Found mcmod.info at jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar!/mcmod.info
-[06:15:59] [Server thread/INFO] [Sponge]: Creating injector in stage 'PRODUCTION'
-[06:16:06] [Server thread/INFO] [FML]: Searching /opt/pixelmon/forge/./mods for mods
-[06:16:06] [Server thread/INFO] [FML]: Searching %s for plugins
-[06:16:08] [Server thread/WARN] [Sponge]: Plugin 'catclearlag' seems to be missing a valid mcmod.info metadata file. This is not a problem when testing plugins, however it is recommended to include one in public plugins.
+[07:28:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[07:28:23] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[07:28:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[07:28:23] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[07:28:23] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_252, running on Linux:amd64:4.15.0-101-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[07:28:23] [main/INFO] [FML]: Searching /opt/pixelmon/forge/./mods for mods
+[07:28:23] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Mirage-1.3.15.jar
+[07:28:23] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2838-7.2.1.jar
+[07:28:23] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spongeforge-1.12.2-2838-7.2.3-RC4035.jar
+[07:28:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:28:23] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[07:28:23] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar Service=LaunchWrapper Env=SERVER
+[07:28:23] [main/WARN] [FML]: The coremod SpongeCoremod (org.spongepowered.mod.SpongeCoremod) is not signed!
+[07:28:23] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[07:28:23] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[07:28:23] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[07:28:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[07:28:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:28:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[07:28:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:28:25] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[07:28:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[07:28:25] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[07:28:25] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@7c3ebc6b
+[07:28:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[07:28:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[07:28:26] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[07:28:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[07:28:26] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[07:28:28] [main/WARN] [mixin]: @Mixin target net/minecraft/block/state/BlockStateContainer$StateImplementation is public in mixins.common.api.json:mcp.block.state.StateImplementationMixin_API and should be specified in value
+[07:28:31] [main/WARN] [mixin]: @Mixin target net/minecraft/server/management/PlayerProfileCache$ProfileEntry is public in mixins.common.core.json:server.management.PlayerProfileCache_ProfileEntryAccessor and should be specified in value
+[07:28:33] [main/WARN] [mixin]: Static binding violation: PRIVATE @Overwrite method func_189509_E in mixins.common.core.json:world.WorldMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[07:28:34] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[07:28:43] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Class path contains multiple SLF4J bindings.
+[07:28:43] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Found binding in [jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+[07:28:43] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Found binding in [jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.3-RC4035.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+[07:28:43] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+[07:28:43] [main/INFO] [STDERR]: [org.slf4j.helpers.Util:report:128]: SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+[07:28:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[07:28:43] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[07:28:43] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[07:28:43] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[07:28:43] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[07:28:44] [Server thread/INFO] [Sponge]: Found mcmod.info at jar:file:/opt/pixelmon/forge/./mods/spongeforge-1.12.2-2838-7.2.1.jar!/mcmod.info
+[07:28:44] [Server thread/INFO] [Sponge]: Creating injector in stage 'PRODUCTION'
+[07:28:50] [Server thread/INFO] [FML]: Searching /opt/pixelmon/forge/./mods for mods
+[07:28:50] [Server thread/INFO] [FML]: Searching %s for plugins
+[07:28:52] [Server thread/WARN] [Sponge]: Plugin 'catclearlag' seems to be missing a valid mcmod.info metadata file. This is not a problem when testing plugins, however it is recommended to include one in public plugins.
 Please see https://docs.spongepowered.org/master/en/plugin/plugin-meta.html for details.
-[06:16:09] [Server thread/INFO] [FML]: Forge Mod Loader has identified 40 mods to load
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for spongeforge: assets/spongeforge/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for daycare: assets/daycare/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for pixelmoneconomybridge: assets/pixelmoneconomybridge/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for gts: assets/gts/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for gts_reforged: assets/gts_reforged/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for impactor: assets/impactor/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for mirage: assets/mirage/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for pixelauction: assets/pixelauction/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for pixelextras: assets/pixelextras/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for pixelmonbroadcasts: assets/pixelmonbroadcasts/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for pokedexrewards: assets/pokedexrewards/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for wondertrade: assets/wondertrade/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for pjw: assets/pjw/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for bluemap: assets/bluemap/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for simpletablist: assets/simpletablist/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for pjc: assets/pjc/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for placeholderapi: assets/placeholderapi/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for vshop: assets/vshop/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for langswitch: assets/langswitch/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for boop: assets/boop/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for nucleus: assets/nucleus/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for bookmenus: assets/bookmenus/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for griefdefender: assets/griefdefender/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for pixelgenocide: assets/pixelgenocide/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for catclearlag: assets/catclearlag/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for economylite: assets/economylite/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for autocommands: assets/autocommands/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for megamenus: assets/megamenus/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for luckperms: assets/luckperms/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [FML]: Missing English translation for webapi: assets/webapi/lang/en_us.lang
-[06:16:09] [Server thread/WARN] [Sponge]: The mod placeholderapi was designed for spongeapi 5.1.0 but version 7.2.0-f12f8e774 is in use. It may not work properly.
-[06:16:09] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, spongeforge, customnpcs, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmon, pixelmonbroadcasts, pokedexrewards, variedcommodities, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
-[06:16:09] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, spongeforge, customnpcs, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmon, pixelmonbroadcasts, pokedexrewards, variedcommodities, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at SERVER
-[06:16:10] [Server thread/WARN] [Sponge]: There's no certificate fingerprint available
-[06:16:12] [Server thread/INFO] [STDOUT]: [valandur.webapi.WebAPI:<clinit>:95]: Static initialized
-[06:16:12] [Server thread/WARN] [pjw]: shum: Requires importing. /world import shum <type> <generator>
-[06:16:12] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[06:16:12] [Server thread/INFO] [FML]: Found 1555 ObjectHolder annotations
-[06:16:12] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[06:16:12] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[06:16:13] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[06:16:13] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Starting version check at https://files.minecraftforge.net/maven/org/spongepowered/spongeforge/promotions_slim.json
-[06:16:14] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Found status: OUTDATED Target: 7.1.2
-[06:16:14] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[06:16:14] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[06:16:14] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
-[06:16:14] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: OUTDATED Target: 7.3.1
-[06:16:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Nucleus version 1.12.1-S7.1, running on Sponge API 7.2.0-f12f8e774.
-[06:16:14] [Server thread/INFO] [nucleus]: Nucleus is now starting. Entering pre-init phase.
-[06:16:14] [Server thread/INFO] [nucleus]: Starting QuickStart Module Loader version 0.11.0 subsystem.
-[06:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:         __    
-[06:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:   |    |__)   LuckPerms v5.1.17
-[06:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:   |___ |      Running on Sponge - SpongeForge
-[06:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
-[06:16:15] [Server thread/INFO] [luckperms]: Loading configuration...
-[06:16:16] [Server thread/INFO] [luckperms]: Loading storage provider... [H2]
-[06:16:18] [Server thread/INFO] [luckperms]: Loading internal permission managers...
-[06:16:18] [Server thread/INFO] [luckperms]: Registering PermissionService...
-[06:16:19] [Server thread/INFO] [luckperms]: Performing initial data load...
-[06:16:19] [Server thread/INFO] [luckperms]: Successfully enabled. (took 4520ms)
-[06:16:19] [Server thread/INFO] [economylite]: EconomyLite 2.15.1 is initializing!
-[06:16:19] [Server thread/INFO] [economylite]: Using currency: Coin
-[06:16:19] [Server thread/INFO] [economylite]: The SQL module is disabled!
-[06:16:19] [Server thread/INFO] [economylite]: The Loan module is disabled!
-[06:16:19] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
-[06:16:20] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
-[06:16:21] [Server thread/INFO] [webapi]: 
+[07:28:53] [Server thread/INFO] [FML]: Forge Mod Loader has identified 40 mods to load
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for spongeforge: assets/spongeforge/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for daycare: assets/daycare/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for pixelmoneconomybridge: assets/pixelmoneconomybridge/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for gts: assets/gts/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for gts_reforged: assets/gts_reforged/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for impactor: assets/impactor/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for mirage: assets/mirage/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for pixelauction: assets/pixelauction/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for pixelextras: assets/pixelextras/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for pixelmonbroadcasts: assets/pixelmonbroadcasts/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for pokedexrewards: assets/pokedexrewards/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for wondertrade: assets/wondertrade/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for pjw: assets/pjw/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for bluemap: assets/bluemap/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for simpletablist: assets/simpletablist/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for pjc: assets/pjc/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for placeholderapi: assets/placeholderapi/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for vshop: assets/vshop/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for langswitch: assets/langswitch/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for boop: assets/boop/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for nucleus: assets/nucleus/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for bookmenus: assets/bookmenus/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for griefdefender: assets/griefdefender/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for pixelgenocide: assets/pixelgenocide/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for catclearlag: assets/catclearlag/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for economylite: assets/economylite/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for autocommands: assets/autocommands/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for megamenus: assets/megamenus/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for luckperms: assets/luckperms/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [FML]: Missing English translation for webapi: assets/webapi/lang/en_us.lang
+[07:28:53] [Server thread/WARN] [Sponge]: The mod placeholderapi was designed for spongeapi 5.1.0 but version 7.2.0-f12f8e774 is in use. It may not work properly.
+[07:28:53] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, spongeforge, customnpcs, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmon, pixelmonbroadcasts, pokedexrewards, variedcommodities, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[07:28:53] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, spongeforge, customnpcs, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmon, pixelmonbroadcasts, pokedexrewards, variedcommodities, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at SERVER
+[07:28:54] [Server thread/WARN] [Sponge]: There's no certificate fingerprint available
+[07:28:56] [Server thread/INFO] [STDOUT]: [valandur.webapi.WebAPI:<clinit>:95]: Static initialized
+[07:28:56] [Server thread/WARN] [pjw]: shum: Requires importing. /world import shum <type> <generator>
+[07:28:56] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[07:28:56] [Server thread/INFO] [FML]: Found 1555 ObjectHolder annotations
+[07:28:56] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[07:28:56] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[07:28:57] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[07:28:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[07:28:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[07:28:57] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Starting version check at https://files.minecraftforge.net/maven/org/spongepowered/spongeforge/promotions_slim.json
+[07:28:58] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Found status: OUTDATED Target: 7.1.2
+[07:28:58] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[07:28:58] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: OUTDATED Target: 7.3.1
+[07:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Nucleus version 1.12.1-S7.1, running on Sponge API 7.2.0-f12f8e774.
+[07:28:58] [Server thread/INFO] [nucleus]: Nucleus is now starting. Entering pre-init phase.
+[07:28:58] [Server thread/INFO] [nucleus]: Starting QuickStart Module Loader version 0.11.0 subsystem.
+[07:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:         __    
+[07:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:   |    |__)   LuckPerms v5.1.17
+[07:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:   |___ |      Running on Sponge - SpongeForge
+[07:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
+[07:28:58] [Server thread/INFO] [luckperms]: Loading configuration...
+[07:28:59] [Server thread/INFO] [luckperms]: Loading storage provider... [H2]
+[07:29:02] [Server thread/INFO] [luckperms]: Loading internal permission managers...
+[07:29:02] [Server thread/INFO] [luckperms]: Registering PermissionService...
+[07:29:03] [Server thread/INFO] [luckperms]: Performing initial data load...
+[07:29:03] [Server thread/INFO] [luckperms]: Successfully enabled. (took 4676ms)
+[07:29:03] [Server thread/INFO] [economylite]: EconomyLite 2.15.1 is initializing!
+[07:29:03] [Server thread/INFO] [economylite]: Using currency: Coin
+[07:29:03] [Server thread/INFO] [economylite]: The SQL module is disabled!
+[07:29:03] [Server thread/INFO] [economylite]: The Loan module is disabled!
+[07:29:03] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+[07:29:04] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:      _________________
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:     / ____/_  __/ ___/       GTS 5.2.3
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:    / / __  / /  \__ \        Running on: SpongeForge 1.12.2-2838-7.2.1
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:   / /_/ / / /  ___/ /        Author: NickImpact
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:   \____/ /_/  /____/
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Initializing GTS...
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Registering Service with Sponge...
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Loading configuration...
+[07:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (blacklist.items)... Adding it!
+[07:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.new-listing.webhooks)... Adding it!
+[07:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.sell-listing.webhooks)... Adding it!
+[07:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.listing-expire.webhooks)... Adding it!
+[07:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.listing-remove.webhooks)... Adding it!
+[07:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Loading default entry types...
+[07:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Loaded element type: SpongeItemEntry
+[07:29:07] [Server thread/INFO] [webapi]: 
 bStats metrics is present in 1 plugins on this server.
 Presently, none of them are allowed to send data.
 Presently, the following 1 plugins are not allowed to send data:
 [Web-API]
 To change the enabled/disabled state of any bStats use in a plugin, visit the Sponge config!
-[06:16:21] [Server thread/INFO] [bluemap]: 
+[07:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Initializing Daycare...
+[07:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Loading configuration...
+[07:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Registering tokens with Nucleus...
+[07:29:07] [Server thread/INFO] [Pixelmon Broadcasts]: 
+[07:29:07] [Server thread/INFO] [Pixelmon Broadcasts]: =============== P I X E L M O N  B R O A D C A S T S ===============
+[07:29:07] [Server thread/INFO] [Pixelmon Broadcasts]: --> Loading and validating Pixelmon Broadcasts settings...
+[07:29:07] [Server thread/INFO] [Pixelmon Broadcasts]: --> Registering listeners with Pixelmon...
+[07:29:07] [Server thread/INFO] [Pixelmon Broadcasts]: --> Registering commands with Sponge...
+[07:29:07] [Server thread/INFO] [Pixelmon Broadcasts]:     Registered main command as /pixelmonbroadcasts, alias /pbroadcasts
+[07:29:07] [Server thread/INFO] [Pixelmon Broadcasts]: --> Pre-init completed. All systems nominal.
+[07:29:07] [Server thread/INFO] [Pixelmon Broadcasts]: ====================================================================
+[07:29:07] [Server thread/INFO] [Pixelmon Broadcasts]: 
+[07:29:07] [Server thread/INFO] [boop]: 
 bStats metrics is present in 1 plugins on this server.
 Presently, none of them are allowed to send data.
 Presently, the following 1 plugins are not allowed to send data:
-[BlueMap]
+[Boop]
 To change the enabled/disabled state of any bStats use in a plugin, visit the Sponge config!
-[06:16:24] [Server thread/INFO] [Pixelmon Broadcasts]: 
-[06:16:24] [Server thread/INFO] [Pixelmon Broadcasts]: =============== P I X E L M O N  B R O A D C A S T S ===============
-[06:16:24] [Server thread/INFO] [Pixelmon Broadcasts]: --> Loading and validating Pixelmon Broadcasts settings...
-[06:16:24] [Server thread/INFO] [Pixelmon Broadcasts]: --> Registering listeners with Pixelmon...
-[06:16:24] [Server thread/INFO] [Pixelmon Broadcasts]: --> Registering commands with Sponge...
-[06:16:24] [Server thread/INFO] [Pixelmon Broadcasts]:     Registered main command as /pixelmonbroadcasts, alias /pbroadcasts
-[06:16:24] [Server thread/INFO] [Pixelmon Broadcasts]: --> Pre-init completed. All systems nominal.
-[06:16:24] [Server thread/INFO] [Pixelmon Broadcasts]: ====================================================================
-[06:16:24] [Server thread/INFO] [Pixelmon Broadcasts]: 
-[06:16:24] [Server thread/INFO] [BookMenus]: BookMenus Initializing...
-[06:16:24] [Server thread/INFO] [catclearlag]: Setting up config...
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Initializing Daycare...
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Loading configuration...
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Registering tokens with Nucleus...
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:      _________________
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:     / ____/_  __/ ___/       GTS 5.2.3
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:    / / __  / /  \__ \        Running on: SpongeForge 1.12.2-2838-7.2.1
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:   / /_/ / / /  ___/ /        Author: NickImpact
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:   \____/ /_/  /____/
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Initializing GTS...
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Registering Service with Sponge...
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Loading configuration...
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (blacklist.items)... Adding it!
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.new-listing.webhooks)... Adding it!
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.sell-listing.webhooks)... Adding it!
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.listing-expire.webhooks)... Adding it!
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.listing-remove.webhooks)... Adding it!
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Loading default entry types...
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Loaded element type: SpongeItemEntry
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS Reforged Bridge (Warning) Found missing config option (blacklist)... Adding it!
-[06:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Loaded element type: ReforgedEntry
-[06:16:24] [Server thread/INFO] [griefdefender]: Loading libraries...
-[06:16:26] [Server thread/INFO] [griefdefender]: GriefDefender boot start.
-[06:16:26] [Server thread/INFO] [griefdefender]: Finished loading configuration.
-[06:16:26] [Server thread/INFO] [griefdefender]: Registering GriefDefender API...
-[06:16:27] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 7.2.2
-[06:16:28] [Server thread/INFO] [Pixelmon]: Checking for migrations..
-[06:16:29] [Server thread/INFO] [Pixelmon]: Loading Advancements
-[06:16:31] [Server thread/INFO] [STDOUT]: [com.wondertrademod.wondertrade.Utilities:loadDefaultCooldowns:106]: 2120447d-bb7a-49f3-83a0-aad8d4f2b7c5
-[06:16:31] [Server thread/INFO] [STDOUT]: [com.wondertrademod.wondertrade.Wondertrade:preInit:53]: [Wondertrade] Successfully loaded configuration File.
-[06:16:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[06:16:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[06:16:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[06:16:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[06:16:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[06:16:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[06:16:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[06:16:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[06:16:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
-[06:16:32] [Server thread/INFO] [FML]: Applying holder lookups
-[06:16:32] [Server thread/INFO] [FML]: Holder lookups applied
-[06:16:33] [Server thread/INFO] [Pixelmon]: Loading TM/HMs.
-[06:16:33] [Server thread/INFO] [FML]: Applying holder lookups
-[06:16:33] [Server thread/INFO] [FML]: Holder lookups applied
-[06:16:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `sponge` for name `human`, expected `spongeforge`. This could be a intended override, but in most cases indicates a broken mod.
-[06:16:33] [Server thread/INFO] [FML]: Applying holder lookups
-[06:16:33] [Server thread/INFO] [FML]: Holder lookups applied
-[06:16:33] [Server thread/INFO] [FML]: Applying holder lookups
-[06:16:33] [Server thread/INFO] [FML]: Holder lookups applied
-[06:16:33] [Server thread/INFO] [FML]: Injecting itemstacks
-[06:16:33] [Server thread/INFO] [FML]: Itemstack injection complete
-[06:16:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[06:16:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[06:16:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[06:16:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[06:16:33] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[06:16:34] [Server thread/INFO] [FML]: Applying holder lookups
-[06:16:34] [Server thread/INFO] [FML]: Holder lookups applied
-[06:16:34] [Server thread/INFO] [langswitch]: Setting default locale to en_
-[06:16:34] [pool-3-thread-12/INFO] [langswitch]: Loading translations for vshop in en...
-[06:16:34] [Server thread/INFO] [langswitch]: The LanguageService is now available!
-[06:16:34] [Server thread/INFO] [nucleus]: Nucleus is now entering the init phase.
-[06:16:35] [Server thread/INFO] [Mirage]: Loading global configuration ..
-[06:16:35] [Server thread/INFO] [Mirage]: Optimizing exposition check performances ..
-[06:16:35] [Server thread/INFO] [Mirage]: Reading default pack ..
-[06:16:35] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:overworld ..
-[06:16:35] [Server thread/INFO] [Mirage]: Loading resources for dimension type: pixelmon:ultra_space ..
-[06:16:35] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:nether ..
-[06:16:35] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:the_end ..
-[06:16:35] [Server thread/INFO] [vshop]: Registering commands...
-[06:16:35] [Server thread/INFO] [vshop]: Loading configs...
-[06:16:35] [Server thread/INFO] [PixelGenocide]: PixelGenocide by happyzleaf loaded! (https://happyzleaf.com/)
-[06:16:35] [Server thread/INFO] [webapi]: Web-API v5.4.5-S7.1.0 is starting...
-[06:16:35] [Server thread/INFO] [webapi]: Setting up jetty logger...
-[06:16:35] [Server thread/INFO] [webapi]: Loading configuration...
-[06:16:36] [Server thread/INFO] [webapi]: Loading keys & permissions...
-[06:16:36] [Server thread/INFO] [webapi]: Loading serializers...
-[06:16:36] [Server thread/INFO] [webapi]: Done loading serializers
-[06:16:36] [Server thread/INFO] [webapi]: Registering servlets...
-[06:16:36] [Server thread/INFO] [webapi]: Loading users...
-[06:16:36] [Server thread/INFO] [webapi]: Initializing web hooks...
-[06:16:36] [Server thread/INFO] [webapi]: Loading filters...
-[06:16:36] [Server thread/INFO] [webapi]: Done loading filters
-[06:16:36] [Server thread/INFO] [webapi]:   - http://localhost/test
-[06:16:36] [Server thread/INFO] [webapi]:     -> Disabled
-[06:16:36] [Server thread/INFO] [webapi]:   - http://localhost/test/{player}
-[06:16:36] [Server thread/INFO] [webapi]:     -> Disabled
-[06:16:36] [Server thread/INFO] [webapi]: Registering commands...
-[06:16:36] [Server thread/INFO] [webapi]: Web-API ready
-[06:16:36] [Server thread/INFO] [catclearlag]: Starting plugin...
-[06:16:36] [Server thread/INFO] [catclearlag]: Registering commands...
-[06:16:36] [Server thread/INFO] [BookMenus]: BookMenus Initialized!
-[06:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pokédex] Pokédex Rewards - Loaded v0.8.2!
-[06:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pokédex] Made by Xenoyia, with help from MageFX. Maintained by XpanD.
-[06:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Impactor » Pooling plugin dependencies...
-[06:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Impactor » Dependencies found, setting these up now...
-[06:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Impactor » Initializing default dependencies...
-[06:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Impactor » Initializing plugin dependencies...
-[06:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Impactor » Loading storage type module: H2
-[06:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Initializing additional dependencies...
-[06:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Registering commands with ACF...
-[06:16:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Initializing and reading storage...
-[06:16:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Loading storage provider... [H2]
-[06:16:38] [Server thread/INFO] [nucleus]: Nucleus is now entering the post-init phase.
-[06:16:38] [Server thread/INFO] [nucleus]: Nucleus is now loading and enabling modules. This may take a few seconds.
-[06:16:38] [Server thread/INFO] [nucleus]: Starting phase: PREENABLE
-[06:16:38] [Server thread/INFO] [nucleus]: Starting phase: ENABLE
-[06:16:41] [Server thread/INFO] [nucleus]: Starting phase: POSTENABLE
-[06:16:41] [Server thread/INFO] [nucleus]: Nucleus language set to "en-GB"
-[06:16:41] [Server thread/INFO] [nucleus]: Nucleus has completed loading modules.
-[06:16:41] [Server thread/INFO] [nucleus]: Nucleus has completed server initialisation tasks. Waiting for game server to start to complete the final tasks.
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: CustomNPC Permissions available:
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.blocks
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.villager
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.bank
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.dialog
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.faction
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.linked
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.naturalspawn
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.playerdata
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.quest
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.recipe
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.transport
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.advanced
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.ai
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.clone
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.create
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.delete
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.display
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.freeze
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.gui
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.inventory
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.reset
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.stats
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.scenes
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.soulstone.all
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.create
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.mob
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.mounter
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.nbtbook
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.pather
-[06:16:43] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.scripter
-[06:16:43] [Server thread/INFO] [Pixelmon]: Registering shop items.
-[06:16:43] [Server thread/INFO] [Pixelmon]: Registering NPCs.
-[06:16:43] [Server thread/INFO] [Pixelmon]: Registered NPC trades.
-[06:16:43] [Server thread/INFO] [Pixelmon]: Registering structures.
-[06:16:44] [Server thread/INFO] [Pixelmon]: Registering all drops.
-[06:16:44] [Server thread/INFO] [Pixelmon]: Registering battle rules.
-[06:16:45] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
-[06:16:45] [Server thread/INFO] [FML]: Injecting itemstacks
-[06:16:45] [Server thread/INFO] [FML]: Itemstack injection complete
-[06:16:45] [Server thread/INFO] [worldedit]: WorldEdit for Sponge (version 6.1.10-SNAPSHOT) is loaded
-[06:16:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Enabling GTS...
-[06:16:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Initializing additional dependencies...
-[06:16:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Initializing internal handlers...
-[06:16:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Setting up discord notifier...
-[06:16:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Initializing the Listing Manager...
-[06:16:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Registering tokens with Nucleus...
-[06:16:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Registering commands with ACF...
-[06:16:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Initializing storage...
-[06:16:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Loading storage provider... [H2]
-[06:16:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Deploying running tasks...
-[06:16:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Startup complete!
-[06:16:46] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
-[06:16:49] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 40 mods
-[06:16:49] [Server thread/INFO] [griefdefender]: Loading configuration...
-[06:16:50] [Server thread/INFO] [griefdefender]: GriefDefender economy integration enabled.
-[06:16:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[06:16:51] [Server thread/INFO] [Sponge]: Checking for worlds that need to be migrated...
-[06:16:51] [Server thread/INFO] [Sponge]: No worlds were found in need of migration.
-[06:16:51] [Server thread/WARN] [Sponge]: World [ultra] (72) is attempting to be registered as an existing dimension but it's dimension id has already been registered for folder [null]. This means the world has been copied outside of Sponge. This is not a supported configuration.
-[06:16:51] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[06:16:52] [Server thread/INFO] [FML]: Applying holder lookups
-[06:16:52] [Server thread/INFO] [FML]: Holder lookups applied
-[06:16:53] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 712 advancements
-[06:16:53] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 120 advancement trees
-[06:16:53] [Server thread/INFO] [Mirage]: Loading configuration for world world ..
-[06:16:54] [Server thread/INFO] [griefdefender]: [world] 1 total claims loaded.
-[06:16:54] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
-[06:16:54] [Server thread/INFO] [vshop]: Loading shops from world_ac6bd4c2-5b9a-465b-bc52-f3a6b549594d.conf
-[06:16:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for world world (minecraft:overworld/0)
-[06:16:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 2%
-[06:16:56] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[06:16:56] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[06:16:56] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[06:16:56] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
-[06:16:56] [Server thread/WARN] [Pixelmon]: Ignore the above warning messages ^ This is intended and working fine.
-[06:16:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
-[06:16:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
-[06:16:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
-[06:17:00] [Server thread/INFO] [Sponge]: Loading world [world] (minecraft:overworld/0)
-[06:17:00] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 712 advancements
-[06:17:00] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 120 advancement trees
-[06:17:00] [Server thread/INFO] [Mirage]: Loading configuration for world DIM-1 ..
-[06:17:00] [Server thread/INFO] [griefdefender]: [DIM-1] 0 total claims loaded.
-[06:17:00] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
-[06:17:00] [Server thread/INFO] [vshop]: Loading shops from world_8bdd4867-8a67-4a91-ae90-5c5370f2ae6e.conf
-[06:17:00] [Server thread/INFO] [Sponge]: Loading world [DIM-1] (minecraft:nether/-1)
-[06:17:00] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 712 advancements
-[06:17:00] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 120 advancement trees
-[06:17:00] [Server thread/INFO] [Mirage]: Loading configuration for world DIM1 ..
-[06:17:01] [Server thread/INFO] [griefdefender]: [DIM1] 0 total claims loaded.
-[06:17:01] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
-[06:17:01] [Server thread/INFO] [vshop]: Loading shops from world_96b87889-638e-45a6-8d08-e3b60d0f7fdc.conf
-[06:17:01] [Server thread/INFO] [Sponge]: Loading world [DIM1] (minecraft:the_end/1)
-[06:17:01] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 712 advancements
-[06:17:01] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 120 advancement trees
-[06:17:01] [Server thread/INFO] [Mirage]: Loading configuration for world build ..
-[06:17:01] [Server thread/INFO] [griefdefender]: [build] 0 total claims loaded.
-[06:17:01] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
-[06:17:01] [Server thread/INFO] [vshop]: Loading shops from world_ea2c3b9d-0d70-4185-b367-f13cfca5463b.conf
-[06:17:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for world build (minecraft:overworld/2)
-[06:17:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 39%
-[06:17:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
-[06:17:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 99%
-[06:17:04] [Server thread/INFO] [Sponge]: Loading world [build] (minecraft:overworld/2)
-[06:17:04] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[06:17:04] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 712 advancements
-[06:17:04] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 120 advancement trees
-[06:17:04] [Server thread/INFO] [Mirage]: Loading configuration for world ultra ..
-[06:17:05] [Server thread/INFO] [griefdefender]: [ultra] 0 total claims loaded.
-[06:17:05] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
-[06:17:05] [Server thread/INFO] [vshop]: Loading shops from world_d60e07df-b64d-4e82-96a7-4bdd9a5d4d50.conf
-[06:17:05] [Server thread/INFO] [Sponge]: Loading world [ultra] (pixelmon:ultra_space/72)
-[06:17:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (15.666s)! For help, type "help" or "?"
-[06:17:05] [pool-3-thread-16/INFO] [bluemap]: Loading...
-[06:17:05] [Server thread/INFO] [nucleus]: Nucleus is performing final tasks before server startup completes.
-[06:17:05] [Server thread/INFO] [nucleus]: Nucleus has started.
-[06:17:05] [Server thread/INFO] [BookMenus]: Registering BookMenus commands...
-[06:17:05] [Server thread/INFO] [BookMenus]: BookMenus commands registered!
-[06:17:05] [Server thread/WARN] [Sponge]: No entity type is registered for class net.minecraftforge.common.util.FakePlayer
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:         /\
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:        /  \
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:       / || \
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:      /  ||  \
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:     /   ||   \
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:    /    ||    \
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:   /            \
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:  /      **      \
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ------------------
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ===================================================================
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The command "/world" could not be registered as it has already been claimed by ProjectWorlds - the fallback "/nucleus:world" is available.
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ===================================================================
-[06:17:07] [Server thread/INFO] [Pixelmon Broadcasts]: =============== P I X E L M O N  B R O A D C A S T S ===============
-[06:17:07] [Server thread/INFO] [Pixelmon Broadcasts]: --> Pixelmon's "displayLegendaryGlobalMessage" setting is enabled.
-[06:17:07] [Server thread/INFO] [Pixelmon Broadcasts]:     This setting will now be disabled as it conflicts with this mod.
-[06:17:07] [Server thread/INFO] [Pixelmon Broadcasts]:     If you remove this mod, revert this in Pixelmon's config!
-[06:17:07] [Server thread/INFO] [Pixelmon Broadcasts]: ====================================================================
-[06:17:07] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
-[06:17:07] [Server thread/WARN] [Sponge]: /*                                                    Could not pass  FMLServerStartedEvent                                                    */
-[06:17:07] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
-[06:17:07] [Server thread/WARN] [Sponge]: /* Could not pass the event FMLServerStartedEvent to an Event Listener!                                                                        */
-[06:17:07] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
-[06:17:07] [Server thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                                                */
-[06:17:07] [Server thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                                              */
-[06:17:07] [Server thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                                           */
-[06:17:07] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
-[06:17:07] [Server thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                                         */
-[06:17:07] [Server thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                                        */
-[06:17:07] [Server thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                                            */
-[06:17:07] [Server thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                                            */
-[06:17:07] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
-[06:17:07] [Server thread/WARN] [Sponge]: /* Owning Mod/Plugin: pixelmonbroadcasts                                                                                                       */
-[06:17:07] [Server thread/WARN] [Sponge]: /* Exception:                                                                                                                                  */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     java.lang.NoSuchMethodError:                                                                                                            */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.pixelmonmod.pixelmon.config.Pixe                                                                                                    */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     monConfig.reload(Z)V                                                                                                                    */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     rs.expand.pixelmonbroadcasts.PixelmonBroadcasts.onServerStartedEvent(PixelmonBroadcasts.java:239)                                       */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.listener.GameStartedServerEventListener_PixelmonBroadcasts_onServerStartedEvent33.handle(Unknown Source) */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)                                                    */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:381)                                                  */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)                                          */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                                                  */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)                                                                      */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.SpongeMod.onStateEvent(SpongeMod.java:377)                                                                        */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)                                                                             */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)                                                           */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)                                                   */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     java.lang.reflect.Method.invoke(Method.java:498)                                                                                        */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)                                                        */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)                                */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)                                                                         */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)                                          */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)                                                                 */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)                                           */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.EventBus.post(EventBus.java:217)                                                                             */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)                                           */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)                                             */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)                                                                             */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)                                                           */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)                                                   */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     java.lang.reflect.Method.invoke(Method.java:498)                                                                                        */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)                                                        */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)                                */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)                                                                         */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)                                          */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)                                                                 */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)                                           */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.EventBus.post(EventBus.java:217)                                                                             */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.redirect$zza000$forgeImpl$PostEvent(LoadController.java:568)                               */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)                                            */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.Loader.serverStarted(Loader.java:804)                                                                     */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.FMLCommonHandler.handleServerStarted(FMLCommonHandler.java:302)                                           */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.run(MinecraftServer.java:488)                                                                      */
-[06:17:07] [Server thread/WARN] [Sponge]: /*     java.lang.Thread.run(Thread.java:748)                                                                                                   */
-[06:17:07] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
-[06:17:07] [Server thread/INFO] [Mirage]: Mirage 1.3.15 was loaded successfully.
-[06:17:07] [Server thread/INFO] [vshop]: Starting timers...
-[06:17:07] [Server thread/INFO] [vshop]: Searching for updates...
-[06:17:07] [Server thread/WARN] [vshop]: The automatic Version Checker for VillagerShops(vshop) is disabled!
-[06:17:07] [Server thread/WARN] [vshop]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
-[06:17:07] [Server thread/INFO] [vshop]: User-Agent: VillagerShops/2.5 (Plugin by DosMike) SpongeAPI/7.2.0-f12f8e774 SpongeForge/1.12.2-2838-7.2.1 Minecraft/1.12.2
-[06:17:07] [Server thread/INFO] [vshop]: VillagerShops is now ready!
-[06:17:07] [Server thread/INFO] [worldedit]: Using com.sk89q.worldedit.sponge.adapter.impl.Sponge_1_12_Impl as the Sponge adapter
-[06:17:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Reading storage...
-[06:17:07] [Thread-18/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Successfully read in 0 listings!
-[06:17:07] [Server thread/INFO] [megamenus]: Searching for updates...
-[06:17:07] [Server thread/WARN] [megamenus]: The automatic Version Checker for Mega Menus(megamenus) is disabled!
-[06:17:07] [Server thread/WARN] [megamenus]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
-[06:17:08] [Server thread/INFO] [simpletablist]: PlaceholderAPI has been found, hooking in!
-[06:17:08] [Server thread/INFO] [simpletablist]: Enabling...
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: java.io.IOException: Server returned HTTP response code: 403 for URL: https://coole-boiz.de/minecraft/simpletablist/version.txt
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.security.AccessController.doPrivileged(Native Method)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at tk.fridtjof.simpletablist.UpdateChecker.updateAvailable(UpdateChecker.java:21)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at tk.fridtjof.simpletablist.SimpleTablist.onServerStart(SimpleTablist.java:149)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.event.listener.GameStartedServerEventListener_SimpleTablist_onServerStart57.handle(Unknown Source)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:381)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.SpongeMod.onStateEvent(SpongeMod.java:377)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.reflect.Method.invoke(Method.java:498)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.reflect.Method.invoke(Method.java:498)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.redirect$zza000$forgeImpl$PostEvent(LoadController.java:568)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.Loader.serverStarted(Loader.java:804)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.FMLCommonHandler.handleServerStarted(FMLCommonHandler.java:302)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:488)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.Thread.run(Thread.java:748)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: java.io.IOException: Server returned HTTP response code: 403 for URL: https://coole-boiz.de/minecraft/simpletablist/version.txt
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.security.AccessController.doPrivileged(Native Method)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at tk.fridtjof.simpletablist.UpdateChecker.updateAvailable(UpdateChecker.java:21)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at tk.fridtjof.simpletablist.SimpleTablist.onServerStart(SimpleTablist.java:151)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.event.listener.GameStartedServerEventListener_SimpleTablist_onServerStart57.handle(Unknown Source)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:381)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.SpongeMod.onStateEvent(SpongeMod.java:377)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.reflect.Method.invoke(Method.java:498)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.reflect.Method.invoke(Method.java:498)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.redirect$zza000$forgeImpl$PostEvent(LoadController.java:568)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.Loader.serverStarted(Loader.java:804)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.FMLCommonHandler.handleServerStarted(FMLCommonHandler.java:302)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:488)
-[06:17:08] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.Thread.run(Thread.java:748)
-[06:17:08] [Server thread/INFO] [simpletablist]: No new version detected!
-[06:17:08] [Server thread/INFO] [webapi]: Starting Web Server...
-[06:17:08] [Server thread/INFO] [webapi]: Logging initialized @93700ms to valandur.webapi.util.JettyLogger
-[06:17:08] [Server thread/WARN] [webapi]: You are using an HTTP port < 1024 which is not recommended! 
+[07:29:08] [Server thread/INFO] [BookMenus]: BookMenus Initializing...
+[07:29:08] [Server thread/INFO] [catclearlag]: Setting up config...
+[07:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS Reforged Bridge (Warning) Found missing config option (blacklist)... Adding it!
+[07:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Loaded element type: ReforgedEntry
+[07:29:08] [Server thread/INFO] [griefdefender]: Loading libraries...
+[07:29:09] [Server thread/INFO] [griefdefender]: GriefDefender boot start.
+[07:29:09] [Server thread/INFO] [griefdefender]: Finished loading configuration.
+[07:29:09] [Server thread/INFO] [griefdefender]: Registering GriefDefender API...
+[07:29:11] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 7.2.2
+[07:29:12] [Server thread/INFO] [Pixelmon]: Checking for migrations..
+[07:29:12] [Server thread/INFO] [Pixelmon]: Loading Advancements
+[07:29:14] [Server thread/INFO] [STDOUT]: [com.wondertrademod.wondertrade.Utilities:loadDefaultCooldowns:106]: 2120447d-bb7a-49f3-83a0-aad8d4f2b7c5
+[07:29:14] [Server thread/INFO] [STDOUT]: [com.wondertrademod.wondertrade.Wondertrade:preInit:53]: [Wondertrade] Successfully loaded configuration File.
+[07:29:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[07:29:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[07:29:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[07:29:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[07:29:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[07:29:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[07:29:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[07:29:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[07:29:15] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[07:29:15] [Server thread/INFO] [FML]: Applying holder lookups
+[07:29:15] [Server thread/INFO] [FML]: Holder lookups applied
+[07:29:16] [Server thread/INFO] [Pixelmon]: Loading TM/HMs.
+[07:29:16] [Server thread/INFO] [FML]: Applying holder lookups
+[07:29:16] [Server thread/INFO] [FML]: Holder lookups applied
+[07:29:16] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `sponge` for name `human`, expected `spongeforge`. This could be a intended override, but in most cases indicates a broken mod.
+[07:29:16] [Server thread/INFO] [FML]: Applying holder lookups
+[07:29:16] [Server thread/INFO] [FML]: Holder lookups applied
+[07:29:16] [Server thread/INFO] [FML]: Applying holder lookups
+[07:29:16] [Server thread/INFO] [FML]: Holder lookups applied
+[07:29:16] [Server thread/INFO] [FML]: Injecting itemstacks
+[07:29:16] [Server thread/INFO] [FML]: Itemstack injection complete
+[07:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[07:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[07:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[07:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[07:29:17] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[07:29:17] [Server thread/INFO] [FML]: Applying holder lookups
+[07:29:17] [Server thread/INFO] [FML]: Holder lookups applied
+[07:29:17] [Server thread/INFO] [nucleus]: Nucleus is now entering the init phase.
+[07:29:17] [Server thread/INFO] [langswitch]: Setting default locale to en_us
+[07:29:17] [Server thread/INFO] [langswitch]: The LanguageService is now available!
+[07:29:17] [pool-3-thread-3/INFO] [langswitch]: Loading translations for vshop in en_US...
+[07:29:17] [pool-3-thread-3/INFO] [langswitch]: No country specifig translations for English, switching to en.lang
+[07:29:17] [Server thread/INFO] [catclearlag]: Starting plugin...
+[07:29:17] [Server thread/INFO] [catclearlag]: Registering commands...
+[07:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Impactor » Pooling plugin dependencies...
+[07:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Impactor » Dependencies found, setting these up now...
+[07:29:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Impactor » Initializing default dependencies...
+[07:29:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Impactor » Initializing plugin dependencies...
+[07:29:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Impactor » Loading storage type module: H2
+[07:29:18] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[07:29:19] [Server thread/INFO] [PixelGenocide]: PixelGenocide by happyzleaf loaded! (https://happyzleaf.com/)
+[07:29:19] [Server thread/INFO] [vshop]: Registering commands...
+[07:29:19] [Server thread/INFO] [vshop]: Loading configs...
+[07:29:19] [Server thread/INFO] [BookMenus]: BookMenus Initialized!
+[07:29:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pokédex] Pokédex Rewards - Loaded v0.8.2!
+[07:29:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pokédex] Made by Xenoyia, with help from MageFX. Maintained by XpanD.
+[07:29:19] [Server thread/INFO] [Mirage]: Loading global configuration ..
+[07:29:19] [Server thread/INFO] [Mirage]: Optimizing exposition check performances ..
+[07:29:19] [Server thread/INFO] [Mirage]: Reading default pack ..
+[07:29:19] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:overworld ..
+[07:29:19] [Server thread/INFO] [Mirage]: Loading resources for dimension type: pixelmon:ultra_space ..
+[07:29:19] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:nether ..
+[07:29:19] [Server thread/INFO] [Mirage]: Loading resources for dimension type: minecraft:the_end ..
+[07:29:19] [Server thread/INFO] [webapi]: Web-API v5.4.5-S7.1.0 is starting...
+[07:29:19] [Server thread/INFO] [webapi]: Setting up jetty logger...
+[07:29:19] [Server thread/INFO] [webapi]: Loading configuration...
+[07:29:19] [Server thread/INFO] [webapi]: Loading keys & permissions...
+[07:29:19] [Server thread/INFO] [webapi]: Loading serializers...
+[07:29:19] [Server thread/INFO] [webapi]: Done loading serializers
+[07:29:19] [Server thread/INFO] [webapi]: Registering servlets...
+[07:29:20] [Server thread/INFO] [webapi]: Loading users...
+[07:29:20] [Server thread/INFO] [webapi]: Initializing web hooks...
+[07:29:20] [Server thread/INFO] [webapi]: Loading filters...
+[07:29:20] [Server thread/INFO] [webapi]: Done loading filters
+[07:29:20] [Server thread/INFO] [webapi]:   - http://localhost/test
+[07:29:20] [Server thread/INFO] [webapi]:     -> Disabled
+[07:29:20] [Server thread/INFO] [webapi]:   - http://localhost/test/{player}
+[07:29:20] [Server thread/INFO] [webapi]:     -> Disabled
+[07:29:20] [Server thread/INFO] [webapi]: Registering commands...
+[07:29:20] [Server thread/INFO] [webapi]: Web-API ready
+[07:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Initializing additional dependencies...
+[07:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Registering commands with ACF...
+[07:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Initializing and reading storage...
+[07:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Loading storage provider... [H2]
+[07:29:21] [Server thread/INFO] [nucleus]: Nucleus is now entering the post-init phase.
+[07:29:21] [Server thread/INFO] [nucleus]: Nucleus is now loading and enabling modules. This may take a few seconds.
+[07:29:21] [Server thread/INFO] [nucleus]: Starting phase: PREENABLE
+[07:29:21] [Server thread/INFO] [nucleus]: Starting phase: ENABLE
+[07:29:23] [Server thread/INFO] [nucleus]: Starting phase: POSTENABLE
+[07:29:23] [Server thread/INFO] [nucleus]: Nucleus language set to "en-GB"
+[07:29:23] [Server thread/INFO] [nucleus]: Nucleus has completed loading modules.
+[07:29:23] [Server thread/INFO] [nucleus]: Nucleus has completed server initialisation tasks. Waiting for game server to start to complete the final tasks.
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: CustomNPC Permissions available:
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.blocks
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.villager
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.bank
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.dialog
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.faction
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.linked
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.naturalspawn
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.playerdata
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.quest
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.recipe
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.transport
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.advanced
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.ai
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.clone
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.create
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.delete
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.display
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.freeze
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.gui
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.inventory
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.reset
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.stats
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.scenes
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.soulstone.all
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.create
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.mob
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.mounter
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.nbtbook
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.pather
+[07:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.scripter
+[07:29:26] [Server thread/INFO] [Pixelmon]: Registering shop items.
+[07:29:26] [Server thread/INFO] [Pixelmon]: Registering NPCs.
+[07:29:26] [Server thread/INFO] [Pixelmon]: Registered NPC trades.
+[07:29:26] [Server thread/INFO] [Pixelmon]: Registering structures.
+[07:29:26] [Server thread/INFO] [Pixelmon]: Registering all drops.
+[07:29:27] [Server thread/INFO] [Pixelmon]: Registering battle rules.
+[07:29:27] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
+[07:29:28] [Server thread/INFO] [FML]: Injecting itemstacks
+[07:29:28] [Server thread/INFO] [FML]: Itemstack injection complete
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Enabling GTS...
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Initializing additional dependencies...
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Initializing internal handlers...
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Setting up discord notifier...
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Initializing the Listing Manager...
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Registering tokens with Nucleus...
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Registering commands with ACF...
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Initializing storage...
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Loading storage provider... [H2]
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Deploying running tasks...
+[07:29:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Startup complete!
+[07:29:28] [Server thread/INFO] [worldedit]: WorldEdit for Sponge (version 6.1.10-SNAPSHOT) is loaded
+[07:29:28] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
+[07:29:31] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 40 mods
+[07:29:31] [Server thread/INFO] [griefdefender]: Loading configuration...
+[07:29:32] [Server thread/INFO] [griefdefender]: GriefDefender economy integration enabled.
+[07:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[07:29:33] [Server thread/INFO] [Sponge]: Checking for worlds that need to be migrated...
+[07:29:33] [Server thread/INFO] [Sponge]: No worlds were found in need of migration.
+[07:29:33] [Server thread/WARN] [Sponge]: World [ultra] (72) is attempting to be registered as an existing dimension but it's dimension id has already been registered for folder [null]. This means the world has been copied outside of Sponge. This is not a supported configuration.
+[07:29:33] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[07:29:34] [Server thread/INFO] [FML]: Applying holder lookups
+[07:29:34] [Server thread/INFO] [FML]: Holder lookups applied
+[07:29:35] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 712 advancements
+[07:29:35] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 120 advancement trees
+[07:29:35] [Server thread/INFO] [Mirage]: Loading configuration for world world ..
+[07:29:36] [Server thread/INFO] [griefdefender]: [world] 1 total claims loaded.
+[07:29:36] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+[07:29:36] [Server thread/INFO] [vshop]: Loading shops from world_ac6bd4c2-5b9a-465b-bc52-f3a6b549594d.conf
+[07:29:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for world world (minecraft:overworld/0)
+[07:29:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[07:29:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[07:29:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[07:29:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[07:29:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.pixelmonmod.pixelmon.listener.EntityPlayerExtension
+[07:29:38] [Server thread/WARN] [Pixelmon]: Ignore the above warning messages ^ This is intended and working fine.
+[07:29:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
+[07:29:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 47%
+[07:29:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 70%
+[07:29:42] [Server thread/INFO] [Sponge]: Loading world [world] (minecraft:overworld/0)
+[07:29:42] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 712 advancements
+[07:29:42] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 120 advancement trees
+[07:29:42] [Server thread/INFO] [Mirage]: Loading configuration for world DIM-1 ..
+[07:29:42] [Server thread/INFO] [griefdefender]: [DIM-1] 0 total claims loaded.
+[07:29:42] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+[07:29:42] [Server thread/INFO] [vshop]: Loading shops from world_8bdd4867-8a67-4a91-ae90-5c5370f2ae6e.conf
+[07:29:42] [Server thread/INFO] [Sponge]: Loading world [DIM-1] (minecraft:nether/-1)
+[07:29:42] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 712 advancements
+[07:29:42] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 120 advancement trees
+[07:29:42] [Server thread/INFO] [Mirage]: Loading configuration for world DIM1 ..
+[07:29:43] [Server thread/INFO] [griefdefender]: [DIM1] 0 total claims loaded.
+[07:29:43] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+[07:29:43] [Server thread/INFO] [vshop]: Loading shops from world_96b87889-638e-45a6-8d08-e3b60d0f7fdc.conf
+[07:29:43] [Server thread/INFO] [Sponge]: Loading world [DIM1] (minecraft:the_end/1)
+[07:29:43] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 712 advancements
+[07:29:43] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 120 advancement trees
+[07:29:43] [Server thread/INFO] [Mirage]: Loading configuration for world build ..
+[07:29:43] [Server thread/INFO] [griefdefender]: [build] 0 total claims loaded.
+[07:29:43] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+[07:29:43] [Server thread/INFO] [vshop]: Loading shops from world_ea2c3b9d-0d70-4185-b367-f13cfca5463b.conf
+[07:29:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for world build (minecraft:overworld/2)
+[07:29:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
+[07:29:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 87%
+[07:29:45] [Server thread/INFO] [Sponge]: Loading world [build] (minecraft:overworld/2)
+[07:29:46] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 712 advancements
+[07:29:46] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 120 advancement trees
+[07:29:46] [Server thread/INFO] [Mirage]: Loading configuration for world ultra ..
+[07:29:46] [Server thread/INFO] [griefdefender]: [ultra] 0 total claims loaded.
+[07:29:46] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+[07:29:46] [Server thread/INFO] [vshop]: Loading shops from world_d60e07df-b64d-4e82-96a7-4bdd9a5d4d50.conf
+[07:29:46] [Server thread/INFO] [Sponge]: Loading world [ultra] (pixelmon:ultra_space/72)
+[07:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (14.549s)! For help, type "help" or "?"
+[07:29:46] [pool-3-thread-28/INFO] [bluemap]: Loading...
+[07:29:46] [Server thread/INFO] [BookMenus]: Registering BookMenus commands...
+[07:29:46] [Server thread/INFO] [BookMenus]: BookMenus commands registered!
+[07:29:46] [Server thread/INFO] [nucleus]: Nucleus is performing final tasks before server startup completes.
+[07:29:46] [Server thread/INFO] [nucleus]: Nucleus has started.
+[07:29:46] [Server thread/WARN] [Sponge]: No entity type is registered for class net.minecraftforge.common.util.FakePlayer
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:         /\
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:        /  \
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:       / || \
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:      /  ||  \
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:     /   ||   \
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:    /    ||    \
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:   /            \
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]:  /      **      \
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ------------------
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ===================================================================
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The command "/world" could not be registered as it has already been claimed by ProjectWorlds - the fallback "/nucleus:world" is available.
+[07:29:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ===================================================================
+[07:29:47] [Server thread/INFO] [langswitch]: Searching for updates...
+[07:29:47] [Server thread/WARN] [langswitch]: The automatic Version Checker for LangSwitch(langswitch) is disabled!
+[07:29:47] [Server thread/WARN] [langswitch]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
+[07:29:47] [Server thread/INFO] [simpletablist]: PlaceholderAPI has been found, hooking in!
+[07:29:47] [Server thread/INFO] [simpletablist]: Enabling...
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: java.io.IOException: Server returned HTTP response code: 403 for URL: https://coole-boiz.de/minecraft/simpletablist/version.txt
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.security.AccessController.doPrivileged(Native Method)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at tk.fridtjof.simpletablist.UpdateChecker.updateAvailable(UpdateChecker.java:21)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at tk.fridtjof.simpletablist.SimpleTablist.onServerStart(SimpleTablist.java:149)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.event.listener.GameStartedServerEventListener_SimpleTablist_onServerStart57.handle(Unknown Source)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:381)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.SpongeMod.onStateEvent(SpongeMod.java:377)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.redirect$zza000$forgeImpl$PostEvent(LoadController.java:568)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.Loader.serverStarted(Loader.java:804)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.FMLCommonHandler.handleServerStarted(FMLCommonHandler.java:302)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:488)
+[07:29:47] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.Thread.run(Thread.java:748)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: java.io.IOException: Server returned HTTP response code: 403 for URL: https://coole-boiz.de/minecraft/simpletablist/version.txt
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.security.AccessController.doPrivileged(Native Method)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at tk.fridtjof.simpletablist.UpdateChecker.updateAvailable(UpdateChecker.java:21)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at tk.fridtjof.simpletablist.SimpleTablist.onServerStart(SimpleTablist.java:151)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.event.listener.GameStartedServerEventListener_SimpleTablist_onServerStart57.handle(Unknown Source)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:381)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at org.spongepowered.mod.SpongeMod.onStateEvent(SpongeMod.java:377)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.redirect$zza000$forgeImpl$PostEvent(LoadController.java:568)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.Loader.serverStarted(Loader.java:804)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraftforge.fml.common.FMLCommonHandler.handleServerStarted(FMLCommonHandler.java:302)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:488)
+[07:29:48] [Server thread/INFO] [STDERR]: [tk.fridtjof.simpletablist.UpdateChecker:updateAvailable:23]: 	at java.lang.Thread.run(Thread.java:748)
+[07:29:48] [Server thread/INFO] [simpletablist]: No new version detected!
+[07:29:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Reading storage...
+[07:29:48] [Thread-18/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS » Successfully read in 0 listings!
+[07:29:48] [Server thread/INFO] [megamenus]: Searching for updates...
+[07:29:48] [Server thread/WARN] [megamenus]: The automatic Version Checker for Mega Menus(megamenus) is disabled!
+[07:29:48] [Server thread/WARN] [megamenus]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
+[07:29:48] [Server thread/INFO] [vshop]: Starting timers...
+[07:29:48] [Server thread/INFO] [vshop]: Searching for updates...
+[07:29:48] [Server thread/WARN] [vshop]: The automatic Version Checker for VillagerShops(vshop) is disabled!
+[07:29:48] [Server thread/WARN] [vshop]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
+[07:29:48] [Server thread/INFO] [vshop]: User-Agent: VillagerShops/2.5 (Plugin by DosMike) SpongeAPI/7.2.0-f12f8e774 SpongeForge/1.12.2-2838-7.2.1 Minecraft/1.12.2
+[07:29:48] [Server thread/INFO] [vshop]: VillagerShops is now ready!
+[07:29:48] [Server thread/INFO] [griefdefender]: Loaded successfully.
+[07:29:48] [Server thread/INFO] [Mirage]: Mirage 1.3.15 was loaded successfully.
+[07:29:48] [Server thread/INFO] [webapi]: Starting Web Server...
+[07:29:48] [Server thread/INFO] [webapi]: Logging initialized @88293ms to valandur.webapi.util.JettyLogger
+[07:29:48] [Server thread/WARN] [webapi]: You are using an HTTP port < 1024 which is not recommended! 
 This might cause errors when not running the server as root/admin. 
 Running the server as root/admin is not recommended. Please use a port above 1024 for HTTP.
-[06:17:09] [Server thread/WARN] [FML]: =============================================================
-[06:17:09] [Server thread/WARN] [FML]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
-[06:17:09] [Server thread/WARN] [FML]: Offender: valandur/webapi/shadow/org/eclipse/jetty/util/security/Password.main([Ljava/lang/String;)V
-[06:17:09] [Server thread/WARN] [FML]: Use FMLCommonHandler.exitJava instead
-[06:17:09] [Server thread/WARN] [FML]: =============================================================
-[06:17:09] [Server thread/WARN] [webapi]: v.w.s.o.e.j.s.h.ContextHandler@5c5ea775{/,null,UNAVAILABLE} contextPath ends with /
-[06:17:14] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[06:17:14] [Thread-22/INFO] [bluemap]: WebServer started.
-[06:17:14] [pool-3-thread-16/INFO] [bluemap]: Loaded!
-[06:17:17] [Server thread/INFO] [webapi]: jetty-9.4.z-SNAPSHOT, build timestamp: 2017-11-21T21:27:37Z, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
-[06:17:17] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@312cf35c{/docs,null,AVAILABLE}
-[06:17:17] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@1d3343f3{/,null,AVAILABLE}
-[06:17:17] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@5c5ea775{/admin,null,AVAILABLE}
-[06:17:23] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.ServletContextHandler@51d1b2f5{/api/v5,null,AVAILABLE}
-[06:17:23] [Server thread/INFO] [webapi]: Started ServerConnector@1d866a66{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
-[06:17:24] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[06:17:24] [Server thread/INFO] [webapi]: x509=X509@b027bc9(selfsigned,h=[],w=[]) for SslContextFactory@2fc94f53[provider=null,keyStore=jar:file:/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar!/assets/webapi/keystore.jks,trustStore=null]
-[06:17:24] [Server thread/INFO] [webapi]: Started ServerConnector@d17933c{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
-[06:17:24] [Server thread/INFO] [webapi]: Started @109643ms
-[06:17:24] [Server thread/INFO] [webapi]: AdminPanel: https://0.0.0.0:8081/admin/
-[06:17:24] [Server thread/INFO] [webapi]: API Docs: https://0.0.0.0:8081/docs
-[06:17:24] [Server thread/INFO] [griefdefender]: Loaded successfully.
-[06:17:24] [Server thread/INFO] [langswitch]: Searching for updates...
-[06:17:24] [Server thread/WARN] [langswitch]: The automatic Version Checker for LangSwitch(langswitch) is disabled!
-[06:17:24] [Server thread/WARN] [langswitch]: It is strongly recommended to activate the Version Checker to keep your server secure and up to date!
-[06:17:24] [pool-3-thread-29/WARN] [webapi]: ------- Web-API Update -------
-[06:17:24] [pool-3-thread-29/WARN] [webapi]: Latest: 5.4.6
-[06:17:24] [pool-3-thread-29/WARN] [webapi]: Current: 5.4.5
-[06:17:24] [pool-3-thread-29/WARN] [webapi]: ---------- Changes -----------
-[06:17:24] [pool-3-thread-29/WARN] [webapi]: - Fix issue with hook events
-[06:17:24] [pool-3-thread-29/WARN] [webapi]: ------------------------------
-[06:17:28] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player tehpp is 2e6cb6a5-64f4-450c-bfc6-bc4f6c53bfe0
-[06:17:29] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[06:17:29] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
-[06:17:29] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
-[06:17:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[06:17:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: tehpp [/70.68.240.223:63208] logged in with entity id [33] in world (minecraft:overworld/0) at (-624.9376981677458, 90.5, -1368.7830063710674).
-[06:17:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tehpp joined the game
-[06:17:40] [Server thread/INFO] [nucleus]: tehpp ran the command: /book 
-[06:17:44] [Server thread/INFO] [nucleus]: tehpp ran the command: /lp editor
-[06:18:09] [Server thread/INFO] [vshop]: Saving VillagerShops...
-[06:18:09] [Server thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d saved
-[06:18:09] [Server thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e saved
-[06:18:09] [Server thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc saved
-[06:18:09] [Server thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b saved
-[06:18:09] [Server thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 saved
-[06:18:13] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Absol has spawned in world "world", at X:-689 Y:69 Z:-1381
-[06:18:24] [Server thread/INFO] [nucleus]: tehpp ran the command: /lp applyedits aGwNqDYVmN
-[06:18:25] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (tehpp) [G] (op)
-[06:18:25] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add bookmenus true
-[06:18:28] [Server thread/INFO] [nucleus]: tehpp ran the command: /book 
-[06:19:54] [Server thread/INFO] [nucleus]: tehpp ran the command: /book save -o shum
-[06:20:01] [Server thread/INFO] [nucleus]: tehpp ran the command: /book save shum
-[06:20:13] [Server thread/INFO] [nucleus]: tehpp ran the command: /book open shum
-[06:20:58] [Server thread/INFO] [nucleus]: tehpp ran the command: /book print shum
-[06:21:06] [Server thread/INFO] [nucleus]: tehpp ran the command: /book give
-[06:21:17] [Server thread/INFO] [nucleus]: tehpp ran the command: /book send tehpp shum
-[06:22:21] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
-[06:22:21] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[06:22:21] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
-[06:22:21] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
-[06:22:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[06:22:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:55300] logged in with entity id [313] in world (minecraft:overworld/0) at (-634.1392808769045, 85.61700208964066, -1342.199969609731).
-[06:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
-[06:22:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /me takes a shot at the king
-[06:22:29] [Server thread/INFO] [nucleus]: tehpp ran the command: /book send Aboveexpert shum
-[06:22:32] [Server thread/INFO] [nucleus]: tehpp ran the command: /book send tehpp shum
-[06:22:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
-[06:22:40] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
-[06:22:40] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
-[06:22:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
-[06:22:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
-[06:22:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
-[06:22:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
-[06:22:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
-[06:22:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
-[06:22:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
-[06:22:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
-[06:22:41] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
-[06:22:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /me takes a shot at the king
-[06:22:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: * Nick takes a shot at the king
-[06:22:45] [Server thread/INFO] [nucleus]: tehpp ran the command: /book send tehpp shum
-[06:22:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /me misses
-[06:22:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: * Nick misses
-[06:22:50] [Server thread/INFO] [nucleus]: tehpp ran the command: /book send Aboveexpert shum
-[06:22:55] [Server thread/INFO] [nucleus]: tehpp ran the command: /book send tehpp shum
-[06:23:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: those aren't mountains
-[06:23:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [bigshum]: yo
-[06:23:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [bigshum]: disc
-[06:24:34] [Server thread/INFO] [nucleus]: tehpp ran the command: /book send Aboveexpert shum
-[06:25:36] [pool-3-thread-45/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
-[06:26:06] [pool-3-thread-30/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
-[06:26:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
-[06:26:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
-[06:26:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
-[06:26:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set night
-[06:26:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
-[06:27:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
-[06:27:23] [Server thread/INFO] [nucleus]: tehpp ran the command: /give @p written_book 1 0 {author:"string",title:"string",pages:["{\"text\":\"[insert text]\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"[command]\"}}"]}
-[06:27:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tehpp: Given [string] * 1 to tehpp]
-[06:27:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /book 
-[06:27:30] [Server thread/INFO] [nucleus]: tehpp ran the command: /give @p written_book 1 0 {author:"string",title:"string",pages:["{\"text\":\"[insert text]\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"[command]\"}}"]}
-[06:27:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tehpp: Given [string] * 1 to tehpp]
-[06:27:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [bigshum]: [command]
-[06:27:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 159 pokémon have been cleared.
-[06:28:02] [Server thread/INFO] [nucleus]: tehpp ran the command: /give @p written_book 1 0 {author:"string",title:"string",pages:["{\"text\":\"[insert text]\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"im a shum\"}}"]}
-[06:28:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tehpp: Given [string] * 1 to tehpp]
-[06:28:04] [Server thread/INFO] [nucleus]: tehpp ran the command: /give @p written_book 1 0 {author:"string",title:"string",pages:["{\"text\":\"[insert text]\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"im a shum\"}}"]}
-[06:28:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tehpp: Given [string] * 1 to tehpp]
-[06:28:10] [Server thread/INFO] [nucleus]: tehpp ran the command: /book save shum
-[06:28:15] [Server thread/INFO] [nucleus]: tehpp ran the command: /book save shum -o
-[06:28:18] [Server thread/INFO] [nucleus]: tehpp ran the command: /book send Aboveexpert shum
-[06:28:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [bigshum]: im a shum
-[06:28:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /book print shum
-[06:28:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /book give
-[06:29:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /book copy shum
-[06:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: im a shum
-[06:29:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /book open shum
+[07:29:49] [Server thread/WARN] [FML]: =============================================================
+[07:29:49] [Server thread/WARN] [FML]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[07:29:49] [Server thread/WARN] [FML]: Offender: valandur/webapi/shadow/org/eclipse/jetty/util/security/Password.main([Ljava/lang/String;)V
+[07:29:49] [Server thread/WARN] [FML]: Use FMLCommonHandler.exitJava instead
+[07:29:49] [Server thread/WARN] [FML]: =============================================================
+[07:29:49] [Server thread/WARN] [webapi]: v.w.s.o.e.j.s.h.ContextHandler@946c0fc{/,null,UNAVAILABLE} contextPath ends with /
+[07:29:51] [Thread-21/INFO] [bluemap]: WebServer started.
+[07:29:53] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[07:29:53] [pool-3-thread-28/INFO] [bluemap]: Loaded!
+[07:29:54] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[07:29:56] [Server thread/INFO] [webapi]: jetty-9.4.z-SNAPSHOT, build timestamp: 2017-11-21T21:27:37Z, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+[07:29:56] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@6cdeeae{/docs,null,AVAILABLE}
+[07:29:56] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@4aa06376{/,null,AVAILABLE}
+[07:29:56] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@946c0fc{/admin,null,AVAILABLE}
+[07:29:56] [Netty Epoll Server IO #0/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
