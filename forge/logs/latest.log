@@ -519,3 +519,240 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [07:29:56] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@4aa06376{/,null,AVAILABLE}
 [07:29:56] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@946c0fc{/admin,null,AVAILABLE}
 [07:29:56] [Netty Epoll Server IO #0/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[07:30:03] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.ServletContextHandler@1f0c318e{/api/v5,null,AVAILABLE}
+[07:30:03] [Server thread/INFO] [webapi]: Started ServerConnector@75159bff{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+[07:30:03] [Server thread/INFO] [webapi]: x509=X509@20bfe971(selfsigned,h=[],w=[]) for SslContextFactory@61b890da[provider=null,keyStore=jar:file:/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar!/assets/webapi/keystore.jks,trustStore=null]
+[07:30:04] [Server thread/INFO] [webapi]: Started ServerConnector@7b4ab239{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+[07:30:04] [Server thread/INFO] [webapi]: Started @104126ms
+[07:30:04] [Server thread/INFO] [webapi]: AdminPanel: https://0.0.0.0:8081/admin/
+[07:30:04] [Server thread/INFO] [webapi]: API Docs: https://0.0.0.0:8081/docs
+[07:30:04] [pool-3-thread-12/WARN] [webapi]: ------- Web-API Update -------
+[07:30:04] [pool-3-thread-12/WARN] [webapi]: Latest: 5.4.6
+[07:30:04] [pool-3-thread-12/WARN] [webapi]: Current: 5.4.5
+[07:30:04] [pool-3-thread-12/WARN] [webapi]: ---------- Changes -----------
+[07:30:04] [pool-3-thread-12/WARN] [webapi]: - Fix issue with hook events
+[07:30:04] [pool-3-thread-12/WARN] [webapi]: ------------------------------
+[07:30:04] [Server thread/INFO] [worldedit]: Using com.sk89q.worldedit.sponge.adapter.impl.Sponge_1_12_Impl as the Sponge adapter
+[07:30:04] [Server thread/INFO] [Pixelmon Broadcasts]: =============== P I X E L M O N  B R O A D C A S T S ===============
+[07:30:04] [Server thread/INFO] [Pixelmon Broadcasts]: --> Pixelmon's "displayLegendaryGlobalMessage" setting is enabled.
+[07:30:04] [Server thread/INFO] [Pixelmon Broadcasts]:     This setting will now be disabled as it conflicts with this mod.
+[07:30:04] [Server thread/INFO] [Pixelmon Broadcasts]:     If you remove this mod, revert this in Pixelmon's config!
+[07:30:04] [Server thread/INFO] [Pixelmon Broadcasts]: ====================================================================
+[07:30:05] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
+[07:30:05] [Server thread/WARN] [Sponge]: /*                                                    Could not pass  FMLServerStartedEvent                                                    */
+[07:30:05] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
+[07:30:05] [Server thread/WARN] [Sponge]: /* Could not pass the event FMLServerStartedEvent to an Event Listener!                                                                        */
+[07:30:05] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
+[07:30:05] [Server thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                                                */
+[07:30:05] [Server thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                                              */
+[07:30:05] [Server thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                                           */
+[07:30:05] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
+[07:30:05] [Server thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                                         */
+[07:30:05] [Server thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                                        */
+[07:30:05] [Server thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                                            */
+[07:30:05] [Server thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                                            */
+[07:30:05] [Server thread/WARN] [Sponge]: /*                                                                                                                                             */
+[07:30:05] [Server thread/WARN] [Sponge]: /* Owning Mod/Plugin: pixelmonbroadcasts                                                                                                       */
+[07:30:05] [Server thread/WARN] [Sponge]: /* Exception:                                                                                                                                  */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     java.lang.NoSuchMethodError:                                                                                                            */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.pixelmonmod.pixelmon.config.Pixe                                                                                                    */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     monConfig.reload(Z)V                                                                                                                    */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     rs.expand.pixelmonbroadcasts.PixelmonBroadcasts.onServerStartedEvent(PixelmonBroadcasts.java:239)                                       */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.listener.GameStartedServerEventListener_PixelmonBroadcasts_onServerStartedEvent33.handle(Unknown Source) */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)                                                    */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:381)                                                  */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456)                                          */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                                                  */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:259)                                                                      */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     org.spongepowered.mod.SpongeMod.onStateEvent(SpongeMod.java:377)                                                                        */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)                                                                             */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)                                                           */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)                                                   */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     java.lang.reflect.Method.invoke(Method.java:498)                                                                                        */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)                                                        */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)                                */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)                                                                         */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)                                          */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)                                                                 */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)                                           */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.EventBus.post(EventBus.java:217)                                                                             */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)                                           */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)                                             */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)                                                                             */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)                                                           */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)                                                   */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     java.lang.reflect.Method.invoke(Method.java:498)                                                                                        */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)                                                        */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)                                */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)                                                                         */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)                                          */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)                                                                 */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)                                           */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     com.google.common.eventbus.EventBus.post(EventBus.java:217)                                                                             */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.redirect$zza000$forgeImpl$PostEvent(LoadController.java:568)                               */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)                                            */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.Loader.serverStarted(Loader.java:804)                                                                     */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     net.minecraftforge.fml.common.FMLCommonHandler.handleServerStarted(FMLCommonHandler.java:302)                                           */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.run(MinecraftServer.java:488)                                                                      */
+[07:30:05] [Server thread/WARN] [Sponge]: /*     java.lang.Thread.run(Thread.java:748)                                                                                                   */
+[07:30:05] [Server thread/WARN] [Sponge]: /***********************************************************************************************************************************************/
+[07:30:18] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player tehpp is 2e6cb6a5-64f4-450c-bfc6-bc4f6c53bfe0
+[07:30:18] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[07:30:18] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+[07:30:18] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[07:30:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:30:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: tehpp [/70.68.240.223:64949] logged in with entity id [60] in world (minecraft:overworld/0) at (-586.7702659482007, 73.5, -1361.6676632322865).
+[07:30:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tehpp joined the game
+[07:30:48] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[07:30:48] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[07:30:48] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[07:30:48] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[07:30:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:30:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:56842] logged in with entity id [130] in world (minecraft:overworld/0) at (-601.7553424856126, 67.2531999805212, -1363.6767706868059).
+[07:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[07:30:50] [Server thread/INFO] [vshop]: Saving VillagerShops...
+[07:30:50] [Server thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d saved
+[07:30:50] [Server thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e saved
+[07:30:50] [Server thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc saved
+[07:30:50] [Server thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b saved
+[07:30:50] [Server thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 saved
+[07:38:17] [pool-3-thread-28/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[07:38:47] [pool-3-thread-28/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[07:38:58] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Clefairy has spawned in world "world", at X:-622 Y:86 Z:-1283
+[07:39:04] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-611 Y:92 Z:-1390
+[07:39:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 10 items have been cleared.
+[07:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[07:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[07:40:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 144 pokémon have been cleared.
+[07:40:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp editor
+[07:45:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: tehpp lost connection: Disconnected
+[07:45:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tehpp left the game
+[07:45:33] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Banette has spawned in world "world", at X:-680 Y:66 Z:-1356
+[07:45:36] [pool-3-thread-42/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[07:48:17] [pool-3-thread-41/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[07:48:47] [pool-3-thread-43/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[07:49:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[07:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[07:50:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[07:50:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 162 pokémon have been cleared.
+[07:50:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp applyedits tqEAckiv14
+[07:50:43] [pool-3-thread-12/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (admin)
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add griefdefender.admin.* true
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (default)
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add griefdefender.user.* true
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (mod)
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add griefdefender.admin.claim.command.ignore.base true
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (mod)
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add griefdefender.admin.claim.command.delete.base true
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (mod)
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add griefdefender.admin.claim.command.delete.basic true
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (mod)
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add griefdefender.admin.bypass.border-check true
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [G] (mod)
+[07:50:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add griefdefender.admin.claim.command.ignore.basic true
+[07:51:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[07:51:03] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[07:51:03] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[07:51:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[07:51:04] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[07:51:04] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[07:51:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[07:51:04] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[07:51:04] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[07:51:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[07:51:04] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[07:51:04] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[07:51:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[07:51:04] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[07:51:04] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[07:51:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /abandonclaim 
+[07:51:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gd:callback 1dbe41bb-6620-4d6c-b44d-5ae1abb3dac3
+[07:58:17] [pool-3-thread-44/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[07:58:47] [pool-3-thread-47/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[07:59:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[07:59:57] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-610 Y:89 Z:-1388
+[07:59:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[08:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[08:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 132 pokémon have been cleared.
+[08:03:23] [pool-3-thread-46/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[08:03:24] [pool-3-thread-42/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nick has been kicked for being AFK too long.
+[08:03:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: You have been kicked for being AFK for too long.
+[08:03:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert left the game
+[08:03:24] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
+[08:04:23] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[08:04:23] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[08:04:23] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[08:04:23] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[08:04:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[08:04:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:57108] logged in with entity id [2789] in world (minecraft:overworld/0) at (-606.3916651446688, 67.20000004768372, -1368.323114844413).
+[08:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[08:04:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Trainer] Nick: .
+[08:04:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[08:04:33] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:04:33] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[08:04:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[08:04:33] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:04:33] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[08:04:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[08:04:33] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:04:33] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[08:04:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[08:04:34] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:04:34] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[08:04:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[08:04:34] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:04:34] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[08:04:36] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Gengar has spawned in world "world", at X:-580 Y:66 Z:-1377
+[08:04:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /claimban hand
+[08:04:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /claimban hand
+[08:06:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /clear 
+[08:06:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[08:06:33] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:06:33] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[08:06:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[08:06:33] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:06:33] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[08:06:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[08:06:34] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:06:34] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[08:06:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert demote promotion
+[08:06:34] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:06:34] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > demote promotion
+[08:06:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /wb 
+[08:06:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[08:06:57] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:06:57] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[08:08:17] [pool-3-thread-51/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[08:08:47] [pool-3-thread-46/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[08:09:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[08:10:10] [qtp939821260-1256/INFO] [webapi]: nick logged in from 23.16.19.188
+[08:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[08:10:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[08:11:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 118 pokémon have been cleared.
+[08:11:56] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Mawile has spawned in world "world", at X:-683 Y:82 Z:-1421
+[08:14:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /ic 
+[08:14:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Gym Leader] Nick: .
+[08:14:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[08:14:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:14:43] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[08:14:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[08:14:44] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:14:44] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[08:14:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /lp user Aboveexpert promote promotion
+[08:14:44] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (Aboveexpert) [U] (aboveexpert)
+[08:14:44] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > promote promotion
+[08:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: .
+[08:14:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /ic 
+[08:18:17] [pool-3-thread-52/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[08:18:47] [pool-3-thread-46/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[08:19:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[08:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: .
+[08:20:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[08:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[08:21:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[08:21:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert left the game
+[08:21:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 120 pokémon have been cleared.
+[08:28:17] [pool-3-thread-55/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[08:28:47] [pool-3-thread-52/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[08:29:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
