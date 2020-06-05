@@ -756,3 +756,67 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [08:28:17] [pool-3-thread-55/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [08:28:47] [pool-3-thread-52/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [08:29:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[08:30:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[08:31:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[08:31:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 97 pokémon have been cleared.
+[08:38:17] [pool-3-thread-55/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[08:38:47] [pool-3-thread-56/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[08:39:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[08:41:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[08:41:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[08:42:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 94 pokémon have been cleared.
+[08:48:17] [pool-3-thread-57/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[08:48:47] [pool-3-thread-55/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[08:49:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[08:51:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[08:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[08:52:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 90 pokémon have been cleared.
+[08:58:17] [pool-3-thread-55/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[08:58:47] [pool-3-thread-55/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[08:59:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[09:01:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[09:02:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[09:02:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 89 pokémon have been cleared.
+[09:08:17] [pool-3-thread-60/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[09:08:47] [pool-3-thread-62/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[09:09:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[09:12:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[09:12:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[09:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 89 pokémon have been cleared.
+[09:18:17] [pool-3-thread-57/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[09:18:47] [pool-3-thread-61/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[09:19:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[09:22:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[09:22:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[09:23:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 90 pokémon have been cleared.
+[09:25:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Daycare » Saving ranches...
+[09:25:46] [Server thread/INFO] [luckperms]: Starting shutdown process...
+[09:25:46] [Server thread/INFO] [luckperms]: Closing storage...
+[09:25:46] [Server thread/INFO] [luckperms]: Goodbye!
+[09:25:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[09:25:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[09:25:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[09:25:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/0
+[09:25:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/-1
+[09:25:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/1
+[09:25:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'build'/2
+[09:25:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ultra'/72
+[09:25:46] [Server thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d unloaded
+[09:25:46] [Server thread/INFO] [Sponge]: Unloading world [world] (minecraft:overworld/0)
+[09:25:46] [Server thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e unloaded
+[09:25:46] [Server thread/INFO] [Sponge]: Unloading world [DIM-1] (minecraft:nether/-1)
+[09:25:46] [Server thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc unloaded
+[09:25:46] [Server thread/INFO] [Sponge]: Unloading world [DIM1] (minecraft:the_end/1)
+[09:25:46] [Server thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b unloaded
+[09:25:46] [Server thread/INFO] [Sponge]: Unloading world [build] (minecraft:overworld/2)
+[09:25:46] [Server thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 unloaded
+[09:25:46] [Server thread/INFO] [Sponge]: Unloading world [ultra] (pixelmon:ultra_space/72)
+[09:25:46] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+[09:25:46] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+[09:25:47] [Server thread/INFO] [webapi]: Stopped ServerConnector@75159bff{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+[09:25:47] [Server thread/INFO] [webapi]: Stopped ServerConnector@7b4ab239{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+[09:25:47] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.ServletContextHandler@1f0c318e{/api/v5,null,UNAVAILABLE}
+[09:25:47] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@946c0fc{/admin,null,UNAVAILABLE}
+[09:25:47] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@4aa06376{/,null,UNAVAILABLE}
+[09:25:47] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@6cdeeae{/docs,null,UNAVAILABLE}
+[09:25:47] [Server thread/INFO] [nucleus]: Nucleus is performing server shutdown tasks.
