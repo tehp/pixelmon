@@ -407,5 +407,7 @@
   "variedcommodities:carpentry_bench:2": "variedcommodities:carpentry_bench[]",
   "variedcommodities:couch_wool:2": "variedcommodities:couch_wool[]",
   "variedcommodities:stool:1": "variedcommodities:stool[]",
-  "pixelmon:green_clock:1": "pixelmon:green_clock[]"
+  "pixelmon:green_clock:1": "pixelmon:green_clock[]",
+  "pixelmon:green_clock:3": "pixelmon:green_clock[]",
+  "variedcommodities:shelf:2": "variedcommodities:shelf[]"
 }

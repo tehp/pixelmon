@@ -6,8 +6,8 @@
   "fly": false,
   "invulnerable": false,
   "lastKnownName": "JKeem",
-  "lastLogin": 1591069332283,
-  "lastLogout": 1591071167561,
+  "lastLogin": 1591388589557,
+  "lastLogout": 1591391385167,
   "lastIP": "/70.68.235.88",
   "firstJoin": 1590341524108,
   "startedFirstJoin": false,
@@ -15,15 +15,15 @@
     "nucleus:view-staff-chat": true
   },
   "lastLocation": {
-    "x": -630.0853959450278,
-    "y": 66.5,
-    "z": -1405.9601357987517,
+    "x": -612.2476418141922,
+    "y": 67.12811603472409,
+    "z": -1383.9147994701716,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
     "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
   },
-  "nickname-text": "{\"color\":\"dark_red\",\"text\":\"OsamaBinLaden\"}",
+  "nickname-text": "{\"color\":\"gold\",\"text\":\"MacCraig\"}",
   "powertools": {
     "minecraft:stone_axe": [
       "/paste"
@@ -43,7 +43,7 @@
       "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
     }
   },
-  "warnings": [],
   "mail": [],
+  "warnings": [],
   "notes": []
 }
