@@ -121,3 +121,475 @@
 [03:23:47] [pool-3-thread-145/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [03:24:17] [pool-3-thread-151/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [03:24:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[03:30:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[03:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[03:31:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 89 pokémon have been cleared.
+[03:33:47] [pool-3-thread-150/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[03:34:17] [pool-3-thread-153/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[03:34:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[03:41:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[03:41:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[03:42:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 89 pokémon have been cleared.
+[03:43:47] [pool-3-thread-156/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[03:44:17] [pool-3-thread-155/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[03:44:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[03:51:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[03:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[03:52:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 92 pokémon have been cleared.
+[03:53:47] [pool-3-thread-159/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[03:54:17] [pool-3-thread-155/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[03:54:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:01:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[04:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[04:02:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 90 pokémon have been cleared.
+[04:03:47] [pool-3-thread-160/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:04:17] [pool-3-thread-161/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:04:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:10:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54)
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:592)
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:390)
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:61)
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:99)
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.setAttr(ExecPty.java:93)
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52)
+[04:10:16] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 4 more
+[04:10:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1959]: java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[04:10:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1959]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:46)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1959]: 	at org.jline.terminal.impl.AbstractTerminal.enterRawMode(AbstractTerminal.java:94)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1959]: 	at org.jline.reader.impl.LineReaderImpl.handleSignal(LineReaderImpl.java:882)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1959]: 	at org.jline.terminal.impl.AbstractTerminal.raise(AbstractTerminal.java:68)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1959]: 	at org.jline.terminal.impl.PosixSysTerminal.lambda$handle$1(PosixSysTerminal.java:64)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1959]: 	at org.jline.utils.Signals.lambda$register$1(Signals.java:51)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1959]: 	at com.sun.proxy.$Proxy32.handle(Unknown Source)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1959]: 	at sun.misc.Signal$1.run(Signal.java:212)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.Thread:dispatchUncaughtException:1959]: 	at java.lang.Thread.run(Thread.java:748)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:44)
+[04:10:16] [SIGCONT handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 8 more
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                               Illegal Async PhaseTracker Access                                */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Sponge adapts the vanilla handling of                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* various processes, such as setting a                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* block or spawning an entity. Sponge is                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* designed around the concept that                                                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Minecraft is primarily performing these                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* operations on the "server thread".                                                             */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Because of this Sponge is safeguarding                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* common access to the PhaseTracker as the                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* entrypoint for performing these sort of                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* changes.                                                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                                                                                                */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     java.lang.Exception: Async Block                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     Change Detected                                                                            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseTracker.switchToPhase(PhaseTracker.java:243)  */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseContext.buildAndSwitch(PhaseContext.java:260) */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:532)             */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d unloaded
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                           Could not pass  UnloadWorldEvent$Impl                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Could not pass the event UnloadWorldEvent$Impl to an Event Listener!                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                              */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                            */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                         */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Owning Mod/Plugin: webapi                                                                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Exception:                                                                                                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     java.lang.IllegalStateException:                                                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     Calling Timings from Async Operation                                                                                  */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.checkThread(UnsafeTimingHandler.java:37)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.startTiming(UnsafeTimingHandler.java:43)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.startTiming(UnsafeTimingHandler.java:29)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     valandur.webapi.cache.CacheService.updateWorld(CacheService.java:327)                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     valandur.webapi.cache.CacheService.onWorldUnload(CacheService.java:850)                                               */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.listener.UnloadWorldEventListener_CacheService_onWorldUnload122.handle(Unknown Source) */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)                                  */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:384)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:345)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:448)                        */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeEventManager.post(SpongeEventManager.java:465)                                   */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:253)                                                    */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:535)                                        */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/INFO] [Sponge]: Unloading world [world] (minecraft:overworld/0)
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                               Illegal Async PhaseTracker Access                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Sponge adapts the vanilla handling of                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* various processes, such as setting a                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* block or spawning an entity. Sponge is                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* designed around the concept that                                                              */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Minecraft is primarily performing these                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* operations on the "server thread".                                                            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Because of this Sponge is safeguarding                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* common access to the PhaseTracker as the                                                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* entrypoint for performing these sort of                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* changes.                                                                                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                                                                                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     java.lang.Exception: Async Block                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     Change Detected                                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseTracker.completePhase(PhaseTracker.java:273) */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseContext.close(PhaseContext.java:618)         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:571)            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)              */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                     */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+java.lang.NullPointerException: null
+	at net.minecraft.server.MinecraftServer.handler$zoe000$mapOptimization$onEndTickMapOptimization(MinecraftServer.java:5303) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:713) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                               Illegal Async PhaseTracker Access                                */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Sponge adapts the vanilla handling of                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* various processes, such as setting a                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* block or spawning an entity. Sponge is                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* designed around the concept that                                                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Minecraft is primarily performing these                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* operations on the "server thread".                                                             */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Because of this Sponge is safeguarding                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* common access to the PhaseTracker as the                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* entrypoint for performing these sort of                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* changes.                                                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                                                                                                */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     java.lang.Exception: Async Block                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     Change Detected                                                                            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseTracker.switchToPhase(PhaseTracker.java:243)  */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseContext.buildAndSwitch(PhaseContext.java:260) */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:532)             */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e unloaded
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                           Could not pass  UnloadWorldEvent$Impl                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Could not pass the event UnloadWorldEvent$Impl to an Event Listener!                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                              */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                            */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                         */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Owning Mod/Plugin: webapi                                                                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Exception:                                                                                                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     java.lang.IllegalStateException:                                                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     Calling Timings from Async Operation                                                                                  */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.checkThread(UnsafeTimingHandler.java:37)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.startTiming(UnsafeTimingHandler.java:43)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.startTiming(UnsafeTimingHandler.java:29)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     valandur.webapi.cache.CacheService.updateWorld(CacheService.java:327)                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     valandur.webapi.cache.CacheService.onWorldUnload(CacheService.java:850)                                               */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.listener.UnloadWorldEventListener_CacheService_onWorldUnload122.handle(Unknown Source) */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)                                  */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:384)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:345)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:448)                        */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeEventManager.post(SpongeEventManager.java:465)                                   */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:253)                                                    */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:535)                                        */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/INFO] [Sponge]: Unloading world [DIM-1] (minecraft:nether/-1)
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                               Illegal Async PhaseTracker Access                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Sponge adapts the vanilla handling of                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* various processes, such as setting a                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* block or spawning an entity. Sponge is                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* designed around the concept that                                                              */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Minecraft is primarily performing these                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* operations on the "server thread".                                                            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Because of this Sponge is safeguarding                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* common access to the PhaseTracker as the                                                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* entrypoint for performing these sort of                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* changes.                                                                                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                                                                                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     java.lang.Exception: Async Block                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     Change Detected                                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseTracker.completePhase(PhaseTracker.java:273) */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseContext.close(PhaseContext.java:618)         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:571)            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)              */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                     */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                               Illegal Async PhaseTracker Access                                */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Sponge adapts the vanilla handling of                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* various processes, such as setting a                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* block or spawning an entity. Sponge is                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* designed around the concept that                                                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Minecraft is primarily performing these                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* operations on the "server thread".                                                             */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Because of this Sponge is safeguarding                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* common access to the PhaseTracker as the                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* entrypoint for performing these sort of                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* changes.                                                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                                                                                                */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     java.lang.Exception: Async Block                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     Change Detected                                                                            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseTracker.switchToPhase(PhaseTracker.java:243)  */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseContext.buildAndSwitch(PhaseContext.java:260) */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:532)             */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc unloaded
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                           Could not pass  UnloadWorldEvent$Impl                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Could not pass the event UnloadWorldEvent$Impl to an Event Listener!                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                              */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                            */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                         */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Owning Mod/Plugin: webapi                                                                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Exception:                                                                                                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     java.lang.IllegalStateException:                                                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     Calling Timings from Async Operation                                                                                  */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.checkThread(UnsafeTimingHandler.java:37)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.startTiming(UnsafeTimingHandler.java:43)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.startTiming(UnsafeTimingHandler.java:29)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     valandur.webapi.cache.CacheService.updateWorld(CacheService.java:327)                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     valandur.webapi.cache.CacheService.onWorldUnload(CacheService.java:850)                                               */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.listener.UnloadWorldEventListener_CacheService_onWorldUnload122.handle(Unknown Source) */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)                                  */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:384)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:345)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:448)                        */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeEventManager.post(SpongeEventManager.java:465)                                   */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:253)                                                    */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:535)                                        */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/INFO] [Sponge]: Unloading world [DIM1] (minecraft:the_end/1)
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                               Illegal Async PhaseTracker Access                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Sponge adapts the vanilla handling of                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* various processes, such as setting a                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* block or spawning an entity. Sponge is                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* designed around the concept that                                                              */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Minecraft is primarily performing these                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* operations on the "server thread".                                                            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Because of this Sponge is safeguarding                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* common access to the PhaseTracker as the                                                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* entrypoint for performing these sort of                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* changes.                                                                                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                                                                                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     java.lang.Exception: Async Block                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     Change Detected                                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseTracker.completePhase(PhaseTracker.java:273) */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseContext.close(PhaseContext.java:618)         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:571)            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)              */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                     */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                               Illegal Async PhaseTracker Access                                */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Sponge adapts the vanilla handling of                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* various processes, such as setting a                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* block or spawning an entity. Sponge is                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* designed around the concept that                                                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Minecraft is primarily performing these                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* operations on the "server thread".                                                             */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Because of this Sponge is safeguarding                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* common access to the PhaseTracker as the                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* entrypoint for performing these sort of                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* changes.                                                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                                                                                                */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     java.lang.Exception: Async Block                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     Change Detected                                                                            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseTracker.switchToPhase(PhaseTracker.java:243)  */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseContext.buildAndSwitch(PhaseContext.java:260) */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:532)             */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b unloaded
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                           Could not pass  UnloadWorldEvent$Impl                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Could not pass the event UnloadWorldEvent$Impl to an Event Listener!                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                              */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                            */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                         */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Owning Mod/Plugin: webapi                                                                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Exception:                                                                                                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     java.lang.IllegalStateException:                                                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     Calling Timings from Async Operation                                                                                  */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.checkThread(UnsafeTimingHandler.java:37)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.startTiming(UnsafeTimingHandler.java:43)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.startTiming(UnsafeTimingHandler.java:29)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     valandur.webapi.cache.CacheService.updateWorld(CacheService.java:327)                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     valandur.webapi.cache.CacheService.onWorldUnload(CacheService.java:850)                                               */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.listener.UnloadWorldEventListener_CacheService_onWorldUnload122.handle(Unknown Source) */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)                                  */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:384)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:345)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:448)                        */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeEventManager.post(SpongeEventManager.java:465)                                   */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:253)                                                    */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:535)                                        */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/INFO] [Sponge]: Unloading world [build] (minecraft:overworld/2)
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                               Illegal Async PhaseTracker Access                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Sponge adapts the vanilla handling of                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* various processes, such as setting a                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* block or spawning an entity. Sponge is                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* designed around the concept that                                                              */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Minecraft is primarily performing these                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* operations on the "server thread".                                                            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Because of this Sponge is safeguarding                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* common access to the PhaseTracker as the                                                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* entrypoint for performing these sort of                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* changes.                                                                                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                                                                                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     java.lang.Exception: Async Block                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     Change Detected                                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseTracker.completePhase(PhaseTracker.java:273) */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseContext.close(PhaseContext.java:618)         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:571)            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)              */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                     */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                               Illegal Async PhaseTracker Access                                */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Sponge adapts the vanilla handling of                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* various processes, such as setting a                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* block or spawning an entity. Sponge is                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* designed around the concept that                                                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Minecraft is primarily performing these                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* operations on the "server thread".                                                             */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Because of this Sponge is safeguarding                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* common access to the PhaseTracker as the                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* entrypoint for performing these sort of                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* changes.                                                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                                                                                                */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     java.lang.Exception: Async Block                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     Change Detected                                                                            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseTracker.switchToPhase(PhaseTracker.java:243)  */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseContext.buildAndSwitch(PhaseContext.java:260) */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:532)             */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /**************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 unloaded
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                           Could not pass  UnloadWorldEvent$Impl                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Could not pass the event UnloadWorldEvent$Impl to an Event Listener!                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Since the event can be modified during the event's listener,                                                              */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* there could be adverse side effects of the exception occurring                                                            */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* such that duplications or other game breaking issues could exist.                                                         */
+[04:10:16] [Server thread/INFO] [STDOUT]: [net.minecraft.crash.CrashReport:func_85057_a:300]: Negative index in crash report handler (4/5)
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Due to the nature of the exception, this is not likely an exception                                                       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* that is covered by SpongeForge or Forge itself, and therefore should                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* be reported to the mod/plugin author first prior to reporting to                                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Sponge or Forge.                                                                                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*                                                                                                                           */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Owning Mod/Plugin: webapi                                                                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /* Exception:                                                                                                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     java.lang.IllegalStateException:                                                                                      */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     Calling Timings from Async Operation                                                                                  */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.checkThread(UnsafeTimingHandler.java:37)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.startTiming(UnsafeTimingHandler.java:43)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.relocate.co.aikar.timings.UnsafeTimingHandler.startTiming(UnsafeTimingHandler.java:29)       */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     valandur.webapi.cache.CacheService.updateWorld(CacheService.java:327)                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     valandur.webapi.cache.CacheService.onWorldUnload(CacheService.java:850)                                               */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.listener.UnloadWorldEventListener_CacheService_onWorldUnload122.handle(Unknown Source) */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95)                                  */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:384)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:345)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:448)                        */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417)                                */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.event.SpongeEventManager.post(SpongeEventManager.java:465)                                   */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:253)                                                    */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:535)                                        */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)                                          */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                                                 */
+[04:10:16] [Server Shutdown Thread/WARN] [Sponge]: /*****************************************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/INFO] [Sponge]: Unloading world [ultra] (pixelmon:ultra_space/72)
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                               Illegal Async PhaseTracker Access                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Sponge adapts the vanilla handling of                                                         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* various processes, such as setting a                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* block or spawning an entity. Sponge is                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* designed around the concept that                                                              */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Minecraft is primarily performing these                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* operations on the "server thread".                                                            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* Because of this Sponge is safeguarding                                                        */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* common access to the PhaseTracker as the                                                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* entrypoint for performing these sort of                                                       */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /* changes.                                                                                      */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*                                                                                               */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     java.lang.Exception: Async Block                                                          */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     Change Detected                                                                           */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseTracker.completePhase(PhaseTracker.java:273) */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.event.tracking.PhaseContext.close(PhaseContext.java:618)         */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     org.spongepowered.common.world.WorldManager.unloadWorld(WorldManager.java:571)            */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:7421)              */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*     net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)                     */
+[04:10:16] [Server Shutdown Thread/ERROR] [Sponge]: /*************************************************************************************************/
+[04:10:16] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /opt/pixelmon/forge/./crash-reports/crash-2020-06-06_04.10.16-server.txt
+[04:10:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[04:10:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[04:10:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
