@@ -1,7 +1,7 @@
 {
   "version": 2,
   "lastKnownName": "tehpp",
-  "lastLogin": 1591388519928,
+  "lastLogin": 1591592665704,
   "lastLogout": 1591397984372,
   "lastIP": "/70.68.240.223",
   "firstJoin": 1590339259092,
@@ -37,8 +37,8 @@
     }
   },
   "nickname-text": "{\"text\":\"tehp\"}",
-  "mail": [],
-  "warnings": [],
   "notes": [],
+  "warnings": [],
+  "mail": [],
   "powertools": {}
 }

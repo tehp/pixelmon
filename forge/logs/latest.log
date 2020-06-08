@@ -157,3 +157,151 @@
 [04:25:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
 [04:25:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
 [04:26:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 92 pokémon have been cleared.
+[04:30:11] [pool-3-thread-142/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:30:41] [pool-3-thread-141/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:35:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[04:36:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[04:36:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 96 pokémon have been cleared.
+[04:40:11] [pool-3-thread-139/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:40:41] [pool-3-thread-141/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:41:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:46:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[04:46:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[04:47:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 91 pokémon have been cleared.
+[04:50:11] [pool-3-thread-141/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:50:41] [pool-3-thread-141/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:51:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:56:22] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[04:56:22] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:56:22] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.3.1
+[04:56:22] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[04:56:22] [Netty Epoll Server IO #3/INFO] [FML]: Rejecting connection CLIENT: Pixelmon: Requires version 7.2.2 but client has 7.3.1.
+[04:56:22] [Netty Epoll Server IO #3/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Pixelmon: Requires version 7.2.2 but client has 7.3.1.
+[04:56:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Server Mod rejections:
+Pixelmon: Requires version 7.2.2 but client has 7.3.1.
+[04:56:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[04:56:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[04:57:22] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[04:57:22] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[04:57:22] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[04:57:22] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[04:57:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:57:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:51029] logged in with entity id [38735] in world (minecraft:overworld/0) at (-682.4587364596389, 85.0, -1328.8055431544026).
+[04:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[04:57:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
+[04:57:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 91 pokémon have been cleared.
+[04:57:39] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Zubat has spawned in world "world", at X:-622 Y:96 Z:-1428
+[04:59:13] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A shiny Hitmonlee has spawned in world "world", at X:-631 Y:94 Z:-1223
+[04:59:16] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Geodude has spawned in world "world", at X:-593 Y:71 Z:-1226
+[05:00:11] [pool-3-thread-146/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:00:41] [pool-3-thread-147/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:01:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:01:55] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Rayquaza has spawned in world "world", at X:-681 Y:84 Z:-1302
+[05:04:24] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player tehpp is 2e6cb6a5-64f4-450c-bfc6-bc4f6c53bfe0
+[05:04:24] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[05:04:24] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+[05:04:24] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[05:04:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:04:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: tehpp [/70.68.240.223:52718] logged in with entity id [39489] in world (minecraft:overworld/0) at (-627.5458100504343, 88.07795969040905, -1320.1648455048862).
+[05:04:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tehpp joined the game
+[05:04:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+[05:04:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [bigshum]: hey xD
+[05:04:44] [Server thread/INFO] [nucleus]: tehpp ran the command: /ping 
+[05:04:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: hey x3
+[05:04:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [bigshum]: why do i have 400ms
+[05:04:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /ping 
+[05:04:57] [Server thread/INFO] [nucleus]: tehpp ran the command: /ping 
+[05:05:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: i have 286
+[05:05:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: nice wifi, retard
+[05:05:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [bigshum]: im wired tho
+[05:05:09] [Server thread/INFO] [nucleus]: tehpp ran the command: /ping 
+[05:05:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: im wired on gummies
+[05:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [bigshum]: are we being ddossed
+[05:05:36] [Server thread/INFO] [nucleus]: tehpp ran the command: /lp editor
+[05:05:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: .
+[05:05:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: doesnt feel like im lagging
+[05:06:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gms 
+[05:06:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /gmc 
+[05:06:07] [Server thread/INFO] [nucleus]: tehpp ran the command: /lp applyedits w0Y0JP8Sec
+[05:06:07] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (tehpp) [U] (tehpp)
+[05:06:07] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add suffix.10. [PogO] true
+[05:06:07] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (tehpp) [U] (tehpp)
+[05:06:07] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove suffix.10. [bigshum] true
+[05:06:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /repair 
+[05:06:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [PogO]: test
+[05:06:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: add that to ikdik
+[05:06:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [PogO]: ok
+[05:06:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[05:06:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [PogO]: whats the color for brown
+[05:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: there isn't one
+[05:07:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: there's yellow and gold
+[05:07:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[05:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: that's about as close as it gets
+[05:07:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 148 pokémon have been cleared.
+[05:07:53] [Server thread/INFO] [nucleus]: tehpp ran the command: /lp applyedits E3MJB3iTd4
+[05:07:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (tehpp) [U] (ikdik)
+[05:07:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add suffix.10. [PogO] true
+[05:07:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (tehpp) [U] (tehpp)
+[05:07:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor add suffix.10. [cool] true
+[05:07:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > (tehpp) [U] (tehpp)
+[05:07:54] [pool-5-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [LP] LOG > webeditor remove suffix.10. [PogO] true
+[05:08:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [cool]: brb gonna go get some bubblys
+[05:09:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] tehp [cool]: then ill get on
+[05:09:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: kk
+[05:10:11] [pool-3-thread-141/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:10:41] [pool-3-thread-153/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:10:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44:5
+[05:10:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44:5
+[05:10:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[05:10:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[05:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:12:22] [Server thread/INFO] [nucleus]: tehpp ran the command: /tp Aboveexpert
+[05:14:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //cut 
+[05:14:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:14:50] [Server thread/INFO] [nucleus]: tehpp ran the command: /world teleport world
+[05:15:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp tehpp
+[05:17:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[05:17:13] [Server thread/INFO] [nucleus]: tehpp ran the command: //pos2 
+[05:17:15] [Server thread/INFO] [nucleus]: tehpp ran the command: //set air
+[05:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[05:17:31] [Server thread/INFO] [nucleus]: tehpp ran the command: //set gravel
+[05:17:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /vshop delete
+[05:17:47] [Server thread/INFO] [vshop]: Saving VillagerShops...
+[05:17:47] [Server thread/INFO] [vshop]:  > Shops for world ac6bd4c2-5b9a-465b-bc52-f3a6b549594d saved
+[05:17:47] [Server thread/INFO] [vshop]:  > Shops for world 8bdd4867-8a67-4a91-ae90-5c5370f2ae6e saved
+[05:17:47] [Server thread/INFO] [vshop]:  > Shops for world 96b87889-638e-45a6-8d08-e3b60d0f7fdc saved
+[05:17:47] [Server thread/INFO] [vshop]:  > Shops for world ea2c3b9d-0d70-4185-b367-f13cfca5463b saved
+[05:17:47] [Server thread/INFO] [vshop]:  > Shops for world d60e07df-b64d-4e82-96a7-4bdd9a5d4d50 saved
+[05:17:47] [Server thread/INFO] [nucleus]: tehpp ran the command: //set gravel
+[05:18:00] [Server thread/INFO] [nucleus]: tehpp ran the command: //set gravel
+[05:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 162 pokémon have been cleared.
+[05:18:05] [Server thread/INFO] [nucleus]: tehpp ran the command: //undo 
+[05:18:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[05:18:10] [Server thread/INFO] [nucleus]: tehpp ran the command: //set gravel
+[05:18:17] [Server thread/INFO] [nucleus]: tehpp ran the command: //set air
+[05:18:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Mienfoo has spawned in world "world", at X:-600 Y:67 Z:-1410
+[05:19:06] [Server thread/INFO] [nucleus]: tehpp ran the command: /world teleport build
+[05:19:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp tehp
+[05:19:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp tehp
+[05:20:11] [pool-3-thread-154/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:20:41] [pool-3-thread-155/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:20:54] [Server thread/INFO] [nucleus]: tehpp ran the command: /world teleport world
+[05:21:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[05:22:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[05:22:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:22:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[05:22:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:23:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:25:32] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5
+[05:26:16] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5
+[05:26:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Sableye has spawned in world "world", at X:-642 Y:43 Z:-1374
+[05:26:22] [Server thread/INFO] [nucleus]: tehpp ran the command: //set air
+[05:26:26] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5
+[05:26:57] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5
+[05:27:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[05:27:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[05:28:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 141 pokémon have been cleared.
+[05:29:07] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:29:54] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Whismur has spawned in world "world", at X:-676 Y:66 Z:-1382
