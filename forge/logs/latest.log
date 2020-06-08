@@ -305,3 +305,139 @@ Pixelmon: Requires version 7.2.2 but client has 7.3.1.
 [05:28:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 141 pokémon have been cleared.
 [05:29:07] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
 [05:29:54] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Whismur has spawned in world "world", at X:-676 Y:66 Z:-1382
+[05:30:11] [pool-3-thread-162/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:30:31] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-651 Y:88 Z:-1350
+[05:30:41] [pool-3-thread-156/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:31:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 155:2
+[05:31:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 155:2
+[05:31:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 155:2
+[05:32:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44:76
+[05:32:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44:7
+[05:32:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44:7
+[05:32:33] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:32:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44:7
+[05:32:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44:7
+[05:33:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[05:33:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[05:33:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[05:33:59] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:34:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set quartzblock
+[05:34:58] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:35:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[05:36:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:36:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[05:36:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:36:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[05:36:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:36:48] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:37:05] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:37:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[05:37:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //ste air
+[05:37:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[05:37:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[05:37:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[05:38:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[05:38:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[05:38:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:38:24] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:38:31] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:38:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[05:38:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 141 pokémon have been cleared.
+[05:38:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[05:38:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:38:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:39:01] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:39:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:39:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[05:39:10] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:40:03] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 251
+[05:40:08] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 251
+[05:40:11] [pool-3-thread-164/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:40:41] [pool-3-thread-163/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:40:54] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5:1
+[05:40:59] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5:1
+[05:41:01] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Entei has spawned in world "world", at X:-561 Y:66 Z:-1383
+[05:41:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Entei has spawned in a Extreme Hills biome!
+[05:41:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Entei at: world x:-561, y:66, z:-1383
+[05:41:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:42:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[05:43:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[05:47:58] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Staravia has spawned in world "world", at X:-650 Y:82 Z:-1392
+[05:47:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[05:48:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[05:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 139 pokémon have been cleared.
+[05:49:44] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Aerodactyl has spawned in world "world", at X:-598 Y:81 Z:-1403
+[05:50:11] [pool-3-thread-160/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:50:28] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5
+[05:50:33] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5
+[05:50:41] [pool-3-thread-163/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:51:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:52:03] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss Nosepass in world "build", at X:290 Y:63 Z:111
+[05:52:05] [Server thread/INFO] [nucleus]: tehpp ran the command: //set cobble
+[05:52:12] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert defeated a boss Nosepass in world "build", at X:285 Y:66 Z:116
+[05:53:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 50
+[05:53:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[05:53:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 40
+[05:54:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[05:54:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44:7
+[05:56:08] [Server thread/INFO] [nucleus]: tehpp ran the command: //set air
+[05:56:36] [Server thread/INFO] [nucleus]: tehpp ran the command: //set air
+[05:58:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[05:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[05:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 143 pokémon have been cleared.
+[05:59:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Geodude has spawned in world "world", at X:-588 Y:67 Z:-1344
+[05:59:23] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A shiny Geodude has spawned in world "world", at X:-527 Y:57 Z:-1377
+[05:59:35] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5:1
+[05:59:50] [Server thread/INFO] [nucleus]: tehpp ran the command: /tp Aboveexpert
+[06:00:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[06:00:11] [pool-3-thread-156/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[06:00:41] [pool-3-thread-166/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[06:01:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 3 items have been cleared.
+[06:02:00] [Server thread/INFO] [nucleus]: tehpp ran the command: /world teleport world
+[06:07:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[06:07:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:07:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[06:07:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[06:07:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:07:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[06:07:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:07:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[06:07:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[06:07:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:07:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[06:08:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[06:08:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:08:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[06:08:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[06:08:26] [Server thread/INFO] [nucleus]: tehpp ran the command: /pokekill 
+[06:08:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tehpp: tehpp butchered 122 pixelmon!]
+[06:08:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:08:34] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5
+[06:08:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[06:08:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:08:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:08:43] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5
+[06:08:51] [Server thread/INFO] [nucleus]: tehpp ran the command: //set 5
+[06:09:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[06:09:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 131 pokémon have been cleared.
+[06:09:43] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Phanpy has spawned in world "world", at X:-543 Y:71 Z:-1435
+[06:10:11] [pool-3-thread-174/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[06:10:41] [pool-3-thread-171/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[06:10:54] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-609 Y:88 Z:-1386
+[06:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[06:11:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[06:16:39] [Server thread/INFO] [nucleus]: tehpp ran the command: /tp Aboveexpert
+[06:17:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: tehpp lost connection: Disconnected
+[06:17:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tehpp left the game
+[06:18:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+[06:18:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert left the game
+[06:18:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[06:19:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[06:19:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 94 pokémon have been cleared.
+[06:20:11] [pool-3-thread-174/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[06:20:41] [pool-3-thread-172/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[06:21:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[06:29:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[06:29:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.

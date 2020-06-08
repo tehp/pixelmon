@@ -2,7 +2,7 @@
   "version": 2,
   "lastKnownName": "tehpp",
   "lastLogin": 1591592665704,
-  "lastLogout": 1591397984372,
+  "lastLogout": 1591597067263,
   "lastIP": "/70.68.240.223",
   "firstJoin": 1590339259092,
   "startedFirstJoin": false,
@@ -12,13 +12,13 @@
   "vanish": false,
   "invulnerable": false,
   "lastLocation": {
-    "x": -627.5458100504343,
-    "y": 88.07795969040905,
-    "z": -1320.1648455048862,
+    "x": 286.8911850608745,
+    "y": 72.0,
+    "z": 64.92500001192093,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
-    "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
+    "world": "ea2c3b9d-0d70-4185-b367-f13cfca5463b"
   },
   "user-prefs": {
     "nucleus:view-staff-chat": true,
