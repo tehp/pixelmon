@@ -409,5 +409,11 @@
   "variedcommodities:stool:1": "variedcommodities:stool[]",
   "pixelmon:green_clock:1": "pixelmon:green_clock[]",
   "pixelmon:green_clock:3": "pixelmon:green_clock[]",
-  "variedcommodities:shelf:2": "variedcommodities:shelf[]"
+  "variedcommodities:shelf:2": "variedcommodities:shelf[]",
+  "pixelmon:fossil_display:8": "pixelmon:fossil_display[]",
+  "pixelmon:fossil_display:0": "pixelmon:fossil_display[]",
+  "pixelmon:fossil_display:11": "pixelmon:fossil_display[]",
+  "pixelmon:fossil_display:3": "pixelmon:fossil_display[]",
+  "pixelmon:fossil_display:9": "pixelmon:fossil_display[]",
+  "pixelmon:fossil_display:1": "pixelmon:fossil_display[]"
 }

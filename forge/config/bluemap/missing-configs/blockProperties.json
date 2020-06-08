@@ -808,5 +808,10 @@
     "culling": true,
     "occluding": true,
     "flammable": false
+  },
+  "pixelmon:fossil_display": {
+    "culling": true,
+    "occluding": true,
+    "flammable": false
   }
 }
