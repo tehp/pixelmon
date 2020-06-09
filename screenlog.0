@@ -7907,4 +7907,40 @@ Running the server as root/admin is not recommended. Please use a port above 102
 > [K[21:24:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
 > [K[21:24:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
 > [K[21:25:30] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m84 pokémon have been cleared.[39;0m[39;0m
+> [K[21:32:40] [pool-3-thread-342/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:33:10] [pool-3-thread-346/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:33:43] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:34:47] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:35:18] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:35:49] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m78 pokémon have been cleared.[39;0m[39;0m
+> [K[21:42:40] [pool-3-thread-349/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:43:10] [pool-3-thread-349/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:43:43] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:45:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:45:37] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:46:08] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m81 pokémon have been cleared.[39;0m[39;0m
+> [K[21:52:40] [pool-3-thread-349/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:53:10] [pool-3-thread-349/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:53:43] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:55:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:55:55] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[21:56:26] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m75 pokémon have been cleared.[39;0m[39;0m
+> [K[22:02:40] [pool-3-thread-349/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:03:10] [pool-3-thread-350/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:03:43] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:05:43] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:06:14] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:06:45] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m76 pokémon have been cleared.[39;0m[39;0m
+> [K[22:12:40] [pool-3-thread-354/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:13:10] [pool-3-thread-354/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:13:43] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:16:02] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:16:32] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:17:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m78 pokémon have been cleared.[39;0m[39;0m
+> [K[22:22:40] [pool-3-thread-357/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:23:10] [pool-3-thread-357/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:23:43] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:26:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:26:50] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[22:27:21] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m82 pokémon have been cleared.[39;0m[39;0m
 > 
