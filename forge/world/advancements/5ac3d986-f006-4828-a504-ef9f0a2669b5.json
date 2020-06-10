@@ -2029,6 +2029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-06-10 02:55:21 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/blue_rug": {
     "criteria": {
       "has_wool": "2020-05-24 16:30:51 +0000"

@@ -8203,4 +8203,255 @@ Running the server as root/admin is not recommended. Please use a port above 102
 > [K[02:23:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
 > [K[02:24:29] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m110 pokémon have been cleared.[39;0m[39;0m
 > [K[02:29:31] [pool-3-thread-452/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[02:30:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 10
+> [K[02:32:40] [pool-3-thread-452/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[02:33:10] [pool-3-thread-452/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[02:33:26] [qtp1971285356-16688/INFO] [webapi]: nick logged in from 23.16.19.188
+> [K[02:33:44] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[02:33:45] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m1m[39;0m[0;32;1m.[39;0m[39;0m
+> [K[02:34:16] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1mWild Pokemon will be cleared in [39;0m[0;37;22m30s[39;0m[0;32;1m.[39;0m[39;0m
+> [K[02:34:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /sponge plugins reload
+> [K[31;1m[02:34:41] [Server thread/ERROR] [PixelGenocide]: Couldn't deserialize the timer rate. Nothing will be broadcasted.
+ninja.leaping.configurate.objectmapping.ObjectMappingException: java.lang.IllegalArgumentException: The script is missing or empty.
+        at com.happyzleaf.pixelgenocide.util.TimedTask$InfoSerializer.deserialize(TimedTask.java:147) ~[TimedTask$InfoSerializer.class:?]
+        at com.happyzleaf.pixelgenocide.util.TimedTask$InfoSerializer.deserialize(TimedTask.java:131) ~[TimedTask$InfoSerializer.class:?]
+        at ninja.leaping.configurate.SimpleConfigurationNode.getValue(SimpleConfigurationNode.java:218) ~[spongeforge-1.12.2-2838-7.2.1.jar:1.12.2-2838-7.2.1]
+        at ninja.leaping.configurate.ConfigurationNode.getValue(ConfigurationNode.java:491) ~[spongeforge-1.12.2-2838-7.2.1.jar:1.12.2-2838-7.2.1]
+        at com.happyzleaf.pixelgenocide.Config.loadConfig(Config.java:86) ~[Config.class:?]
+        at com.happyzleaf.pixelgenocide.PixelGenocide.onReload(PixelGenocide.java:106) ~[PixelGenocide.class:?]
+        at org.spongepowered.common.event.listener.GameReloadEventListener_PixelGenocide_onReload87.handle(Unknown Source) ~[?:?]
+        at org.spongepowered.common.event.RegisteredListener.handle(RegisteredListener.java:95) ~[RegisteredListener.class:1.12.2-2838-7.2.1]
+        at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:381) ~[SpongeModEventManager.class:1.12.2-2838-7.2.1]
+        at org.spongepowered.mod.event.SpongeModEventManager.extendedPost(SpongeModEventManager.java:456) ~[SpongeModEventManager.class:1.12.2-2838-7.2.1]
+        at org.spongepowered.mod.event.SpongeModEventManager.post(SpongeModEventManager.java:417) ~[SpongeModEventManager.class:1.12.2-2838-7.2.1]
+        at org.spongepowered.common.event.SpongeEventManager.post(SpongeEventManager.java:465) ~[SpongeEventManager.class:1.12.2-2838-7.2.1]
+        at org.spongepowered.common.SpongeImpl.postEvent(SpongeImpl.java:253) ~[SpongeImpl.class:1.12.2-2838-7.2.1]
+        at org.spongepowered.common.command.SpongeCommandFactory.lambda$createSpongePluginsCommand$10(SpongeCommandFactory.java:629) ~[SpongeCommandFactory.class:1.12.2-2838-7.2.1]
+        at org.spongepowered.api.command.args.ChildCommandElementExecutor.execute(ChildCommandElementExecutor.java:255) [ChildCommandElementExecutor.class:1.12.2-2838-7.2.1]
+        at org.spongepowered.api.command.spec.CommandSpec.process(CommandSpec.java:388) [CommandSpec.class:1.12.2-2838-7.2.1]
+        at org.spongepowered.common.command.SpongeCommandDispatcher.process(SpongeCommandDispatcher.java:355) [SpongeCommandDispatcher.class:1.12.2-2838-7.2.1]
+        at org.spongepowered.common.command.SpongeCommandManager.process(SpongeCommandManager.java:360) [SpongeCommandManager.class:1.12.2-2838-7.2.1]
+        at net.minecraft.command.ServerCommandManager.func_71556_a(SourceFile:665) [dh.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962) [pa.class:?]
+        at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941) [pa.class:?]
+        at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37) [la.class:?]
+        at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9) [la.class:?]
+        at org.spongepowered.common.event.tracking.phase.packet.PacketPhaseUtil.onProcessPacket(PacketPhaseUtil.java:219) [PacketPhaseUtil.class:1.12.2-2838-7.2.1]
+        at net.minecraft.network.PacketThreadUtil$1.redirect$zla000$impl$redirectToPhaseTracker(SourceFile:540) [hv$1.class:?]
+        at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+        at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+        at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:308) [SpongeImplHooks.class:1.12.2-2838-7.2.1]
+        at net.minecraft.server.MinecraftServer.redirect$zje000$onRun(MinecraftServer.java:4682) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+        at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+        at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+        at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+Caused by: java.lang.IllegalArgumentException: The script is missing or empty.
+        at com.happyzleaf.pixelgenocide.util.TimedTask$Info.<init>(TimedTask.java:104) ~[TimedTask$Info.class:?]
+        at com.happyzleaf.pixelgenocide.util.TimedTask$InfoSerializer.deserialize(TimedTask.java:145) ~[TimedTask$InfoSerializer.class:?]
+        ... 35 more
+[39;0m> [K[02:34:41] [Server thread/INFO] [simpletablist]: Reloading...
+> [K[02:34:41] [Server thread/INFO] [placeholderapi]: Reloaded PlaceholderAPI
+> [K[02:34:41] [Server thread/INFO] [langswitch]: Reloading config...
+> [K[02:34:41] [Server thread/INFO] [langswitch]: Setting default locale to en_us
+> [K[02:34:41] [Server thread/INFO] [langswitch]: Reloading translation files...
+> [K[02:34:41] [Server thread/INFO] [langswitch]: Loading translations for vshop in en_US...
+> [K[02:34:41] [Server thread/INFO] [langswitch]: No country specifig translations for English, switching to en.lang
+> [K[02:34:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (blacklist.items)... Adding it![39;0m[39;0m
+> [K[02:34:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.new-listing.webhooks)... Adding it![39;0m[39;0m
+> [K[02:34:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.sell-listing.webhooks)... Adding it![39;0m[39;0m
+> [K[02:34:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.listing-expire.webhooks)... Adding it![39;0m[39;0m
+> [K[02:34:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mGTS[39;0m[0;37;22m ([39;0m[0;33;22mWarning[39;0m[0;37;22m) [39;0m[0;37;22mFound missing config option (discord.notifications.listing-remove.webhooks)... Adding it![39;0m[39;0m
+> [K[02:34:41] [Server thread/INFO] [griefdefender]: Loading configuration...
+> [K[02:34:41] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+> [K[02:34:42] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+> [K[02:34:42] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+> [K[02:34:42] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+> [K[02:34:42] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+> [K[02:34:42] [Server thread/INFO] [nucleus]: Nucleus language set to "en-GB"
+> [K[02:34:42] [Server thread/INFO] [webapi]: Reloading Web-API v5.4.5-S7.1.0...
+> [K[02:34:42] [Server thread/INFO] [webapi]: Stopped ServerConnector@1cfa6b58{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+> [K[02:34:42] [Server thread/INFO] [webapi]: Stopped ServerConnector@5704804f{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+> [K[02:34:42] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.ServletContextHandler@63f44649{/api/v5,null,UNAVAILABLE}
+> [K[02:34:42] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@23222cfa{/admin,null,UNAVAILABLE}
+> [K[02:34:42] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@70119100{/,null,UNAVAILABLE}
+> [K[02:34:42] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@d7cf95a{/docs,null,UNAVAILABLE}
+> [K[02:34:42] [Server thread/INFO] [webapi]: Loading configuration...
+> [K[02:34:42] [Server thread/INFO] [webapi]: Loading keys & permissions...
+> [K[02:34:42] [Server thread/INFO] [webapi]: Loading serializers...
+> [K[02:34:42] [Server thread/INFO] [webapi]: Done loading serializers
+> [K[02:34:42] [Server thread/INFO] [webapi]: Registering servlets...
+> [K[02:34:42] [Server thread/INFO] [webapi]: Loading users...
+> [K[02:34:42] [Server thread/INFO] [webapi]: Initializing web hooks...
+> [K[02:34:42] [Server thread/INFO] [webapi]: Loading filters...
+> [K[02:34:42] [Server thread/INFO] [webapi]: Done loading filters
+> [K[02:34:42] [Server thread/INFO] [webapi]:   - http://localhost/test
+> [K[02:34:42] [Server thread/INFO] [webapi]:     -> Disabled
+> [K[02:34:42] [Server thread/INFO] [webapi]:   - http://localhost/test/{player}
+> [K[02:34:42] [Server thread/INFO] [webapi]:     -> Disabled
+> [K[02:34:42] [Server thread/INFO] [webapi]: Registering commands...
+> [K[02:34:42] [Server thread/INFO] [webapi]: Starting Web Server...
+> [K[33;1m[02:34:42] [Server thread/WARN] [webapi]: You are using an HTTP port < 1024 which is not recommended! 
+This might cause errors when not running the server as root/admin. 
+Running the server as root/admin is not recommended. Please use a port above 1024 for HTTP.
+[39;0m> [K[33;1m[02:34:42] [Server thread/WARN] [webapi]: v.w.s.o.e.j.s.h.ContextHandler@6c54d33{/,null,UNAVAILABLE} contextPath ends with /
+[39;0m> [K[02:34:44] [Server thread/INFO] [webapi]: jetty-9.4.z-SNAPSHOT, build timestamp: 2017-11-21T21:27:37Z, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+> [K[02:34:44] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@26bfa011{/docs,null,AVAILABLE}
+> [K[02:34:44] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@b870724{/,null,AVAILABLE}
+> [K[02:34:44] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@6c54d33{/admin,null,AVAILABLE}
+> [K[02:34:47] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.ServletContextHandler@41f2b040{/api/v5,null,AVAILABLE}
+> [K[02:34:47] [Server thread/INFO] [webapi]: Started ServerConnector@40c4a26{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+> [K[02:34:47] [Server thread/INFO] [webapi]: x509=X509@125a841d(selfsigned,h=[],w=[]) for SslContextFactory@7ddd83b0[provider=null,keyStore=jar:file:/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar!/assets/webapi/keystore.jks,trustStore=null]
+> [K[02:34:47] [Server thread/INFO] [webapi]: Started ServerConnector@1a5ba63e{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+> [K[02:34:47] [Server thread/INFO] [webapi]: Started @99134417ms
+> [K[02:34:47] [Server thread/INFO] [webapi]: AdminPanel: https://0.0.0.0:8081/admin/
+> [K[02:34:47] [Server thread/INFO] [webapi]: API Docs: https://0.0.0.0:8081/docs
+> [K[02:34:47] [Server thread/INFO] [webapi]: Reloaded Web-API
+> [K[02:34:47] [Server thread/INFO] [griefdefender]: Loading configuration...
+> [K[02:34:47] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+> [K[02:34:47] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+> [K[02:34:47] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+> [K[33;1m[02:34:47] [pool-3-thread-452/WARN] [webapi]: ------- Web-API Update -------
+[39;0m> [K[33;1m[02:34:47] [pool-3-thread-452/WARN] [webapi]: Latest: 5.4.6
+[39;0m> [K[33;1m[02:34:47] [pool-3-thread-452/WARN] [webapi]: Current: 5.4.5
+[39;0m> [K[33;1m[02:34:47] [pool-3-thread-452/WARN] [webapi]: ---------- Changes -----------
+[39;0m> [K[33;1m[02:34:47] [pool-3-thread-452/WARN] [webapi]: - Fix issue with hook events
+[39;0m> [K[33;1m[02:34:47] [pool-3-thread-452/WARN] [webapi]: ------------------------------
+[39;0m> [K[02:34:47] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+> [K[02:34:47] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+> [K[33;1m[02:34:47] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6157ms behind, skipping 123 tick(s)
+[39;0m> [K[02:36:48] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Staravia has spawned in world "world", at X:-605 Y:81 Z:-1407[39;0m
+> [K[02:42:58] [User Authenticator #3/INFO] [minecraft/NetHandlerLoginServer]: UUID of player snakes866 is 1720825f-9860-4cb5-8a7e-d05bcfa51b3d
+> [K[02:42:59] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+> [K[02:42:59] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[02:42:59] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[02:43:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[02:43:00] [Server thread/INFO] [minecraft/PlayerList]: snakes866 [/70.68.76.101:63865] logged in with entity id [120362] in world (minecraft:overworld/0) at (-513.7191097198299, 90.0, -1448.5758325753552).
+> [K[02:43:00] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1msnakes866[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[02:43:41] [pool-3-thread-464/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[02:44:11] [pool-3-thread-464/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[02:44:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[02:45:04] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m142 pokémon have been cleared.[39;0m[39;0m
+> [K[02:46:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //wand 
+> [K[02:46:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[02:46:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[02:46:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set stone
+> [K[02:47:36] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-696 Y:102 Z:-1457[39;0m
+> [K[02:47:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls 159:11
+> [K[02:47:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls 159:11
+> [K[02:47:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls 159:11
+> [K[02:47:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls 159:11
+> [K[02:49:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set stone
+> [K[02:49:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set stone
+> [K[02:49:57] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Zubat has spawned in world "world", at X:-708 Y:91 Z:-1448[39;0m
+> [K[02:50:45] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+> [K[02:50:45] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3msnakes866[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3msnakes866 butchered 154 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[02:53:41] [pool-3-thread-467/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[02:54:11] [pool-3-thread-470/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[02:54:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[02:55:22] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m136 pokémon have been cleared.[39;0m[39;0m
+> [K[02:58:09] [pool-3-thread-471/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;37;1msnakes866[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[03:00:25] [pool-3-thread-471/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;37;1msnakes866[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[03:02:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 98 1:1
+> [K[03:02:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:02:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 98 5:1
+> [K[03:02:52] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Aerodactyl has spawned in world "world", at X:-699 Y:96 Z:-1438[39;0m
+> [K[03:02:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 98 5:1
+> [K[03:03:39] [Server thread/INFO] [minecraft/DedicatedServer]: snakes866[39;0m has made the advancement [39;0m[0;32;1m[[39;0m[0;32;1mHot Stuff[39;0m[0;32;1m][39;0m[39;0m
+> [K[03:03:41] [pool-3-thread-471/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[03:04:01] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+> [K[03:04:01] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3msnakes866[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3msnakes866 butchered 154 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[03:04:11] [pool-3-thread-471/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[03:04:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[03:05:40] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m128 pokémon have been cleared.[39;0m[39;0m
+> [K[03:06:33] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+> [K[03:06:33] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3msnakes866[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3msnakes866 butchered 97 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[03:06:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls 159:11
+> [K[03:06:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls 159:11
+> [K[03:07:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /home flower
+> [K[33;1m[03:07:08] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3997ms behind, skipping 79 tick(s)
+[39;0m> [K[03:07:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count ironblock
+> [K[03:07:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count ironblock
+> [K[03:07:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[03:07:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count stone
+> [K[03:08:04] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Woobat has spawned in world "world", at X:-626 Y:59 Z:-1457[39;0m
+> [K[03:08:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+> [K[03:08:13] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3mAboveexpert butchered 125 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[03:08:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count stone
+> [K[03:09:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count stone
+> [K[03:09:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set stone
+> [K[03:09:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count stone
+> [K[03:09:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count stone
+> [K[03:09:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[03:09:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[03:10:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[03:10:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set stone
+> [K[03:11:19] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+> [K[03:11:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3msnakes866[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3msnakes866 butchered 153 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[03:11:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count stone
+> [K[03:11:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //hcyl 251:15 6 1
+> [K[03:12:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:12:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //hcyl 251:15 8 1
+> [K[03:12:07] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Golbat has spawned in world "world", at X:-596 Y:88 Z:-1464[39;0m
+> [K[03:12:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:12:12] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Mienfoo has spawned in world "world", at X:-597 Y:71 Z:-1435[39;0m
+> [K[03:12:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //hcyl 251:15 9 1
+> [K[03:13:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[03:13:41] [pool-3-thread-482/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[03:13:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[03:14:11] [pool-3-thread-477/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[03:14:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 10
+> [K[03:14:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 10
+> [K[03:14:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 10
+> [K[03:14:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[03:14:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 10
+> [K[03:15:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace air stone
+> [K[03:15:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:15:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace air stone
+> [K[03:15:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace air stone
+> [K[03:15:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /top 
+> [K[03:16:01] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m131 pokémon have been cleared.[39;0m[39;0m
+> [K[03:16:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[03:16:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp snakes866
+> [K[03:16:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace air stone
+> [K[03:16:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace air stone
+> [K[03:16:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 159:11
+> [K[03:17:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 159:11
+> [K[03:17:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 159:11
+> [K[03:17:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 50
+> [K[03:17:51] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Staravia has spawned in world "world", at X:-621 Y:86 Z:-1451[39;0m
+> [K[03:17:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[03:18:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 169 stone
+> [K[03:18:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 20
+> [K[03:18:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:19:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 50
+> [K[03:19:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:19:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 50
+> [K[03:19:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 35
+> [K[03:19:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:19:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 15
+> [K[03:19:38] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+> [K[03:19:38] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3msnakes866[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3msnakes866 butchered 135 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[03:19:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[03:19:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //flip 
+> [K[03:19:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[03:19:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:19:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:20:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 15
+> [K[03:20:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 30
+> [K[03:20:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 95 139
+> [K[03:20:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:21:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 95 101
+> [K[03:21:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[03:21:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[03:21:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[03:23:41] [pool-3-thread-483/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[03:24:11] [pool-3-thread-476/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[03:24:41] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[03:26:19] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m159 pokémon have been cleared.[39;0m[39;0m
+> [K[03:27:42] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-680 Y:97 Z:-1444[39;0m
+> [K[03:29:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 10
 > 
