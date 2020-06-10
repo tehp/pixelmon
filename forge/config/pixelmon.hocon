@@ -59,7 +59,7 @@ ExternalMoves {
     # Allow destructive external moves (includes Cut, Dig, Explode, LightFire, Lightning, RockSmash)
     allowDestructiveExternalMoves=false
     # Allows the use of external moves such as Rock Smash and Cut.
-    allowExternalMoves=false
+    allowExternalMoves=true
 }
 # General settings for the world.
 General {
@@ -363,7 +363,7 @@ Spawning {
     # Forces wild Pokémon to despawn after a battle.
     despawnOnFleeOrLoss=false
     # Displays server-wide announcement 'A Legendary has spawned in <name> biome' when a Legendary spawns.
-    displayLegendaryGlobalMessage=true
+    displayLegendaryGlobalMessage=false
     # Number of blocks for a level increase when Spawn Levels By Distance enabled.
     distancePerLevel=30
     # The maximum number of entities (NPC or Pokémon) that can spawn per player. Lower for better performance.
