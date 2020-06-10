@@ -1036,3 +1036,27 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [19:24:11] [pool-3-thread-702/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [19:24:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
 [19:25:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 75 pokémon have been cleared.
+[19:33:41] [pool-3-thread-692/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[19:34:11] [pool-3-thread-705/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[19:34:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[19:35:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 79 pokémon have been cleared.
+[19:43:41] [pool-3-thread-702/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[19:44:11] [pool-3-thread-702/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[19:44:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[19:45:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 85 pokémon have been cleared.
+[19:53:41] [pool-3-thread-712/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[19:54:11] [pool-3-thread-692/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[19:54:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[19:56:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 71 pokémon have been cleared.
+[20:03:41] [pool-3-thread-714/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:04:11] [pool-3-thread-714/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:04:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:06:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 83 pokémon have been cleared.
+[20:13:41] [pool-3-thread-711/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:14:11] [pool-3-thread-714/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 85 pokémon have been cleared.
+[20:23:41] [pool-3-thread-719/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:24:11] [pool-3-thread-718/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:24:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:27:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 74 pokémon have been cleared.
