@@ -707,3 +707,46 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [06:23:41] [pool-3-thread-529/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [06:24:11] [pool-3-thread-521/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [06:24:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[06:31:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 107 pokémon have been cleared.
+[06:33:41] [pool-3-thread-529/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[06:34:11] [pool-3-thread-532/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[06:34:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[06:36:11] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Sableye has spawned in world "world", at X:-650 Y:60 Z:-1445
+[06:42:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 107 pokémon have been cleared.
+[06:43:41] [pool-3-thread-529/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[06:44:11] [pool-3-thread-532/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[06:44:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[06:46:38] [pool-3-thread-538/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[06:49:50] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Tyranitar has spawned in world "world", at X:-616 Y:79 Z:-1480
+[06:52:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 108 pokémon have been cleared.
+[06:53:36] [pool-3-thread-527/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[06:53:41] [pool-3-thread-498/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[06:54:11] [pool-3-thread-540/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[06:54:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[06:55:44] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss Sableye in world "world", at X:-622 Y:59 Z:-1435
+[06:55:55] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert defeated a boss Sableye in world "world", at X:-625 Y:62 Z:-1441
+[06:55:58] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Steelix has spawned in world "world", at X:-644 Y:76 Z:-1425
+[06:55:58] [Server thread/WARN] [Sponge]: Entity being removed for bounding box restrictions
+[06:55:58] [Server thread/WARN] [Sponge]: BB Size: 1,331 > 1,000 avg edge: 10.798
+[06:55:58] [Server thread/WARN] [Sponge]: Motion: (0, 0, 0)
+[06:55:58] [Server thread/WARN] [Sponge]: Calculated bounding box: box[-648.9599995613098, 76.0, -1429.9599995613098 -> -638.0400004386902, 86.55499923229218, -1419.0400004386902]
+[06:55:58] [Server thread/WARN] [Sponge]: Entity bounding box: null
+[06:55:58] [Server thread/WARN] [Sponge]: Entity: EntityPixelmon['Steelix'/143552, l='world', x=-643.50, y=76.00, z=-1424.50]
+[06:55:58] [Server thread/WARN] [Sponge]: Entity NBT: {EVSpeed:0s,BonusSpAttack:0,Attributes:[{Base:228.0d,Name:"generic.maxHealth"},{Base:0.0d,Name:"generic.knockbackResistance"},{Base:0.55d,Name:"generic.movementSpeed"},{Base:0.0d,Name:"generic.armor"},{Base:0.0d,Name:"generic.armorToughness"},{Base:1.0d,Name:"forge.swimSpeed"},{Base:16.0d,Name:"generic.followRange"}],Moveset:[{MoveID:140s,MovePP:30b},{MoveID:310s,MovePP:20b},{MoveID:77s,MovePP:20b},{MoveID:187s,MovePP:10b}],Invulnerable:0b,Gender:1b,Name:"Steelix",BonusDefence:0,BonusSpeed:0,IVDefence:27b,IVSpDef:24b,CaughtBall:0b,ForgeCaps:{},PersistenceRequired:0b,BonusPersistent:0b,BonusAttack:0,DoesLevel:1b,BonusSpDefence:0,Variant:0b,OwnerUUID:"",EVSpecialAttack:0s,BonusAccuracy:0,Pos:[-643.5d,76.0d,-1424.5d],IVSpeed:19b,pixelmonType:0b,Level:81,EVDefence:0s,IVAttack:27b,Growth:6b,PersistentData:{},EVSpecialDefence:0s,StatsSpecialDefence:195s,isInRanch:0b,Friendship:70s,StatsDefence:399s,EVAttack:0s,StatsSpecialAttack:98s,IVHP:20b,AbilitySlot:0b,EVHP:0s,ndex:208s,BonusCapture:0b,Nature:23b,Motion:[0.0d,0.0d,0.0d],StatsHP:228s,UUIDLeast:-8577958134769263569L,Health:228,Aggression:0b,SpecFlags:[],OnGround:0b,Dimension:0,Rotation:[0.23630348f,0.0f],BonusEvasion:0,StatsSpeed:61s,IsShiny:0b,StatsAttack:229s,UUIDMost:6738534590863917293L,IVSpAtt:5b,EXP:0}
+[06:56:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed Aboveexpert walk 3
+[06:56:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed Aboveexpert walk 4
+[06:56:35] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Gastly has spawned in world "world", at X:-556 Y:53 Z:-1427
+[06:58:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+[06:58:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert left the game
+[07:02:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 81 pokémon have been cleared.
+[07:03:41] [pool-3-thread-541/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[07:04:11] [pool-3-thread-541/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[07:04:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 5 items have been cleared.
+[07:13:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 85 pokémon have been cleared.
+[07:13:41] [pool-3-thread-534/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[07:14:11] [pool-3-thread-534/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[07:14:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[07:23:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 79 pokémon have been cleared.
+[07:23:41] [pool-3-thread-543/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[07:24:11] [pool-3-thread-534/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[07:24:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
