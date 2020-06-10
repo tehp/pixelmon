@@ -1108,3 +1108,51 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [22:23:41] [pool-3-thread-749/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [22:24:11] [pool-3-thread-750/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [22:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 72 pokémon have been cleared.
+[22:33:41] [pool-3-thread-748/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:34:11] [pool-3-thread-748/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:34:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:41:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 81 pokémon have been cleared.
+[22:43:41] [pool-3-thread-750/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:44:11] [pool-3-thread-755/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:44:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:51:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 82 pokémon have been cleared.
+[22:53:41] [pool-3-thread-753/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:54:11] [pool-3-thread-748/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:54:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[23:01:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 77 pokémon have been cleared.
+[23:03:41] [pool-3-thread-748/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[23:04:11] [pool-3-thread-756/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[23:04:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[23:05:13] [pool-3-thread-753/INFO] [Mirage]: Failed to check for update
+java.io.IOException: Server returned HTTP response code: 504 for URL: https://ore.spongepowered.org/api/v2/authenticate
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900) ~[?:1.8.0_252]
+	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92) ~[?:1.8.0_252]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1490) ~[?:1.8.0_252]
+	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1488) ~[?:1.8.0_252]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_252]
+	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784) ~[?:1.8.0_252]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1487) ~[?:1.8.0_252]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_252]
+	at net.smoofyuniverse.mirage.ore.SessionController.authenticate(SessionController.java:81) ~[SessionController.class:?]
+	at net.smoofyuniverse.mirage.ore.SessionController.getOrCreateSession(SessionController.java:67) ~[SessionController.class:?]
+	at net.smoofyuniverse.mirage.ore.OreAPI.configureSession(OreAPI.java:85) ~[OreAPI.class:?]
+	at net.smoofyuniverse.mirage.ore.OreAPI.openConnection(OreAPI.java:80) ~[OreAPI.class:?]
+	at net.smoofyuniverse.mirage.ore.project.OreProject.getVersions(OreProject.java:105) ~[OreProject.class:?]
+	at net.smoofyuniverse.mirage.ore.project.OreProject.getVersions(OreProject.java:94) ~[OreProject.class:?]
+	at net.smoofyuniverse.mirage.Mirage.checkForUpdate(Mirage.java:240) ~[Mirage.class:?]
+	at org.spongepowered.api.scheduler.Task$Builder.lambda$execute$0(Task.java:139) ~[Task$Builder.class:1.12.2-2838-7.2.1]
+	at org.spongepowered.common.scheduler.SchedulerBase.lambda$startTask$0(SchedulerBase.java:197) ~[SchedulerBase.class:1.12.2-2838-7.2.1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_252]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_252]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[23:11:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 80 pokémon have been cleared.
+[23:13:41] [pool-3-thread-756/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[23:14:11] [pool-3-thread-748/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[23:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[23:22:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 76 pokémon have been cleared.
+[23:23:41] [pool-3-thread-760/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[23:24:11] [pool-3-thread-748/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[23:24:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
