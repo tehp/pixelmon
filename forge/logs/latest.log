@@ -55,3 +55,68 @@
 [00:28:11] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Aerodactyl has spawned in world "world", at X:-573 Y:83 Z:-1469
 [00:28:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count sound
 [00:28:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count stone
+[00:30:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[00:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[00:31:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 106 pokémon have been cleared.
+[00:32:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[00:32:40] [pool-3-thread-402/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:32:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokegive Aboveexpert regice
+[00:32:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert gave Aboveexpert a Regice!]
+[00:32:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokegive Aboveexpert regirock
+[00:32:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert gave Aboveexpert a Regirock!]
+[00:32:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokegive Aboveexpert registeel
+[00:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert gave Aboveexpert a Registeel!]
+[00:33:10] [pool-3-thread-402/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:33:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[00:39:49] [pool-3-thread-405/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[00:39:51] [pool-3-thread-405/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[00:40:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[00:40:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[00:41:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 107 pokémon have been cleared.
+[00:41:54] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Zubat has spawned in world "world", at X:-616 Y:85 Z:-1393
+[00:42:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count stone
+[00:42:40] [pool-3-thread-405/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:43:10] [pool-3-thread-405/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:43:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[00:44:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set setone
+[00:44:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set setone
+[00:45:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set setone
+[00:45:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //count stone
+[00:47:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set stone
+[00:47:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[00:48:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[00:48:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[00:50:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[00:50:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[00:51:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[00:51:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[00:51:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[00:51:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 114 pokémon have been cleared.
+[00:51:59] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Torkoal has spawned in world "world", at X:-678 Y:84 Z:-1426
+[00:52:40] [pool-3-thread-409/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:53:10] [pool-3-thread-413/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:53:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[00:57:06] [pool-3-thread-414/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[01:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[01:01:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[01:02:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 126 pokémon have been cleared.
+[01:02:09] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Charizard has spawned in world "world", at X:-650 Y:78 Z:-1388
+[01:02:40] [pool-3-thread-416/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:03:10] [pool-3-thread-416/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:03:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:05:32] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Rayquaza has spawned in world "world", at X:-691 Y:89 Z:-1442
+[01:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Rayquaza has spawned in a Extreme Hills biome!
+[01:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Rayquaza at: world x:-691, y:89, z:-1442
+[01:11:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[01:11:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[01:12:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 122 pokémon have been cleared.
+[01:12:40] [pool-3-thread-421/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:13:10] [pool-3-thread-422/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:13:41] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Phanpy has spawned in world "world", at X:-591 Y:74 Z:-1486
+[01:13:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:21:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[01:22:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[01:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 121 pokémon have been cleared.
+[01:22:40] [pool-3-thread-428/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:23:10] [pool-3-thread-428/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:23:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
