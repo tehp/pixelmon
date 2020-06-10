@@ -120,3 +120,64 @@
 [01:22:40] [pool-3-thread-428/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [01:23:10] [pool-3-thread-428/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [01:23:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:31:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[01:32:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[01:32:40] [pool-3-thread-432/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:32:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 120 pokémon have been cleared.
+[01:33:10] [pool-3-thread-432/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:33:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:36:45] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-701 Y:105 Z:-1452
+[01:41:27] [pool-3-thread-437/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[01:42:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[01:42:40] [pool-3-thread-437/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:42:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[01:43:10] [pool-3-thread-436/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:43:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 122 pokémon have been cleared.
+[01:43:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:44:26] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Rayquaza has spawned in world "world", at X:-639 Y:81 Z:-1406
+[01:44:26] [Server thread/WARN] [Sponge]: Entity being removed for bounding box restrictions
+[01:44:26] [Server thread/WARN] [Sponge]: BB Size: 1,331 > 1,000 avg edge: 10.409
+[01:44:26] [Server thread/WARN] [Sponge]: Motion: (-0.008, 0, 0.019)
+[01:44:26] [Server thread/WARN] [Sponge]: Calculated bounding box: box[-643.7075754627585, 81.0, -1410.6999998092651 -> -633.3000001907349, 91.39999961853027, -1400.2814904786646]
+[01:44:26] [Server thread/WARN] [Sponge]: Entity bounding box: null
+[01:44:26] [Server thread/WARN] [Sponge]: Entity: EntityPixelmon['Rayquaza'/117273, l='world', x=-638.50, y=81.00, z=-1405.50]
+[01:44:26] [Server thread/WARN] [Sponge]: Entity NBT: {EVSpeed:0s,BonusSpAttack:0,Attributes:[{Base:166.0d,Name:"generic.maxHealth"},{Base:0.0d,Name:"generic.knockbackResistance"},{Base:0.55d,Name:"generic.movementSpeed"},{Base:0.0d,Name:"generic.armor"},{Base:0.0d,Name:"generic.armorToughness"},{Base:1.0d,Name:"forge.swimSpeed"},{Base:16.0d,Name:"generic.followRange"}],Moveset:[{MoveID:317s,MovePP:20b},{MoveID:47s,MovePP:10b},{MoveID:320s,MovePP:5b},{MoveID:260s,MovePP:15b}],Invulnerable:0b,Gender:2b,Name:"Rayquaza",BonusDefence:0,BonusSpeed:0,IVDefence:5b,IVSpDef:31b,CaughtBall:0b,ForgeCaps:{},PersistenceRequired:0b,BonusPersistent:0b,BonusAttack:0,DoesLevel:1b,BonusSpDefence:0,Variant:0b,OwnerUUID:"",EVSpecialAttack:0s,BonusAccuracy:0,Pos:[-638.5d,81.0d,-1405.5d],IVSpeed:31b,pixelmonType:6b,Level:46,EVDefence:0s,IVAttack:12b,Growth:3b,PersistentData:{},EVSpecialDefence:0s,StatsSpecialDefence:122s,isInRanch:0b,Friendship:0s,StatsDefence:99s,EVAttack:0s,StatsSpecialAttack:181s,IVHP:31b,AbilitySlot:0b,EVHP:0s,ndex:384s,BonusCapture:0b,Nature:21b,Motion:[-0.007575653493404388d,0.0d,0.01850971207022667d],StatsHP:166s,UUIDLeast:-5724272846504686289L,Health:166,Aggression:0b,SpecFlags:[],OnGround:0b,Dimension:0,Rotation:[22.260742f,0.0f],BonusEvasion:0,StatsSpeed:125s,IsShiny:1b,StatsAttack:158s,UUIDMost:837531278788938425L,IVSpAtt:23b,EXP:0}
+[01:44:26] [Server thread/WARN] [Sponge]: Entity being removed for bounding box restrictions
+[01:44:26] [Server thread/WARN] [Sponge]: BB Size: 1,331 > 1,000 avg edge: 10.408
+[01:44:26] [Server thread/WARN] [Sponge]: Motion: (-0.007, 0, 0.017)
+[01:44:26] [Server thread/WARN] [Sponge]: Calculated bounding box: box[-643.7144693076363, 81.0, -1410.681490097195 -> -633.3075758442283, 91.39999961853027, -1400.2646466401952]
+[01:44:26] [Server thread/WARN] [Sponge]: Entity bounding box: null
+[01:44:26] [Server thread/WARN] [Sponge]: Entity: EntityPixelmon['Rayquaza'/117273, l='world', x=-638.51, y=81.00, z=-1405.48]
+[01:44:26] [Server thread/WARN] [Sponge]: Entity NBT: {EVSpeed:0s,BonusSpAttack:0,Attributes:[{Base:166.0d,Name:"generic.maxHealth"},{Base:0.0d,Name:"generic.knockbackResistance"},{Base:0.55d,Name:"generic.movementSpeed"},{Base:0.0d,Name:"generic.armor"},{Base:0.0d,Name:"generic.armorToughness"},{Base:1.0d,Name:"forge.swimSpeed"},{Base:16.0d,Name:"generic.followRange"}],Moveset:[{MoveID:317s,MovePP:20b},{MoveID:47s,MovePP:10b},{MoveID:320s,MovePP:5b},{MoveID:260s,MovePP:15b}],Invulnerable:0b,Gender:2b,Name:"Rayquaza",BonusDefence:0,BonusSpeed:0,IVDefence:5b,IVSpDef:31b,CaughtBall:0b,ForgeCaps:{},PersistenceRequired:0b,BonusPersistent:0b,BonusAttack:0,DoesLevel:1b,BonusSpDefence:0,Variant:0b,OwnerUUID:"",EVSpecialAttack:0s,BonusAccuracy:0,Pos:[-638.5075756534934d,81.0d,-1405.4814902879298d],IVSpeed:31b,pixelmonType:6b,Level:46,EVDefence:0s,IVAttack:12b,Growth:3b,PersistentData:{},EVSpecialDefence:0s,StatsSpecialDefence:112s,isInRanch:0b,Friendship:0s,StatsDefence:90s,EVAttack:0s,StatsSpecialAttack:153s,IVHP:31b,AbilitySlot:0b,EVHP:0s,ndex:384s,BonusCapture:0b,Nature:21b,Motion:[-0.006893844877677413d,0.0d,0.016843838469342787d],StatsHP:166s,UUIDLeast:-5724272846504686289L,Health:166,Aggression:0b,SpecFlags:[],OnGround:0b,Dimension:0,Rotation:[22.260742f,0.0f],BonusEvasion:0,StatsSpeed:106s,IsShiny:1b,StatsAttack:133s,UUIDMost:837531278788938425L,IVSpAtt:23b,EXP:0}
+[01:46:44] [pool-3-thread-437/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[01:46:50] [pool-3-thread-437/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[01:51:51] [pool-3-thread-441/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[01:52:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[01:52:40] [pool-3-thread-439/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[01:53:10] [pool-3-thread-441/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:53:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 128 pokémon have been cleared.
+[01:53:37] [pool-3-thread-439/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[01:53:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity pixelmon:pixelmon but it was marked as removed already
+[01:53:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:56:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[02:02:40] [pool-3-thread-446/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[02:02:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[02:03:10] [pool-3-thread-445/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[02:03:19] [pool-3-thread-446/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[02:03:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[02:03:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[02:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 122 pokémon have been cleared.
+[02:12:40] [pool-3-thread-449/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[02:13:10] [pool-3-thread-449/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[02:13:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[02:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[02:13:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[02:14:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 120 pokémon have been cleared.
+[02:22:40] [pool-3-thread-448/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[02:23:10] [pool-3-thread-448/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[02:23:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 1m.
+[02:23:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[02:23:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] Wild Pokemon will be cleared in 30s.
+[02:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 110 pokémon have been cleared.
+[02:29:31] [pool-3-thread-452/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
