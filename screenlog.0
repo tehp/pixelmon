@@ -9588,4 +9588,61 @@ java.io.IOException: Server returned HTTP response code: 504 for URL: https://or
 > [K[06:24:11] [pool-3-thread-885/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[06:24:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
 > [K[06:24:55] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m79 pokémon have been cleared.[39;0m[39;0m
+> [K[06:33:41] [pool-3-thread-885/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:34:11] [pool-3-thread-888/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:34:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[06:35:13] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m78 pokémon have been cleared.[39;0m[39;0m
+> [K[06:43:41] [pool-3-thread-889/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:44:11] [pool-3-thread-887/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:44:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[06:45:31] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m82 pokémon have been cleared.[39;0m[39;0m
+> [K[06:53:41] [pool-3-thread-895/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:54:11] [pool-3-thread-883/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:54:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[06:55:50] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m81 pokémon have been cleared.[39;0m[39;0m
+> [K[07:03:41] [pool-3-thread-899/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[07:04:11] [pool-3-thread-883/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[07:04:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[07:05:26] [User Authenticator #8/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[07:05:26] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+> [K[07:05:26] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[07:05:26] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[07:05:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[07:05:27] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:54722] logged in with entity id [252253] in world (minecraft:overworld/0) at (-630.7117104478634, 61.200000047683716, -1451.3246804704297).
+> [K[07:05:27] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[07:06:08] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m94 pokémon have been cleared.[39;0m[39;0m
+> [K[07:08:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[07:08:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[07:09:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[07:09:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[07:09:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //flip 
+> [K[07:09:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[07:12:07] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Tyranitar has spawned in world "world", at X:-673 Y:75 Z:-1422[39;0m
+> [K[07:13:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 1:1
+> [K[07:13:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[07:13:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 5:1
+> [K[07:13:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[07:13:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //flip 
+> [K[07:13:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[07:13:41] [pool-3-thread-901/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[07:13:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 5:1
+> [K[07:14:11] [pool-3-thread-904/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[07:14:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[07:16:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m96 pokémon have been cleared.[39;0m[39;0m
+> [K[07:21:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+> [K[07:21:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+> [K[07:22:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[07:22:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[07:22:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stone 
+> [K[07:22:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stone 
+> [K[07:22:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set stone
+> [K[07:22:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set stone
+> [K[07:22:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set stone
+> [K[07:22:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set stone
+> [K[07:23:41] [pool-3-thread-906/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[07:24:11] [pool-3-thread-905/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[07:24:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[07:26:45] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+> [K[07:26:45] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[07:26:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m91 pokémon have been cleared.[39;0m[39;0m
 > 
