@@ -804,3 +804,31 @@
 [20:23:41] [pool-3-thread-1084/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [20:24:11] [pool-3-thread-1083/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [20:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:30:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 81 pokémon have been cleared.
+[20:33:41] [pool-3-thread-1086/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:34:11] [pool-3-thread-1089/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:34:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:40:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 75 pokémon have been cleared.
+[20:43:41] [pool-3-thread-1091/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:44:11] [pool-3-thread-1089/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:44:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:50:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 76 pokémon have been cleared.
+[20:51:48] [qtp882566077-71902/WARN] [webapi]: Illegal character 0x3 in state=START for buffer HeapByteBuffer@738e67ce[p=1,l=47,c=8192,r=46]={\x03<<<\x00\x00/*\xE0\x00\x00\x00\x00\x00Cookie:...nistr\r\n\x01\x00\x08\x00\x03\x00\x00\x00>>>3:54 GMT\r\nLocatio...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[20:53:41] [pool-3-thread-1086/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:54:11] [pool-3-thread-1091/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:54:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 78 pokémon have been cleared.
+[21:03:41] [pool-3-thread-1094/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:04:11] [pool-3-thread-1091/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:04:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:11:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 83 pokémon have been cleared.
+[21:13:41] [pool-3-thread-1094/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:14:11] [pool-3-thread-1096/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:14:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:17:34] [qtp882566077-56536/WARN] [webapi]: Illegal character 0x4 in state=START for buffer HeapByteBuffer@738e67ce[p=1,l=10,c=8192,r=9]={\x04<<<\x01\x00P3OU\xBe0\x00>>>02 Found\r\nDate: T...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[21:17:37] [qtp882566077-109303/WARN] [webapi]: Illegal character 0x4 in state=START for buffer HeapByteBuffer@738e67ce[p=1,l=10,c=8192,r=9]={\x04<<<\x01\x00P3OU\xBe0\x00>>>02 Found\r\nDate: T...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[21:17:41] [qtp882566077-56536/WARN] [webapi]: Illegal character 0x5 in state=START for buffer HeapByteBuffer@738e67ce[p=1,l=3,c=8192,r=2]={\x05<<<\x01\x00>>>P3OU\xBe0\x0002 Found\r\n...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[21:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 78 pokémon have been cleared.
+[21:23:41] [pool-3-thread-1096/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:24:11] [pool-3-thread-1096/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
