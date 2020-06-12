@@ -166,3 +166,65 @@
 [06:24:11] [pool-3-thread-1215/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [06:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
 [06:28:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 79 pokémon have been cleared.
+[06:33:41] [pool-3-thread-1215/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[06:34:11] [pool-3-thread-1228/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[06:34:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[06:38:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 82 pokémon have been cleared.
+[06:43:41] [pool-3-thread-1215/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[06:44:11] [pool-3-thread-1225/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[06:44:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[06:46:57] [User Authenticator #11/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[06:46:57] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[06:46:57] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[06:46:57] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[06:46:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[06:46:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:59762] logged in with entity id [357120] in world (minecraft:overworld/0) at (-626.2119066383233, 69.51763783516303, -1396.2205931514911).
+[06:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[06:46:58] [Server thread/WARN] [Sponge]: Entity being removed for bounding box restrictions
+[06:46:58] [Server thread/WARN] [Sponge]: BB Size: 1,274 > 1,000 avg edge: 10.683
+[06:46:58] [Server thread/WARN] [Sponge]: Motion: (-8.4, 0, 2.175)
+[06:46:58] [Server thread/WARN] [Sponge]: Calculated bounding box: box[-747.1750001009083, 58.0, -1372.7749998569489 -> -734.2250001430511, 70.37499928474426, -1366.049607202197]
+[06:46:58] [Server thread/WARN] [Sponge]: Entity bounding box: null
+[06:46:58] [Server thread/WARN] [Sponge]: Entity: EntityPixelmon['Onix'/351638, l='world', x=-736.50, y=58.00, z=-1370.50]
+[06:46:58] [Server thread/WARN] [Sponge]: Entity NBT: {EVSpeed:0s,BonusSpAttack:0,Attributes:[{Base:39.0d,Name:"generic.maxHealth"},{Base:0.0d,Name:"generic.knockbackResistance"},{Base:0.55d,Name:"generic.movementSpeed"},{Base:0.0d,Name:"generic.armor"},{Base:0.0d,Name:"generic.armorToughness"},{Base:1.0d,Name:"forge.swimSpeed"},{Base:16.0d,Name:"generic.followRange"}],Moveset:[{MoveID:280s,MovePP:15b},{MoveID:2s,MovePP:35b},{MoveID:76s,MovePP:20b},{MoveID:202s,MovePP:15b}],Invulnerable:0b,Gender:0b,Name:"Onix",BonusDefence:0,BonusSpeed:0,IVDefence:31b,IVSpDef:9b,CaughtBall:0b,ForgeCaps:{},PersistenceRequired:0b,BonusPersistent:0b,BonusAttack:0,DoesLevel:1b,BonusSpDefence:0,Variant:-1b,OwnerUUID:"",EVSpecialAttack:0s,BonusAccuracy:0,Pos:[-736.5d,58.0d,-1370.5d],IVSpeed:7b,pixelmonType:0b,Level:16,EVDefence:0s,IVAttack:8b,Growth:5b,PersistentData:{cnpcmarkdata:{marks:[]},SpongeData:{}},EVSpecialDefence:0s,StatsSpecialDefence:20s,isInRanch:0b,Friendship:70s,StatsDefence:54s,EVAttack:0s,StatsSpecialAttack:18s,IVHP:17b,AbilitySlot:0b,EVHP:0s,ndex:95s,BonusCapture:0b,Nature:18b,Motion:[-8.400000243959417d,0.0d,2.1753929408540933d],StatsHP:39s,UUIDLeast:-8510010684660278505L,Health:39,Aggression:0b,SpecFlags:[],OnGround:0b,Dimension:0,Rotation:[5.183929f,0.0f],BonusEvasion:0,StatsSpeed:28s,IsShiny:0b,StatsAttack:20s,UUIDMost:-6165064139271549954L,IVSpAtt:15b,EXP:0}
+[06:47:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[06:47:52] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Mawile has spawned in world "world", at X:-600 Y:72 Z:-1477
+[06:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 115 pokémon have been cleared.
+[06:49:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert has made the advancement [Suit Up]
+[06:52:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 42
+[06:52:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[06:52:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44
+[06:52:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44
+[06:52:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 44
+[06:53:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 1
+[06:53:41] [pool-3-thread-1215/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[06:54:11] [pool-3-thread-1231/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[06:54:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[06:54:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:54:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[06:54:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:54:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[06:54:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[06:54:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[06:55:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 56
+[06:55:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[06:55:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 3
+[06:55:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 5
+[06:55:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[06:55:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 4
+[06:55:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 1
+[06:57:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[06:57:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert left the game
+[06:59:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 86 pokémon have been cleared.
+[07:03:41] [pool-3-thread-1230/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[07:04:11] [pool-3-thread-1234/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[07:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[07:09:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 81 pokémon have been cleared.
+[07:13:41] [pool-3-thread-1236/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[07:14:11] [pool-3-thread-1238/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[07:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[07:19:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 89 pokémon have been cleared.
+[07:23:41] [pool-3-thread-1236/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[07:24:11] [pool-3-thread-1238/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[07:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[07:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 85 pokémon have been cleared.
