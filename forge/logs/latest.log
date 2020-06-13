@@ -189,3 +189,134 @@
 [01:24:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
 [01:27:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 1,gravel,cobblestone sponge
 [01:29:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace sponge 43%stone,29%1:5,23%gravel,1%diamondore,1%redstoneore,1%emeraldore,1%coalore
+[01:32:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 181 pokémon have been cleared.
+[01:33:41] [pool-3-thread-1502/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:34:11] [pool-3-thread-1518/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:39:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: JKeem lost connection: Timed out
+[01:39:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JKeem left the game
+[01:39:45] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Entei has spawned in world "world", at X:-663 Y:66 Z:-1387
+[01:42:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 128 pokémon have been cleared.
+[01:43:41] [pool-3-thread-1518/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:44:11] [pool-3-thread-1522/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:44:16] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Gastly has spawned in world "world", at X:-564 Y:49 Z:-1375
+[01:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:50:10] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-606 Y:88 Z:-1392
+[01:52:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 131 pokémon have been cleared.
+[01:53:41] [pool-3-thread-1520/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:54:11] [pool-3-thread-1509/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:54:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:58:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /item 44
+[01:58:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /item 
+[01:58:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /give 
+[01:58:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /give Aboveexpert 44
+[01:59:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //wand 
+[01:59:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace sponge 44
+[02:00:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[02:00:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[02:00:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[02:03:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 128 pokémon have been cleared.
+[02:03:41] [pool-3-thread-1526/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[02:04:11] [pool-3-thread-1521/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[02:04:54] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Steelix has spawned in world "world", at X:-595 Y:70 Z:-1423
+[02:04:54] [Server thread/WARN] [Sponge]: Entity being removed for bounding box restrictions
+[02:04:54] [Server thread/WARN] [Sponge]: BB Size: 1,210 > 1,000 avg edge: 9.104
+[02:04:54] [Server thread/WARN] [Sponge]: Motion: (0, 0, 0)
+[02:04:54] [Server thread/WARN] [Sponge]: Calculated bounding box: box[-599.076000213623, 70.0, -1427.076000213623 -> -589.923999786377, 79.00800037384033, -1417.923999786377]
+[02:04:54] [Server thread/WARN] [Sponge]: Entity bounding box: null
+[02:04:54] [Server thread/WARN] [Sponge]: Entity: EntityPixelmon['Steelix'/503010, l='world', x=-594.50, y=70.00, z=-1422.50]
+[02:04:54] [Server thread/WARN] [Sponge]: Entity NBT: {EVSpeed:0s,BonusSpAttack:0,Attributes:[{Base:156.0d,Name:"generic.maxHealth"},{Base:0.0d,Name:"generic.knockbackResistance"},{Base:0.55d,Name:"generic.movementSpeed"},{Base:0.0d,Name:"generic.armor"},{Base:0.0d,Name:"generic.armorToughness"},{Base:1.0d,Name:"forge.swimSpeed"},{Base:16.0d,Name:"generic.followRange"}],Moveset:[{MoveID:449s,MovePP:15b},{MoveID:218s,MovePP:5b},{MoveID:187s,MovePP:10b},{MoveID:260s,MovePP:15b}],Invulnerable:0b,Gender:1b,Name:"Steelix",BonusDefence:0,BonusSpeed:0,IVDefence:22b,IVSpDef:8b,CaughtBall:0b,ForgeCaps:{},PersistenceRequired:0b,BonusPersistent:0b,BonusAttack:0,DoesLevel:1b,BonusSpDefence:0,Variant:0b,OwnerUUID:"",EVSpecialAttack:0s,BonusAccuracy:0,Pos:[-594.5d,70.0d,-1422.5d],IVSpeed:18b,pixelmonType:0b,Level:54,EVDefence:0s,IVAttack:13b,Growth:4b,PersistentData:{},EVSpecialDefence:0s,StatsSpecialDefence:99s,isInRanch:0b,Friendship:70s,StatsDefence:265s,EVAttack:0s,StatsSpecialAttack:75s,IVHP:22b,AbilitySlot:1b,EVHP:0s,ndex:208s,BonusCapture:0b,Nature:16b,Motion:[0.0d,0.0d,0.0d],StatsHP:156s,UUIDLeast:-4877234892113818800L,Health:156,Aggression:2b,SpecFlags:[],OnGround:0b,Dimension:0,Rotation:[2.2132125f,0.0f],BonusEvasion:0,StatsSpeed:51s,IsShiny:1b,StatsAttack:147s,UUIDMost:7209138674436558092L,IVSpAtt:21b,EXP:0}
+[02:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[02:08:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 155:2 air
+[02:12:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replcae 44 123
+[02:12:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 44 123
+[02:12:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 43 123
+[02:13:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 127 pokémon have been cleared.
+[02:13:41] [pool-3-thread-1529/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[02:14:11] [pool-3-thread-1527/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[02:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[02:21:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[02:23:41] [pool-3-thread-1534/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[02:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 123 pokémon have been cleared.
+[02:24:11] [pool-3-thread-1530/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[02:24:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[02:25:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /sponge plugins reload
+[02:25:43] [Server thread/INFO] [simpletablist]: Reloading...
+[02:25:43] [Server thread/INFO] [placeholderapi]: Reloaded PlaceholderAPI
+[02:25:43] [Server thread/INFO] [langswitch]: Reloading config...
+[02:25:43] [Server thread/INFO] [langswitch]: Setting default locale to en_us
+[02:25:43] [Server thread/INFO] [langswitch]: Reloading translation files...
+[02:25:43] [Server thread/INFO] [langswitch]: Loading translations for vshop in en_US...
+[02:25:43] [Server thread/INFO] [langswitch]: No country specifig translations for English, switching to en.lang
+[02:25:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (blacklist.items)... Adding it!
+[02:25:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.new-listing.webhooks)... Adding it!
+[02:25:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.sell-listing.webhooks)... Adding it!
+[02:25:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.listing-expire.webhooks)... Adding it!
+[02:25:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GTS (Warning) Found missing config option (discord.notifications.listing-remove.webhooks)... Adding it!
+[02:25:43] [Server thread/INFO] [griefdefender]: Loading configuration...
+[02:25:43] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+[02:25:43] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+[02:25:43] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+[02:25:43] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+[02:25:43] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+[02:25:43] [Server thread/INFO] [nucleus]: Nucleus language set to "en-GB"
+[02:25:43] [Server thread/INFO] [webapi]: Reloading Web-API v5.4.5-S7.1.0...
+[02:25:43] [Server thread/INFO] [webapi]: Stopped ServerConnector@40c4a26{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+[02:25:43] [Server thread/INFO] [webapi]: Stopped ServerConnector@1a5ba63e{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+[02:25:43] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.ServletContextHandler@41f2b040{/api/v5,null,UNAVAILABLE}
+[02:25:43] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@6c54d33{/admin,null,UNAVAILABLE}
+[02:25:43] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@b870724{/,null,UNAVAILABLE}
+[02:25:43] [Server thread/INFO] [webapi]: Stopped v.w.s.o.e.j.s.h.ContextHandler@26bfa011{/docs,null,UNAVAILABLE}
+[02:25:43] [Server thread/INFO] [webapi]: Loading configuration...
+[02:25:43] [Server thread/INFO] [webapi]: Loading keys & permissions...
+[02:25:43] [Server thread/INFO] [webapi]: Loading serializers...
+[02:25:43] [Server thread/INFO] [webapi]: Done loading serializers
+[02:25:43] [Server thread/INFO] [webapi]: Registering servlets...
+[02:25:43] [Server thread/INFO] [webapi]: Loading users...
+[02:25:43] [Server thread/INFO] [webapi]: Initializing web hooks...
+[02:25:43] [Server thread/INFO] [webapi]: Loading filters...
+[02:25:43] [Server thread/INFO] [webapi]: Done loading filters
+[02:25:43] [Server thread/INFO] [webapi]:   - http://localhost/test
+[02:25:43] [Server thread/INFO] [webapi]:     -> Disabled
+[02:25:43] [Server thread/INFO] [webapi]:   - http://localhost/test/{player}
+[02:25:43] [Server thread/INFO] [webapi]:     -> Disabled
+[02:25:43] [Server thread/INFO] [webapi]: Registering commands...
+[02:25:43] [Server thread/INFO] [webapi]: Starting Web Server...
+[02:25:43] [Server thread/WARN] [webapi]: You are using an HTTP port < 1024 which is not recommended! 
+This might cause errors when not running the server as root/admin. 
+Running the server as root/admin is not recommended. Please use a port above 1024 for HTTP.
+[02:25:43] [Server thread/WARN] [webapi]: v.w.s.o.e.j.s.h.ContextHandler@366edf3b{/,null,UNAVAILABLE} contextPath ends with /
+[02:25:45] [Server thread/INFO] [webapi]: jetty-9.4.z-SNAPSHOT, build timestamp: 2017-11-21T21:27:37Z, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+[02:25:45] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@729475b6{/docs,null,AVAILABLE}
+[02:25:45] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@69a9ed2f{/,null,AVAILABLE}
+[02:25:45] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.h.ContextHandler@366edf3b{/admin,null,AVAILABLE}
+[02:25:48] [Server thread/INFO] [webapi]: Started v.w.s.o.e.j.s.ServletContextHandler@72f57a2{/api/v5,null,AVAILABLE}
+[02:25:48] [Server thread/INFO] [webapi]: Started ServerConnector@2a418441{HTTP/1.1,[http/1.1]}{0.0.0.0:80}
+[02:25:49] [Server thread/INFO] [webapi]: x509=X509@29c29cc1(selfsigned,h=[],w=[]) for SslContextFactory@7b8f9d15[provider=null,keyStore=jar:file:/opt/pixelmon/forge/./mods/plugins/webapi-5.4.5-S7.1.0.jar!/assets/webapi/keystore.jks,trustStore=null]
+[02:25:49] [Server thread/INFO] [webapi]: Started ServerConnector@7b3c0a5c{SSL,[ssl, http/1.1]}{0.0.0.0:8081}
+[02:25:49] [Server thread/INFO] [webapi]: Started @357796234ms
+[02:25:49] [Server thread/INFO] [webapi]: AdminPanel: https://0.0.0.0:8081/admin/
+[02:25:49] [Server thread/INFO] [webapi]: API Docs: https://0.0.0.0:8081/docs
+[02:25:49] [Server thread/INFO] [webapi]: Reloaded Web-API
+[02:25:49] [Server thread/INFO] [griefdefender]: Loading configuration...
+[02:25:49] [Server thread/INFO] [griefdefender]: Loading schematics for world world...
+[02:25:49] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM-1...
+[02:25:49] [Server thread/INFO] [griefdefender]: Loading schematics for world DIM1...
+[02:25:49] [Server thread/INFO] [griefdefender]: Loading schematics for world build...
+[02:25:49] [Server thread/INFO] [griefdefender]: Loading schematics for world ultra...
+[02:25:49] [pool-3-thread-1534/WARN] [webapi]: ------- Web-API Update -------
+[02:25:49] [pool-3-thread-1534/WARN] [webapi]: Latest: 5.4.6
+[02:25:49] [pool-3-thread-1534/WARN] [webapi]: Current: 5.4.5
+[02:25:49] [pool-3-thread-1534/WARN] [webapi]: ---------- Changes -----------
+[02:25:49] [pool-3-thread-1534/WARN] [webapi]: - Fix issue with hook events
+[02:25:49] [pool-3-thread-1534/WARN] [webapi]: ------------------------------
+[02:25:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6057ms behind, skipping 121 tick(s)
+[02:27:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[02:27:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[02:27:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /anvil 
+[02:28:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //UNDO 
+[02:28:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /ANVIL 
+[02:28:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[02:28:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /anvil 
+[02:29:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere dirt 5
+[02:29:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
