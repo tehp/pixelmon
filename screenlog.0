@@ -11702,4 +11702,76 @@ Running the server as root/admin is not recommended. Please use a port above 102
 > [K[21:24:43] [pool-3-thread-1827/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[21:25:13] [pool-3-thread-1845/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[21:25:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:30:30] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m110 pokémon have been cleared.[39;0m[39;0m
+> [K[21:30:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+> [K[21:31:57] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA legendary Entei has spawned in world "world", at X:-689 Y:70 Z:-1395[39;0m
+> [K[21:32:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //wand 
+> [K[21:33:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[21:33:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[21:33:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[21:34:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[21:34:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[21:34:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[21:34:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[21:34:43] [pool-3-thread-1848/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:34:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[21:34:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[21:35:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[21:35:13] [pool-3-thread-1854/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:35:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls quartzblock
+> [K[21:35:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls quartzblock
+> [K[21:35:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls quartzblock
+> [K[21:35:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:35:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls quartzblock
+> [K[21:36:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[21:36:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+> [K[21:40:48] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m112 pokémon have been cleared.[39;0m[39;0m
+> [K[21:41:17] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Castform has spawned in world "world", at X:-652 Y:104 Z:-1466[39;0m
+> [K[21:41:32] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-644 Y:88 Z:-1391[39;0m
+> [K[21:44:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set redstone
+> [K[21:44:43] [pool-3-thread-1849/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:45:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 123
+> [K[21:45:13] [pool-3-thread-1849/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:45:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:45:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+> [K[33;1m[21:47:42] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2934ms behind, skipping 58 tick(s)
+[39;0m> [K[21:49:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set redstonetorch
+> [K[21:51:09] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m115 pokémon have been cleared.[39;0m[39;0m
+> [K[21:51:54] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Loudred has spawned in world "world", at X:-579 Y:87 Z:-1478[39;0m
+> [K[21:54:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[21:54:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[21:54:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+> [K[21:54:43] [pool-3-thread-1847/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:54:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[21:55:13] [pool-3-thread-1854/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:55:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m1 items have been cleared.[39;0m[39;0m
+> [K[22:01:27] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m97 pokémon have been cleared.[39;0m[39;0m
+> [K[22:04:43] [pool-3-thread-1865/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:05:13] [pool-3-thread-1865/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:05:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:06:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[22:06:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[22:06:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+> [K[22:07:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace air cobblestone
+> [K[22:11:44] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m97 pokémon have been cleared.[39;0m[39;0m
+> [K[22:11:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17:1 17
+> [K[22:13:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[22:13:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[22:14:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[22:14:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[22:14:43] [pool-3-thread-1868/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:14:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:14:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[22:14:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17 17:1
+> [K[22:15:13] [pool-3-thread-1867/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:15:47] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:16:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[22:16:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[22:16:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[22:17:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+> [K[22:17:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear 10000000
+> [K[22:22:02] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m98 pokémon have been cleared.[39;0m[39;0m
+> [K[22:24:43] [pool-3-thread-1862/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:25:13] [pool-3-thread-1869/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:25:47] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m1 items have been cleared.[39;0m[39;0m
 > 

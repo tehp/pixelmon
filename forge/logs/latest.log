@@ -972,3 +972,75 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [21:24:43] [pool-3-thread-1827/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [21:25:13] [pool-3-thread-1845/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [21:25:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:30:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 110 pokémon have been cleared.
+[21:30:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[21:31:57] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Entei has spawned in world "world", at X:-689 Y:70 Z:-1395
+[21:32:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //wand 
+[21:33:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[21:33:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[21:33:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[21:34:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[21:34:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[21:34:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[21:34:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[21:34:43] [pool-3-thread-1848/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:34:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[21:34:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[21:35:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[21:35:13] [pool-3-thread-1854/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:35:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls quartzblock
+[21:35:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls quartzblock
+[21:35:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls quartzblock
+[21:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:35:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //walls quartzblock
+[21:36:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[21:36:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+[21:40:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 112 pokémon have been cleared.
+[21:41:17] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Castform has spawned in world "world", at X:-652 Y:104 Z:-1466
+[21:41:32] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-644 Y:88 Z:-1391
+[21:44:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set redstone
+[21:44:43] [pool-3-thread-1849/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:45:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 123
+[21:45:13] [pool-3-thread-1849/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:45:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:45:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[21:47:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2934ms behind, skipping 58 tick(s)
+[21:49:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set redstonetorch
+[21:51:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 115 pokémon have been cleared.
+[21:51:54] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Loudred has spawned in world "world", at X:-579 Y:87 Z:-1478
+[21:54:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[21:54:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[21:54:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+[21:54:43] [pool-3-thread-1847/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:54:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[21:55:13] [pool-3-thread-1854/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[22:01:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 97 pokémon have been cleared.
+[22:04:43] [pool-3-thread-1865/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:05:13] [pool-3-thread-1865/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:05:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:06:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[22:06:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[22:06:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+[22:07:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace air cobblestone
+[22:11:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 97 pokémon have been cleared.
+[22:11:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17:1 17
+[22:13:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[22:13:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[22:14:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[22:14:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[22:14:43] [pool-3-thread-1868/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:14:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[22:14:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[22:14:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17 17:1
+[22:15:13] [pool-3-thread-1867/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:15:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:16:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[22:16:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[22:16:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[22:17:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[22:17:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear 10000000
+[22:22:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 98 pokémon have been cleared.
+[22:24:43] [pool-3-thread-1862/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:25:13] [pool-3-thread-1869/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:25:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
