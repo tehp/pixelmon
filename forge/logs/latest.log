@@ -874,3 +874,101 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [20:25:13] [pool-3-thread-1819/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [20:25:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
 [20:28:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 82 pokémon have been cleared.
+[20:34:16] [User Authenticator #16/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[20:34:16] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[20:34:16] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[20:34:16] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[20:34:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:34:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:52378] logged in with entity id [609435] in world (minecraft:overworld/0) at (-534.1584093190056, 109.50686054402445, -1516.445552040671).
+[20:34:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[20:34:43] [pool-3-thread-1821/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:34:57] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Phanpy has spawned in world "world", at X:-569 Y:115 Z:-1560
+[20:35:13] [pool-3-thread-1816/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:38:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+[20:38:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert butchered 64 pixelmon!]
+[20:38:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 31 pokémon have been cleared.
+[20:43:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[20:44:43] [pool-3-thread-1829/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:45:13] [pool-3-thread-1820/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:45:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[20:48:20] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Steelix has spawned in world "world", at X:-483 Y:105 Z:-1561
+[20:49:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 64 pokémon have been cleared.
+[20:49:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[20:49:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A shiny Phanpy has spawned in world "world", at X:-481 Y:101 Z:-1448
+[20:49:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[20:49:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 159 60%stone,40%1:5
+[20:51:56] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Entei has spawned in world "world", at X:-524 Y:92 Z:-1518
+[20:52:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[20:52:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[20:52:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 159 60%stone,40%1:5
+[20:53:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush smooth 3
+[20:53:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 6
+[20:53:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 3
+[20:53:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[20:54:43] [pool-3-thread-1827/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:54:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 2
+[20:55:13] [pool-3-thread-1833/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[20:56:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 5
+[20:59:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 65 pokémon have been cleared.
+[21:00:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush smooth 5
+[21:02:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+[21:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert left the game
+[21:02:18] [User Authenticator #17/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[21:02:19] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:02:19] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[21:02:19] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[21:02:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:02:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:52528] logged in with entity id [613455] in world (minecraft:overworld/0) at (-531.287112967665, 90.16711005983515, -1541.0610057219287).
+[21:02:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[21:03:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[21:03:17] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Aerodactyl has spawned in world "world", at X:-520 Y:124 Z:-1555
+[21:04:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[21:04:43] [pool-3-thread-1841/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:04:46] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Staravia has spawned in world "world", at X:-482 Y:131 Z:-1508
+[21:04:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[21:04:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace leaves air
+[21:05:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 38 air
+[21:05:13] [pool-3-thread-1841/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:05:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 12 items have been cleared.
+[21:06:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //wand 
+[21:07:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace dirt 60%stone,40%1:5
+[21:07:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace sand 60%stone,40%1:5
+[21:07:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace sand 60%stone,40%1:5
+[21:07:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace dirt 60%stone,40%1:5
+[21:07:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace grass 60%stone,40%1:5
+[21:07:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace dirt 60%stone,40%1:5
+[21:08:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere grass 4
+[21:08:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask sand
+[21:08:23] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Entei has spawned in world "world", at X:-580 Y:108 Z:-1571
+[21:09:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 73 pokémon have been cleared.
+[21:10:06] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Jangmo-o has spawned in world "world", at X:-469 Y:118 Z:-1534
+[21:10:34] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Staravia has spawned in world "world", at X:-516 Y:119 Z:-1563
+[21:14:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere 60%stone,40%1:5
+[21:14:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere 60%stone,40%1:5 5
+[21:14:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask grass
+[21:14:43] [pool-3-thread-1843/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:14:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask dirt
+[21:14:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask dirt,grass
+[21:15:13] [pool-3-thread-1846/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:15:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 3 items have been cleared.
+[21:17:14] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Drifloon has spawned in world "world", at X:-470 Y:121 Z:-1486
+[21:17:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //po1 
+[21:17:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[21:18:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[21:18:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 31 air
+[21:18:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //overlay grass
+[21:18:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[21:18:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //overlay 31:1
+[21:18:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[21:19:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[21:19:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 4000
+[21:20:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 38 pokémon have been cleared.
+[21:21:04] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Charizard has spawned in world "world", at X:-536 Y:94 Z:-1483
+[21:22:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+[21:22:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert butchered 85 pixelmon!]
+[21:23:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /re -i
+[21:24:43] [pool-3-thread-1827/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:25:13] [pool-3-thread-1845/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:25:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
