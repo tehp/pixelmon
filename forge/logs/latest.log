@@ -55,3 +55,137 @@
 [00:24:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 169 items have been cleared.
 [00:28:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
 [00:29:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:30:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 2
+[00:30:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 79 pokémon have been cleared.
+[00:30:31] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Whismur has spawned in world "world", at X:-631 Y:66 Z:-1407
+[00:31:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:31:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:31:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:32:05] [User Authenticator #14/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player JKeem is bd8d2614-aab2-4805-acd2-0bf98bfb9457
+[00:32:05] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:32:05] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 9 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,lunatriuscore@1.2.0.42,variedcommodities@1.12.2,pixelmon@7.2.2
+[00:32:05] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[00:32:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:32:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: JKeem [/70.68.235.88:58151] logged in with entity id [478942] in world (minecraft:overworld/0) at (-612.2476418141922, 67.12811603472409, -1383.9147994701716).
+[00:32:06] [Server thread/WARN] [nucleus]: The player JKeem has got either the nucleus wildcard or the * wildcard permission. This may cause unintended side effects.
+[00:32:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JKeem joined the game
+[00:33:41] [pool-3-thread-1491/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:34:11] [pool-3-thread-1498/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:34:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+[00:34:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert butchered 150 pixelmon!]
+[00:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 60 items have been cleared.
+[00:34:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3301ms behind, skipping 66 tick(s)
+[00:35:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:35:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:36:12] [Server thread/INFO] [nucleus]: JKeem ran the command: /bp 
+[00:36:13] [Server thread/INFO] [nucleus]: JKeem ran the command: /bp 
+[00:36:14] [Server thread/INFO] [nucleus]: JKeem ran the command: /ec 
+[00:36:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /bp 
+[00:36:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /backpack 
+[00:36:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:38:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: JKeem died
+[00:38:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] MacCraig: i am
+[00:40:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 165 pokémon have been cleared.
+[00:41:22] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Druddigon has spawned in world "world", at X:-563 Y:89 Z:-1487
+[00:41:51] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Aerodactyl has spawned in world "world", at X:-651 Y:75 Z:-1383
+[00:42:14] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player JKeem started fighting a boss Aerodactyl in world "world", at X:-660 Y:75 Z:-1344
+[00:42:22] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player JKeem fled from a boss Aerodactyl in world "world", at X:-660 Y:82 Z:-1340
+[00:42:33] [Server thread/INFO] [nucleus]: JKeem ran the command: /pokeedit JKeem 1 lvl:200
+[00:42:37] [Server thread/INFO] [nucleus]: JKeem ran the command: /pokeheal 
+[00:42:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JKeem: JKeem successfully healed JKeem's Pokémon!]
+[00:43:41] [pool-3-thread-1492/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:43:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere 45%stone,30%1:5,25%gravel 6
+[00:43:45] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player JKeem started fighting a boss Aerodactyl in world "world", at X:-677 Y:75 Z:-1307
+[00:43:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask sand
+[00:44:08] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player JKeem fled from a boss Aerodactyl in world "world", at X:-678 Y:81 Z:-1304
+[00:44:11] [pool-3-thread-1491/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:44:11] [Server thread/INFO] [nucleus]: JKeem ran the command: /pokeheal 
+[00:44:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JKeem: JKeem successfully healed JKeem's Pokémon!]
+[00:44:13] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player JKeem started fighting a boss Aerodactyl in world "world", at X:-667 Y:75 Z:-1301
+[00:44:41] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player JKeem was knocked out by a boss Aerodactyl in world "world", at X:-672 Y:81 Z:-1301
+[00:44:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere grass 6
+[00:44:43] [Server thread/INFO] [nucleus]: JKeem ran the command: /pokeheal 
+[00:44:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [JKeem: JKeem successfully healed JKeem's Pokémon!]
+[00:44:44] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player JKeem started fighting a boss Aerodactyl in world "world", at X:-673 Y:75 Z:-1301
+[00:44:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask sand
+[00:44:51] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player JKeem defeated a boss Aerodactyl in world "world", at X:-675 Y:81 Z:-1301
+[00:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 11 items have been cleared.
+[00:45:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:45:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:45:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:45:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:45:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:45:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:49:20] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Entei has spawned in world "world", at X:-646 Y:66 Z:-1318
+[00:51:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 153 pokémon have been cleared.
+[00:51:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /catclearlag:re 
+[00:51:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /catclearlag:re -i
+[00:51:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /anvil 
+[00:52:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:52:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /anvil 
+[00:53:41] [pool-3-thread-1492/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:54:11] [pool-3-thread-1502/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:54:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[00:56:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[00:56:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //wand 
+[00:57:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[00:57:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[00:57:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[00:57:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[00:58:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[00:58:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[00:58:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[00:58:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[00:59:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[00:59:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[00:59:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[00:59:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[00:59:32] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-620 Y:89 Z:-1345
+[00:59:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[01:00:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 5
+[01:00:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 7
+[01:00:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 8
+[01:00:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 3
+[01:00:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //stack 4
+[01:01:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+[01:01:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert butchered 208 pixelmon!]
+[01:01:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 9 pokémon have been cleared.
+[01:03:41] [pool-3-thread-1492/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:03:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 5:1
+[01:03:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:03:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set quartzblock
+[01:04:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace air 5:1
+[01:04:11] [pool-3-thread-1491/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:04:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:07:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+[01:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert butchered 180 pixelmon!]
+[01:07:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Graveler has spawned in world "world", at X:-654 Y:76 Z:-1440
+[01:07:23] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Geodude has spawned in world "world", at X:-665 Y:66 Z:-1309
+[01:07:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace sponge 159:11
+[01:07:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:08:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace sponge 159:9
+[01:11:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[01:11:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[01:11:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 178 pokémon have been cleared.
+[01:13:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 160
+[01:13:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 160
+[01:13:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 160
+[01:13:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 160
+[01:13:41] [pool-3-thread-1492/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:14:11] [pool-3-thread-1509/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:14:32] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A shiny Staravia has spawned in world "world", at X:-664 Y:103 Z:-1289
+[01:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:15:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace !159 air
+[01:16:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 5:1
+[01:16:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 5:1
+[01:19:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[01:19:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[01:19:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //flip 
+[01:19:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[01:22:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 181 pokémon have been cleared.
+[01:22:11] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Sableye has spawned in world "world", at X:-606 Y:60 Z:-1442
+[01:23:41] [pool-3-thread-1502/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:24:11] [pool-3-thread-1516/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:24:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[01:27:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 1,gravel,cobblestone sponge
+[01:29:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace sponge 43%stone,29%1:5,23%gravel,1%diamondore,1%redstoneore,1%emeraldore,1%coalore
