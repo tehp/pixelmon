@@ -12482,4 +12482,79 @@ Running the server as root/admin is not recommended. Please use a port above 102
 > [K[21:24:43] [pool-3-thread-2197/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[21:25:13] [pool-3-thread-2197/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[21:25:50] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:34:04] [User Authenticator #19/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[21:34:04] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+> [K[21:34:04] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[21:34:04] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[21:34:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[21:34:04] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:56220] logged in with entity id [724743] in world (minecraft:overworld/0) at (-576.8973832278451, 66.0, -1366.6533017186994).
+> [K[21:34:05] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[21:34:07] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m79 pokémon have been cleared.[39;0m[39;0m
+> [K[21:34:43] [pool-3-thread-2201/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:34:47] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Steelix has spawned in world "world", at X:-528 Y:74 Z:-1333[39;0m
+> [K[21:35:13] [pool-3-thread-2199/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:35:46] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;34;1mPlayer Aboveexpert started fighting a boss trainer in world "world", at X:-579 Y:66 Z:-1368[39;0m
+> [K[21:35:50] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:36:21] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;33;22mPlayer Aboveexpert was knocked out by a boss trainer in world "world", at X:-579 Y:66 Z:-1368[39;0m
+> [K[21:36:47] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA legendary Diancie has spawned in world "world", at X:-631 Y:50 Z:-1373[39;0m
+> [K[21:37:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /thru 
+> [K[21:38:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /re -i
+> [K[21:38:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /top 
+> [K[21:40:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+> [K[21:40:08] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3mAboveexpert butchered 122 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[21:42:11] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Geodude has spawned in world "world", at X:-696 Y:70 Z:-1302[39;0m
+> [K[21:44:25] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m113 pokémon have been cleared.[39;0m[39;0m
+> [K[21:44:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+> [K[21:44:33] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m successfully healed [39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m's Pokémon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[21:44:44] [pool-3-thread-2205/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:45:13] [pool-3-thread-2207/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:45:50] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:46:40] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-638 Y:91 Z:-1345[39;0m
+> [K[21:48:21] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;34;1mPlayer Aboveexpert started fighting a boss trainer in world "world", at X:-589 Y:66 Z:-1371[39;0m
+> [K[21:51:02] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;33;22mPlayer Aboveexpert was knocked out by a boss trainer in world "world", at X:-589 Y:66 Z:-1371[39;0m
+> [K[21:51:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+> [K[21:51:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m successfully healed [39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m's Pokémon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[21:51:16] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;34;1mPlayer Aboveexpert started fighting a boss trainer in world "world", at X:-591 Y:66 Z:-1371[39;0m
+> [K[21:52:05] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;33;1mPlayer Aboveexpert fled from a boss trainer in world "world", at X:-591 Y:66 Z:-1371[39;0m
+> [K[21:52:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+> [K[21:52:08] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m successfully healed [39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m's Pokémon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[21:52:09] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;34;1mPlayer Aboveexpert started fighting a boss trainer in world "world", at X:-588 Y:66 Z:-1371[39;0m
+> [K[21:54:41] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;33;1mPlayer Aboveexpert fled from a boss trainer in world "world", at X:-588 Y:66 Z:-1371[39;0m
+> [K[21:54:43] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m128 pokémon have been cleared.[39;0m[39;0m
+> [K[21:54:44] [pool-3-thread-2208/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:54:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+> [K[21:54:45] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m successfully healed [39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m's Pokémon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[21:55:13] [pool-3-thread-2213/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:55:50] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:55:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+> [K[21:59:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[21:59:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[21:59:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:02:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+> [K[22:04:44] [pool-3-thread-2209/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:05:02] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m124 pokémon have been cleared.[39;0m[39;0m
+> [K[22:05:07] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Machop has spawned in world "world", at X:-539 Y:68 Z:-1352[39;0m
+> [K[22:05:13] [pool-3-thread-2208/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:05:51] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:08:12] [pool-3-thread-2213/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[22:09:59] [pool-3-thread-2216/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[22:10:21] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Drifloon has spawned in world "world", at X:-589 Y:99 Z:-1293[39;0m
+> [K[22:14:44] [pool-3-thread-2205/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:15:13] [pool-3-thread-2209/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:15:14] [pool-3-thread-2215/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[22:15:20] [pool-3-thread-2211/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[22:15:21] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m114 pokémon have been cleared.[39;0m[39;0m
+> [K[22:15:30] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Hitmonchan has spawned in world "world", at X:-653 Y:85 Z:-1287[39;0m
+> [K[22:15:51] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:17:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+> [K[22:17:14] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;34;1mPlayer Aboveexpert started fighting a boss trainer in world "world", at X:-629 Y:89 Z:-1297[39;0m
+> [K[22:20:45] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;33;22mPlayer Aboveexpert was knocked out by a boss trainer in world "world", at X:-629 Y:89 Z:-1297[39;0m
+> [K[22:24:44] [pool-3-thread-2220/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:25:13] [pool-3-thread-2205/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:25:39] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m116 pokémon have been cleared.[39;0m[39;0m
+> [K[22:25:40] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Geodude has spawned in world "world", at X:-618 Y:66 Z:-1326[39;0m
+> [K[22:25:51] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:27:00] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Clefairy has spawned in world "world", at X:-680 Y:83 Z:-1255[39;0m
+> [K[22:27:34] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-613 Y:86 Z:-1349[39;0m
+> [K[22:28:15] [pool-3-thread-2205/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
 > 
