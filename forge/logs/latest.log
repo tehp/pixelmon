@@ -652,3 +652,70 @@
 [22:27:00] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Clefairy has spawned in world "world", at X:-680 Y:83 Z:-1255
 [22:27:34] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-613 Y:86 Z:-1349
 [22:28:15] [pool-3-thread-2205/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[22:30:12] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Diancie has spawned in world "world", at X:-616 Y:71 Z:-1309
+[22:34:44] [pool-3-thread-2218/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:35:13] [pool-3-thread-2218/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:35:21] [pool-3-thread-2209/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[22:35:35] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Hitmonlee has spawned in world "world", at X:-562 Y:82 Z:-1303
+[22:35:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:35:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 116 pokémon have been cleared.
+[22:39:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+[22:39:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully healed Aboveexpert's Pokémon!]
+[22:39:10] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss trainer in world "world", at X:-629 Y:89 Z:-1299
+[22:41:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert defeated a boss trainer in world "world", at X:-629 Y:89 Z:-1299
+[22:41:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+[22:41:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully healed Aboveexpert's Pokémon!]
+[22:41:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pc 
+[22:41:58] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss trainer in world "world", at X:-628 Y:89 Z:-1300
+[22:42:17] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert was knocked out by a boss trainer in world "world", at X:-628 Y:89 Z:-1300
+[22:42:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+[22:42:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully healed Aboveexpert's Pokémon!]
+[22:43:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pc 
+[22:44:44] [pool-3-thread-2225/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:45:13] [pool-3-thread-2227/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:45:18] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss Aron in world "world", at X:-593 Y:69 Z:-1406
+[22:45:20] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert defeated a boss Aron in world "world", at X:-587 Y:74 Z:-1402
+[22:45:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 2 items have been cleared.
+[22:46:02] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss Diancie in world "world", at X:-637 Y:71 Z:-1313
+[22:46:06] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert defeated a boss Diancie in world "world", at X:-635 Y:78 Z:-1323
+[22:46:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 84 pokémon have been cleared.
+[22:53:00] [pool-3-thread-2229/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[22:53:16] [pool-3-thread-2209/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[22:54:44] [pool-3-thread-2230/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:55:13] [pool-3-thread-2227/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:55:37] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss Durant in world "world", at X:-625 Y:66 Z:-1346
+[22:55:39] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert defeated a boss Durant in world "world", at X:-622 Y:68 Z:-1353
+[22:55:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+[22:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully healed Aboveexpert's Pokémon!]
+[22:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 6 items have been cleared.
+[22:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 105 pokémon have been cleared.
+[23:01:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[23:01:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[23:01:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+[23:01:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[23:01:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[23:02:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[23:02:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+[23:02:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set 45%stone,30%1:5,25%gravel
+[23:03:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 1:0 80%1:0,20%cobblestone
+[23:03:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[23:04:44] [pool-3-thread-2233/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[23:05:13] [pool-3-thread-2224/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[23:05:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[23:06:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 138 pokémon have been cleared.
+[23:07:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[23:07:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[23:14:44] [pool-3-thread-2209/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[23:15:13] [pool-3-thread-2234/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[23:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[23:17:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 133 pokémon have been cleared.
+[23:24:44] [pool-3-thread-2209/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[23:25:13] [pool-3-thread-2230/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[23:25:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[23:25:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[23:25:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[23:25:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //flip 
+[23:25:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[23:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[23:27:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 126 pokémon have been cleared.
+[23:29:04] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Charizard has spawned in world "world", at X:-592 Y:79 Z:-1405
