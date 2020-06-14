@@ -2276,6 +2276,12 @@
     },
     "done": false
   },
+  "pixelmon:wild_battle_victories/wild_battle_victory_50": {
+    "criteria": {
+      "wild_battle_victory_50": "2020-06-13 23:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-05-24 19:44:58 +0000"
