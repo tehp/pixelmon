@@ -26,3 +26,41 @@
 [00:27:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
 [00:27:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
 [00:27:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[00:31:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+[00:31:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert butchered 130 pixelmon!]
+[00:34:43] [pool-3-thread-1912/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:35:13] [pool-3-thread-1900/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:35:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[00:36:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 122 pokémon have been cleared.
+[00:39:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+[00:44:43] [pool-3-thread-1914/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:44:52] [pool-3-thread-1916/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[00:44:59] [pool-3-thread-1915/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[00:45:13] [pool-3-thread-1904/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:45:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[00:46:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 90 pokémon have been cleared.
+[00:50:05] [pool-3-thread-1912/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[00:54:43] [pool-3-thread-1920/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:55:13] [pool-3-thread-1921/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:55:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[00:56:39] [pool-3-thread-1921/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[00:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 84 pokémon have been cleared.
+[01:01:48] [pool-3-thread-1912/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[01:04:43] [pool-3-thread-1915/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:05:13] [pool-3-thread-1919/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:05:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:06:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 100 pokémon have been cleared.
+[01:13:29] [pool-3-thread-1919/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[01:14:43] [pool-3-thread-1912/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:15:13] [pool-3-thread-1923/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:15:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[01:15:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 116 pokémon have been cleared.
+[01:19:16] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Durant has spawned in world "world", at X:-589 Y:59 Z:-1320
+[01:23:23] [pool-3-thread-1922/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[01:24:43] [pool-3-thread-1928/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:25:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+[01:25:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert left the game
+[01:25:13] [pool-3-thread-1923/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:25:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:27:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 82 pokémon have been cleared.
