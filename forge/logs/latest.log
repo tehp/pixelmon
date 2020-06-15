@@ -114,3 +114,42 @@
 [04:25:13] [pool-3-thread-2301/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [04:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
 [04:26:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 84 pokémon have been cleared.
+[04:34:44] [pool-3-thread-2303/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:35:13] [pool-3-thread-2308/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:35:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:36:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 80 pokémon have been cleared.
+[04:44:44] [pool-3-thread-2305/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:45:13] [pool-3-thread-2308/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:45:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:46:47] [User Authenticator #20/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[04:46:47] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[04:46:47] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[04:46:47] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[04:46:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:46:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:59482] logged in with entity id [753131] in world (minecraft:overworld/0) at (-657.0090570553094, 66.5, -1379.3457454579677).
+[04:46:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[04:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 75 pokémon have been cleared.
+[04:47:20] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-612 Y:88 Z:-1391
+[04:54:44] [pool-3-thread-2311/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:55:13] [pool-3-thread-2315/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 8 items have been cleared.
+[04:57:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 42 pokémon have been cleared.
+[05:02:52] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Pidgeot has spawned in world "world", at X:-564 Y:78 Z:-1665
+[05:03:12] [pool-3-thread-2311/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[05:04:44] [pool-3-thread-2319/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:05:13] [pool-3-thread-2318/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:05:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:07:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 65 pokémon have been cleared.
+[05:07:44] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Wurmple has spawned in world "world", at X:-572 Y:70 Z:-1677
+[05:14:44] [pool-3-thread-2311/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:15:13] [pool-3-thread-2324/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:15:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:17:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 63 pokémon have been cleared.
+[05:24:16] [pool-3-thread-2325/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[05:24:44] [pool-3-thread-2333/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:25:13] [pool-3-thread-2334/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:25:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:28:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 60 pokémon have been cleared.
+[05:29:16] [pool-3-thread-2338/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[05:29:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+[05:29:46] [pool-3-thread-2325/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
