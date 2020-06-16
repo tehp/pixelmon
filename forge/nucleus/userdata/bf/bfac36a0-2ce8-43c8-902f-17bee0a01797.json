@@ -59,7 +59,7 @@
   "jailOnNextLogin": false,
   "invulnerable": false,
   "lastKnownName": "IkDik",
-  "lastLogin": 1590875554840,
+  "lastLogin": 1592270838865,
   "lastLogout": 1590885333991,
   "lastIP": "/205.250.155.247",
   "firstJoin": 1590363757353,
@@ -76,5 +76,7 @@
     "rotz": 0.0,
     "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
   },
-  "warnings": []
+  "warnings": [],
+  "mail": [],
+  "notes": []
 }

@@ -13302,4 +13302,89 @@ Running the server as root/admin is not recommended. Please use a port above 102
 > [K[00:29:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
 > [K[00:29:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17,leaves,161,162 air
 > [K[00:29:33] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Stunky has spawned in world "world", at X:-599 Y:73 Z:-1676[39;0m
+> [K[00:31:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[00:31:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[00:31:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //biome list
+> [K[00:31:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /biome list
+> [K[00:31:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //listbiome 
+> [K[00:31:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //biomelist 
+> [K[00:31:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //biomes 
+> [K[00:31:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /biomelist 
+> [K[00:31:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+> [K[00:32:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /spawn 
+> [K[00:32:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[00:32:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m27 pokémon have been cleared.[39;0m[39;0m
+> [K[00:33:19] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-488 Y:92 Z:-1664[39;0m
+> [K[00:34:44] [pool-3-thread-2636/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[00:35:13] [pool-3-thread-2635/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[00:35:55] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m7 items have been cleared.[39;0m[39;0m
+> [K[00:43:16] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m20 pokémon have been cleared.[39;0m[39;0m
+> [K[00:44:44] [pool-3-thread-2640/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[00:45:13] [pool-3-thread-2642/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[00:45:55] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m4 items have been cleared.[39;0m[39;0m
+> [K[00:47:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere dirt 67
+> [K[00:47:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere dirt 66
+> [K[00:47:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere dirt 6
+> [K[00:47:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[00:47:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[00:47:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 6
+> [K[00:48:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 4
+> [K[00:49:09] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA legendary Necrozma has spawned in world "world", at X:-508 Y:66 Z:-1766[39;0m
+> [K[00:49:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush cyl sand 5 1
+> [K[00:49:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[00:50:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[00:51:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[00:52:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[00:52:06] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+> [K[00:52:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[00:53:34] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m83 pokémon have been cleared.[39;0m[39;0m
+> [K[00:54:44] [pool-3-thread-2647/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[00:55:13] [pool-3-thread-2648/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[00:55:55] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[01:03:53] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m80 pokémon have been cleared.[39;0m[39;0m
+> [K[01:04:44] [pool-3-thread-2649/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[01:05:13] [pool-3-thread-2650/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[01:05:55] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[01:13:55] [User Authenticator #23/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[01:13:55] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+> [K[01:13:55] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[01:13:55] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[01:13:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[01:13:55] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:51921] logged in with entity id [861882] in world (minecraft:overworld/0) at (-546.6999999880791, 68.0, -1757.300000011921).
+> [K[01:13:55] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[01:14:10] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Hoothoot has spawned in world "world", at X:-482 Y:77 Z:-1772[39;0m
+> [K[01:14:11] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m30 pokémon have been cleared.[39;0m[39;0m
+> [K[01:14:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /anvil 
+> [K[01:14:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush smooth 6
+> [K[01:14:44] [pool-3-thread-2652/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[01:14:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 6
+> [K[01:14:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 3
+> [K[01:14:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush cyl sand 5 1
+> [K[01:15:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 6
+> [K[01:15:13] [pool-3-thread-2652/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[01:15:55] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m93 items have been cleared.[39;0m[39;0m
+> [K[01:17:22] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Burmy has spawned in world "world", at X:-606 Y:72 Z:-1689[39;0m
+> [K[01:17:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[01:17:30] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Burmy has spawned in world "world", at X:-534 Y:71 Z:-1675[39;0m
+> [K[01:21:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //sphere air 20
+> [K[01:22:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[01:22:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //sphere air 40
+> [K[01:24:31] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m57 pokémon have been cleared.[39;0m[39;0m
+> [K[01:24:36] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Kakuna has spawned in world "world", at X:-585 Y:62 Z:-1692[39;0m
+> [K[01:24:44] [pool-3-thread-2658/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[01:25:13] [pool-3-thread-2655/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[01:25:55] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m103 items have been cleared.[39;0m[39;0m
+> [K[01:27:17] [User Authenticator #24/INFO] [minecraft/NetHandlerLoginServer]: UUID of player IkDik is bfac36a0-2ce8-43c8-902f-17bee0a01797
+> [K[01:27:18] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+> [K[01:27:18] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2847,customnpcs@1.12,vanillafix@1.0.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[01:27:18] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[01:27:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[01:27:18] [Server thread/INFO] [minecraft/PlayerList]: IkDik [/205.250.155.247:63028] logged in with entity id [870970] in world (minecraft:overworld/0) at (-634.6682134816779, 109.26252035977673, -1375.0395936440848).
+> [K[01:27:18] [Thread-137583/INFO] [minecraft/DedicatedServer]: [0;33;1mDaycare[39;0m[0;37;22m ([39;0m[0;36;1mDebug[39;0m[0;37;22m) [39;0m[0;37;22mNo ranch found, creating a new one[39;0m[39;0m
+> [K[01:27:18] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mIkDik[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[01:27:28] [Server thread/INFO] [nucleus]: IkDik ran the command: /tp Aboveexpert
+> [K[01:28:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 3
+> [K[01:28:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[01:28:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[01:29:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp IkDik
 > 
