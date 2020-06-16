@@ -14110,4 +14110,104 @@ INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schema
 > [K[20:29:15] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Krabby has spawned in world "world", at X:-563 Y:53 Z:-1853[39;0m
 > [K[20:29:38] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Aron has spawned in world "world", at X:-583 Y:35 Z:-1699[39;0m
 > [K[20:29:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:30:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:30:10] [Server thread/INFO] [nucleus]: tehpp ran the command: /timeset day
+> [K[20:30:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:30:18] [Server thread/INFO] [nucleus]: snakes866 ran the command: /tp abovee
+> [K[20:30:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:31:01] [Server thread/INFO] [nucleus]: snakes866 ran the command: / 
+> [K[20:31:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:31:14] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;36;1mPlayer snakes866 caught a Krabby in world "world", at X:-555 Y:41 Z:-1836[39;0m
+> [K[20:31:14] [Server thread/INFO] [nucleus]: tehpp ran the command: //undo 
+> [K[20:31:30] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Rattata has spawned in world "world", at X:-493 Y:59 Z:-1756[39;0m
+> [K[20:32:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+> [K[20:32:49] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Sawsbuck has spawned in world "world", at X:-588 Y:65 Z:-1658[39;0m
+> [K[20:33:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:33:26] [Server thread/INFO] [nucleus]: snakes866 ran the command: /brush clear sphere
+> [K[20:33:40] [Server thread/INFO] [nucleus]: snakes866 ran the command: /brush smooth
+> [K[20:33:52] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Bellsprout has spawned in world "world", at X:-603 Y:54 Z:-1726[39;0m
+> [K[20:33:55] [Server thread/INFO] [nucleus]: tehpp ran the command: /brush smooth 5
+> [K[20:34:44] [pool-3-thread-2975/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:35:13] [pool-3-thread-2991/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:35:26] [Server thread/INFO] [nucleus]: tehpp ran the command: //set dirt
+> [K[20:35:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m27 items have been cleared.[39;0m[39;0m
+> [K[20:36:13] [Server thread/INFO] [nucleus]: tehpp ran the command: //set1 
+> [K[20:36:17] [Server thread/INFO] [nucleus]: tehpp ran the command: //pos1 
+> [K[20:36:37] [Server thread/INFO] [nucleus]: tehpp ran the command: //pos2 
+> [K[20:36:47] [Server thread/INFO] [nucleus]: tehpp ran the command: //set stone grass
+> [K[33;1m[20:36:52] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4362ms behind, skipping 87 tick(s)
+[39;0m> [K[20:36:54] [Server thread/INFO] [nucleus]: tehpp ran the command: //undo 
+> [K[20:37:09] [Server thread/INFO] [nucleus]: tehpp ran the command: //replace stone grass
+> [K[20:37:16] [Server thread/INFO] [nucleus]: snakes866 ran the command: /pokekill 
+> [K[20:37:16] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3msnakes866[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3msnakes866 butchered 150 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[20:37:26] [Server thread/INFO] [nucleus]: tehpp ran the command: //set sand grass
+> [K[33;1m[20:37:40] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 14628ms behind, skipping 292 tick(s)
+[39;0m> [K[20:37:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere grass 6
+> [K[20:37:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask !air
+> [K[20:37:43] [Server thread/INFO] [nucleus]: tehpp ran the command: //undo 
+> [K[33;1m[20:37:58] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2607ms behind, skipping 52 tick(s)
+[39;0m> [K[20:38:47] [Server thread/INFO] [nucleus]: snakes866 ran the command: /weather clear
+> [K[20:38:48] [Server thread/INFO] [nucleus]: tehpp ran the command: /timeset day
+> [K[20:38:51] [Server thread/INFO] [nucleus]: tehpp ran the command: /weather clear
+> [K[20:39:54] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m120 pokémon have been cleared.[39;0m[39;0m
+> [K[20:40:00] [Server thread/INFO] [nucleus]: snakes866 ran the command: /tp tehp
+> [K[20:40:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp tehpp
+> [K[20:40:38] [Server thread/INFO] [nucleus]: tehpp ran the command: /brush sphere grass
+> [K[20:41:02] [Server thread/INFO] [nucleus]: tehpp ran the command: /brush sphere grass 5
+> [K[20:41:18] [Server thread/INFO] [nucleus]: tehpp ran the command: /brush sphere grass 3
+> [K[20:41:19] [Server thread/INFO] [nucleus]: snakes866 ran the command: /hat 
+> [K[20:41:38] [Server thread/INFO] [nucleus]: tehpp ran the command: /brush sphere sand 3
+> [K[20:42:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:43:46] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Croagunk has spawned in world "world", at X:-616 Y:63 Z:-1846[39;0m
+> [K[20:44:44] [pool-3-thread-2973/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:45:13] [pool-3-thread-2973/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:45:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m34 items have been cleared.[39;0m[39;0m
+> [K[20:46:54] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+> [K[20:46:54] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[20:47:00] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: tehpp lost connection: Disconnected
+> [K[20:47:00] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mtehpp[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[20:47:41] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Venusaur has spawned in world "world", at X:-535 Y:54 Z:-1685[39;0m
+> [K[20:48:00] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-480 Y:81 Z:-1676[39;0m
+> [K[20:49:58] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: snakes866 lost connection: Disconnected
+> [K[20:49:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1msnakes866[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[20:50:15] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m48 pokémon have been cleared.[39;0m[39;0m
+> [K[20:54:44] [pool-3-thread-2994/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:55:13] [pool-3-thread-3003/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:55:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m10 items have been cleared.[39;0m[39;0m
+> [K[21:00:33] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m81 pokémon have been cleared.[39;0m[39;0m
+> [K[21:04:44] [pool-3-thread-3006/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:05:13] [pool-3-thread-3002/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:05:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[33;1m[21:10:47] [qtp1742002277-222409/WARN] [webapi]: Illegal character 0x5 in state=START for buffer HeapByteBuffer@2d3b156[p=1,l=3,c=8192,r=2]={\x05<<<\x01\x00>>>P/1.1 302 Found\r\n...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[39;0m> [K[21:10:52] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m82 pokémon have been cleared.[39;0m[39;0m
+> [K[33;1m[21:11:52] [qtp1742002277-222407/WARN] [webapi]: Illegal character 0x4 in state=START for buffer HeapByteBuffer@2d3b156[p=1,l=9,c=8192,r=8]={\x04<<<\x01\x00P\x05\xBc\xD2e\x00>>>302 Found\r\nDate: ...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[39;0m> [K[21:14:44] [pool-3-thread-3006/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:15:13] [pool-3-thread-3010/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:15:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:19:56] [User Authenticator #31/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[21:19:56] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+> [K[21:19:56] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[21:19:56] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[21:19:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[21:19:57] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:54834] logged in with entity id [985743] in world (minecraft:overworld/0) at (-544.2140971555311, 59.873585129314584, -1817.0691862043084).
+> [K[21:19:57] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[21:20:08] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Scatterbug has spawned in world "world", at X:-578 Y:38 Z:-1719[39;0m
+> [K[21:20:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush smooth 6
+> [K[21:21:10] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m59 pokémon have been cleared.[39;0m[39;0m
+> [K[21:21:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush cyl sand 3
+> [K[21:21:58] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Burmy has spawned in world "world", at X:-535 Y:34 Z:-1756[39;0m
+> [K[21:22:04] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Bellsprout has spawned in world "world", at X:-506 Y:50 Z:-1718[39;0m
+> [K[21:22:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere grass 6
+> [K[21:22:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask sand
+> [K[21:22:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[21:22:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /re -i
+> [K[21:24:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[21:24:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[21:24:44] [pool-3-thread-3011/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:25:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[21:25:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[21:25:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[21:25:13] [pool-3-thread-3011/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:25:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m8 items have been cleared.[39;0m[39;0m
+> [K[21:28:18] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Beedrill has spawned in world "world", at X:-560 Y:37 Z:-1708[39;0m
 > 

@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-06-16 20:43:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2020-06-16 20:20:09 +0000"
@@ -1108,6 +1114,7 @@
       "forest": "2020-05-24 20:48:06 +0000",
       "swampland": "2020-05-25 03:24:43 +0000",
       "birch_forest": "2020-05-25 03:24:38 +0000",
+      "deep_ocean": "2020-06-16 20:39:46 +0000",
       "beaches": "2020-05-25 03:25:20 +0000",
       "extreme_hills_with_trees": "2020-05-25 03:21:36 +0000",
       "desert_hills": "2020-05-27 21:26:10 +0000",

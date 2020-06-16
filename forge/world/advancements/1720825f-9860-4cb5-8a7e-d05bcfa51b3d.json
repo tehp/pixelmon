@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-06-16 20:41:16 +0000"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/purple_folding_chair": {
     "criteria": {
       "has_wool": "2020-05-30 05:51:04 +0000"
