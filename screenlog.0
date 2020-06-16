@@ -14019,4 +14019,95 @@ INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schema
 > [K[19:25:13] [pool-3-thread-2959/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[19:25:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
 > [K[19:27:14] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m82 pokémon have been cleared.[39;0m[39;0m
+> [K[19:33:41] [User Authenticator #28/INFO] [minecraft/NetHandlerLoginServer]: UUID of player tehpp is 2e6cb6a5-64f4-450c-bfc6-bc4f6c53bfe0
+> [K[19:33:41] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+> [K[19:33:41] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[19:33:41] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[19:33:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[19:33:42] [Server thread/INFO] [minecraft/PlayerList]: tehpp [/70.68.240.223:60323] logged in with entity id [969140] in world (minecraft:overworld/0) at (-626.5848700813207, 90.0, -1368.955413001825).
+> [K[19:33:42] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mtehpp[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: Entity being removed for bounding box restrictions
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: BB Size: 1,001 > 1,000 avg edge: 8.792
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: Motion: (-7.99, -0.078, -1.863)
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: Calculated bounding box: box[-746.0620883827037, 57.92159999847412, -1407.0786841118424 -> -734.6398100650088, 67.57999980449677, -1401.7840000391006]
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: Entity bounding box: null
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: Entity: EntityPixelmon['Onix'/965132, l='world', x=-736.36, y=58.00, z=-1403.50]
+[39;0m> [K[33;1m[19:33:42] [Server thread/WARN] [Sponge]: Entity NBT: {EVSpeed:0s,BonusSpAttack:0,Attributes:[{Base:31.0d,Name:"generic.maxHealth"},{Base:0.0d,Name:"generic.knockbackResistance"},{Base:0.55d,Name:"generic.movementSpeed"},{Base:0.0d,Name:"generic.armor"},{Base:0.0d,Name:"generic.armorToughness"},{Base:1.0d,Name:"forge.swimSpeed"},{Base:16.0d,Name:"generic.followRange"}],Moveset:[{MoveID:280s,MovePP:15b},{MoveID:140s,MovePP:30b},{MoveID:232s,MovePP:10b},{MoveID:125s,MovePP:15b}],Invulnerable:0b,Gender:0b,Name:"Onix",BonusDefence:0,BonusSpeed:0,IVDefence:10b,IVSpDef:2b,CaughtBall:0b,ForgeCaps:{},PersistenceRequired:0b,BonusPersistent:0b,BonusAttack:0,DoesLevel:1b,BonusSpDefence:0,Variant:-1b,OwnerUUID:"",EVSpecialAttack:0s,BonusAccuracy:0,Pos:[-736.3558100259081d,58.0d,-1403.5d],IVSpeed:2b,pixelmonType:0b,Level:11,EVDefence:0s,IVAttack:14b,Growth:4b,PersistentData:{cnpcmarkdata:{marks:[]},SpongeData:{}},EVSpecialDefence:0s,StatsSpecialDefence:13s,isInRanch:0b,Friendship:70s,StatsDefence:41s,EVAttack:0s,StatsSpecialAttack:13s,IVHP:21b,AbilitySlot:1b,EVHP:0s,ndex:95s,BonusCapture:0b,Nature:20b,Motion:[-7.9902783958961665d,-0.0784000015258789d,-1.8626841509430982d],StatsHP:31s,UUIDLeast:-6538084590640106480L,Health:31,Aggression:0b,SpecFlags:[],OnGround:1b,Dimension:0,Rotation:[1.178343f,0.0f],BonusEvasion:0,StatsSpeed:20s,IsShiny:0b,StatsAttack:16s,UUIDMost:-59337575910128240L,IVSpAtt:12b,EXP:0}
+[39;0m> [K[19:34:44] [pool-3-thread-2958/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:35:13] [pool-3-thread-2965/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:35:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m61 items have been cleared.[39;0m[39;0m
+> [K[19:37:32] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m11 pokémon have been cleared.[39;0m[39;0m
+> [K[19:39:30] [pool-3-thread-2967/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;37;1mshum[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[19:44:44] [pool-3-thread-2965/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:45:13] [pool-3-thread-2965/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:45:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[19:47:50] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m21 pokémon have been cleared.[39;0m[39;0m
+> [K[19:54:44] [pool-3-thread-2970/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:55:13] [pool-3-thread-2970/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:55:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[19:58:08] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m16 pokémon have been cleared.[39;0m[39;0m
+> [K[20:04:44] [pool-3-thread-2970/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:05:13] [pool-3-thread-2970/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:05:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[20:08:27] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m19 pokémon have been cleared.[39;0m[39;0m
+> [K[20:09:32] [User Authenticator #29/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[20:09:32] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+> [K[20:09:32] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[20:09:32] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[20:09:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[20:09:33] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:54643] logged in with entity id [973415] in world (minecraft:overworld/0) at (-570.9943089898917, 76.21495917921457, -1720.3729732607133).
+> [K[20:09:33] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[20:09:44] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mwaddup tehp[39;0m[39;0m
+> [K[20:09:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp tehpp
+> [K[20:09:54] [pool-3-thread-2974/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;37;1mshum[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[20:10:02] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Caterpie has spawned in world "world", at X:-501 Y:53 Z:-1726[39;0m
+> [K[20:13:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 6
+> [K[20:13:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask 17,leaves
+> [K[20:14:44] [pool-3-thread-2973/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:14:56] [pool-3-thread-2973/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;37;1mshum[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[20:15:13] [pool-3-thread-2977/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:15:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m2 items have been cleared.[39;0m[39;0m
+> [K[20:17:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+> [K[20:17:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 5
+> [K[20:17:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 2
+> [K[20:17:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush cyl sand 4
+> [K[20:18:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 2
+> [K[20:18:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 5
+> [K[20:18:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush smooth 5
+> [K[20:18:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere grass 6
+> [K[20:18:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask sand
+> [K[20:18:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m46 pokémon have been cleared.[39;0m[39;0m
+> [K[20:18:53] [pool-3-thread-2978/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;37;1mshum[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[20:21:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:22:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:24:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:24:44] [pool-3-thread-2986/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:24:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:25:12] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Venusaur has spawned in world "world", at X:-594 Y:47 Z:-1716[39;0m
+> [K[20:25:13] [pool-3-thread-2973/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[20:25:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:25:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+> [K[20:25:53] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m successfully healed [39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m's Pokémon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[20:25:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+> [K[20:25:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[3m[[39;0m[0;37;22m[3mAboveexpert[39;0m[0;37;22m[3m: [39;0m[0;37;22m[3mAboveexpert butchered 79 pixelmon![39;0m[0;37;22m[3m][39;0m[39;0m
+> [K[20:25:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m35 items have been cleared.[39;0m[39;0m
+> [K[20:26:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:26:19] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Shroomish has spawned in world "world", at X:-569 Y:44 Z:-1743[39;0m
+> [K[20:26:37] [Server thread/INFO] [nucleus]: tehpp ran the command: /brush 
+> [K[20:26:43] [Server thread/INFO] [nucleus]: tehpp ran the command: /brush sphere air 4
+> [K[20:27:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:28:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:28:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:29:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[20:29:05] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m102 pokémon have been cleared.[39;0m[39;0m
+> [K[20:29:12] [User Authenticator #30/INFO] [minecraft/NetHandlerLoginServer]: UUID of player snakes866 is 1720825f-9860-4cb5-8a7e-d05bcfa51b3d
+> [K[20:29:12] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+> [K[20:29:12] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[20:29:12] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[20:29:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[20:29:13] [Server thread/INFO] [minecraft/PlayerList]: snakes866 [/70.68.76.101:60672] logged in with entity id [978335] in world (minecraft:overworld/0) at (-627.563858660087, 60.5, -1482.792244067599).
+> [K[20:29:14] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1msnakes866[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[20:29:15] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Krabby has spawned in world "world", at X:-563 Y:53 Z:-1853[39;0m
+> [K[20:29:38] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Aron has spawned in world "world", at X:-583 Y:35 Z:-1699[39;0m
+> [K[20:29:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
 > 
