@@ -13591,4 +13591,122 @@ Running the server as root/admin is not recommended. Please use a port above 102
 > [K[05:24:44] [pool-3-thread-2726/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[05:25:13] [pool-3-thread-2729/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[05:25:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[05:30:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //schem list
+> [K[05:30:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /schem load normal1
+> [K[05:30:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /schem load normal1.schematic
+> [K[05:31:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /schem load Normal1
+> Jun 16, 2020 5:31:08 AM com.sk89q.worldedit.command.SchematicCommands load
+INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schematics/Normal1.schematic
+[K[05:31:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:31:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[05:31:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //p 
+> [K[05:31:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:31:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //schem load Normal2
+> Jun 16, 2020 5:31:42 AM com.sk89q.worldedit.command.SchematicCommands load
+INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schematics/Normal2.schematic
+[K[05:31:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:31:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //schem load normal3
+> [K[05:32:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //schem load Normal3
+> Jun 16, 2020 5:32:00 AM com.sk89q.worldedit.command.SchematicCommands load
+INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schematics/Normal3.schematic
+[K[05:32:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:32:07] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m80 pokémon have been cleared.[39;0m[39;0m
+> [K[05:32:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //schem load Normal7
+> Jun 16, 2020 5:32:19 AM com.sk89q.worldedit.command.SchematicCommands load
+INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schematics/Normal7.schematic
+[K[05:32:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:32:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[05:32:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:32:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //schem load Normal8
+> Jun 16, 2020 5:32:34 AM com.sk89q.worldedit.command.SchematicCommands load
+INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schematics/Normal8.schematic
+[K[05:32:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:32:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //schem load Normal9
+> Jun 16, 2020 5:32:47 AM com.sk89q.worldedit.command.SchematicCommands load
+INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schematics/Normal9.schematic
+[K[05:32:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:32:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:32:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[05:32:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[05:32:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:33:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //schem load Normal10
+> Jun 16, 2020 5:33:07 AM com.sk89q.worldedit.command.SchematicCommands load
+INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schematics/Normal10.schematic
+[K[05:33:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[05:34:44] [pool-3-thread-2729/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:35:13] [pool-3-thread-2734/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:35:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[05:35:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[05:35:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17 162:13
+> [K[05:35:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 188 191
+> [K[05:35:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 85 191
+> [K[05:35:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[05:41:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[05:42:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[05:42:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport world
+> [K[05:42:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[05:42:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[05:42:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[05:42:26] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m6 pokémon have been cleared.[39;0m[39;0m
+> [K[05:42:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[05:42:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[05:44:44] [pool-3-thread-2735/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:45:13] [pool-3-thread-2707/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:45:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m1 items have been cleared.[39;0m[39;0m
+> [K[05:47:19] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA legendary Entei has spawned in world "world", at X:-479 Y:88 Z:-1604[39;0m
+> [K[05:47:57] [pool-3-thread-2731/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[05:49:49] [pool-3-thread-2707/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[05:52:46] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m57 pokémon have been cleared.[39;0m[39;0m
+> [K[05:54:44] [pool-3-thread-2740/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:55:13] [pool-3-thread-2739/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[05:55:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[05:56:57] [pool-3-thread-2740/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[06:03:04] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m65 pokémon have been cleared.[39;0m[39;0m
+> [K[06:03:50] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Geodude has spawned in world "world", at X:-496 Y:71 Z:-1620[39;0m
+> [K[06:04:44] [pool-3-thread-2729/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:05:13] [pool-3-thread-2740/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:05:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[06:08:46] [pool-3-thread-2731/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[06:10:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 6
+> [K[06:10:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask leaves,17
+> [K[06:10:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[06:12:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set dirt
+> [K[06:12:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[06:12:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[06:13:24] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m62 pokémon have been cleared.[39;0m[39;0m
+> [K[06:13:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set dirt
+> [K[06:13:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set dirt
+> [K[06:13:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set dirt
+> [K[06:14:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[06:14:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos12 
+> [K[06:14:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[06:14:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace water air
+> [K[06:14:44] [pool-3-thread-2743/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:15:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 15
+> [K[06:15:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 25
+> [K[06:15:13] [pool-3-thread-2707/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:15:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m68 items have been cleared.[39;0m[39;0m
+> [K[06:16:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 3
+> [K[06:17:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[06:19:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //fixwater 30
+> [K[06:19:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //fixwater 30
+> [K[06:19:11] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-524 Y:80 Z:-1922[39;0m
+> [K[06:19:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //fixwater 30
+> [K[06:19:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //fixwater 30
+> [K[06:19:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //fixwater 30
+> [K[06:21:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[06:21:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[06:21:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[06:21:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[06:21:32] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Finneon has spawned in world "world", at X:-506 Y:51 Z:-1925[39;0m
+> [K[06:22:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[06:22:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[06:22:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[06:23:26] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+> [K[06:23:26] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[33;1m[06:23:41] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2171ms behind, skipping 43 tick(s)
+[39;0m> [K[06:23:45] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m51 pokémon have been cleared.[39;0m[39;0m
+> [K[06:24:44] [pool-3-thread-2742/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:25:13] [pool-3-thread-2740/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[06:25:56] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m6 items have been cleared.[39;0m[39;0m
 > 
