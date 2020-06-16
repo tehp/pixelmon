@@ -14210,4 +14210,116 @@ INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schema
 > [K[21:25:13] [pool-3-thread-3011/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[21:25:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m8 items have been cleared.[39;0m[39;0m
 > [K[21:28:18] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Beedrill has spawned in world "world", at X:-560 Y:37 Z:-1708[39;0m
-> 
+> [K[21:31:28] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m61 pokémon have been cleared.[39;0m[39;0m
+> [K[21:33:11] [pool-3-thread-3012/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[21:33:34] [pool-3-thread-2994/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[21:34:44] [pool-3-thread-3009/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:35:13] [pool-3-thread-3005/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:35:13] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Sableye has spawned in world "world", at X:-585 Y:39 Z:-1796[39;0m
+> [K[21:35:58] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:38:40] [pool-3-thread-3009/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[21:41:47] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m62 pokémon have been cleared.[39;0m[39;0m
+> [K[21:44:44] [pool-3-thread-2994/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:45:13] [pool-3-thread-3009/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:45:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:52:05] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m60 pokémon have been cleared.[39;0m[39;0m
+> [K[21:53:08] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-632 Y:88 Z:-1859[39;0m
+> [K[21:54:33] [pool-3-thread-3012/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[21:54:44] [pool-3-thread-3006/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:54:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 3
+> [K[21:55:13] [pool-3-thread-3015/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[21:55:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[21:56:45] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Zubat has spawned in world "world", at X:-639 Y:87 Z:-1668[39;0m
+> [K[22:00:20] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Beedrill has spawned in world "world", at X:-536 Y:34 Z:-1799[39;0m
+> [K[22:02:24] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m63 pokémon have been cleared.[39;0m[39;0m
+> [K[22:04:44] [pool-3-thread-3021/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:05:13] [pool-3-thread-3012/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:05:14] [pool-3-thread-3017/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[22:05:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m1 items have been cleared.[39;0m[39;0m
+> [K[22:06:27] [pool-3-thread-3012/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[22:06:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+> [K[22:09:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:09:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[33;1m[22:09:12] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2651ms behind, skipping 53 tick(s)
+[39;0m> [K[33;1m[22:09:51] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3113ms behind, skipping 62 tick(s)
+[39;0m> [K[22:12:45] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m81 pokémon have been cleared.[39;0m[39;0m
+> [K[22:12:52] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: Aboveexpert lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+> [K[22:12:52] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m left the game[39;0m[39;0m
+> [K[22:13:34] [User Authenticator #32/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[22:13:35] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+> [K[22:13:35] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[22:13:35] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[22:13:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[22:13:35] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:55282] logged in with entity id [992631] in build (minecraft:overworld/2) at (971.2025660418906, 125.12640340887356, 209.92595727464553).
+> [K[22:13:35] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[22:13:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[22:13:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:13:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[22:14:44] [pool-3-thread-3025/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[33;1m[22:15:06] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2699ms behind, skipping 53 tick(s)
+[39;0m> [K[22:15:13] [pool-3-thread-3005/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:15:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m7 items have been cleared.[39;0m[39;0m
+> [K[22:19:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[22:19:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:19:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace glowstone sponge
+> [K[22:22:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 30
+> [K[22:22:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 30
+> [K[22:22:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[22:22:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[22:22:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:22:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 79 95:3
+> [K[33;1m[22:22:44] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2168ms behind, skipping 43 tick(s)
+[39;0m> [K[22:22:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace sponge 169
+> [K[22:23:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 35 169
+> [K[22:23:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m87 pokémon have been cleared.[39;0m[39;0m
+> [K[33;1m[22:23:10] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8782ms behind, skipping 175 tick(s)
+[39;0m> [K[33;1m[22:23:24] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4580ms behind, skipping 91 tick(s)
+[39;0m> [K[22:23:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 80 155:2
+> [K[33;1m[22:23:39] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3507ms behind, skipping 70 tick(s)
+[39;0m> [K[33;1m[22:23:58] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4645ms behind, skipping 92 tick(s)
+[39;0m> [K[22:24:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[33;1m[22:24:17] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5476ms behind, skipping 109 tick(s)
+[39;0m> [K[22:24:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:24:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace glowstone sponge
+> [K[33;1m[22:24:37] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6595ms behind, skipping 131 tick(s)
+[39;0m> [K[22:24:44] [pool-3-thread-3028/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[33;1m[22:25:05] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 13340ms behind, skipping 266 tick(s)
+[39;0m> [K[22:25:13] [pool-3-thread-3025/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:25:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set night
+> [K[33;1m[22:25:16] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6654ms behind, skipping 133 tick(s)
+[39;0m> [K[33;1m[22:25:39] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 13275ms behind, skipping 265 tick(s)
+[39;0m> [K[33;1m[22:25:51] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7749ms behind, skipping 154 tick(s)
+[39;0m> [K[22:25:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m7 items have been cleared.[39;0m[39;0m
+> [K[22:26:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:26:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[22:26:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 79 95:3
+> [K[33;1m[22:26:24] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 19254ms behind, skipping 385 tick(s)
+[39;0m> [K[22:26:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 79 95:3
+> [K[33;1m[22:26:28] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4504ms behind, skipping 90 tick(s)
+[39;0m> [K[22:26:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 79 95:3
+> [K[22:27:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 50
+> [K[22:27:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 50
+> [K[33;1m[22:27:03] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 21340ms behind, skipping 426 tick(s)
+[39;0m> [K[33;1m[22:27:08] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4369ms behind, skipping 87 tick(s)
+[39;0m> [K[22:27:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 50
+> [K[22:27:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 50
+> [K[22:27:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 50
+> [K[33;1m[22:27:34] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 14394ms behind, skipping 287 tick(s)
+[39;0m> [K[33;1m[22:27:45] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7235ms behind, skipping 144 tick(s)
+[39;0m> [K[33;1m[22:28:16] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 18447ms behind, skipping 368 tick(s)
+[39;0m> [K[33;1m[22:28:21] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4747ms behind, skipping 94 tick(s)
+[39;0m> [K[22:28:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[22:28:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:28:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set air
+> [K[33;1m[22:28:51] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 17016ms behind, skipping 340 tick(s)
+[39;0m> [K[33;1m[22:28:55] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4420ms behind, skipping 88 tick(s)
+[39;0m> [K[22:29:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 75
+> [K[22:29:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 75
+> [K[22:29:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 75
+> [K[22:29:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 75
+> [K[22:29:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 75
+> [K[22:29:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 75
+> [K[33;1m[22:29:26] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 17655ms behind, skipping 353 tick(s)
+[39;0m> [K[33;1m[22:29:29] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3027ms behind, skipping 60 tick(s)
+[39;0m> [K[33;1m[22:30:03] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 17274ms behind, skipping 345 tick(s)
+[39;0m> 
