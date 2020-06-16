@@ -240,3 +240,74 @@
 [04:24:44] [pool-3-thread-2715/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [04:25:13] [pool-3-thread-2713/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [04:25:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:30:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 88 pokémon have been cleared.
+[04:34:44] [pool-3-thread-2714/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:35:13] [pool-3-thread-2715/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:35:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:40:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 80 pokémon have been cleared.
+[04:43:56] [User Authenticator #25/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[04:43:56] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:43:56] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[04:43:56] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[04:43:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:43:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:52598] logged in with entity id [889484] in world (minecraft:overworld/0) at (-569.7763545452977, 71.01220732560242, -1662.9878106163305).
+[04:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[04:44:44] [pool-3-thread-2707/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:44:45] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-545 Y:86 Z:-1856
+[04:45:13] [pool-3-thread-2717/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:48:27] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Taillow has spawned in world "world", at X:-626 Y:74 Z:-1765
+[04:50:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 60 pokémon have been cleared.
+[04:52:14] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Dugtrio has spawned in world "world", at X:-607 Y:50 Z:-1737
+[04:52:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 5
+[04:52:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere sand 2
+[04:52:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //smooth 5
+[04:52:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush smooth 5
+[04:52:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 5
+[04:52:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 2
+[04:53:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere grass
+[04:53:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask sand
+[04:54:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush cyl sand 3
+[04:54:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[04:54:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[04:54:44] [pool-3-thread-2719/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:55:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere grass 6
+[04:55:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask sand
+[04:55:13] [pool-3-thread-2721/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:55:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 3 items have been cleared.
+[04:56:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+[04:58:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+[05:01:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+[05:01:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert left the game
+[05:01:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 85 pokémon have been cleared.
+[05:04:44] [pool-3-thread-2715/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:05:13] [pool-3-thread-2722/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:05:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:09:36] [User Authenticator #26/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[05:09:36] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[05:09:36] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[05:09:36] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[05:09:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:09:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:52871] logged in with entity id [892267] in build (minecraft:overworld/2) at (459.11811304686444, 64.49998663419032, -23.506033412224156).
+[05:09:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[05:10:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 3
+[05:10:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 5
+[05:11:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+[05:11:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert left the game
+[05:11:11] [User Authenticator #27/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[05:11:12] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[05:11:12] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[05:11:12] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[05:11:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:11:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:52896] logged in with entity id [892389] in build (minecraft:overworld/2) at (494.0109314376628, 72.74302431530123, -137.59680898069504).
+[05:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[05:11:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 79 pokémon have been cleared.
+[05:14:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 2
+[05:14:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[05:14:44] [pool-3-thread-2725/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:15:13] [pool-3-thread-2728/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:21:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 85 pokémon have been cleared.
+[05:24:44] [pool-3-thread-2726/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:25:13] [pool-3-thread-2729/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.

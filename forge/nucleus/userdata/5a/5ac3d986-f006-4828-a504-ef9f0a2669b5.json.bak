@@ -30,8 +30,8 @@
     }
   },
   "lastKnownName": "Aboveexpert",
-  "lastLogin": 1592270035924,
-  "lastLogout": 1592273351683,
+  "lastLogin": 1592284272523,
+  "lastLogout": 1592284262982,
   "lastIP": "/23.16.19.188",
   "firstJoin": 1590339241294,
   "startedFirstJoin": false,
@@ -46,13 +46,13 @@
   "nickname-text": "{\"color\":\"dark_aqua\",\"text\":\"Nick\"}",
   "invulnerable": false,
   "lastLocation": {
-    "x": -569.7763545452977,
-    "y": 71.01220732560242,
-    "z": -1662.9878106163305,
+    "x": 494.0109314376628,
+    "y": 72.74302431530123,
+    "z": -137.59680898069504,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
-    "world": "ac6bd4c2-5b9a-465b-bc52-f3a6b549594d"
+    "world": "ea2c3b9d-0d70-4185-b367-f13cfca5463b"
   },
   "warnings": [
     {
