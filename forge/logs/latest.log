@@ -107,3 +107,89 @@
 [01:28:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
 [01:28:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
 [01:29:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp IkDik
+[01:30:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[01:30:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[01:30:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[01:30:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[01:30:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[01:33:11] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-488 Y:82 Z:-1665
+[01:34:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 3
+[01:34:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:34:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:34:44] [pool-3-thread-2668/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:34:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:34:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:34:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:34:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:34:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 168 pokémon have been cleared.
+[01:34:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:34:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:35:13] [pool-3-thread-2664/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:35:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere grass 6
+[01:35:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask !air
+[01:35:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 11 items have been cleared.
+[01:36:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:36:15] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Tyranitar has spawned in world "world", at X:-582 Y:66 Z:-1387
+[01:37:42] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Bellsprout has spawned in world "world", at X:-500 Y:53 Z:-1716
+[01:38:10] [pool-3-thread-2663/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *IkDik has gone AFK.
+[01:39:40] [pool-3-thread-2672/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *IkDik is no longer AFK.
+[01:40:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tp IkDik
+[01:40:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[01:41:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 20
+[01:41:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //drain 20
+[01:41:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: IkDik lost connection: Disconnected
+[01:41:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IkDik left the game
+[01:44:44] [pool-3-thread-2666/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 56 pokémon have been cleared.
+[01:45:13] [pool-3-thread-2677/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:45:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //und 
+[01:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 66 items have been cleared.
+[01:45:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:45:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:45:57] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Slowpoke has spawned in world "world", at X:-539 Y:87 Z:-1629
+[01:46:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time se t0
+[01:46:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[01:50:53] [qtp1742002277-223364/WARN] [webapi]: Illegal character 0x16 in state=START for buffer HeapByteBuffer@2d3b156[p=1,l=99,c=8192,r=98]={\x16<<<\x03\x01\x00^\x01\x00\x00Z\x03\x01^\xE8%\x88\xC0\xCcq...\x04\x00\x17\x00\x18\x00\x0b\x00\x02\x01\x00\x00#\x00\x00>>>ansfer-Encoding: ...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[01:50:54] [qtp1742002277-222407/WARN] [webapi]: Illegal character 0x16 in state=START for buffer HeapByteBuffer@2d3b156[p=1,l=99,c=8192,r=98]={\x16<<<\x03\x01\x00^\x01\x00\x00Z\x03\x01^\xE8%\x88\xFfx'...\x04\x00\x17\x00\x18\x00\x0b\x00\x02\x01\x00\x00#\x00\x00>>>ansfer-Encoding: ...\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00}
+[01:51:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush cyl sand 2
+[01:51:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:52:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:52:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:53:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[01:54:44] [pool-3-thread-2683/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:55:13] [pool-3-thread-2667/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:55:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 64 pokémon have been cleared.
+[01:55:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 15 items have been cleared.
+[01:56:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+[01:56:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert butchered 48 pixelmon!]
+[01:59:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-492 Y:81 Z:-1643
+[02:00:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[02:01:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+[02:01:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+[02:01:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /spawn 
+[02:01:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[02:01:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+[02:01:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+[02:01:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+[02:02:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+[02:02:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+[02:02:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /spawn 
+[02:02:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[02:03:44] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Hoothoot has spawned in world "world", at X:-485 Y:82 Z:-1813
+[02:04:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[02:04:44] [pool-3-thread-2687/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[02:05:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere 45%stone,30%1:5,25%gravel
+[02:05:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /mask sand
+[02:05:13] [pool-3-thread-2683/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[02:05:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 55 pokémon have been cleared.
+[02:05:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[02:09:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Disconnected
+[02:09:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert left the game
+[02:14:44] [pool-3-thread-2689/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[02:15:13] [pool-3-thread-2686/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[02:15:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[02:16:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 84 pokémon have been cleared.
+[02:24:44] [pool-3-thread-2685/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[02:25:13] [pool-3-thread-2690/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[02:25:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[02:26:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 85 pokémon have been cleared.

@@ -60,7 +60,7 @@
   "invulnerable": false,
   "lastKnownName": "IkDik",
   "lastLogin": 1592270838865,
-  "lastLogout": 1590885333991,
+  "lastLogout": 1592271717509,
   "lastIP": "/205.250.155.247",
   "firstJoin": 1590363757353,
   "startedFirstJoin": false,
@@ -68,9 +68,9 @@
   "vanish": false,
   "isFrozen": false,
   "lastLocation": {
-    "x": -634.6682134816779,
-    "y": 109.26252035977673,
-    "z": -1375.0395936440848,
+    "x": -548.2670391467759,
+    "y": 83.6558422368935,
+    "z": -1431.7930844475522,
     "rotx": 0.0,
     "roty": 0.0,
     "rotz": 0.0,
@@ -78,5 +78,6 @@
   },
   "warnings": [],
   "mail": [],
-  "notes": []
+  "notes": [],
+  "powertools": {}
 }
