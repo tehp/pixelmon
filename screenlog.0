@@ -15413,4 +15413,157 @@ INFO: [WorldEdit] Aboveexpert loaded /opt/pixelmon/forge/config/worldedit/schema
 > [K[18:24:44] [pool-3-thread-3629/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[18:25:13] [pool-3-thread-3636/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
 > [K[18:26:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[18:33:07] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m75 pokémon have been cleared.[39;0m[39;0m
+> [K[18:34:44] [pool-3-thread-3639/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:35:13] [pool-3-thread-3629/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:36:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[18:36:53] [User Authenticator #35/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[18:36:53] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+> [K[18:36:53] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.3.1
+> [K[18:36:53] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[18:36:53] [Netty Epoll Server IO #2/INFO] [FML]: Rejecting connection CLIENT: Pixelmon: Requires version 7.2.2 but client has 7.3.1.
+> [K[31;1m[18:36:53] [Netty Epoll Server IO #2/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Pixelmon: Requires version 7.2.2 but client has 7.3.1.
+[39;0m> [K[18:36:53] [Server thread/INFO] [minecraft/NetHandlerPlayServer]: Aboveexpert lost connection: Server Mod rejections:
+Pixelmon: Requires version 7.2.2 but client has 7.3.1.
+> [K[18:38:05] [User Authenticator #36/INFO] [minecraft/NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+> [K[18:38:05] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+> [K[18:38:05] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+> [K[18:38:05] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+> [K[18:38:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+> [K[18:38:06] [Server thread/INFO] [minecraft/PlayerList]: Aboveexpert [/23.16.19.188:65339] logged in with entity id [1187085] in build (minecraft:overworld/2) at (673.8445788658897, 63.0, 34.48880625518575).
+> [K[18:38:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;33;1mAboveexpert[39;0m[0;33;1m joined the game[39;0m[39;0m
+> [K[18:38:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 5
+> [K[18:39:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[18:39:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace !air air
+> [K[33;1m[18:39:16] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8412ms behind, skipping 168 tick(s)
+[39;0m> [K[18:39:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set grass
+> [K[33;1m[18:39:38] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2625ms behind, skipping 52 tick(s)
+[39;0m> [K[18:39:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiomeforest 
+> [K[18:39:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome forest
+> [K[33;1m[18:40:15] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2082ms behind, skipping 41 tick(s)
+[39;0m> [K[18:43:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 2
+> [K[18:43:40] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m75 pokémon have been cleared.[39;0m[39;0m
+> [K[18:43:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 1
+> [K[18:44:44] [pool-3-thread-3647/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:45:13] [pool-3-thread-3647/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:45:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[18:45:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[18:46:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[18:46:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m1 items have been cleared.[39;0m[39;0m
+> [K[18:46:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[18:48:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 2
+> [K[18:49:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[18:49:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[18:49:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 18 161:2
+> Jun 18, 2020 6:49:39 PM com.sk89q.worldedit.util.eventbus.EventBus dispatch
+SEVERE: [WorldEdit] Could not dispatch event: com.sk89q.worldedit.event.platform.CommandEvent@31375332 to handler EventHandler{priority=NORMAL}
+java.lang.reflect.InvocationTargetException
+        at com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:75)
+        at com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:187)
+        at com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:173)
+        at com.sk89q.worldedit.sponge.SpongePlatform$1.process(SpongePlatform.java:130)
+        at org.spongepowered.common.command.SpongeCommandDispatcher.process(SpongeCommandDispatcher.java:355)
+        at org.spongepowered.common.command.SpongeCommandManager.process(SpongeCommandManager.java:360)
+        at net.minecraft.command.ServerCommandManager.func_71556_a(SourceFile:665)
+        at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:962)
+        at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:941)
+        at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:37)
+        at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(SourceFile:9)
+        at org.spongepowered.common.event.tracking.phase.packet.PacketPhaseUtil.onProcessPacket(PacketPhaseUtil.java:219)
+        at net.minecraft.network.PacketThreadUtil$1.redirect$zla000$impl$redirectToPhaseTracker(SourceFile:540)
+        at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+        at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+        at net.minecraft.util.Util.func_181617_a(SourceFile:46)
+        at org.spongepowered.common.SpongeImplHooks.onUtilRunTask(SpongeImplHooks.java:308)
+        at net.minecraft.server.MinecraftServer.redirect$zje000$onRun(MinecraftServer.java:4682)
+        at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723)
+        at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+        at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+        at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+        at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+        at sun.reflect.GeneratedMethodAccessor38.invoke(Unknown Source)
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+        at java.lang.reflect.Method.invoke(Method.java:498)
+        at com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+        at com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+        ... 23 more
+Caused by: java.lang.IllegalArgumentException: Cannot set property PropertyEnum{name=variant, clazz=class net.minecraft.block.BlockPlanks$EnumType, values=[acacia, dark_oak]} to oak on block minecraft:leaves2, it is not an allowed value
+        at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_177226_a(BlockStateContainer.java:227)
+        at net.minecraft.block.BlockNewLeaf.func_176203_a(BlockNewLeaf.java:66)
+        at com.sk89q.worldedit.sponge.adapter.impl.Sponge_1_12_Impl$SpongeNMSWorld.getBlockState(Sponge_1_12_Impl.java:315)
+        at com.sk89q.worldedit.sponge.SpongeWorld.setBlock(SpongeWorld.java:135)
+        at com.sk89q.worldedit.extent.world.FastModeExtent.setBlock(FastModeExtent.java:92)
+        at com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+        at com.sk89q.worldedit.extent.world.SurvivalModeExtent.setBlock(SurvivalModeExtent.java:88)
+        at com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+        at com.sk89q.worldedit.extent.world.BlockQuirkExtent.setBlock(BlockQuirkExtent.java:64)
+        at com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+        at com.sk89q.worldedit.extent.world.ChunkLoadingExtent.setBlock(ChunkLoadingExtent.java:66)
+        at com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+        at com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+        at com.sk89q.worldedit.extent.validation.DataValidatorExtent.setBlock(DataValidatorExtent.java:67)
+        at com.sk89q.worldedit.extent.AbstractDelegateExtent.setBlock(AbstractDelegateExtent.java:78)
+        at com.sk89q.worldedit.extent.inventory.BlockBagExtent.setBlock(BlockBagExtent.java:111)
+        at com.sk89q.worldedit.function.operation.BlockMapEntryPlacer.resume(BlockMapEntryPlacer.java:59)
+        at com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:89)
+        at com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:89)
+        at com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+        at com.sk89q.worldedit.EditSession.flushQueue(EditSession.java:692)
+        at com.sk89q.worldedit.extension.platform.CommandManager.handleCommand(CommandManager.java:293)
+        ... 28 more
+
+[K[18:49:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 18 161://undo2
+> [K[18:50:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[18:50:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 18 161:1
+> [K[18:50:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17 162:13
+> [K[18:50:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[18:50:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[18:50:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+> [K[18:50:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[18:50:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[18:50:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[18:51:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[18:51:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[18:51:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[18:51:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[18:51:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[18:51:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[18:51:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[18:53:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m59 pokémon have been cleared.[39;0m[39;0m
+> [K[18:54:44] [pool-3-thread-3653/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:55:13] [pool-3-thread-3651/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[18:56:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[18:56:46] [pool-3-thread-3652/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[19:03:45] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Beedrill has spawned in world "world", at X:-606 Y:62 Z:-1762[39;0m
+> [K[19:04:18] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m59 pokémon have been cleared.[39;0m[39;0m
+> [K[19:04:44] [pool-3-thread-3652/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:05:13] [pool-3-thread-3652/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:06:06] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[19:10:51] [pool-3-thread-3656/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[19:12:03] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA wormhole has spawned in world "world", at X:-494 Y:89 Z:-1644[39;0m
+> [K[19:12:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[19:12:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[19:12:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[19:12:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[19:12:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+> [K[19:13:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[19:13:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[19:13:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[19:13:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[19:13:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[19:13:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[19:13:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[19:14:37] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m57 pokémon have been cleared.[39;0m[39;0m
+> [K[19:14:44] [pool-3-thread-3660/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:15:13] [pool-3-thread-3656/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:16:07] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m2 items have been cleared.[39;0m[39;0m
+> [K[19:24:10] [pool-3-thread-3658/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[19:24:44] [pool-3-thread-3656/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:24:55] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m57 pokémon have been cleared.[39;0m[39;0m
+> [K[19:25:13] [pool-3-thread-3656/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[19:26:07] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m22 items have been cleared.[39;0m[39;0m
+> [K[19:27:45] [pool-3-thread-3657/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
 > 

@@ -445,3 +445,97 @@
 [18:24:44] [pool-3-thread-3629/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [18:25:13] [pool-3-thread-3636/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [18:26:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[18:33:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 75 pokémon have been cleared.
+[18:34:44] [pool-3-thread-3639/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[18:35:13] [pool-3-thread-3629/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[18:36:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[18:36:53] [User Authenticator #35/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[18:36:53] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[18:36:53] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.3.1
+[18:36:53] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[18:36:53] [Netty Epoll Server IO #2/INFO] [FML]: Rejecting connection CLIENT: Pixelmon: Requires version 7.2.2 but client has 7.3.1.
+[18:36:53] [Netty Epoll Server IO #2/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Pixelmon: Requires version 7.2.2 but client has 7.3.1.
+[18:36:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aboveexpert lost connection: Server Mod rejections:
+Pixelmon: Requires version 7.2.2 but client has 7.3.1.
+[18:38:05] [User Authenticator #36/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[18:38:05] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[18:38:05] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[18:38:05] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[18:38:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:38:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:65339] logged in with entity id [1187085] in build (minecraft:overworld/2) at (673.8445788658897, 63.0, 34.48880625518575).
+[18:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[18:38:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 5
+[18:39:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[18:39:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace !air air
+[18:39:16] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8412ms behind, skipping 168 tick(s)
+[18:39:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set grass
+[18:39:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2625ms behind, skipping 52 tick(s)
+[18:39:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiomeforest 
+[18:39:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome forest
+[18:40:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2082ms behind, skipping 41 tick(s)
+[18:43:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 2
+[18:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 75 pokémon have been cleared.
+[18:43:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 1
+[18:44:44] [pool-3-thread-3647/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[18:45:13] [pool-3-thread-3647/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[18:45:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[18:45:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[18:46:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[18:46:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[18:46:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[18:48:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 2
+[18:49:24] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[18:49:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[18:49:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 18 161:2
+[18:49:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 18 161://undo2
+[18:50:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[18:50:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 18 161:1
+[18:50:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17 162:13
+[18:50:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[18:50:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[18:50:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+[18:50:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[18:50:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[18:50:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[18:51:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[18:51:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[18:51:10] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[18:51:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[18:51:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[18:51:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[18:51:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[18:53:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 59 pokémon have been cleared.
+[18:54:44] [pool-3-thread-3653/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[18:55:13] [pool-3-thread-3651/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[18:56:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[18:56:46] [pool-3-thread-3652/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[19:03:45] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Beedrill has spawned in world "world", at X:-606 Y:62 Z:-1762
+[19:04:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 59 pokémon have been cleared.
+[19:04:44] [pool-3-thread-3652/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[19:05:13] [pool-3-thread-3652/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[19:06:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[19:10:51] [pool-3-thread-3656/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[19:12:03] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-494 Y:89 Z:-1644
+[19:12:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[19:12:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[19:12:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[19:12:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[19:12:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+[19:13:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[19:13:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[19:13:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[19:13:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[19:13:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[19:13:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[19:13:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[19:14:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 57 pokémon have been cleared.
+[19:14:44] [pool-3-thread-3660/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[19:15:13] [pool-3-thread-3656/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[19:16:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 2 items have been cleared.
+[19:24:10] [pool-3-thread-3658/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[19:24:44] [pool-3-thread-3656/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[19:24:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 57 pokémon have been cleared.
+[19:25:13] [pool-3-thread-3656/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[19:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 22 items have been cleared.
+[19:27:45] [pool-3-thread-3657/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
