@@ -517,3 +517,119 @@
 [21:24:44] [pool-3-thread-4063/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [21:25:13] [pool-3-thread-4061/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [21:26:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 75 pokémon have been cleared.
+[21:34:44] [pool-3-thread-4065/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:35:13] [pool-3-thread-4065/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:36:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:41:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 72 pokémon have been cleared.
+[21:44:44] [pool-3-thread-4064/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:45:13] [pool-3-thread-4065/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:46:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:52:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 76 pokémon have been cleared.
+[21:54:44] [pool-3-thread-4061/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:55:13] [pool-3-thread-4060/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:02:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 67 pokémon have been cleared.
+[22:04:44] [pool-3-thread-4060/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:05:13] [pool-3-thread-4060/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:06:45] [User Authenticator #37/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Aboveexpert is 5ac3d986-f006-4828-a504-ef9f0a2669b5
+[22:06:45] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:06:45] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 12 mods : minecraft@1.12.2,FML@8.0.99.99,schematica@1.8.0.169,forge@14.23.5.2838,customnpcs@1.12,inventorytweaks@1.63+release.109.220f184,worldedit@6.1.10-SNAPSHOT,mcp@9.42,lunatriuscore@1.2.0.42,pixelextras@2.5.7,variedcommodities@1.12.2,pixelmon@7.2.2
+[22:06:45] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[22:06:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:06:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aboveexpert [/23.16.19.188:52279] logged in with entity id [1307005] in world (minecraft:overworld/0) at (-545.9651265667586, 68.0, -1698.6051142196486).
+[22:06:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aboveexpert joined the game
+[22:10:43] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Beedrill has spawned in world "world", at X:-533 Y:58 Z:-1675
+[22:11:51] [pool-3-thread-4067/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[22:12:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 58 pokémon have been cleared.
+[22:12:56] [pool-3-thread-4067/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[22:13:41] [User Authenticator #38/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player snakes866 is 1720825f-9860-4cb5-8a7e-d05bcfa51b3d
+[22:13:41] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:13:41] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 7 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2847,customnpcs@1.12,mcp@9.42,variedcommodities@1.12.2,pixelmon@7.2.2
+[22:13:41] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, daycare, pixelmoneconomybridge, gts, gts_reforged, impactor, mirage, pixelauction, pixelextras, pixelmonbroadcasts, pokedexrewards, wondertrade, pjw, bluemap, simpletablist, pjc, worldedit, placeholderapi, vshop, langswitch, boop, nucleus, bookmenus, griefdefender, pixelgenocide, catclearlag, economylite, autocommands, megamenus, luckperms, webapi] at CLIENT
+[22:13:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:13:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: snakes866 [/70.68.76.101:50666] logged in with entity id [1307871] in world (minecraft:overworld/0) at (-499.9286928594767, 58.0, -1763.5504993393615).
+[22:13:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: snakes866 joined the game
+[22:13:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: hello mr snakes
+[22:13:55] [Server thread/INFO] [nucleus]: snakes866 ran the command: /time set 1
+[22:13:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: ey
+[22:14:01] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Rattata has spawned in world "world", at X:-524 Y:77 Z:-1635
+[22:14:37] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss Beedrill in world "world", at X:-539 Y:61 Z:-1673
+[22:14:44] [pool-3-thread-4074/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:14:45] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert was knocked out by a boss Beedrill in world "world", at X:-547 Y:72 Z:-1672
+[22:14:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+[22:14:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully healed Aboveexpert's Pokémon!]
+[22:14:58] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss Beedrill in world "world", at X:-543 Y:61 Z:-1676
+[22:15:05] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert was knocked out by a boss Beedrill in world "world", at X:-550 Y:72 Z:-1675
+[22:15:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pc 
+[22:15:11] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss Beedrill in world "world", at X:-540 Y:60 Z:-1676
+[22:15:13] [pool-3-thread-4073/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:15:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert defeated a boss Beedrill in world "world", at X:-549 Y:72 Z:-1676
+[22:15:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+[22:15:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully healed Aboveexpert's Pokémon!]
+[22:15:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: stupid leaves
+[22:15:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: gotta be hand placed in creative so that they dont disappear
+[22:16:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 3 items have been cleared.
+[22:16:27] [Server thread/INFO] [nucleus]: snakes866 ran the command: /weather clear
+[22:16:30] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear 10000
+[22:16:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear 100000
+[22:16:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear 1000000
+[22:16:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+[22:16:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert butchered 96 pixelmon!]
+[22:17:50] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Diglett has spawned in world "world", at X:-602 Y:39 Z:-1746
+[22:18:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+[22:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert butchered 74 pixelmon!]
+[22:18:51] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Shroomish has spawned in world "world", at X:-592 Y:50 Z:-1754
+[22:21:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: how do i have hanging vines?
+[22:21:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: you just place vines and theyll grow downward
+[22:22:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: smh
+[22:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 101 pokémon have been cleared.
+[22:24:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[22:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: looks pretty decent
+[22:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: ye i like it
+[22:24:28] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Alakazam has spawned in world "world", at X:-587 Y:45 Z:-1704
+[22:24:44] [pool-3-thread-4081/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:24:52] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Staravia has spawned in world "world", at X:-601 Y:91 Z:-1615
+[22:25:13] [pool-3-thread-4078/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:25:57] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert started fighting a boss Alakazam in world "world", at X:-588 Y:46 Z:-1704
+[22:26:01] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // Player Aboveexpert defeated a boss Alakazam in world "world", at X:-580 Y:63 Z:-1699
+[22:26:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokeheal 
+[22:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert successfully healed Aboveexpert's Pokémon!]
+[22:26:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 4 items have been cleared.
+[22:26:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: cool
+[22:26:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: i can place a few of these around
+[22:26:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] snakes866: ye place em up
+[22:26:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: and just rotate them so it looks different
+[22:26:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OP] Nick: but we'll have to also fill out the leaves for a few different trees
+[22:26:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[22:27:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[22:27:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[22:27:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[22:27:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[22:27:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[22:27:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace dirt,grass,1,coalore,ironore air
+[22:27:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[22:28:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[22:28:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[22:28:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 90
+[22:28:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[22:28:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[22:28:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[22:28:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[22:28:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[22:28:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[22:28:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //redo 
+[22:28:57] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[22:29:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[22:29:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[22:29:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[22:29:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[22:29:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[22:29:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 90
+[22:29:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[22:29:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[22:29:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[22:29:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[22:29:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[22:30:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 45
