@@ -16313,4 +16313,116 @@ Caused by: java.lang.IllegalArgumentException: Cannot set property PropertyEnum{
 > [K[22:29:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
 > [K[22:29:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
 > [K[22:30:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 45
+> [K[22:30:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:30:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:30:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 45
+> [K[22:30:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:30:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:30:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:30:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:30:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:30:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:31:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 90
+> [K[22:31:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:31:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 90
+> [K[22:31:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 270
+> [K[22:31:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:31:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:31:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:31:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:31:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:31:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:32:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:32:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:32:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:32:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:32:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:32:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //flip 
+> [K[22:33:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:33:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //duno 
+> [K[22:33:06] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:33:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:33:27] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m109 pokémon have been cleared.[39;0m[39;0m
+> [K[22:33:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //flip 
+> [K[22:33:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 90
+> [K[22:33:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:33:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:33:45] [Server thread/INFO] [nucleus]: snakes866 ran the command: /brush smooth
+> [K[22:33:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:34:13] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Wingull has spawned in world "world", at X:-547 Y:74 Z:-1886[39;0m
+> [K[22:34:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set -
+> [K[22:34:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+> [K[22:34:44] [pool-3-thread-4073/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:35:13] [pool-3-thread-4079/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:36:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
+> [K[22:38:08] [Server thread/INFO] [Pixelmon Broadcasts]: [0;35;22mPBR [0;37;1m// [0;32;1mA boss Alakazam has spawned in world "world", at X:-564 Y:60 Z:-1676[39;0m
+> [K[22:38:59] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mi realized i placed two identical trees next to each other rocvl[39;0m[39;0m
+> [K[22:39:02] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mrofl[39;0m[39;0m
+> [K[22:39:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+> [K[22:39:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 270
+> [K[22:39:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+> [K[22:39:51] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mnot a bad start[39;0m[39;0m
+> [K[22:39:57] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mi like it[39;0m[39;0m
+> [K[22:40:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mwe can do some rotating after[39;0m[39;0m
+> [K[22:40:09] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0msnakes866[39;0m[0;37;1m: [39;0mdefs need more coverage i think[39;0m[39;0m
+> [K[22:40:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+> [K[22:40:14] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0myeah[39;0m[39;0m
+> [K[22:40:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+> [K[22:40:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 10
+> [K[22:40:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 5
+> [K[22:40:54] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+> [K[22:41:04] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+> [K[22:41:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+> [K[22:41:26] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofedforest
+> [K[22:42:52] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mi have a few more trees i made in the build world[39;0m[39;0m
+> [K[22:43:01] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport build
+> [K[22:43:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+> [K[22:43:16] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mfound em[39;0m[39;0m
+> [K[22:43:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tpahere snakes866
+> [K[22:43:21] [Server thread/INFO] [nucleus]: snakes866 ran the command: /tp abovee
+> [K[22:43:43] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mi figure if we can take like 2 or 3 more of them[39;0m[39;0m
+> [K[22:43:48] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m63 pokémon have been cleared.[39;0m[39;0m
+> [K[22:43:49] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mget the leaves nice and touched up[39;0m[39;0m
+> [K[22:44:01] [Server thread/INFO] [minecraft/DedicatedServer]: [0;31;1m[OP][39;0m [39;0m[0;36;22mNick[39;0m[0;37;1m: [39;0mthen we can just use the same 4 or 5 trees to build the whole forest[39;0m[39;0m
+> [K[22:44:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[22:44:29] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /top 
+> [K[22:44:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:44:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+> [K[22:44:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+> [K[22:44:45] [pool-3-thread-4087/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:44:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /brush sphere air 3
+> [K[22:44:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /speed 1
+> [K[22:45:13] [pool-3-thread-4097/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:46:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m2 items have been cleared.[39;0m[39;0m
+> [K[22:49:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+> [K[22:49:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+> [K[22:49:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17 162:13
+> [K[22:49:42] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 18 161:1
+> [K[22:50:47] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17 162:13
+> [K[22:51:15] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 17 162:13
+> [K[22:54:08] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m84 pokémon have been cleared.[39;0m[39;0m
+> [K[22:54:45] [pool-3-thread-4096/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:55:13] [pool-3-thread-4081/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[22:56:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m75 items have been cleared.[39;0m[39;0m
+> [K[22:56:59] [pool-3-thread-4094/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;37;1msnakes866[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[23:01:51] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[23:01:55] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[23:01:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /world teleport world
+> [K[23:02:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+> [K[23:04:27] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m88 pokémon have been cleared.[39;0m[39;0m
+> [K[23:04:45] [pool-3-thread-4093/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[23:05:13] [pool-3-thread-4095/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[23:06:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m3 items have been cleared.[39;0m[39;0m
+> [K[23:13:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear
+> [K[23:14:44] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m82 pokémon have been cleared.[39;0m[39;0m
+> [K[23:14:45] [pool-3-thread-4097/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[23:15:13] [pool-3-thread-4095/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[23:16:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m1 items have been cleared.[39;0m[39;0m
+> [K[23:20:05] [pool-3-thread-4102/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mhas gone AFK.[39;0m[39;0m
+> [K[23:24:45] [pool-3-thread-4102/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m60 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[23:25:03] [Server thread/INFO] [minecraft/DedicatedServer]: [0;37;22m[[39;0m[0;33;22mPokeClear[39;0m[0;37;22m] [39;0m[0;32;1m86 pokémon have been cleared.[39;0m[39;0m
+> [K[23:25:13] [pool-3-thread-4096/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;31;1mGround items will be cleared in [39;0m[0;37;22m30 [39;0m[0;31;1mseconds.[39;0m[39;0m
+> [K[23:25:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /weather clear 10000000
+> [K[23:25:38] [pool-3-thread-4101/INFO] [minecraft/DedicatedServer]: [0;37;22m*[39;0m[0;36;22mNick[39;0m[0;37;1m [39;0m[0;37;22mis no longer AFK.[39;0m[39;0m
+> [K[23:26:12] [Server thread/INFO] [minecraft/DedicatedServer]: [0;35;22m[ClearLag] [39;0m[0;37;1m0 items have been cleared.[39;0m[39;0m
 > 
