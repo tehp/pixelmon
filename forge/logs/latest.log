@@ -690,3 +690,75 @@ Running the server as root/admin is not recommended. Please use a port above 102
 [21:26:35] [pool-3-thread-40/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [21:27:05] [pool-3-thread-43/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [21:27:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:34:16] [pool-3-thread-54/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[21:35:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 62 pokémon have been cleared.
+[21:36:35] [pool-3-thread-49/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:37:05] [pool-3-thread-57/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:37:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2015ms behind, skipping 40 tick(s)
+[21:37:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:43:24] [pool-3-thread-43/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[21:43:44] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:43:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[21:43:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:44:32] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[21:44:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //redo 
+[21:44:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:44:45] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Caterpie has spawned in world "world", at X:-549 Y:87 Z:-1736
+[21:45:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:45:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 65 pokémon have been cleared.
+[21:46:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:46:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[21:46:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 90
+[21:46:13] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:46:16] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[21:46:21] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:46:22] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Geodude has spawned in world "world", at X:-576 Y:41 Z:-1852
+[21:46:35] [pool-3-thread-59/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:47:05] [pool-3-thread-49/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:47:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[21:47:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:47:43] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[21:47:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:48:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 90
+[21:48:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:48:39] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[21:48:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[21:49:33] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Pidgeot has spawned in world "world", at X:-447 Y:88 Z:-1696
+[21:50:20] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tree Aboveexpert
+[21:50:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /tree dark_oak
+[21:53:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set grass
+[21:53:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set grass
+[21:53:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //set grass
+[21:54:48] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /time set 0
+[21:55:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 64 pokémon have been cleared.
+[21:56:35] [pool-3-thread-63/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:57:05] [pool-3-thread-63/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:57:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[22:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 65 pokémon have been cleared.
+[22:06:35] [pool-3-thread-63/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:07:05] [pool-3-thread-63/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:07:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:08:01] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-494 Y:86 Z:-1655
+[22:16:35] [pool-3-thread-69/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:16:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 65 pokémon have been cleared.
+[22:17:05] [pool-3-thread-67/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[22:19:08] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:19:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:19:18] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:26:35] [pool-3-thread-72/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[22:26:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 63 pokémon have been cleared.
+[22:27:05] [pool-3-thread-75/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[22:27:28] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:27:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[22:27:39] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Spinarak has spawned in world "world", at X:-635 Y:68 Z:-1790
+[22:27:49] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:28:19] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:28:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A wormhole has spawned in world "world", at X:-622 Y:84 Z:-1898
+[22:28:27] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:28:33] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:28:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:29:17] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //setbiome roofed_forest
+[22:29:35] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[22:29:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
