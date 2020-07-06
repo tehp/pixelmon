@@ -46,3 +46,44 @@
 [00:27:05] [pool-3-thread-140/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [00:27:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
 [00:29:02] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Xerneas has spawned in world "world", at X:-580 Y:39 Z:-1721
+[00:30:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 63 pokémon have been cleared.
+[00:31:21] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Caterpie has spawned in world "world", at X:-517 Y:77 Z:-1786
+[00:36:35] [pool-3-thread-148/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:36:41] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Pidgeot has spawned in world "world", at X:-499 Y:85 Z:-1722
+[00:37:05] [pool-3-thread-146/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:37:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[00:41:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 60 pokémon have been cleared.
+[00:46:33] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2577ms behind, skipping 51 tick(s)
+[00:46:35] [pool-3-thread-149/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:47:05] [pool-3-thread-157/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:47:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[00:51:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 60 pokémon have been cleared.
+[00:55:47] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Alakazam has spawned in world "world", at X:-500 Y:53 Z:-1729
+[00:56:35] [pool-3-thread-164/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[00:57:05] [pool-3-thread-166/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[00:57:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:01:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 59 pokémon have been cleared.
+[01:01:55] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Necrozma has spawned in world "world", at X:-516 Y:47 Z:-1727
+[01:06:35] [pool-3-thread-174/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:06:55] [pool-3-thread-166/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[01:07:02] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /pokekill 
+[01:07:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aboveexpert: Aboveexpert butchered 66 pixelmon!]
+[01:07:05] [pool-3-thread-170/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:07:32] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A shiny Zubat has spawned in world "world", at X:-581 Y:84 Z:-1725
+[01:07:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:08:55] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Paras has spawned in world "world", at X:-528 Y:42 Z:-1705
+[01:09:40] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Drilbur has spawned in world "world", at X:-468 Y:34 Z:-1728
+[01:09:49] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Scatterbug has spawned in world "world", at X:-547 Y:71 Z:-1690
+[01:11:55] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Scatterbug has spawned in world "world", at X:-656 Y:76 Z:-1743
+[01:12:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 57 pokémon have been cleared.
+[01:16:35] [pool-3-thread-178/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:16:48] [pool-3-thread-183/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[01:17:05] [pool-3-thread-177/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:17:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[01:18:17] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A legendary Virizion has spawned in world "world", at X:-626 Y:69 Z:-1745
+[01:19:26] [pool-3-thread-178/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[01:22:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 67 pokémon have been cleared.
+[01:24:50] [pool-3-thread-190/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[01:26:35] [pool-3-thread-189/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[01:27:05] [pool-3-thread-178/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[01:27:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
