@@ -622,3 +622,62 @@
 [20:27:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 55 pokémon have been cleared.
 [20:27:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
 [20:28:06] [Server thread/INFO] [Pixelmon Broadcasts]: PBR // A boss Alakazam has spawned in world "world", at X:-490 Y:60 Z:-1756
+[20:31:19] [pool-3-thread-461/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[20:33:16] [pool-3-thread-464/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[20:33:53] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[20:34:00] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[20:34:09] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[20:34:25] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[20:34:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[20:34:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 90
+[20:34:52] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[20:35:05] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[20:35:22] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[20:35:36] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[20:35:40] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[20:36:12] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //rotate 90
+[20:36:31] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[20:36:35] [pool-3-thread-472/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:36:37] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[20:36:46] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[20:36:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[20:36:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste -a
+[20:37:05] [pool-3-thread-474/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:37:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[20:37:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 61 pokémon have been cleared.
+[20:38:11] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /back 
+[20:46:35] [pool-3-thread-472/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:47:05] [pool-3-thread-478/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 3 items have been cleared.
+[20:47:59] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[20:48:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 81 pokémon have been cleared.
+[20:48:07] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[20:48:14] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[20:48:23] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[20:48:34] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //undo 
+[20:48:38] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: /copy 
+[20:48:41] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //copy 
+[20:48:45] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //paste 
+[20:48:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2313ms behind, skipping 46 tick(s)
+[20:50:50] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos1 
+[20:50:56] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos21 
+[20:50:58] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //pos2 
+[20:51:03] [Server thread/INFO] [nucleus]: Aboveexpert ran the command: //replace 18 161:1
+[20:56:35] [pool-3-thread-483/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[20:57:01] [pool-3-thread-477/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick has gone AFK.
+[20:57:05] [pool-3-thread-472/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[20:57:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 1 items have been cleared.
+[20:58:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 75 pokémon have been cleared.
+[21:06:35] [pool-3-thread-482/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:07:05] [pool-3-thread-477/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:07:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:08:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 83 pokémon have been cleared.
+[21:16:35] [pool-3-thread-482/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:17:05] [pool-3-thread-479/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:17:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:19:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 82 pokémon have been cleared.
+[21:20:10] [pool-3-thread-483/INFO] [net.minecraft.server.dedicated.DedicatedServer]: *Nick is no longer AFK.
+[21:26:35] [pool-3-thread-484/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[21:27:05] [pool-3-thread-486/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[21:27:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[21:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 81 pokémon have been cleared.
