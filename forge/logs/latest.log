@@ -313,3 +313,43 @@ Pixelmon: Requires version 7.2.2 but client has 8.0.2.
 [11:26:35] [pool-3-thread-5758/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [11:27:05] [pool-3-thread-5746/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [11:28:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[11:36:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 78 pokémon have been cleared.
+[11:36:35] [pool-3-thread-5746/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[11:37:05] [pool-3-thread-5746/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[11:38:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[11:40:48] [qtp1993303635-630908/WARN] [webapi]: Could not load asset: admin/index.php
+[11:40:48] [qtp1993303635-630908/INFO] [webapi]: ERROR: null
+[11:40:54] [qtp1993303635-473159/WARN] [webapi]: Could not load asset: admin/pma/index.php
+[11:40:54] [qtp1993303635-473159/INFO] [webapi]: ERROR: null
+[11:40:55] [qtp1993303635-630908/WARN] [webapi]: Could not load asset: admin/PMA/index.php
+[11:40:55] [qtp1993303635-630908/INFO] [webapi]: ERROR: null
+[11:40:55] [qtp1993303635-473159/WARN] [webapi]: Could not load asset: admin/mysql/index.php
+[11:40:55] [qtp1993303635-473159/INFO] [webapi]: ERROR: null
+[11:40:55] [qtp1993303635-630908/WARN] [webapi]: Could not load asset: admin/mysql2/index.php
+[11:40:55] [qtp1993303635-630908/INFO] [webapi]: ERROR: null
+[11:40:55] [qtp1993303635-473159/WARN] [webapi]: Could not load asset: admin/phpmyadmin/index.php
+[11:40:55] [qtp1993303635-473159/INFO] [webapi]: ERROR: null
+[11:40:56] [qtp1993303635-630908/WARN] [webapi]: Could not load asset: admin/phpMyAdmin/index.php
+[11:40:56] [qtp1993303635-630908/INFO] [webapi]: ERROR: null
+[11:40:58] [qtp1993303635-473159/WARN] [webapi]: Could not load asset: admin/phpmyadmin2/index.php
+[11:40:58] [qtp1993303635-473159/INFO] [webapi]: ERROR: null
+[11:46:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 84 pokémon have been cleared.
+[11:46:35] [pool-3-thread-5746/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[11:47:05] [pool-3-thread-5768/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[11:48:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[11:56:35] [pool-3-thread-5768/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[11:56:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 82 pokémon have been cleared.
+[11:57:05] [pool-3-thread-5761/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[11:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[12:06:35] [pool-3-thread-5767/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[12:06:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 83 pokémon have been cleared.
+[12:07:05] [pool-3-thread-5764/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[12:08:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[12:16:35] [pool-3-thread-5764/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[12:17:05] [pool-3-thread-5770/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[12:17:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 86 pokémon have been cleared.
+[12:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[12:26:35] [pool-3-thread-5771/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[12:27:05] [pool-3-thread-5778/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[12:27:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 78 pokémon have been cleared.
+[12:28:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
