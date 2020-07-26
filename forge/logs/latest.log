@@ -105,3 +105,34 @@
 [04:26:35] [pool-3-thread-6644/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
 [04:27:05] [pool-3-thread-6644/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
 [04:29:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:34:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 83 pokémon have been cleared.
+[04:36:35] [pool-3-thread-6646/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:37:05] [pool-3-thread-6643/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:39:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:45:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 80 pokémon have been cleared.
+[04:46:35] [pool-3-thread-6647/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:47:05] [pool-3-thread-6647/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:49:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[04:55:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 84 pokémon have been cleared.
+[04:56:35] [pool-3-thread-6658/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[04:57:05] [pool-3-thread-6654/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[04:59:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:05:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 84 pokémon have been cleared.
+[05:06:35] [pool-3-thread-6652/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:07:05] [pool-3-thread-6652/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:09:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:16:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 75 pokémon have been cleared.
+[05:16:35] [pool-3-thread-6659/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:17:05] [pool-3-thread-6655/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:17:19] [Server thread/WARN] [Sponge]: Entity being removed for bounding box restrictions
+[05:17:19] [Server thread/WARN] [Sponge]: BB Size: 1,300 > 1,000 avg edge: 9.392
+[05:17:19] [Server thread/WARN] [Sponge]: Motion: (-4.9, -0.078, -4.18)
+[05:17:19] [Server thread/WARN] [Sponge]: Calculated bounding box: box[-743.8999999551106, 57.92159999847412, -1380.1795228198869 -> -734.996000289917, 69.00999927520752, -1371.996000289917]
+[05:17:19] [Server thread/WARN] [Sponge]: Entity bounding box: null
+[05:17:19] [Server thread/WARN] [Sponge]: Entity: EntityPixelmon['Onix'/2149913, l='world', x=-737.00, y=58.00, z=-1374.00]
+[05:17:19] [Server thread/WARN] [Sponge]: Entity NBT: {EVSpeed:0s,BonusSpAttack:0,Attributes:[{Base:41.0d,Name:"generic.maxHealth"},{Base:0.0d,Name:"generic.knockbackResistance"},{Base:0.55d,Name:"generic.movementSpeed"},{Base:0.0d,Name:"generic.armor"},{Base:0.0d,Name:"generic.armorToughness"},{Base:1.0d,Name:"forge.swimSpeed"},{Base:16.0d,Name:"generic.followRange"}],Moveset:[{MoveID:232s,MovePP:10b},{MoveID:202s,MovePP:15b},{MoveID:134s,MovePP:20b},{MoveID:285s,MovePP:20b}],Invulnerable:0b,Gender:1b,Name:"Onix",BonusDefence:0,BonusSpeed:0,IVDefence:2b,IVSpDef:0b,CaughtBall:0b,ForgeCaps:{},PersistenceRequired:0b,BonusPersistent:0b,BonusAttack:0,DoesLevel:1b,BonusSpDefence:0,Variant:-1b,OwnerUUID:"",EVSpecialAttack:0s,BonusAccuracy:0,Pos:[-736.9980001449585d,58.0d,-1373.9980001449585d],IVSpeed:16b,pixelmonType:0b,Level:17,EVDefence:0s,IVAttack:6b,Growth:4b,PersistentData:{cnpcmarkdata:{marks:[]},SpongeData:{}},EVSpecialDefence:0s,StatsSpecialDefence:20s,isInRanch:0b,Friendship:70s,StatsDefence:64s,EVAttack:0s,StatsSpecialAttack:16s,IVHP:13b,AbilitySlot:1b,EVHP:0s,ndex:95s,BonusCapture:0b,Nature:10b,Motion:[-4.899999955110602d,-0.0784000015258789d,-4.179522819886862d],StatsHP:41s,UUIDLeast:-5026740606139410830L,Health:41,Aggression:0b,SpecFlags:[],OnGround:1b,Dimension:0,Rotation:[5.8433433f,0.0f],BonusEvasion:0,StatsSpeed:27s,IsShiny:0b,StatsAttack:21s,UUIDMost:6659108613400053000L,IVSpAtt:7b,EXP:0}
+[05:19:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
+[05:26:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PokeClear] 81 pokémon have been cleared.
+[05:26:35] [pool-3-thread-6657/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 60 seconds.
+[05:27:05] [pool-3-thread-6662/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] Ground items will be cleared in 30 seconds.
+[05:29:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ClearLag] 0 items have been cleared.
